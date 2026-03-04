@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trpDocMetadata>
+    <docId>1772912</docId>
+    <title>hill-1868-schnurren.pruned</title>
+    <uploadTimestamp>1706272203722</uploadTimestamp>
+    <uploader>christian.chiarcos@uni-a.de</uploader>
+    <uploaderId>155734</uploaderId>
+    <nrOfPages>156</nrOfPages>
+    <pageId>63861478</pageId>
+    <url>https://files.transkribus.eu/Get?fileType=view&amp;id=JDOUHSQZEBEATUWLCQCMRYIF</url>
+    <thumbUrl>https://files.transkribus.eu/Get?fileType=thumb&amp;id=JDOUHSQZEBEATUWLCQCMRYIF</thumbUrl>
+    <status>0</status>
+    <fimgStoreColl>TrpDoc_DEA_1772912</fimgStoreColl>
+    <origDocId>0</origDocId>
+    <collectionList>
+        <colList>
+            <colId>267482</colId>
+            <colName>Nordmärkisch</colName>
+            <description>created by christian.chiarcos@uni-a.de</description>
+            <crowdsourcing>false</crowdsourcing>
+            <elearning>false</elearning>
+            <nrOfDocuments>0</nrOfDocuments>
+        </colList>
+    </collectionList>
+    <mainColId>267482</mainColId>
+</trpDocMetadata>

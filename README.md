@@ -5,4 +5,5 @@
 
 **Content**:
 
-- [`pdf/`](pdf) gzipped PDFs containing the source texts (scanned, with Transkribus OCR, content pages only)
+- [`pdf/`](pdf) gzipped PDFs containing the source texts (scanned, content pages only)
+- [`txt/`](txt) Transkribus OCR, plain text (no OCR post-correction)

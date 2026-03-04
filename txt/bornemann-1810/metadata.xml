@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trpDocMetadata>
+    <docId>1768838</docId>
+    <title>bornemann-1810.pruned.pdf</title>
+    <uploadTimestamp>1706100603727</uploadTimestamp>
+    <uploader>christian.chiarcos@uni-a.de</uploader>
+    <uploaderId>155734</uploaderId>
+    <nrOfPages>129</nrOfPages>
+    <pageId>63762502</pageId>
+    <url>https://files.transkribus.eu/Get?fileType=view&amp;id=PTJOWOQHKLZGRFVWMBVHUHSL</url>
+    <thumbUrl>https://files.transkribus.eu/Get?fileType=thumb&amp;id=PTJOWOQHKLZGRFVWMBVHUHSL</thumbUrl>
+    <status>0</status>
+    <fimgStoreColl>TrpDoc_DEA_1768838</fimgStoreColl>
+    <origDocId>0</origDocId>
+    <collectionList>
+        <colList>
+            <colId>267482</colId>
+            <colName>Nordmärkisch</colName>
+            <description>created by christian.chiarcos@uni-a.de</description>
+            <crowdsourcing>false</crowdsourcing>
+            <elearning>false</elearning>
+            <nrOfDocuments>0</nrOfDocuments>
+        </colList>
+    </collectionList>
+    <mainColId>267482</mainColId>
+</trpDocMetadata>
