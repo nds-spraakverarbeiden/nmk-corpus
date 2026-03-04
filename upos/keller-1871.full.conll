@@ -1,0 +1,5809 @@
+# text: De pommersche Landwehrmann mit siene Marschorrer.
+De	DET	DET	PRON|DET
+pommersche	NOUN	NOUN	_
+Landwehrmann	PROPN	VERB	PROPN
+mit	ADP	ADP	ADP|PART
+siene	DET	DET	DET
+Marschorrer	NOUN	NOUN	NOUN|PROPN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Wat is bi Crischon denn för'n Larm?
+Wat	PRON	PRON	PRON
+is	AUX	AUX	AUX
+bi	ADP	ADP	ADP|PART
+Crischon	NOUN	NOUN	NOUN|PROPN
+denn	ADV	ADV	ADV
+för'n	ADJ	ADJ	_
+Larm	NOUN	NOUN	NOUN|PROPN
+?	PUNCT	PUNCT	PUNCT
+
+
+# text: Wat weent de Fru doa un de Kinner?
+Wat	PRON	PRON	PRON
+weent	VERB	VERB	VERB
+de	DET	DET	PRON|DET
+Fru	NOUN	NOUN	NOUN
+doa	ADV	ADV	ADV
+un	CCONJ	CCONJ	CCONJ
+de	DET	DET	PRON|DET
+Kinner	NOUN	NOUN	NOUN
+?	PUNCT	PUNCT	PUNCT
+
+
+# text: Crischon hett Orrer, Gott erbarm!
+Crischon	NOUN	NOUN	NOUN|PROPN
+hett	AUX	AUX	AUX
+Orrer	VERB?	VERB	NOUN|PROPN
+,	PUNCT	PUNCT	PUNCT
+Gott	NOUN	NOUN	NOUN
+erbarm	VERB	VERB	ADJ|NUM|VERB
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: Sien Fru is krank; wat is woll schlimmer.
+Sien	DET	DET	AUX|DET
+Fru	NOUN	NOUN	NOUN
+is	AUX	AUX	AUX
+krank	ADJ	ADJ	ADJ|ADV
+;	PUNCT	PUNCT	PUNCT
+wat	PRON	PRON	PRON
+is	AUX	AUX	AUX
+woll	ADV	ADV	ADV
+schlimmer	ADJ	ADJ	ADJ|ADV
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: „Wem nimmt sich Fru un Kinner an," Dat steiht up sien Gesicht geschreben, Wenn uck keen Woort he reden kann, Wiel he de Orrer eben kreegen.
+"	PUNCT	PUNCT	PUNCT
+Wem	PRON	PRON	NOUN|PRON
+nimmt	VERB	VERB	VERB
+sich	PRON	PRON	PRON
+Fru	NOUN	NOUN	NOUN
+un	CCONJ	CCONJ	CCONJ
+Kinner	NOUN	NOUN	NOUN
+an	ADP	ADP	ADP|PART
+,	PUNCT	PUNCT	PUNCT
+"	PUNCT	PUNCT	PUNCT
+Dat	PRON	PRON	PRON|DET|SCONJ
+steiht	VERB	VERB	VERB
+up	ADP	ADP	ADP|PART
+sien	DET	DET	AUX|DET
+Gesicht	NOUN	NOUN	NOUN
+geschreben	VERB	VERB	_
+,	PUNCT	PUNCT	PUNCT
+Wenn	SCONJ	SCONJ	SCONJ
+uck	ADP	ADP	_
+keen	DET	DET	PRON|DET
+Woort	NOUN	NOUN	NOUN
+he	PRON	PRON	PRON
+reden	VERB	VERB	VERB
+kann	AUX	AUX	AUX
+,	PUNCT	PUNCT	PUNCT
+Wiel	SCONJ	SCONJ	NOUN|SCONJ
+he	PRON	PRON	PRON
+de	DET	DET	PRON|DET
+Orrer	NOUN	NOUN	NOUN|PROPN
+eben	ADV	ADV	ADV
+kreegen	VERB	VERB	ADP|VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: He ballt blot grimmig siene Fust, Am lewsten mücht he gliek drin schloagen Un de Franzosen ehre Lust Tum Kriegspäl'n ut den Kop rut joagen.
+He	PRON	PRON	PRON
+ballt	VERB	VERB	_
+blot	NOUN?	NOUN	ADJ|ADV|VERB
+grimmig	ADJ	PROPN	ADJ
+siene	DET	DET	DET
+Fust	NOUN	NOUN	ADJ|NOUN|VERB
+,	PUNCT	PUNCT	PUNCT
+Am	PRON	PRON	PRON
+lewsten	VERB	VERB	_
+mücht	AUX	AUX	AUX
+he	PRON	PRON	PRON
+gliek	ADV	ADV	ADV
+drin	ADV	ADV	ADV
+schloagen	VERB	VERB	VERB
+Un	CCONJ	CCONJ	CCONJ
+de	DET	DET	PRON|DET
+Franzosen	NOUN	NOUN	NOUN
+ehre	ADP	ADP	ADP|VERB
+Lust	NOUN	NOUN	NOUN|VERB
+Tum	ADP	ADP	ADP
+Kriegspäl'n	NOUN	NOUN	NOUN|PROPN
+ut	ADP	ADP	ADP|PART
+den	DET	DET	PRON|DET
+Kop	NOUN	NOUN	NOUN|VERB
+rut	ADV	ADV	ADV
+joagen	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Nehmt Ju in Acht, Franzosenpack!
+Nehmt	VERB	VERB	PROPN|NOUN|VERB
+Ju	PRON	PRON	PRON
+in	ADP	ADP	ADP|PART
+Acht	NUM	NUM	NUM|VERB
+,	PUNCT	PUNCT	PUNCT
+Franzosenpack	VERB?	VERB	NOUN|PROPN
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: De Düwel ward Ju dat wol danken, Dat rein ut bloten Schoawernack Ii fangen an mit uns to zanken.
+De	DET	DET	PRON|DET
+Düwel	NOUN	NOUN	NOUN
+ward	AUX	AUX	AUX
+Ju	PRON	PRON	PRON
+dat	DET	DET	PRON|DET|SCONJ
+wol	NOUN?	NOUN	ADJ|PRON|ADV|ADP|NUM|VERB
+danken	VERB	VERB	PUNCT|VERB
+,	PUNCT	PUNCT	PUNCT
+Dat	PRON	PRON	PRON|DET|SCONJ
+rein	ADV	ADV	ADJ|ADV
+ut	ADP	ADP	ADP|PART
+bloten	ADJ	NOUN	ADJ
+Schoawernack	VERB?	VERB	NOUN|PROPN
+Ii	PRON	PRON	PRON
+fangen	VERB	VERB	ADJ|VERB
+an	ADP	ADP	ADP|PART
+mit	ADP	ADP	ADP|PART
+uns	PRON	PRON	PRON
+to	ADP	ADP	ADP|PART
+zanken	NOUN?	NOUN	SCONJ|VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Man to, uns is dörchut nich bang', Wi Pommern schloagen good noch immer, Dat Schlimmste is man, dat so lang In Angst möt leben Fru un Kinner.
+Man	ADV	ADV	PRON|ADV
+to	ADP	ADP	ADP|PART
+,	PUNCT	PUNCT	PUNCT
+uns	PRON	PRON	PRON
+is	AUX	AUX	AUX
+dörchut	ADV	VERB	ADV
+nich	ADV	ADV	ADV
+bang'	VERB	VERB	ADJ|NUM|VERB
+,	PUNCT	PUNCT	PUNCT
+Wi	PRON	PRON	PRON
+Pommern	PROPN	PROPN	PROPN|NOUN
+schloagen	VERB	VERB	VERB
+good	ADV	ADV	ADJ|ADV
+noch	ADV	ADV	ADV
+immer	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+Dat	DET	DET	PRON|DET|SCONJ
+Schlimmste	NOUN	NOUN	ADJ|NOUN
+is	AUX	AUX	AUX
+man	ADV	ADV	PRON|ADV
+,	PUNCT	PUNCT	PUNCT
+dat	PRON	PRON	PRON|DET|SCONJ
+so	ADV	ADV	ADV
+lang	ADV	ADV	ADV
+In	ADP	ADP	ADP
+Angst	NOUN	NOUN	NOUN
+möt	VERB	VERB	ADP|VERB
+leben	NOUN	NOUN	NOUN
+Fru	NOUN	NOUN	NOUN
+un	CCONJ	CCONJ	CCONJ
+Kinner	NOUN	NOUN	NOUN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Doch helpt dat nich, dat grote Mul, Wat de Franzos stets upgereten, Dat möt wi (nu man blot nich ful), Dat möt wi stoppen em en Beten.
+Doch	ADV	ADV	ADV
+helpt	VERB	VERB	VERB
+dat	PRON	PRON	PRON|DET|SCONJ
+nich	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+dat	DET	DET	PRON|DET|SCONJ
+grote	ADJ	ADJ	ADJ
+Mul	NOUN	NOUN	NOUN
+,	PUNCT	PUNCT	PUNCT
+Wat	PRON	PRON	PRON
+de	DET	DET	PRON|DET
+Franzos	NOUN	NOUN	NOUN
+stets	ADV	ADV	ADV
+upgereten	VERB	VERB	_
+,	PUNCT	PUNCT	PUNCT
+Dat	PRON	PRON	PRON|DET|SCONJ
+möt	VERB	VERB	ADP|VERB
+wi	PRON	PRON	PRON
+(	PUNCT	PUNCT	PUNCT
+nu	ADV	ADV	ADV
+man	ADV	ADV	PRON|ADV
+blot	NOUN?	NOUN	ADJ|ADV|VERB
+nich	ADV	ADV	ADV
+ful	VERB	VERB	ADJ|NUM|VERB
+)	PUNCT	PUNCT	PUNCT
+,	PUNCT	PUNCT	PUNCT
+Dat	PRON	PRON	PRON|DET|SCONJ
+möt	VERB	VERB	ADP|VERB
+wi	PRON	PRON	PRON
+stoppen	VERB	VERB	VERB
+em	PRON	PRON	PRON
+en	DET	DET	PRON|DET
+Beten	ADJ	ADJ	ADJ|ADV
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Wat Orrer hier!
+Wat	PRON	PRON	PRON
+Orrer	VERB?	VERB	NOUN|PROPN
+hier	ADV	ADV	ADV
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: De bruk ick nich, Ohn' Orrer wär' ick angetreden; Wenn de Franzos sien Schläg' moal kriggt, Wär ick gewiß to Hus nich bleben.
+De	PRON	PRON	PRON|DET
+bruk	VERB	VERB	VERB
+ick	PRON	PRON	PRON
+nich	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+Ohn'	NOUN	NOUN	NOUN|PROPN
+Orrer	VERB?	VERB	NOUN|PROPN
+wär'	AUX	AUX	AUX
+ick	PRON	PRON	PRON
+angetreden	VERB	VERB	_
+;	PUNCT	PUNCT	PUNCT
+Wenn	SCONJ	SCONJ	SCONJ
+de	DET	DET	PRON|DET
+Franzos	NOUN	NOUN	NOUN
+sien	DET	DET	AUX|DET
+Schläg'	NOUN	NOUN	NOUN|PROPN
+moal	ADV	ADV	ADV
+kriggt	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+Wär	AUX	AUX	ADJ|ADV|ADP|AUX|NOUN|NUM|VERB
+ick	PRON	PRON	PRON
+gewiß	ADV	ADV	ADV
+to	ADP	ADP	ADP|PART
+Hus	NOUN	NOUN	NOUN
+nich	ADV	ADV	ADV
+bleben	VERB	VERB	ADV|VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Wes still, Marriek!
+Wes	NOUN	NOUN	NOUN|PROPN
+still	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+Marriek	VERB?	VERB	NOUN|PROPN
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: Doa helpt nischt to, Frankreich möt erst gebändigt waren, Sünst war'n wi doch mien Doag nich froh, Napoljon hölt uns rein tum Naren.
+Doa	ADV	ADV	ADV
+helpt	VERB	VERB	VERB
+nischt	ADV	ADV	ADV
+to	ADP	ADP	ADP|PART
+,	PUNCT	PUNCT	PUNCT
+Frankreich	NOUN	NOUN	ADJ|PROPN|NOUN
+möt	VERB	VERB	ADP|VERB
+erst	ADV	ADV	ADV
+gebändigt	ADJ	ADJ	_
+waren	NOUN?	NOUN	PUNCT|VERB
+,	PUNCT	PUNCT	PUNCT
+Sünst	ADV	ADV	ADV|VERB
+war'n	VERB	VERB	_
+wi	PRON	PRON	PRON
+doch	ADV	ADV	ADV
+mien	DET	DET	DET
+Doag	NOUN	NOUN	NOUN
+nich	ADV	ADV	ADV
+froh	ADJ	ADJ	ADJ|X|ADV
+,	PUNCT	PUNCT	PUNCT
+Napoljon	PROPN	PROPN	PROPN
+hölt	VERB	VERB	VERB
+uns	PRON	PRON	PRON
+rein	ADV	ADV	ADJ|ADV
+tum	ADP	ADP	ADP
+Naren	NOUN	NOUN	NOUN|PROPN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Uns König hett Geduld noog hat, Um to erhollen uns den Freeden, Nu hett he dat kung'neeren satt, Nu will'n wi moal ens anners reden.
+Uns	PRON	PRON	PRON
+König	NOUN	NOUN	NOUN
+hett	AUX	AUX	AUX
+Geduld	ADJ?	ADJ	PROPN|NOUN
+noog	NOUN?	NOUN	ADV|VERB
+hat	AUX	AUX	AUX
+,	PUNCT	PUNCT	PUNCT
+Um	ADP	ADP	ADP
+to	ADP	ADP	ADP|PART
+erhollen	VERB	VERB	VERB
+uns	PRON	PRON	PRON
+den	DET	DET	PRON|DET
+Freeden	NOUN	NOUN	NOUN|VERB
+,	PUNCT	PUNCT	PUNCT
+Nu	ADV	ADV	ADV
+hett	AUX	AUX	AUX
+he	PRON	PRON	PRON
+dat	DET	DET	PRON|DET|SCONJ
+kung'neeren	NOUN	NOUN	_
+satt	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+Nu	ADV	ADV	ADV
+will'n	AUX	AUX	AUX
+wi	PRON	PRON	PRON
+moal	ADV	ADV	ADV
+ens	ADV	ADV	ADV
+anners	ADV	ADV	ADV
+reden	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Nu will'n wi de Franzosen moal En Beten ehre Jack utkloppen, Dat is wahrhaftig en Skandoal, Dat wi so lang' uns leten foppen.
+Nu	ADV	ADV	ADV
+will'n	AUX	AUX	AUX
+wi	PRON	PRON	PRON
+de	DET	DET	PRON|DET
+Franzosen	NOUN	NOUN	NOUN
+moal	ADV	ADV	ADV
+En	DET	DET	PRON|DET
+Beten	ADJ	ADJ	ADJ|ADV
+ehre	NOUN?	NOUN	ADP|VERB
+Jack	NOUN	NOUN	NOUN|VERB
+utkloppen	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+Dat	PRON	PRON	PRON|DET|SCONJ
+is	AUX	AUX	AUX
+wahrhaftig	VERB	VERB	_
+en	DET	DET	PRON|DET
+Skandoal	NOUN	NOUN	NOUN|PROPN
+,	PUNCT	PUNCT	PUNCT
+Dat	SCONJ	SCONJ	PRON|DET|SCONJ
+wi	PRON	PRON	PRON
+so	ADV	ADV	ADV
+lang'	ADV	ADV	ADV
+uns	PRON	PRON	PRON
+leten	NOUN	NOUN	_
+foppen	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Man frisch drup los, so fix as't geht, Nich lang' gefackelt un gewunnert, Un wo uns de Franzos blot steht, Doa mit den Kolben mang gedunnert.
+Man	ADV	ADV	PRON|ADV
+frisch	ADV	ADV	ADJ|ADV
+drup	ADV	ADV	ADV
+los	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+so	ADV	ADV	ADV
+fix	ADV	ADV	ADV
+as't	CCONJ	CCONJ	CCONJ
+geht	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+Nich	ADV	ADV	ADV
+lang'	ADV	ADV	ADV
+gefackelt	VERB	VERB	_
+un	CCONJ	CCONJ	CCONJ
+gewunnert	VERB	VERB	_
+,	PUNCT	PUNCT	PUNCT
+Un	CCONJ	CCONJ	CCONJ
+wo	SCONJ	SCONJ	SCONJ
+uns	PRON	PRON	PRON
+de	DET	DET	PRON|DET
+Franzos	NOUN	ADJ	NOUN
+blot	NOUN?	NOUN	ADJ|ADV|VERB
+steht	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+Doa	ADV	ADV	ADV
+mit	ADP	ADP	ADP|PART
+den	DET	DET	PRON|DET
+Kolben	NOUN	NOUN	NOUN
+mang	ADP	ADP	ADP|ADV
+gedunnert	NOUN	NOUN	_
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Drup!
+Drup	ADV	ADV	ADV
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: Jungens drup!
+Jungens	NOUN	NOUN	NOUN
+drup	ADV	ADV	ADV
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: Franzosen ran Ii söll'n de Pommern kennen lehren, Wenn dat man blot up uns kümmt an, Dann söll'n Ii Schoh un Strümp verleren.
+Franzosen	NOUN	NOUN	NOUN
+ran	ADV	ADV	ADV
+Ii	PRON	PRON	PRON
+söll'n	AUX	AUX	AUX
+de	DET	DET	PRON|DET
+Pommern	PROPN	PROPN	PROPN|NOUN
+kennen	VERB	VERB	VERB
+lehren	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+Wenn	SCONJ	SCONJ	SCONJ
+dat	PRON	PRON	PRON|DET|SCONJ
+man	ADV	ADV	PRON|ADV
+blot	NOUN?	NOUN	ADJ|ADV|VERB
+up	ADP	ADP	ADP|PART
+uns	PRON	PRON	PRON
+kümmt	VERB	VERB	VERB
+an	ADP	ADP	ADP|PART
+,	PUNCT	PUNCT	PUNCT
+Dann	ADV	ADV	ADV
+söll'n	AUX	AUX	AUX
+Ii	PRON	PRON	PRON
+Schoh	PROPN	VERB	PROPN
+un	CCONJ	CCONJ	CCONJ
+Strümp	NOUN	NOUN	NOUN
+verleren	VERB	VERB	_
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Von jugen twatschen Owermoth Sall Strunk un Steel nich öwrig blieben, De Hundsdoagshitt is ju nich good, De will'n wi ju tum Kopp rut drieben.
+Von	ADP	ADP	ADP
+jugen	NOUN	NOUN	_
+twatschen	VERB	VERB	_
+Owermoth	NOUN	NOUN	NOUN|PROPN
+Sall	AUX	AUX	AUX
+Strunk	VERB?	VERB	PROPN|NOUN
+un	CCONJ	CCONJ	CCONJ
+Steel	NOUN	NOUN	NOUN|PROPN
+nich	ADV	ADV	ADV
+öwrig	NOUN	NOUN	_
+blieben	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+De	DET	DET	PRON|DET
+Hundsdoagshitt	NOUN	NOUN	NOUN|PROPN
+is	AUX	AUX	AUX
+ju	PRON	PRON	PRON
+nich	ADV	ADV	ADV
+good	ADJ	ADJ	ADJ|ADV
+,	PUNCT	PUNCT	PUNCT
+De	PRON	PRON	PRON|DET
+will'n	AUX	AUX	AUX
+wi	PRON	PRON	PRON
+ju	PRON	PRON	PRON
+tum	ADP	ADP	ADP
+Kopp	NOUN	NOUN	NOUN
+rut	ADV	ADV	ADV
+drieben	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Nu Mutter gif mi Diene Hand, Uns Herrgott ward uns woll behöden.
+Nu	ADV	ADV	ADV
+Mutter	NOUN	NOUN	NOUN
+gif	VERB	VERB	VERB
+mi	PRON	PRON	PRON
+Diene	DET?	DET	ADJ|AUX|NOUN|NUM|VERB
+Hand	NOUN	NOUN	NOUN
+,	PUNCT	PUNCT	PUNCT
+Uns	PRON	PRON	PRON
+Herrgott	NOUN	NOUN	NOUN
+ward	AUX	AUX	AUX
+uns	PRON	PRON	PRON
+woll	ADV	ADV	ADV
+behöden	VERB	VERB	_
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: „Mit Gott för König un Vaterland!
+"	PUNCT	PUNCT	PUNCT
+Mit	ADP	ADP	ADP
+Gott	NOUN	NOUN	NOUN
+för	VERB	VERB	ADJ|ADV|ADP|VERB|NUM
+König	NOUN	NOUN	NOUN
+un	CCONJ	CCONJ	CCONJ
+Vaterland	VERB?	VERB	PROPN|NOUN
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: “ So is uns Spruch, dat will'n wi beden.
+"	PUNCT	PUNCT	PUNCT
+So	ADV	ADV	ADV
+is	AUX	AUX	AUX
+uns	PRON	PRON	PRON
+Spruch	NOUN	NOUN	NOUN
+,	PUNCT	PUNCT	PUNCT
+dat	PRON	PRON	PRON|DET|SCONJ
+will'n	AUX	AUX	AUX
+wi	PRON	PRON	PRON
+beden	VERB	VERB	PART|VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Un doamit goah'n wi drup un dran, Gern will'n wi Blot un Leben geben.
+Un	CCONJ	CCONJ	CCONJ
+doamit	ADV	ADV	ADV
+goah'n	VERB	VERB	VERB
+wi	PRON	PRON	PRON
+drup	ADV	ADV	ADV
+un	CCONJ	CCONJ	CCONJ
+dran	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+Gern	ADV	ADV	NOUN|ADV|VERB
+will'n	AUX	AUX	AUX
+wi	PRON	PRON	PRON
+Blot	NOUN	NOUN	NOUN
+un	CCONJ	CCONJ	CCONJ
+Leben	NOUN	NOUN	NOUN
+geben	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Hoch!
+Hoch	ADV	ADV	ADV
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: Dütschland hoch!
+Dütschland	PROPN	PROPN	PROPN
+hoch	ADV	ADV	ADV
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: Franzos kumm ran, Hurrah!
+Franzos	NOUN	NOUN	NOUN
+kumm	VERB	VERB	VERB
+ran	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+Hurrah	INTJ	INTJ	INTJ
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: Uns König de sall leben!
+Uns	PRON	PRON	PRON
+König	NOUN	NOUN	NOUN
+de	PRON	PRON	PRON|DET
+sall	AUX	AUX	AUX
+leben	NOUN	NOUN	NOUN
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: Am 19.
+Am	PRON	PRON	PRON
+19	NUM	NUM	NUM
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Juli 1870 Crischon hett schreben.
+Juli	NOUN	NOUN	NOUN
+1870	NUM	NUM	NUM
+Crischon	NOUN	NOUN	NOUN|PROPN
+hett	AUX	AUX	AUX
+schreben	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Mien lew Marriek!
+Mien	DET	DET	DET
+lew	ADJ	NOUN	ADJ
+Marriek	VERB?	VERB	NOUN|PROPN
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: Dit to erleben, Dat har'ck nich dacht — hett Crischon schreben Ne dit is würklich to gelungen, Se hebb'n Napoljong afgefungen; Un ick was nich moal doa mit bi, Dat is to dull, dat argert mi!
+Dit	PRON?	PRON	NOUN|VERB
+to	ADP	ADP	ADP|PART
+erleben	NOUN?	NOUN	ADJ|VERB
+,	PUNCT	PUNCT	PUNCT
+Dat	DET	DET	PRON|DET|SCONJ
+har'ck	NOUN	NOUN	_
+nich	ADV	ADV	ADV
+dacht	VERB	VERB	VERB
+-	PUNCT	PUNCT	PUNCT
+hett	AUX	AUX	AUX
+Crischon	NOUN	NOUN	NOUN|PROPN
+schreben	VERB	VERB	VERB
+Ne	DET?	DET	ADJ|INTJ|ADV|NOUN|VERB
+dit	NOUN?	NOUN	PRON|DET
+is	AUX	AUX	AUX
+würklich	ADV	ADV	ADV
+to	ADP	ADP	ADP|PART
+gelungen	NOUN	NOUN	_
+,	PUNCT	PUNCT	PUNCT
+Se	PRON	PRON	PRON
+hebb'n	AUX	AUX	AUX
+Napoljong	NOUN	NOUN	NOUN|PROPN
+afgefungen	VERB	VERB	_
+;	PUNCT	PUNCT	PUNCT
+Un	CCONJ	CCONJ	CCONJ
+ick	PRON	PRON	PRON
+was	AUX	AUX	AUX
+nich	ADV	ADV	ADV
+moal	ADV	ADV	ADV
+doa	ADV	ADV	ADV
+mit	ADP	ADP	ADP|PART
+bi	ADP	ADP	ADP|PART
+,	PUNCT	PUNCT	PUNCT
+Dat	PRON	PRON	PRON|DET|SCONJ
+is	AUX	AUX	AUX
+to	ADP	ADP	ADP|PART
+dull	ADJ	ADJ	ADJ|ADV
+,	PUNCT	PUNCT	PUNCT
+dat	PRON	PRON	PRON|DET|SCONJ
+argert	PART	VERB	PART
+mi	PRON	PRON	PRON
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: Ne!
+Ne	ADV	ADV	ADJ|INTJ|ADV|NOUN|VERB
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: so wat möt mi uck passeeren, Wi möten hier bi Metz kampeeren Un denken em hier recht to foaten, Nu hett he sich all griepen loaten, Noch to mit achtzig Dusend Mann, Is dat Courosch?
+so	ADV	ADV	ADV
+wat	PRON	PRON	PRON
+möt	VERB	VERB	ADP|VERB
+mi	PRON	PRON	PRON
+uck	NOUN	NOUN	_
+passeeren	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+Wi	PRON	PRON	PRON
+möten	VERB	VERB	VERB
+hier	ADV	ADV	ADV
+bi	ADP	ADP	ADP|PART
+Metz	NOUN	NOUN	PROPN|NOUN
+kampeeren	VERB	VERB	_
+Un	CCONJ	CCONJ	CCONJ
+denken	VERB	VERB	VERB
+em	PRON	PRON	PRON
+hier	ADV	ADV	ADV
+recht	ADV	ADV	ADV
+to	ADP	ADP	ADP|PART
+foaten	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+Nu	ADV	ADV	ADV
+hett	AUX	AUX	AUX
+he	PRON	PRON	PRON
+sich	PRON	PRON	PRON
+all	ADV	ADV	ADV
+griepen	VERB	VERB	VERB
+loaten	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+Noch	ADV	ADV	ADV
+to	ADP	ADP	ADP|PART
+mit	ADP	ADP	ADP|PART
+achtzig	NOUN	NOUN	_
+Dusend	NUM	NUM	NUM
+Mann	NOUN	NOUN	NOUN
+,	PUNCT	PUNCT	PUNCT
+Is	AUX	AUX	AUX
+dat	DET	DET	PRON|DET|SCONJ
+Courosch	NOUN	NOUN	NOUN|PROPN
+?	PUNCT	PUNCT	PUNCT
+
+
+# text: is dat Elan?
+is	AUX	AUX	AUX
+dat	DET	DET	PRON|DET|SCONJ
+Elan	NOUN	NOUN	NOUN|PROPN
+?	PUNCT	PUNCT	PUNCT
+
+
+# text: Un denn will he as Kriegsheld gellen Un will uns noch dumm Tüch vertellen, As har he gern sich scheeten loaten Uns' Kugel haren blot nich droapen He hett sien Schnut, so dücht mi dat, Woll joarnich erst in't Füer hat.
+Un	CCONJ	CCONJ	CCONJ
+denn	ADV	ADV	ADV
+will	AUX	AUX	AUX
+he	PRON	PRON	PRON
+as	CCONJ	CCONJ	CCONJ
+Kriegsheld	NOUN	NOUN	NOUN|PROPN
+gellen	VERB	VERB	VERB
+Un	CCONJ	CCONJ	CCONJ
+will	AUX	AUX	AUX
+uns	PRON	PRON	PRON
+noch	ADV	ADV	ADV
+dumm	ADJ	ADJ	ADJ|ADV
+Tüch	NOUN	NOUN	NOUN|PROPN
+vertellen	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+As	CCONJ	CCONJ	CCONJ
+har	AUX	AUX	AUX
+he	PRON	PRON	PRON
+gern	ADV	ADV	ADV
+sich	PRON	PRON	PRON
+scheeten	VERB	VERB	VERB
+loaten	VERB	VERB	VERB
+Uns'	DET	DET	PRON|DET
+Kugel	NOUN	NOUN	NOUN|VERB
+haren	VERB	VERB	_
+blot	NOUN?	NOUN	ADJ|ADV|VERB
+nich	ADV	ADV	ADV
+droapen	VERB	VERB	_
+He	PRON	PRON	PRON
+hett	AUX	AUX	AUX
+sien	DET	DET	AUX|DET
+Schnut	NOUN	NOUN	NOUN|VERB
+,	PUNCT	PUNCT	PUNCT
+so	ADV	ADV	ADV
+dücht	VERB	VERB	VERB
+mi	PRON	PRON	PRON
+dat	PRON	PRON	PRON|DET|SCONJ
+,	PUNCT	PUNCT	PUNCT
+Woll	ADV	ADV	ADV
+joarnich	VERB	VERB	_
+erst	ADV	ADV	ADV
+in't	ADP	ADP	ADP
+Füer	NOUN	NOUN	ADJ|NOUN|NUM|VERB
+hat	AUX	AUX	AUX
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: So veel steiht fest, har ick em kregen, Denn har dat doch woll Schacht würd geben; Ick har dat nich künnt öwerkommen, Ick har em mi erst förgenommen; Har ick em in de Finger hatt, Denn wär sien Fell nich mehr so glatt.
+So	ADV	ADV	ADV
+veel	NOUN	NOUN	_
+steiht	VERB	VERB	VERB
+fest	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+har	AUX	AUX	AUX
+ick	PRON	PRON	PRON
+em	PRON	PRON	PRON
+kregen	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+Denn	ADV	ADV	ADV
+har	AUX	AUX	AUX
+dat	PRON	PRON	PRON|DET|SCONJ
+doch	ADV	ADV	ADV
+woll	ADV	ADV	ADV
+Schacht	PROPN	VERB	PROPN
+würd	AUX	AUX	AUX
+geben	VERB	VERB	VERB
+;	PUNCT	PUNCT	PUNCT
+Ick	PRON	PRON	PRON
+har	AUX	AUX	AUX
+dat	PRON	PRON	PRON|DET|SCONJ
+nich	ADV	ADV	ADV
+künnt	AUX	AUX	AUX
+öwerkommen	VERB	VERB	_
+,	PUNCT	PUNCT	PUNCT
+Ick	PRON	PRON	PRON
+har	AUX	AUX	AUX
+em	PRON	PRON	PRON
+mi	PRON	PRON	PRON
+erst	ADV	ADV	ADV
+förgenommen	VERB	VERB	_
+;	PUNCT	PUNCT	PUNCT
+Har	AUX	AUX	ADJ|AUX|NOUN|NUM|VERB
+ick	PRON	PRON	PRON
+em	PRON	PRON	PRON
+in	ADP	ADP	ADP|PART
+de	DET	DET	PRON|DET
+Finger	NOUN	NOUN	NOUN
+hatt	VERB	VERB	_
+,	PUNCT	PUNCT	PUNCT
+Denn	ADV	ADV	ADV
+wär	AUX	AUX	AUX
+sien	DET	DET	AUX|DET
+Fell	NOUN	NOUN	NOUN
+nich	ADV	ADV	ADV
+mehr	ADV	ADV	ADV
+so	ADV	ADV	ADV
+glatt	ADJ	ADJ	ADJ|ADV
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Na schoadt uck nich, wat helpt dat reden, Ick bin am En' uck so tofreden: Mi dücht, he hett genog to büßen, Em quält sien egenes Gewissen, Doch dat kümmt woll noch erst drup an, Ob he Gewissen hebben kann.
+Na	ADP	ADP	ADP
+schoadt	NOUN	NOUN	_
+uck	VERB	VERB	_
+nich	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+wat	PRON	PRON	PRON
+helpt	VERB	VERB	VERB
+dat	PRON	PRON	PRON|DET|SCONJ
+reden	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+Ick	PRON	PRON	PRON
+bin	AUX	AUX	AUX
+am	PRON	PRON	PRON
+En'	VERB	VERB	ADJ|NUM|VERB
+uck	NOUN	NOUN	_
+so	ADV	ADV	ADV
+tofreden	VERB	VERB	VERB
+:	PUNCT	PUNCT	PUNCT
+Mi	PRON	PRON	PRON
+dücht	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+he	PRON	PRON	PRON
+hett	AUX	AUX	AUX
+genog	ADV	ADV	ADV
+to	ADP	ADP	ADP|PART
+büßen	NOUN	NOUN	_
+,	PUNCT	PUNCT	PUNCT
+Em	PRON	PRON	PRON
+quält	VERB	VERB	VERB
+sien	DET	DET	AUX|DET
+egenes	ADJ	ADJ	_
+Gewissen	NOUN	NOUN	ADJ|NOUN|VERB
+,	PUNCT	PUNCT	PUNCT
+Doch	ADV	ADV	ADV
+dat	PRON	PRON	PRON|DET|SCONJ
+kümmt	VERB	VERB	VERB
+woll	ADV	ADV	ADV
+noch	ADV	ADV	ADV
+erst	ADV	ADV	ADV
+drup	ADV	ADV	ADV
+an	ADP	ADP	ADP|PART
+,	PUNCT	PUNCT	PUNCT
+Ob	SCONJ	SCONJ	PROPN|CCONJ|ADP|AUX|NOUN|SCONJ|VERB
+he	PRON	PRON	PRON
+Gewissen	NOUN	NOUN	ADJ|NOUN|VERB
+hebben	AUX	AUX	AUX
+kann	AUX	AUX	AUX
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Denn wo is dat Gewissen bleben, As midden in den deepsten Freden De Kerls uns öwerrumpeln sullen Un. uns den Rhein wegstehlen wullen.
+Denn	ADV	ADV	ADV
+wo	SCONJ	SCONJ	SCONJ
+is	AUX	AUX	AUX
+dat	DET	DET	PRON|DET|SCONJ
+Gewissen	NOUN	NOUN	ADJ|NOUN|VERB
+bleben	VERB	VERB	ADV|VERB
+,	PUNCT	PUNCT	PUNCT
+As	CCONJ	CCONJ	CCONJ
+midden	ADV	ADV	ADV
+in	ADP	ADP	ADP|PART
+den	DET	DET	PRON|DET
+deepsten	ADJ	NOUN	ADJ
+Freden	VERB	VERB	NOUN|VERB
+De	DET	DET	PRON|DET
+Kerls	NOUN	NOUN	NOUN
+uns	PRON	PRON	PRON
+öwerrumpeln	VERB	VERB	_
+sullen	NOUN	NOUN	_
+Un	CCONJ	CCONJ	CCONJ
+.	PUNCT	PUNCT	PUNCT
+uns	PRON	PRON	PRON
+den	DET	DET	PRON|DET
+Rhein	NOUN	NOUN	NOUN
+wegstehlen	VERB	VERB	_
+wullen	AUX	AUX	AUX
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Wenn Dütschland nich so fast har stoahn, Denn wär uns dat doch schlecht man goahn.
+Wenn	SCONJ	SCONJ	SCONJ
+Dütschland	PROPN	PROPN	PROPN
+nich	ADV	ADV	ADV
+so	ADV	ADV	ADV
+fast	ADV	ADV	ADV
+har	AUX	AUX	AUX
+stoahn	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+Denn	ADV	ADV	ADV
+wär	AUX	AUX	AUX
+uns	PRON	PRON	PRON
+dat	PRON	PRON	PRON|DET|SCONJ
+doch	ADV	ADV	ADV
+schlecht	ADV	ADV	ADV
+man	ADV	ADV	PRON|ADV
+goahn	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: De Turcos sinn as wilde Tiger, Harn wi de hatt bi uns as Sieger, Denn har ick nich noah hen mücht sehen, Wat all' för Jammer wär geschehen; Uns Herrgott is mit uns tum Glück, Nu ängst Di man nich mehr, Marriek.
+De	DET	DET	PRON|DET
+Turcos	ADJ?	ADJ	NOUN|PROPN
+sinn	NOUN	NOUN	NOUN
+as	CCONJ	CCONJ	CCONJ
+wilde	NOUN?	NOUN	ADJ|X
+Tiger	NOUN	VERB	NOUN
+,	PUNCT	PUNCT	PUNCT
+Harn	VERB?	VERB	NOUN|PROPN
+wi	PRON	PRON	PRON
+de	DET	DET	PRON|DET
+hatt	NOUN	NOUN	_
+bi	ADP	ADP	ADP|PART
+uns	PRON	PRON	PRON
+as	CCONJ	CCONJ	CCONJ
+Sieger	VERB?	VERB	ADJ|PROPN|NOUN
+,	PUNCT	PUNCT	PUNCT
+Denn	ADV	ADV	ADV
+har	AUX	AUX	AUX
+ick	PRON	PRON	PRON
+nich	ADV	ADV	ADV
+noah	ADP	ADP	ADP|PART
+hen	ADV	ADV	ADV
+mücht	AUX	AUX	AUX
+sehen	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+Wat	PRON	PRON	PRON
+all'	ADV	ADV	ADJ|ADV|ADP|VERB|PART
+för	ADJ	ADJ	ADJ|ADV|ADP|VERB|NUM
+Jammer	NOUN	NOUN	NOUN|VERB
+wär	AUX	AUX	AUX
+geschehen	VERB	VERB	VERB
+;	PUNCT	PUNCT	PUNCT
+Uns	PRON	PRON	PRON
+Herrgott	NOUN	NOUN	NOUN
+is	AUX	AUX	AUX
+mit	ADP	ADP	ADP|PART
+uns	PRON	PRON	PRON
+tum	ADP	ADP	ADP
+Glück	NOUN	NOUN	NOUN
+,	PUNCT	PUNCT	PUNCT
+Nu	ADV	ADV	ADV
+ängst	VERB	VERB	_
+Di	PRON	PRON	PRON
+man	ADV	ADV	PRON|ADV
+nich	ADV	ADV	ADV
+mehr	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+Marriek	VERB?	VERB	NOUN|PROPN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Recht schlimm kann dat nu nich mehr koamen Wi hebb'n to veel gefangen noamen, Un joa to veel sinn dod geschoaten, Ach Gott, wat is för Bloot gefloaten; Den Jammer sich recht antosehn, Doato gehört en Herz von Steen.
+Recht	ADV	ADV	NOUN|ADV
+schlimm	ADV	ADV	ADJ|ADV
+kann	AUX	AUX	AUX
+dat	PRON	PRON	PRON|DET|SCONJ
+nu	ADV	ADV	ADV
+nich	ADV	ADV	ADV
+mehr	ADV	ADV	ADV
+koamen	VERB	VERB	VERB
+Wi	PRON	PRON	PRON
+hebb'n	AUX	AUX	AUX
+to	ADP	ADP	ADP|PART
+veel	ADJ	ADJ	_
+gefangen	NOUN?	NOUN	ADJ|VERB
+noamen	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+Un	CCONJ	CCONJ	CCONJ
+joa	NOUN?	NOUN	INTJ|ADV|X|SCONJ|VERB|PART
+to	ADP	ADP	ADP|PART
+veel	ADJ	ADJ	_
+sinn	NOUN	NOUN	NOUN
+dod	ADV	ADV	ADJ|ADV
+geschoaten	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+Ach	INTJ	INTJ	INTJ
+Gott	NOUN	NOUN	NOUN
+,	PUNCT	PUNCT	PUNCT
+wat	PRON	PRON	PRON
+is	AUX	AUX	AUX
+för	VERB	VERB	ADJ|ADV|ADP|VERB|NUM
+Bloot	NOUN	ADV	NOUN
+gefloaten	VERB	VERB	_
+;	PUNCT	PUNCT	PUNCT
+Den	DET	DET	PRON|DET
+Jammer	NOUN	NOUN	NOUN|VERB
+sich	PRON	PRON	PRON
+recht	ADV	ADV	ADV
+antosehn	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+Doato	ADV	ADV	ADV
+gehört	VERB	VERB	VERB
+en	DET	DET	PRON|DET
+Herz	NOUN	NOUN	NOUN
+von	ADP	ADP	ADP|PART
+Steen	NOUN	NOUN	NOUN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Du warst woll ut de Zeitung weten, Wo wi uns mit dat Pack rümscheten, Un dat wi in den düllsten Regen Nachts up den Acker rümmer legen, Un dat wi denn so pudelnatt Nich moal recht wat to eten hatt.
+Du	PRON	PRON	PRON
+warst	VERB	VERB	AUX|VERB
+woll	ADV	ADV	ADV
+ut	ADP	ADP	ADP|PART
+de	DET	DET	PRON|DET
+Zeitung	NOUN	NOUN	NOUN
+weten	VERB	VERB	AUX|VERB
+,	PUNCT	PUNCT	PUNCT
+Wo	SCONJ	SCONJ	SCONJ
+wi	PRON	PRON	PRON
+uns	PRON	PRON	PRON
+mit	ADP	ADP	ADP|PART
+dat	DET	DET	PRON|DET|SCONJ
+Pack	NOUN	NOUN	NOUN|VERB
+rümscheten	VERB	VERB	_
+,	PUNCT	PUNCT	PUNCT
+Un	CCONJ	CCONJ	CCONJ
+dat	SCONJ	SCONJ	PRON|DET|SCONJ
+wi	PRON	PRON	PRON
+in	ADP	ADP	ADP|PART
+den	DET	DET	PRON|DET
+düllsten	NOUN?	NOUN	ADJ|VERB
+Regen	VERB	VERB	PROPN|NOUN|VERB
+Nachts	ADV	ADV	ADV
+up	ADP	ADP	ADP|PART
+den	DET	DET	PRON|DET
+Acker	NOUN	NOUN	NOUN|VERB
+rümmer	ADV	ADV	ADV
+legen	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+Un	CCONJ	CCONJ	CCONJ
+dat	SCONJ	SCONJ	PRON|DET|SCONJ
+wi	PRON	PRON	PRON
+denn	ADV	ADV	ADV
+so	ADV	ADV	ADV
+pudelnatt	ADJ	VERB	ADJ
+Nich	ADV	ADV	ADV
+moal	ADV	ADV	ADV
+recht	ADV	ADV	ADV
+wat	PRON	PRON	PRON
+to	ADP	ADP	ADP|PART
+eten	VERB	NOUN	VERB
+hatt	VERB	VERB	_
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Doch will ick mi nich drüm bekloagen, Son Keerls as wi kön'n dat verdroagen, Ick bin man froh, mien lewes Leben, Dat Diene Krankheit sich hett geben, Un dat to Hus de Waiten rin, Un dat de Jung'ns gesund uck sinn.
+Doch	ADV	ADV	ADV
+will	AUX	AUX	AUX
+ick	PRON	PRON	PRON
+mi	PRON	PRON	PRON
+nich	ADV	ADV	ADV
+drüm	ADV	ADV	ADV
+bekloagen	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+Son	DET?	DET	ADJ|NOUN|NUM|VERB
+Keerls	NOUN	NOUN	NOUN
+as	CCONJ	CCONJ	CCONJ
+wi	PRON	PRON	PRON
+kön'n	VERB	VERB	ADJ|NUM|VERB
+dat	DET	DET	PRON|DET|SCONJ
+verdroagen	VERB	NOUN	VERB
+,	PUNCT	PUNCT	PUNCT
+Ick	PRON	PRON	PRON
+bin	AUX	AUX	AUX
+man	ADV	ADV	PRON|ADV
+froh	ADJ	ADJ	ADJ|X|ADV
+,	PUNCT	PUNCT	PUNCT
+mien	DET	DET	DET
+lewes	ADJ	ADJ	_
+Leben	NOUN	NOUN	NOUN
+,	PUNCT	PUNCT	PUNCT
+Dat	PRON	PRON	PRON|DET|SCONJ
+Diene	DET?	DET	ADJ|AUX|NOUN|NUM|VERB
+Krankheit	NOUN	NOUN	NOUN
+sich	PRON	PRON	PRON
+hett	AUX	AUX	AUX
+geben	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+Un	CCONJ	CCONJ	CCONJ
+dat	PRON	PRON	PRON|DET|SCONJ
+to	ADP	ADP	ADP|PART
+Hus	NOUN	NOUN	NOUN
+de	DET	DET	PRON|DET
+Waiten	NOUN	NOUN	NOUN|VERB
+rin	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+Un	CCONJ	CCONJ	CCONJ
+dat	PRON	PRON	PRON|DET|SCONJ
+de	DET	DET	PRON|DET
+Jung'ns	NOUN	NOUN	NOUN|PROPN
+gesund	ADV	ADV	ADJ|ADV
+uck	ADJ	ADJ	_
+sinn	NOUN	NOUN	NOUN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Mien Gruß un Dank an Crischon Bulten, Dat he Di bi den Waiten hulpen; He sall uck man bi't Nudeln helpen, Ick war' em noahsten dat entgelten; Französisch heet dat „rewanscher'n Paß up, ick war' Französch noch ler'n.
+Mien	DET	DET	DET
+Gruß	NOUN	NOUN	NOUN|VERB
+un	CCONJ	CCONJ	CCONJ
+Dank	NOUN	NOUN	NOUN
+an	ADP	ADP	ADP|PART
+Crischon	NOUN	NOUN	NOUN|PROPN
+Bulten	VERB?	VERB	NOUN|PROPN
+,	PUNCT	PUNCT	PUNCT
+Dat	SCONJ	SCONJ	PRON|DET|SCONJ
+he	PRON	PRON	PRON
+Di	PRON	PRON	PRON
+bi	ADP	ADP	ADP|PART
+den	DET	DET	PRON|DET
+Waiten	NOUN	NOUN	NOUN|VERB
+hulpen	VERB	VERB	SCONJ|VERB
+;	PUNCT	PUNCT	PUNCT
+He	PRON	PRON	PRON
+sall	AUX	AUX	AUX
+uck	VERB	VERB	_
+man	ADV	ADV	PRON|ADV
+bi't	ADP	ADP	ADP
+Nudeln	NOUN	NOUN	NOUN|VERB
+helpen	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+Ick	PRON	PRON	PRON
+war'	VERB	VERB	_
+em	PRON	PRON	PRON
+noahsten	VERB	VERB	_
+dat	DET	DET	PRON|DET|SCONJ
+entgelten	NOUN	NOUN	_
+;	PUNCT	PUNCT	PUNCT
+Französisch	NOUN	NOUN	NOUN|PROPN
+heet	VERB	VERB	VERB
+dat	PRON	PRON	PRON|DET|SCONJ
+"	PUNCT	PUNCT	PUNCT
+rewanscher'n	VERB	VERB	_
+Paß	NOUN	NOUN	NOUN
+up	ADP	ADP	ADP|PART
+,	PUNCT	PUNCT	PUNCT
+ick	PRON	PRON	PRON
+war'	VERB	VERB	_
+Französch	ADJ	NOUN	ADJ
+noch	ADV	ADV	ADV
+ler'n	VERB	VERB	_
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Na nu möt ick Di doch noch schrieben, Dat wi bi Metz nich länger blieben; Wi hebben hüt all Orrer kregen, Un morgen sinn wi unnerwegen; Dat geiht nu up Paris drup los, Nu denk Di dissen Jubel bloß.
+Na	ADP	ADP	ADP
+nu	ADV	ADV	ADV
+möt	VERB	VERB	ADP|VERB
+ick	PRON	PRON	PRON
+Di	PRON	PRON	PRON
+doch	ADV	ADV	ADV
+noch	ADV	ADV	ADV
+schrieben	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+Dat	SCONJ	SCONJ	PRON|DET|SCONJ
+wi	PRON	PRON	PRON
+bi	ADP	ADP	ADP|PART
+Metz	NOUN	NOUN	PROPN|NOUN
+nich	ADV	ADV	ADV
+länger	ADV	ADV	ADV
+blieben	VERB	VERB	VERB
+;	PUNCT	PUNCT	PUNCT
+Wi	PRON	PRON	PRON
+hebben	AUX	AUX	AUX
+hüt	ADV	ADV	ADV
+all	ADV	ADV	ADV
+Orrer	NOUN	NOUN	NOUN|PROPN
+kregen	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+Un	CCONJ	CCONJ	CCONJ
+morgen	ADV	NOUN	ADV
+sinn	NOUN	NOUN	NOUN
+wi	PRON	PRON	PRON
+unnerwegen	ADV	VERB	ADV
+;	PUNCT	PUNCT	PUNCT
+Dat	PRON	PRON	PRON|DET|SCONJ
+geiht	VERB	VERB	VERB
+nu	ADV	ADV	ADV
+up	ADP	ADP	ADP|PART
+Paris	NOUN	NOUN	PROPN|NOUN
+drup	ADV	ADV	ADV
+los	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+Nu	ADV	ADV	ADV
+denk	VERB	VERB	VERB
+Di	PRON	PRON	PRON
+dissen	DET	DET	PRON|DET
+Jubel	NOUN	NOUN	NOUN|VERB
+bloß	VERB	VERB	_
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Wenn Uns' man von Paris wat hören, Denn sinn se kum noch to regeeren, Denn müchten se Galopp hen lopen Un de Franzosen hau'n to hopen; Wenn noch so veel Franzosen stoahn, Mit Hurrah ward drup los gegoahn.
+Wenn	SCONJ	SCONJ	SCONJ
+Uns'	PRON	PRON	PRON|DET
+man	ADV	ADV	PRON|ADV
+von	ADP	ADP	ADP|PART
+Paris	VERB?	VERB	PROPN|NOUN
+wat	PRON	PRON	PRON
+hören	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+Denn	ADV	ADV	ADV
+sinn	NOUN	NOUN	NOUN
+se	PRON	PRON	PRON
+kum	VERB	VERB	ADV|VERB
+noch	ADV	ADV	ADV
+to	ADP	ADP	ADP|PART
+regeeren	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+Denn	ADV	ADV	ADV
+müchten	AUX	AUX	AUX
+se	PRON	PRON	PRON
+Galopp	NOUN	NOUN	NOUN
+hen	ADV	ADV	ADV
+lopen	VERB	VERB	VERB
+Un	CCONJ	CCONJ	CCONJ
+de	DET	DET	PRON|DET
+Franzosen	NOUN	NOUN	NOUN
+hau'n	VERB	VERB	_
+to	ADP	ADP	ADP|PART
+hopen	NOUN	NOUN	_
+;	PUNCT	PUNCT	PUNCT
+Wenn	SCONJ	SCONJ	SCONJ
+noch	ADV	ADV	ADV
+so	ADV	ADV	ADV
+veel	ADJ	ADJ	_
+Franzosen	NOUN	NOUN	NOUN
+stoahn	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+Mit	ADP	ADP	ADP
+Hurrah	INTJ	INTJ	INTJ
+ward	AUX	AUX	AUX
+drup	ADV	ADV	ADV
+los	ADV	ADV	ADV
+gegoahn	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Na nu, mien lewe Fru un Kinner, Nu blieft mi man gesund hübsch immer, Grüßt Fründschaft uck, un man bald schrieben Ick denk so lang' nich mehr to blieben; So Gott will bin ick bald bi Ju, Na nu Ädjüs mien lewe Fru.
+Na	ADP	ADP	ADP
+nu	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+mien	DET	DET	DET
+lewe	ADJ	ADJ	ADJ|VERB
+Fru	NOUN	NOUN	NOUN
+un	CCONJ	CCONJ	CCONJ
+Kinner	NOUN	NOUN	NOUN
+,	PUNCT	PUNCT	PUNCT
+Nu	ADV	ADV	ADV
+blieft	VERB	VERB	ADP|SCONJ|VERB
+mi	PRON	PRON	PRON
+man	ADV	ADV	PRON|ADV
+gesund	ADV	ADV	ADJ|ADV
+hübsch	ADV	ADV	ADJ|ADV
+immer	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+Grüßt	VERB	VERB	VERB
+Fründschaft	NOUN	NOUN	NOUN
+uck	VERB	VERB	_
+,	PUNCT	PUNCT	PUNCT
+un	CCONJ	CCONJ	CCONJ
+man	ADV	ADV	PRON|ADV
+bald	ADV	ADV	ADV
+schrieben	VERB	VERB	VERB
+Ick	PRON	PRON	PRON
+denk	VERB	VERB	VERB
+so	ADV	ADV	ADV
+lang'	ADV	ADV	ADV
+nich	ADV	ADV	ADV
+mehr	ADV	ADV	ADV
+to	ADP	ADP	ADP|PART
+blieben	VERB	VERB	VERB
+;	PUNCT	PUNCT	PUNCT
+So	ADV	ADV	ADV
+Gott	NOUN	NOUN	NOUN
+will	AUX	AUX	AUX
+bin	AUX	AUX	AUX
+ick	PRON	PRON	PRON
+bald	ADV	ADV	ADV
+bi	ADP	ADP	ADP|PART
+Ju	PRON	PRON	PRON
+,	PUNCT	PUNCT	PUNCT
+Na	ADP	ADP	ADP
+nu	ADV	ADV	ADV
+Ädjüs	VERB?	VERB	NOUN|PROPN
+mien	DET	DET	DET
+lewe	ADJ	ADJ	ADJ|VERB
+Fru	NOUN	NOUN	NOUN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Am 12.
+Am	PRON	PRON	PRON
+12	NUM	NUM	NUM
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: September 1870.
+September	NOUN	NOUN	NOUN
+1870	NUM	NUM	NUM
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: — 8 Crischon is blesseert.
+-	PUNCT	PUNCT	PUNCT
+8	NUM	NUM	NUM
+Crischon	NOUN	NOUN	NOUN|PROPN
+is	AUX	AUX	AUX
+blesseert	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Mien lew Marriek!
+Mien	DET	DET	DET
+lew	ADJ	NOUN	ADJ
+Marriek	VERB?	VERB	NOUN|PROPN
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: Dit hett sien Wesen; Mit't linker Poot schrift sich dat schlecht.
+Dit	PRON?	PRON	NOUN|VERB
+hett	AUX	AUX	AUX
+sien	DET	DET	AUX|DET
+Wesen	NOUN	NOUN	AUX|NOUN|VERB
+;	PUNCT	PUNCT	PUNCT
+Mit't	VERB	VERB	ADJ|ADP|AUX|NUM|VERB
+linker	ADJ	ADJ	ADJ
+Poot	NOUN	NOUN	PROPN|NOUN|VERB
+schrift	VERB	VERB	VERB
+sich	PRON	PRON	PRON
+dat	PRON	PRON	PRON|DET|SCONJ
+schlecht	ADV	ADV	ADV
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Wenn Du nu dit man blot kannst. lesen Ick krieg dat kum alleen torecht.
+Wenn	SCONJ	SCONJ	SCONJ
+Du	PRON	PRON	PRON
+nu	ADV	ADV	ADV
+dit	PRON	PRON	PRON|DET
+man	ADV	ADV	PRON|ADV
+blot	NOUN?	NOUN	ADJ|ADV|VERB
+kannst	AUX	AUX	AUX
+.	PUNCT	PUNCT	PUNCT
+lesen	VERB	VERB	VERB
+Ick	PRON	PRON	PRON
+krieg	VERB	VERB	ADJ|NUM|VERB
+dat	DET	DET	PRON|DET|SCONJ
+kum	NOUN?	NOUN	ADV|VERB
+alleen	ADV	ADV	ADV
+torecht	ADV	ADV	ADV
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Mit de verdammten Schastepoten Hett nu doch richtig so'n Franzos Mi in den rechten Arm rin schoaten; Tum Glück is dat een Schrammschuß bloß.
+Mit	ADP	ADP	ADP
+de	DET	DET	PRON|DET
+verdammten	NOUN?	NOUN	ADJ|VERB
+Schastepoten	VERB?	VERB	NOUN|PROPN
+Hett	AUX	AUX	ADP|AUX|NOUN|VERB
+nu	ADV	ADV	ADV
+doch	ADV	ADV	ADV
+richtig	ADJ	ADJ	ADJ
+so'n	DET	DET	DET
+Franzos	NOUN	NOUN	NOUN
+Mi	PRON	PRON	PRON
+in	ADP	ADP	ADP|PART
+den	DET	DET	PRON|DET
+rechten	ADJ	ADJ	ADJ
+Arm	NOUN	NOUN	NOUN
+rin	ADV	ADV	ADV
+schoaten	VERB	VERB	_
+;	PUNCT	PUNCT	PUNCT
+Tum	ADP	ADP	ADP
+Glück	NOUN	NOUN	NOUN
+is	AUX	AUX	AUX
+dat	PRON	PRON	PRON|DET|SCONJ
+een	DET	DET	PRON|DET
+Schrammschuß	NOUN	NOUN	NOUN|PROPN
+bloß	VERB	VERB	_
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Ick heww em öwerst dat besulten.
+Ick	PRON	PRON	PRON
+heww	VERB	VERB	_
+em	PRON	PRON	PRON
+öwerst	VERB	VERB	_
+dat	DET	DET	PRON|DET|SCONJ
+besulten	NOUN	NOUN	_
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: So'n pommersch Tachtel in't Gesicht Kreeg he von mi, as Crischon Bulten Dunn von sien schwarten Hingst hett kriggt.
+So'n	DET?	DET	ADJ|NOUN|NUM|VERB
+pommersch	NOUN	NOUN	_
+Tachtel	NOUN	VERB	NOUN
+in't	ADP	ADP	ADP
+Gesicht	NOUN	NOUN	NOUN
+Kreeg	VERB	VERB	ADJ|NOUN|NUM|VERB
+he	PRON	PRON	PRON
+von	ADP	ADP	ADP|PART
+mi	PRON	PRON	PRON
+,	PUNCT	PUNCT	PUNCT
+as	CCONJ	CCONJ	CCONJ
+Crischon	NOUN	NOUN	NOUN|PROPN
+Bulten	VERB?	VERB	NOUN|PROPN
+Dunn	ADV	ADV	ADJ|CCONJ|ADV|VERB
+von	ADP	ADP	ADP|PART
+sien	DET	DET	AUX|DET
+schwarten	ADJ	NOUN	ADJ
+Hingst	VERB	VERB	NOUN|VERB
+hett	AUX	AUX	AUX
+kriggt	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Uns Leut'nant sähr: „Laß Dich verbinden, Geh', melde Dich im Lazareth!
+Uns	PRON	PRON	PRON
+Leut'nant	NOUN	NOUN	NOUN|PROPN
+sähr	VERB	VERB	_
+:	PUNCT	PUNCT	PUNCT
+"	PUNCT	PUNCT	PUNCT
+Laß	AUX?	AUX	ADJ|X|VERB
+Dich	PRON	PRON	PRON|X
+verbinden	VERB	VERB	_
+,	PUNCT	PUNCT	PUNCT
+Geh'	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+melde	VERB	VERB	_
+Dich	PRON	PRON	PRON|X
+im	ADP	ADP	ADP
+Lazareth	NOUN	NOUN	NOUN|PROPN
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: “ „I wat!
+"	PUNCT	PUNCT	PUNCT
+"	PUNCT	PUNCT	PUNCT
+I	INTJ	SCONJ	INTJ
+wat	PRON	PRON	PRON
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: " sähr ick, „dat ward sich finden, Erst köp'ck mi den’n, de schoaten hett.
+"	PUNCT	PUNCT	PUNCT
+sähr	VERB	VERB	_
+ick	PRON	PRON	PRON
+,	PUNCT	PUNCT	PUNCT
+"	PUNCT	PUNCT	PUNCT
+dat	PRON	PRON	PRON|DET|SCONJ
+ward	AUX	AUX	AUX
+sich	PRON	PRON	PRON
+finden	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+Erst	ADV	ADV	ADV
+köp'ck	VERB	VERB	_
+mi	PRON	PRON	PRON
+den'n	VERB	VERB	_
+,	PUNCT	PUNCT	PUNCT
+de	DET	DET	PRON|DET
+schoaten	NOUN	NOUN	_
+hett	AUX	AUX	AUX
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: " Un doamit leep ick nu twas öwer, Wo Musch Franzos in'n Groaben leeg, Un langte mi den Bengel röwer, De up französch erbärmlich schreeg.
+"	PUNCT	PUNCT	PUNCT
+Un	CCONJ	CCONJ	CCONJ
+doamit	ADV	ADV	ADV
+leep	VERB	VERB	VERB
+ick	PRON	PRON	PRON
+nu	ADV	ADV	ADV
+twas	ADJ	ADJ	_
+öwer	NOUN	NOUN	_
+,	PUNCT	PUNCT	PUNCT
+Wo	SCONJ	SCONJ	SCONJ
+Musch	ADJ	ADJ	ADJ|PROPN|NOUN|VERB
+Franzos	NOUN	NOUN	NOUN
+in'n	ADP	ADP	ADP
+Groaben	NOUN	NOUN	NOUN|VERB
+leeg	VERB	VERB	ADJ|ADP|AUX|NUM|VERB
+,	PUNCT	PUNCT	PUNCT
+Un	CCONJ	CCONJ	CCONJ
+langte	VERB	VERB	ADP|VERB
+mi	PRON	PRON	PRON
+den	DET	DET	PRON|DET
+Bengel	NOUN	NOUN	ADJ|NOUN|VERB
+röwer	VERB	VERB	_
+,	PUNCT	PUNCT	PUNCT
+De	PRON	PRON	PRON|DET
+up	ADP	ADP	ADP|PART
+französch	ADJ	ADJ	ADJ
+erbärmlich	ADJ	NOUN	ADJ
+schreeg	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: „Pardong, Musche!
+"	PUNCT	PUNCT	PUNCT
+Pardong	VERB?	VERB	NOUN|PROPN
+,	PUNCT	PUNCT	PUNCT
+Musche	VERB	VERB	ADJ|PROPN|NOUN|VERB
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: " so dehr he jüngeln, Dat heet to dütsch: „Schloag mi nich dood!
+"	PUNCT	PUNCT	PUNCT
+so	ADV	ADV	ADV
+dehr	VERB	VERB	_
+he	PRON	PRON	PRON
+jüngeln	VERB	VERB	_
+,	PUNCT	PUNCT	PUNCT
+Dat	PRON	PRON	PRON|DET|SCONJ
+heet	VERB	VERB	VERB
+to	ADP	ADP	ADP|PART
+dütsch	ADJ	ADJ	ADJ
+:	PUNCT	PUNCT	PUNCT
+"	PUNCT	PUNCT	PUNCT
+Schloag	VERB	VERB	VERB
+mi	PRON	PRON	PRON
+nich	ADV	ADV	ADV
+dood	ADJ	ADJ	ADJ|ADV
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: „Joa töw!
+"	PUNCT	PUNCT	PUNCT
+Joa	NOUN	NOUN	NOUN
+töw	VERB	VERB	VERB
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: " sähr ick, „infahmte Schlüngel!
+"	PUNCT	PUNCT	PUNCT
+sähr	VERB	VERB	_
+ick	PRON	PRON	PRON
+,	PUNCT	PUNCT	PUNCT
+"	PUNCT	PUNCT	PUNCT
+infahmte	NOUN	NOUN	_
+Schlüngel	VERB?	VERB	NOUN|PROPN
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: " Un wischt em mit de linke Poot.
+"	PUNCT	PUNCT	PUNCT
+Un	CCONJ	CCONJ	CCONJ
+wischt	VERB	VERB	VERB
+em	PRON	PRON	PRON
+mit	ADP	ADP	ADP|PART
+de	DET	DET	PRON|DET
+linke	ADJ	ADJ	ADJ
+Poot	NOUN	NOUN	PROPN|NOUN|VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Dunn kreeg ick em denn bi de Ohren, Un schleppte hinner mi em her: Doch har ick to veel Bloot verloren Un Musch Franzos sett' sich to Wehr.
+Dunn	ADV	ADV	ADJ|CCONJ|ADV|VERB
+kreeg	VERB	VERB	VERB
+ick	PRON	PRON	PRON
+em	PRON	PRON	PRON
+denn	ADV	ADV	ADV
+bi	ADP	ADP	ADP|PART
+de	DET	DET	PRON|DET
+Ohren	NOUN	NOUN	NOUN
+,	PUNCT	PUNCT	PUNCT
+Un	CCONJ	CCONJ	CCONJ
+schleppte	NOUN	NOUN	_
+hinner	ADV	ADV	ADV
+mi	PRON	PRON	PRON
+em	PRON	PRON	PRON
+her	ADV	ADV	ADV
+:	PUNCT	PUNCT	PUNCT
+Doch	ADV	ADV	ADV
+har	AUX	AUX	AUX
+ick	PRON	PRON	PRON
+to	ADP	ADP	ADP|PART
+veel	NOUN	NOUN	_
+Bloot	NOUN	ADV	NOUN
+verloren	VERB	VERB	VERB
+Un	CCONJ	CCONJ	CCONJ
+Musch	ADJ	ADJ	ADJ|PROPN|NOUN|VERB
+Franzos	NOUN	NOUN	NOUN
+sett'	VERB	VERB	_
+sich	PRON	PRON	PRON
+to	ADP	ADP	ADP|PART
+Wehr	NOUN	NOUN	ADJ|PROPN|ADV|ADP|AUX|NOUN|NUM|VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: So balgen wi uns doa nu rümmer.
+So	ADV	ADV	ADV
+balgen	VERB	VERB	VERB
+wi	PRON	PRON	PRON
+uns	PRON	PRON	PRON
+doa	ADV	ADV	ADV
+nu	ADV	ADV	ADV
+rümmer	ADV	ADV	ADV
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Dunn kümmt tum Glück mit, noch dre Mann Uns Ploasterschmerer Gottlieb Brümmer, De uns nu Beid' in't Schlepptau namm.
+Dunn	ADV	ADV	ADJ|CCONJ|ADV|VERB
+kümmt	VERB	VERB	VERB
+tum	ADP	ADP	ADP
+Glück	NOUN	NOUN	NOUN
+mit	ADP	ADP	ADP|PART
+,	PUNCT	PUNCT	PUNCT
+noch	ADV	ADV	ADV
+dre	ADJ	ADJ	_
+Mann	NOUN	NOUN	NOUN
+Uns	PRON	PRON	PRON
+Ploasterschmerer	VERB?	VERB	NOUN|PROPN
+Gottlieb	NOUN	NOUN	NOUN|PROPN
+Brümmer	PROPN	VERB	PROPN
+,	PUNCT	PUNCT	PUNCT
+De	PRON	PRON	PRON|DET
+uns	PRON	PRON	PRON
+nu	ADV	ADV	ADV
+Beid'	PRON	PRON	PRON|DET
+in't	ADP	ADP	ADP
+Schlepptau	NOUN	NOUN	NOUN|PROPN
+namm	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Nu dürft ick nich mehr mitmarscheeren, Un ligg hier krumm in't Feldlaz'reth un möt erst hören, Bi St.
+Nu	ADV	ADV	ADV
+dürft	AUX	AUX	AUX
+ick	PRON	PRON	PRON
+nich	ADV	ADV	ADV
+mehr	ADV	ADV	ADV
+mitmarscheeren	VERB	VERB	_
+,	PUNCT	PUNCT	PUNCT
+Un	CCONJ	CCONJ	CCONJ
+ligg	VERB	NOUN	VERB
+hier	ADV	ADV	ADV
+krumm	ADJ	ADJ	ADJ
+in't	ADP	ADP	ADP
+Feldlaz'reth	NOUN	NOUN	NOUN|PROPN
+un	CCONJ	CCONJ	CCONJ
+möt	NOUN?	NOUN	ADP|VERB
+erst	ADV	ADV	ADV
+hören	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+Bi	ADP	ADP	ADP|PART
+St	NOUN	NOUN	NOUN|VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Georg; - Ob mi de Dokter loopen lett.
+Georg	PROPN	VERB	PROPN
+;	PUNCT	PUNCT	PUNCT
+-	PUNCT	PUNCT	PUNCT
+Ob	SCONJ	SCONJ	PROPN|CCONJ|ADP|AUX|NOUN|SCONJ|VERB
+mi	PRON	PRON	PRON
+de	DET	DET	PRON|DET
+Dokter	NOUN	NOUN	NOUN
+loopen	AUX	AUX	AUX|VERB
+lett	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Uns Kronprinz is mit siene Truppen Nu ganz dicht bi Paris all ran.
+Uns	PRON	PRON	PRON
+Kronprinz	NOUN	VERB	NOUN
+is	AUX	AUX	AUX
+mit	ADP	ADP	ADP|PART
+siene	DET	DET	DET
+Truppen	NOUN	NOUN	NOUN|PROPN
+Nu	ADV	ADV	ADV
+ganz	ADV	ADV	ADV
+dicht	ADV	ADV	ADJ|ADV
+bi	ADP	ADP	ADP|PART
+Paris	NOUN	NOUN	PROPN|NOUN
+all	ADV	ADV	ADV
+ran	ADV	ADV	ADV
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Un ick sall nu rein still hier hucken Un kieken ruhig dat mit an.
+Un	CCONJ	CCONJ	CCONJ
+ick	PRON	PRON	PRON
+sall	AUX	AUX	AUX
+nu	ADV	ADV	ADV
+rein	ADV	ADV	ADJ|ADV
+still	ADV	ADV	ADV
+hier	ADV	ADV	ADV
+hucken	VERB	VERB	VERB
+Un	CCONJ	CCONJ	CCONJ
+kieken	VERB	VERB	VERB
+ruhig	ADV	ADV	ADJ|ADV
+dat	PRON	PRON	PRON|DET|SCONJ
+mit	ADP	ADP	ADP|PART
+an	ADP	ADP	ADP|PART
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Lett mi de Dokter nich marscheeren, Denn riet ick ut, so veel steiht fest.
+Lett	VERB	VERB	ADP|NOUN|VERB
+mi	PRON	PRON	PRON
+de	DET	DET	PRON|DET
+Dokter	NOUN	NOUN	NOUN
+nich	ADV	ADV	ADV
+marscheeren	VERB	VERB	_
+,	PUNCT	PUNCT	PUNCT
+Denn	ADV	ADV	ADV
+riet	VERB	VERB	_
+ick	PRON	PRON	PRON
+ut	ADP	ADP	ADP|PART
+,	PUNCT	PUNCT	PUNCT
+so	ADV	ADV	ADV
+veel	NOUN	NOUN	_
+steiht	VERB	VERB	VERB
+fest	ADV	ADV	ADV
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Wo war' ick hier de Tied verleeren, Nu kümmt joa bi Paris dat Best.
+Wo	SCONJ	SCONJ	SCONJ
+war'	VERB	VERB	_
+ick	PRON	PRON	PRON
+hier	ADV	ADV	ADV
+de	DET	DET	PRON|DET
+Tied	NOUN	NOUN	NOUN
+verleeren	VERB	VERB	_
+,	PUNCT	PUNCT	PUNCT
+Nu	ADV	ADV	ADV
+kümmt	VERB	VERB	VERB
+joa	NOUN?	NOUN	INTJ|ADV|X|SCONJ|VERB|PART
+bi	ADP	ADP	ADP|PART
+Paris	NOUN	NOUN	PROPN|NOUN
+dat	DET	DET	PRON|DET|SCONJ
+Best	ADJ	ADJ	ADJ|VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Dien Antwort loat man adresseren Gliek noa Paris — up Postrestant Wenn ick man erst den Arm künn röhren; Dat is nischt mit de linke Hand.
+Dien	DET	DET	DET
+Antwort	NOUN	NOUN	NOUN
+loat	VERB	VERB	VERB
+man	PRON	PRON	PRON|ADV
+adresseren	VERB	VERB	_
+Gliek	ADV	ADV	ADV
+noa	ADP	ADP	ADP|PART
+Paris	NOUN	NOUN	PROPN|NOUN
+-	PUNCT	PUNCT	PUNCT
+up	ADP	ADP	ADP|PART
+Postrestant	NOUN	NOUN	NOUN|PROPN
+Wenn	SCONJ	SCONJ	SCONJ
+ick	PRON	PRON	PRON
+man	ADV	ADV	PRON|ADV
+erst	ADV	ADV	ADV
+den	DET	DET	PRON|DET
+Arm	NOUN	NOUN	NOUN
+künn	AUX	AUX	AUX
+röhren	VERB	VERB	VERB
+;	PUNCT	PUNCT	PUNCT
+Dat	PRON	PRON	PRON|DET|SCONJ
+is	AUX	AUX	AUX
+nischt	ADV	ADV	ADV
+mit	ADP	ADP	ADP|PART
+de	DET	DET	PRON|DET
+linke	ADJ	ADJ	ADJ
+Hand	NOUN	NOUN	NOUN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: De Strümp un Jack de heww ick kregen, Un Unnerhosen bruk ick nich.
+De	DET	DET	PRON|DET
+Strümp	NOUN	NOUN	NOUN
+un	CCONJ	CCONJ	CCONJ
+Jack	VERB	VERB	NOUN|VERB
+de	DET	DET	PRON|DET
+heww	NOUN	NOUN	_
+ick	PRON	PRON	PRON
+kregen	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+Un	CCONJ	CCONJ	CCONJ
+Unnerhosen	NOUN	NOUN	NOUN|PROPN
+bruk	VERB	VERB	VERB
+ick	PRON	PRON	PRON
+nich	ADV	ADV	ADV
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Dat Schicken loat man unnerwegen, De dämlich Post de kümmt oft nich.
+Dat	DET	DET	PRON|DET|SCONJ
+Schicken	ADJ	ADJ	ADJ|VERB
+loat	VERB	VERB	VERB
+man	PRON	PRON	PRON|ADV
+unnerwegen	ADV	VERB	ADV
+,	PUNCT	PUNCT	PUNCT
+De	DET	DET	PRON|DET
+dämlich	ADJ	ADJ	ADJ
+Post	NOUN	NOUN	NOUN
+de	PRON	PRON	PRON|DET
+kümmt	VERB	VERB	VERB
+oft	ADV	ADV	ADV
+nich	ADV	ADV	ADV
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Toback heww ick uck noch to rooken, Doch krieg ick selten moal eens Bier.
+Toback	PROPN	PROPN	PROPN|NOUN|VERB
+heww	VERB	VERB	_
+ick	PRON	PRON	PRON
+uck	VERB	VERB	_
+noch	ADV	ADV	ADV
+to	ADP	ADP	ADP|PART
+rooken	VERB	NOUN	VERB
+,	PUNCT	PUNCT	PUNCT
+Doch	ADV	ADV	ADV
+krieg	VERB	VERB	ADJ|NUM|VERB
+ick	PRON	PRON	PRON
+selten	ADJ	ADJ	ADJ|ADV
+moal	ADV	ADV	ADV
+eens	ADV	ADV	ADV
+Bier	VERB	VERB	ADJ|PROPN|NOUN|VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: So'n pommerschen Pantüffel=Kooken Un dicke Arften gift nich hier.
+So'n	DET?	DET	ADJ|NOUN|NUM|VERB
+pommerschen	NOUN	NOUN	_
+Pantüffel-Kooken	VERB?	VERB	NOUN|PROPN
+Un	CCONJ	CCONJ	CCONJ
+dicke	ADJ	ADJ	ADJ|PART|ADV|VERB
+Arften	NOUN	NOUN	NOUN|PROPN
+gift	VERB	VERB	VERB
+nich	ADV	ADV	ADV
+hier	ADV	ADV	ADV
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Wenn Du nu disse Uhl un Oapen Nich kriggst torecht gebokstabert, Loat Di den Kannidoaten roopen, Dat is'n Mann, de hett wat lehrt.
+Wenn	SCONJ	SCONJ	SCONJ
+Du	PRON	PRON	PRON
+nu	ADV	ADV	ADV
+disse	DET	DET	PRON|DET
+Uhl	NOUN	NOUN	NOUN|VERB
+un	CCONJ	CCONJ	CCONJ
+Oapen	NOUN	NOUN	ADJ|NOUN|VERB
+Nich	ADV	ADV	ADV
+kriggst	VERB	VERB	VERB
+torecht	ADV	ADV	ADV
+gebokstabert	VERB	VERB	_
+,	PUNCT	PUNCT	PUNCT
+Loat	VERB	VERB	VERB
+Di	PRON	PRON	PRON
+den	DET	DET	PRON|DET
+Kannidoaten	NOUN	NOUN	NOUN|PROPN
+roopen	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+Dat	DET	DET	PRON|DET|SCONJ
+is'n	VERB	ADJ	VERB
+Mann	NOUN	NOUN	NOUN
+,	PUNCT	PUNCT	PUNCT
+de	PRON	PRON	PRON|DET
+hett	AUX	AUX	AUX
+wat	PRON	PRON	PRON
+lehrt	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Segg Du man nischt to Crischon Bulten Von de Blessur an mienen Arm, Denn de vertellt dat unsen Schulten Un bringt ganz Brietzig in Allarm.
+Segg	VERB	VERB	ADJ|ADP|NOUN|NUM|VERB
+Du	PRON	PRON	PRON
+man	ADV	ADV	PRON|ADV
+nischt	ADV	ADV	ADV
+to	ADP	ADP	ADP|PART
+Crischon	NOUN	NOUN	NOUN|PROPN
+Bulten	VERB?	VERB	NOUN|PROPN
+Von	ADP	ADP	ADP
+de	DET	DET	PRON|DET
+Blessur	NOUN	NOUN	NOUN|PROPN
+an	ADP	ADP	ADP|PART
+mienen	DET	DET	DET
+Arm	NOUN	NOUN	NOUN
+,	PUNCT	PUNCT	PUNCT
+Denn	ADV	ADV	ADV
+de	PRON	PRON	PRON|DET
+vertellt	VERB	VERB	VERB
+dat	PRON	PRON	PRON|DET|SCONJ
+unsen	DET	DET	DET
+Schulten	PROPN	PROPN	PROPN
+Un	CCONJ	CCONJ	CCONJ
+bringt	VERB	VERB	VERB
+ganz	ADV	ADV	ADV
+Brietzig	VERB?	VERB	NOUN|PROPN
+in	ADP	ADP	ADP|PART
+Allarm	NOUN	NOUN	NOUN|PROPN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: De moaken denn doavon so'n Wesen, As leeg ick nu all up den Dood.
+De	PRON	PRON	PRON|DET
+moaken	VERB	VERB	VERB
+denn	ADV	ADV	ADV
+doavon	ADV	ADV	ADV
+so'n	DET	DET	DET
+Wesen	NOUN	NOUN	AUX|NOUN|VERB
+,	PUNCT	PUNCT	PUNCT
+As	CCONJ	CCONJ	CCONJ
+leeg	VERB	VERB	ADJ|ADP|AUX|NUM|VERB
+ick	PRON	PRON	PRON
+nu	ADV	ADV	ADV
+all	ADV	ADV	ADV
+up	ADP	ADP	ADP|PART
+den	DET	DET	PRON|DET
+Dood	ADJ	ADJ	ADJ|ADV
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Kann sinn, wenn dit Geklar Ii lesen, Dat denn mien Arm all werrer good.
+Kann	AUX	AUX	AUX
+sinn	NOUN	NOUN	NOUN
+,	PUNCT	PUNCT	PUNCT
+wenn	SCONJ	SCONJ	SCONJ
+dit	PRON	PRON	PRON|DET
+Geklar	VERB?	VERB	NOUN|PROPN
+Ii	PRON	PRON	PRON
+lesen	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+Dat	PRON	PRON	PRON|DET|SCONJ
+denn	ADV	ADV	ADV
+mien	DET	DET	DET
+Arm	NOUN	NOUN	NOUN
+all	ADV	ADV	ADV
+werrer	VERB	VERB	_
+good	ADV	ADV	ADJ|ADV
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Denn war' ick mi Paris bekieken, Un war' doa rümmer moal spazer’n.
+Denn	ADV	ADV	ADV
+war'	VERB	VERB	_
+ick	PRON	PRON	PRON
+mi	PRON	PRON	PRON
+Paris	NOUN	NOUN	PROPN|NOUN
+bekieken	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+Un	CCONJ	CCONJ	CCONJ
+war'	NOUN	NOUN	_
+doa	ADV	ADV	ADV
+rümmer	ADV	ADV	ADV
+moal	ADV	ADV	ADV
+spazer'n	VERB	VERB	_
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Na nu Ädjüs, mien lew Marrieken!
+Na	ADP	ADP	ADP
+nu	ADV	ADV	ADV
+Ädjüs	VERB?	VERB	NOUN|PROPN
+,	PUNCT	PUNCT	PUNCT
+mien	DET	DET	DET
+lew	ADJ	NOUN	ADJ
+Marrieken	VERB?	VERB	NOUN|PROPN
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: Nu grüß mi uck de beiden Jöhr'n.
+Nu	ADV	ADV	ADV
+grüß	VERB	VERB	ADP|VERB
+mi	PRON	PRON	PRON
+uck	VERB	VERB	_
+de	DET	DET	PRON|DET
+beiden	ADJ	ADJ	ADJ|PRON|ADV
+Jöhr'n	NOUN	NOUN	NOUN|PROPN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Grüß Pasters un den Kannidoaten; Grüß up französch: „Au röh wo ah.
+Grüß	NOUN?	NOUN	ADP|VERB
+Pasters	NOUN	VERB	NOUN
+un	CCONJ	CCONJ	CCONJ
+den	DET	DET	PRON|DET
+Kannidoaten	NOUN	NOUN	NOUN|PROPN
+;	PUNCT	PUNCT	PUNCT
+Grüß	VERB	VERB	ADP|VERB
+up	ADP	ADP	ADP|PART
+französch	ADJ	NOUN	ADJ
+:	PUNCT	PUNCT	PUNCT
+"	PUNCT	PUNCT	PUNCT
+Au	VERB	VERB	NOUN|INTJ|VERB
+röh	PUNCT	PUNCT	_
+wo	SCONJ	SCONJ	SCONJ
+ah	VERB	VERB	INTJ|VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Du kannst Di't gliek verdütschen loaten; So'n bitz französch kann ick nu a.
+Du	PRON	PRON	PRON
+kannst	AUX	AUX	AUX
+Di't	VERB	VERB	VERB
+gliek	ADV	ADV	ADV
+verdütschen	NOUN?	NOUN	ADJ|VERB
+loaten	VERB	VERB	VERB
+;	PUNCT	PUNCT	PUNCT
+So'n	DET?	DET	ADJ|NOUN|NUM|VERB
+bitz	NOUN	NOUN	_
+französch	ADJ	VERB	ADJ
+kann	AUX	AUX	AUX
+ick	PRON	PRON	PRON
+nu	ADV	ADV	ADV
+a	VERB	VERB	ADP|PART|INTJ|VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: So!
+So	ADV	ADV	ADV
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: lew Marriek, nu wes tofreden, De Loadung har ick glücklich löscht.
+lew	ADJ	NOUN	ADJ
+Marriek	VERB?	VERB	NOUN|PROPN
+,	PUNCT	PUNCT	PUNCT
+nu	ADV	ADV	ADV
+wes	ADJ	ADJ	_
+tofreden	VERB	NOUN	VERB
+,	PUNCT	PUNCT	PUNCT
+De	DET	DET	PRON|DET
+Loadung	NOUN	NOUN	NOUN|PROPN
+har	AUX	AUX	AUX
+ick	PRON	PRON	PRON
+glücklich	ADJ	ADJ	ADJ
+löscht	NOUN	NOUN	_
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Mi is to Mooth, wenn ick heww schreben, As har'ck tein Wispel Arften döscht.
+Mi	PRON	PRON	PRON
+is	AUX	AUX	AUX
+to	ADP	ADP	ADP|PART
+Mooth	NOUN	NOUN	NOUN|PROPN
+,	PUNCT	PUNCT	PUNCT
+wenn	SCONJ	SCONJ	SCONJ
+ick	PRON	PRON	PRON
+heww	NOUN	NOUN	_
+schreben	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+As	CCONJ	CCONJ	CCONJ
+har'ck	NOUN	NOUN	_
+tein	NUM	ADJ	NUM
+Wispel	NOUN	NOUN	NOUN|VERB
+Arften	NOUN	NOUN	NOUN|PROPN
+döscht	VERB	VERB	_
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Am 23.
+Am	PRON	PRON	PRON
+23	NUM	NUM	NUM
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: September 1870.
+September	NOUN	NOUN	NOUN
+1870	NUM	NUM	NUM
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Hurroh!
+Hurroh	VERB?	VERB	NOUN|PROPN
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: Crischon hei't isern Krüz.
+Crischon	NOUN	NOUN	NOUN|PROPN
+hei't	VERB	VERB	_
+isern	ADJ	ADJ	ADJ|ADV
+Krüz	NOUN	NOUN	NOUN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Mien lew Marriek!
+Mien	DET	DET	DET
+lew	ADJ	NOUN	ADJ
+Marriek	VERB?	VERB	NOUN|PROPN
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: Dit is to dull Ick schrew Di joa dre Sieden vull, Du hest den Breef nich kreegen?
+Dit	PRON?	PRON	NOUN|VERB
+is	AUX	AUX	AUX
+to	ADP	ADP	ADP|PART
+dull	ADJ	ADJ	ADJ|ADV
+Ick	PRON	PRON	PRON
+schrew	VERB	VERB	VERB
+Di	PRON	PRON	PRON
+joa	NOUN?	NOUN	INTJ|ADV|X|SCONJ|VERB|PART
+dre	VERB	VERB	_
+Sieden	NOUN	NOUN	ADJ|NOUN|VERB
+vull	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+Du	PRON	PRON	PRON
+hest	AUX	AUX	AUX
+den	DET	DET	PRON|DET
+Breef	NOUN	NOUN	NOUN
+nich	ADV	ADV	ADV
+kreegen	VERB	VERB	ADP|VERB
+?	PUNCT	PUNCT	PUNCT
+
+
+# text: Na so wat läwt nich!
+Na	ADP	ADP	ADP
+so	ADV	ADV	ADV
+wat	PRON	PRON	PRON
+läwt	VERB	VERB	VERB
+nich	ADV	ADV	ADV
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: Dit is nett.
+Dit	PRON?	PRON	NOUN|VERB
+is	AUX	AUX	AUX
+nett	VERB	VERB	ADJ|ADV|VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Ick schrew Di joa von't Foldloaz'reth, Wo so ick lang heww legen.
+Ick	PRON	PRON	PRON
+schrew	VERB	VERB	VERB
+Di	PRON	PRON	PRON
+joa	NOUN?	NOUN	INTJ|ADV|X|SCONJ|VERB|PART
+von't	ADP	ADP	ADP|X
+Foldloaz'reth	NOUN	NOUN	NOUN|PROPN
+,	PUNCT	PUNCT	PUNCT
+Wo	SCONJ	SCONJ	SCONJ
+so	ADV	ADV	ADV
+ick	PRON	PRON	PRON
+lang	ADV	ADV	ADV
+heww	NOUN	NOUN	_
+legen	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Dien Angst de kann ick denken mi, Doch doamit is dat nu vörbi, Ick bin ganz goot to wegen.
+Dien	DET	DET	DET
+Angst	NOUN	NOUN	NOUN
+de	PRON	PRON	PRON|DET
+kann	AUX	AUX	AUX
+ick	PRON	PRON	PRON
+denken	VERB	VERB	VERB
+mi	PRON	PRON	PRON
+,	PUNCT	PUNCT	PUNCT
+Doch	ADV	ADV	ADV
+doamit	ADV	ADV	ADV
+is	AUX	AUX	AUX
+dat	PRON	PRON	PRON|DET|SCONJ
+nu	ADV	ADV	ADV
+vörbi	ADV	VERB	ADV
+,	PUNCT	PUNCT	PUNCT
+Ick	PRON	PRON	PRON
+bin	AUX	AUX	AUX
+ganz	ADV	ADV	ADV
+goot	ADJ	ADJ	ADJ
+to	ADP	ADP	ADP|PART
+wegen	VERB?	VERB	ADP|PART
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Acht Doag bin ick all wedder rut, Mien Arm is heel un uck de Schnut De uck wat af har kregen.
+Acht	NUM	NUM	NUM|VERB
+Doag	NOUN	NOUN	NOUN
+bin	AUX	AUX	AUX
+ick	PRON	PRON	PRON
+all	ADV	ADV	ADV
+wedder	ADV	ADV	ADV
+rut	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+Mien	DET	DET	DET
+Arm	NOUN	NOUN	NOUN
+is	AUX	AUX	AUX
+heel	VERB	VERB	VERB
+un	CCONJ	CCONJ	CCONJ
+uck	VERB	VERB	_
+de	DET	DET	PRON|DET
+Schnut	NOUN	NOUN	NOUN|VERB
+De	DET	DET	PRON|DET
+uck	NOUN	NOUN	_
+wat	PRON	PRON	PRON
+af	ADP	ADP	ADP|PART
+har	AUX	AUX	AUX
+kregen	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Ick bin nu prächtig up'n Damm, Un war as preuß'sche Gardemann Mit de Franzosen reden.
+Ick	PRON	PRON	PRON
+bin	AUX	AUX	AUX
+nu	ADV	ADV	ADV
+prächtig	ADJ	ADJ	ADJ
+up'n	ADP	ADP	ADP
+Damm	NOUN	NOUN	PROPN|NOUN|VERB
+,	PUNCT	PUNCT	PUNCT
+Un	CCONJ	CCONJ	CCONJ
+war	AUX	AUX	AUX|X
+as	CCONJ	CCONJ	CCONJ
+preuß'sche	NOUN	NOUN	_
+Gardemann	VERB?	VERB	NOUN|PROPN
+Mit	ADP	ADP	ADP
+de	DET	DET	PRON|DET
+Franzosen	NOUN	NOUN	NOUN
+reden	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Ick scheet gewiß nich mehr vörbi, Denn mien Blessur de argert mi; Ick heww doa schön dran leden.
+Ick	PRON	PRON	PRON
+scheet	VERB	VERB	VERB
+gewiß	ADV	ADV	ADV
+nich	ADV	ADV	ADV
+mehr	ADV	ADV	ADV
+vörbi	ADV	VERB	ADV
+,	PUNCT	PUNCT	PUNCT
+Denn	ADV	ADV	ADV
+mien	DET	DET	DET
+Blessur	NOUN	NOUN	NOUN|PROPN
+de	DET	DET	PRON|DET
+argert	PART	NOUN	PART
+mi	PRON	PRON	PRON
+;	PUNCT	PUNCT	PUNCT
+Ick	PRON	PRON	PRON
+heww	VERB	VERB	_
+doa	ADV	ADV	ADV
+schön	ADV	ADV	ADJ|ADV
+dran	ADV	ADV	ADV
+leden	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Har ick nich so'ne prächt'ge Hut Tum Heel'n — denn wär gewiß de Schnut Sien Doag nich wedder worden.
+Har	AUX	AUX	ADJ|AUX|NOUN|NUM|VERB
+ick	PRON	PRON	PRON
+nich	ADV	ADV	ADV
+so'ne	SCONJ	SCONJ	SCONJ
+prächt'ge	VERB	ADJ	VERB
+Hut	NOUN	NOUN	NOUN|VERB
+Tum	ADP	ADP	ADP
+Heel'n	VERB	VERB	ADP|VERB
+-	PUNCT	PUNCT	PUNCT
+denn	ADV	ADV	ADV
+wär	AUX	AUX	AUX
+gewiß	ADV	ADV	ADV
+de	DET	DET	PRON|DET
+Schnut	NOUN	NOUN	NOUN|VERB
+Sien	DET	DET	AUX|DET
+Doag	NOUN	NOUN	NOUN
+nich	ADV	ADV	ADV
+wedder	ADV	ADV	ADV
+worden	AUX	AUX	AUX
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Uns' Hauptmann sähr: „Gesund zurück?
+Uns'	DET	DET	PRON|DET
+Hauptmann	PROPN	NOUN	PROPN
+sähr	VERB	VERB	_
+:	PUNCT	PUNCT	PUNCT
+"	PUNCT	PUNCT	PUNCT
+Gesund	ADV?	ADV	ADJ|PART
+zurück	X	X	X
+?	PUNCT	PUNCT	PUNCT
+
+
+# text: Recht so, Christian!
+Recht	ADV	ADV	NOUN|ADV
+so	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+Christian	PROPN	VERB	PROPN
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: ich wünsch' Dir Glück; Du kriegst gewiß den Orden.
+ich	PRON	PRON	PRON
+wünsch'	VERB	VERB	_
+Dir	X	X	PRON|X|AUX|NOUN|VERB
+Glück	NOUN	NOUN	NOUN
+;	PUNCT	PUNCT	PUNCT
+Du	PRON	PRON	PRON
+kriegst	VERB	VERB	VERB
+gewiß	ADV	ADV	ADV
+den	DET	DET	PRON|DET
+Orden	NOUN	NOUN	NOUN|PROPN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: " Nu denk Di blot moal an, Marriek, Den Sunndag drup doa heww ick gliek Dat isern Krüz uck kregen.
+"	PUNCT	PUNCT	PUNCT
+Nu	ADV	ADV	ADV
+denk	VERB	VERB	VERB
+Di	PRON	PRON	PRON
+blot	NOUN?	NOUN	ADJ|ADV|VERB
+moal	ADV	ADV	ADV
+an	ADP	ADP	ADP|PART
+,	PUNCT	PUNCT	PUNCT
+Marriek	VERB?	VERB	NOUN|PROPN
+,	PUNCT	PUNCT	PUNCT
+Den	DET	DET	PRON|DET
+Sunndag	NOUN	NOUN	NOUN|PROPN
+drup	ADV	ADV	ADV
+doa	ADV	ADV	ADV
+heww	VERB	VERB	_
+ick	PRON	PRON	PRON
+gliek	ADV	ADV	ADV
+Dat	DET	DET	PRON|DET|SCONJ
+isern	ADJ	ADJ	ADJ|ADV
+Krüz	NOUN	NOUN	NOUN
+uck	NOUN	NOUN	_
+kregen	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Uns' Kompanie har baiersch Bier Twe Fässer kregen, dat wär hier Een lustig Biwak=Leben.
+Uns'	DET	DET	PRON|DET
+Kompanie	NOUN	NOUN	NOUN
+har	AUX	AUX	AUX
+baiersch	ADJ	ADJ	_
+Bier	NOUN	NOUN	ADJ|PROPN|NOUN|VERB
+Twe	ADJ	VERB	ADJ
+Fässer	PROPN	NOUN	PROPN
+kregen	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+dat	PRON	PRON	PRON|DET|SCONJ
+wär	AUX	AUX	AUX
+hier	ADV	ADV	ADV
+Een	DET	DET	PRON|DET
+lustig	ADJ	ADJ	ADJ
+Biwak-Leben	NOUN	NOUN	NOUN|PROPN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Marriek, dat Krüz an miene Brust, Dat is mien Stolz un miene Lust; Dat sall uns' Fritz moal arwen.
+Marriek	VERB?	VERB	NOUN|PROPN
+,	PUNCT	PUNCT	PUNCT
+dat	DET	DET	PRON|DET|SCONJ
+Krüz	NOUN	NOUN	NOUN
+an	ADP	ADP	ADP|PART
+miene	DET	DET	DET
+Brust	NOUN	NOUN	PROPN|NOUN|VERB
+,	PUNCT	PUNCT	PUNCT
+Dat	PRON	PRON	PRON|DET|SCONJ
+is	AUX	AUX	AUX
+mien	DET	DET	DET
+Stolz	ADJ	NOUN	ADJ
+un	CCONJ	CCONJ	CCONJ
+miene	DET	DET	DET
+Lust	NOUN	NOUN	NOUN|VERB
+;	PUNCT	PUNCT	PUNCT
+Dat	PRON	PRON	PRON|DET|SCONJ
+sall	AUX	AUX	AUX
+uns'	DET	DET	PRON|DET
+Fritz	PROPN	PROPN	PROPN
+moal	ADV	ADV	ADV
+arwen	VERB	VERB	_
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Ick heww mi loawt, mit Herz un Hand För König un för't Voaterland To leben un to starwen.
+Ick	PRON	PRON	PRON
+heww	VERB	VERB	_
+mi	PRON	PRON	PRON
+loawt	VERB	VERB	_
+,	PUNCT	PUNCT	PUNCT
+mit	ADP	ADP	ADP|PART
+Herz	NOUN	NOUN	NOUN
+un	CCONJ	CCONJ	CCONJ
+Hand	NOUN	NOUN	NOUN
+För	VERB	VERB	ADJ|ADV|ADP|VERB|NUM
+König	NOUN	NOUN	NOUN
+un	CCONJ	CCONJ	CCONJ
+för't	NOUN	NOUN	_
+Voaterland	NOUN	VERB	NOUN
+To	ADP	ADP	ADP
+leben	NOUN	NOUN	NOUN
+un	CCONJ	CCONJ	CCONJ
+to	ADP	ADP	ADP|PART
+starwen	NOUN	NOUN	_
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Wi wären bi St.
+Wi	PRON	PRON	PRON
+wären	VERB?	VERB	AUX|X
+bi	ADP	ADP	ADP|PART
+St	NOUN	NOUN	NOUN|VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Cloud quarteert, Dat is in Grund nu bombardeert, Doa stoahn de koahlen Muern.
+Cloud	NOUN	NOUN	NOUN|PROPN
+quarteert	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+Dat	PRON	PRON	PRON|DET|SCONJ
+is	AUX	AUX	AUX
+in	ADP	ADP	ADP|PART
+Grund	NOUN	NOUN	NOUN
+nu	ADV	ADV	ADV
+bombardeert	VERB	VERB	_
+,	PUNCT	PUNCT	PUNCT
+Doa	ADV	ADV	ADV
+stoahn	VERB	VERB	VERB
+de	DET	DET	PRON|DET
+koahlen	NOUN	NOUN	_
+Muern	VERB?	VERB	NOUN|PROPN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: De Feind de is doch tämlich toag.
+De	DET	DET	PRON|DET
+Feind	NOUN	NOUN	ADJ|PROPN|NOUN
+de	PRON	PRON	PRON|DET
+is	AUX	AUX	AUX
+doch	ADV	ADV	ADV
+tämlich	ADV	ADJ	ADV
+toag	NOUN	NOUN	_
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Ick dacht gewiß nich all mien Doag, Dat dit so lang künn duern.
+Ick	PRON	PRON	PRON
+dacht	VERB	VERB	VERB
+gewiß	ADV	ADV	ADV
+nich	ADV	ADV	ADV
+all	ADV	ADV	ADV
+mien	DET	DET	DET
+Doag	NOUN	NOUN	NOUN
+,	PUNCT	PUNCT	PUNCT
+Dat	SCONJ	SCONJ	PRON|DET|SCONJ
+dit	PRON	PRON	PRON|DET
+so	ADV	ADV	ADV
+lang	ADV	ADV	ADV
+künn	AUX	AUX	AUX
+duern	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Dat Rackertüg kriggt so veel Schacht, Fast alle Doag un alle Nacht, Un will sich doch nich gewen.
+Dat	DET	DET	PRON|DET|SCONJ
+Rackertüg	NOUN	NOUN	NOUN|PROPN
+kriggt	VERB	VERB	VERB
+so	ADV	ADV	ADV
+veel	ADJ	ADJ	_
+Schacht	PROPN	NOUN	PROPN
+,	PUNCT	PUNCT	PUNCT
+Fast	ADV	ADV	ADJ|NOUN|ADV|VERB
+alle	ADJ	ADJ	ADJ|PRON
+Doag	NOUN	NOUN	NOUN
+un	CCONJ	CCONJ	CCONJ
+alle	ADJ	ADJ	ADJ|PRON
+Nacht	NOUN	NOUN	NOUN
+,	PUNCT	PUNCT	PUNCT
+Un	CCONJ	CCONJ	CCONJ
+will	AUX	AUX	AUX
+sich	PRON	PRON	PRON
+doch	ADV	ADV	ADV
+nich	ADV	ADV	ADV
+gewen	VERB	VERB	PART|VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Uns' König wull unnood Paris Bescheeten; doch dat is umsüß.
+Uns'	DET	DET	PRON|DET
+König	NOUN	NOUN	NOUN
+wull	AUX	AUX	AUX
+unnood	ADJ	ADJ	_
+Paris	NOUN	NOUN	PROPN|NOUN
+Bescheeten	VERB?	VERB	NOUN|PROPN
+;	PUNCT	PUNCT	PUNCT
+doch	ADV	ADV	ADV
+dat	PRON	PRON	PRON|DET|SCONJ
+is	AUX	AUX	AUX
+umsüß	VERB	VERB	_
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Wi möten anners reden.
+Wi	PRON	PRON	PRON
+möten	VERB	VERB	VERB
+anners	ADV	ADV	ADV
+reden	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Uns' Moltke mücht gern bombardeern Un ganz Paris in Schutt verkehr'n, Doch Bismarck will't nich lieden; He seggt: „mein lieber Herr Gen'ral, Das ist ganz schön, doch seh'n Sie mal Wo will'n wi noahsten blieben?
+Uns'	DET	DET	PRON|DET
+Moltke	NOUN	NOUN	NOUN
+mücht	AUX	AUX	AUX
+gern	ADV	ADV	ADV
+bombardeern	VERB	VERB	_
+Un	CCONJ	CCONJ	CCONJ
+ganz	ADV	ADV	ADV
+Paris	VERB?	VERB	PROPN|NOUN
+in	ADP	ADP	ADP|PART
+Schutt	NOUN	NOUN	NOUN|VERB
+verkehr'n	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+Doch	ADV	ADV	ADV
+Bismarck	PROPN	VERB	PROPN
+will't	AUX	AUX	AUX
+nich	ADV	ADV	ADV
+lieden	VERB	VERB	VERB
+;	PUNCT	PUNCT	PUNCT
+He	PRON	PRON	PRON
+seggt	VERB	VERB	VERB
+:	PUNCT	PUNCT	PUNCT
+"	PUNCT	PUNCT	PUNCT
+mein	X	X	X
+lieber	X	X	X
+Herr	NOUN	NOUN	NOUN
+Gen'ral	VERB?	VERB	NOUN|PROPN
+,	PUNCT	PUNCT	PUNCT
+Das	PRON	PRON	PRON|DET|X
+ist	AUX	AUX	AUX
+ganz	ADV	ADV	ADV
+schön	ADJ	ADJ	ADJ|ADV
+,	PUNCT	PUNCT	PUNCT
+doch	ADV	ADV	ADV
+seh'n	VERB	VERB	VERB
+Sie	PRON	PRON	PRON
+mal	ADV	ADV	ADV
+Wo	SCONJ	SCONJ	SCONJ
+will'n	AUX	AUX	AUX
+wi	PRON	PRON	PRON
+noahsten	NOUN	NOUN	_
+blieben	VERB	VERB	VERB
+?	PUNCT	PUNCT	PUNCT
+
+
+# text: Doa hett he Recht; Paris dat wär För'n Winter ’t beste Hauptquarteer, Wenn wi ’t man blot erst haren.
+Doa	ADV	ADV	ADV
+hett	AUX	AUX	AUX
+he	PRON	PRON	PRON
+Recht	ADV	ADV	NOUN|ADV
+;	PUNCT	PUNCT	PUNCT
+Paris	VERB?	VERB	PROPN|NOUN
+dat	PRON	PRON	PRON|DET|SCONJ
+wär	AUX	AUX	AUX
+För'n	VERB?	VERB	NOUN|PROPN
+Winter	PROPN	PROPN	PROPN|NOUN|VERB
+'t	DET	DET	PRON|DET
+beste	ADJ	NOUN	ADJ
+Hauptquarteer	VERB?	VERB	NOUN|PROPN
+,	PUNCT	PUNCT	PUNCT
+Wenn	SCONJ	SCONJ	SCONJ
+wi	PRON	PRON	PRON
+'t	PRON	PRON	PRON|DET
+man	ADV	ADV	PRON|ADV
+blot	NOUN?	NOUN	ADJ|ADV|VERB
+erst	ADV	ADV	ADV
+haren	VERB	VERB	_
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Hier ligg'n wi bet an'n Hals im Dreck Un koamen joarnich von den Fleck; Paris hölt uns tum Narren.
+Hier	ADV	ADV	ADV
+ligg'n	VERB	VERB	_
+wi	PRON	PRON	PRON
+bet	ADP	ADP	ADP|PART
+an'n	ADP	ADP	ADP
+Hals	NOUN	NOUN	NOUN
+im	ADP	ADP	ADP
+Dreck	NOUN	NOUN	NOUN|VERB
+Un	CCONJ	CCONJ	CCONJ
+koamen	VERB	VERB	VERB
+joarnich	NOUN	NOUN	_
+von	ADP	ADP	ADP|PART
+den	DET	DET	PRON|DET
+Fleck	NOUN	NOUN	PROPN|NOUN|VERB
+;	PUNCT	PUNCT	PUNCT
+Paris	NOUN	NOUN	PROPN|NOUN
+hölt	VERB	VERB	VERB
+uns	PRON	PRON	PRON
+tum	ADP	ADP	ADP
+Narren	NOUN	NOUN	NOUN|VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: De Häupters moaken sich doavon, Denk Di blot an — per Luftballon, Doa sinn se nich to langen.
+De	DET	DET	PRON|DET
+Häupters	NOUN	NOUN	NOUN|PROPN
+moaken	VERB	VERB	VERB
+sich	PRON	PRON	PRON
+doavon	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+Denk	VERB	VERB	NOUN|VERB
+Di	PRON	PRON	PRON
+blot	NOUN?	NOUN	ADJ|ADV|VERB
+an	ADP	ADP	ADP|PART
+-	PUNCT	PUNCT	PUNCT
+per	NOUN?	NOUN	ADP|PART|VERB
+Luftballon	VERB?	VERB	NOUN|PROPN
+,	PUNCT	PUNCT	PUNCT
+Doa	ADV	ADV	ADV
+sinn	NOUN	NOUN	NOUN
+se	PRON	PRON	PRON
+nich	ADV	ADV	ADV
+to	ADP	ADP	ADP|PART
+langen	ADJ	ADJ	ADJ|VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Nu denk moal bitschen noah, Marriek; Du wetst doch gooden Roath sünst gliek, Ick mücht so'n Ding gern fangen.
+Nu	ADV	ADV	ADV
+denk	VERB	VERB	VERB
+moal	ADV	ADV	ADV
+bitschen	ADJ	ADJ	ADJ
+noah	ADP	ADP	ADP|PART
+,	PUNCT	PUNCT	PUNCT
+Marriek	VERB?	VERB	NOUN|PROPN
+;	PUNCT	PUNCT	PUNCT
+Du	PRON	PRON	PRON
+wetst	VERB	VERB	_
+doch	ADV	ADV	ADV
+gooden	ADJ	ADJ	ADJ
+Roath	NOUN	NOUN	NOUN
+sünst	ADV	ADV	ADV
+gliek	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+Ick	PRON	PRON	PRON
+mücht	AUX	AUX	AUX
+so'n	DET	DET	DET
+Ding	NOUN	NOUN	NOUN
+gern	ADV	ADV	ADV
+fangen	VERB	VERB	ADJ|VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Die Rackers föhren krüz un quer Uns immer öwer'n Kopp ümher.
+Die	PRON	PRON	PRON
+Rackers	NOUN	VERB	NOUN
+föhren	NOUN	NOUN	NOUN
+krüz	VERB	VERB	PUNCT|VERB
+un	CCONJ	CCONJ	CCONJ
+quer	ADV	ADV	ADV
+Uns	PRON	PRON	PRON
+immer	ADV	ADV	ADV
+öwer'n	ADJ	ADJ	_
+Kopp	NOUN	NOUN	NOUN
+ümher	ADV	ADV	ADV
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Wo is dat woll to moaken?
+Wo	SCONJ	SCONJ	SCONJ
+is	AUX	AUX	AUX
+dat	PRON	PRON	PRON|DET|SCONJ
+woll	ADV	ADV	ADV
+to	ADP	ADP	ADP|PART
+moaken	VERB	VERB	VERB
+?	PUNCT	PUNCT	PUNCT
+
+
+# text: De Kerls de möten schlau doch sind, Se passen so sich af den Wind, Dat wi se nich kön'n foaten.
+De	DET	DET	PRON|DET
+Kerls	NOUN	NOUN	NOUN
+de	DET	DET	PRON|DET
+möten	VERB	NOUN	VERB
+schlau	VERB	VERB	ADJ|VERB
+doch	ADV	ADV	ADV
+sind	AUX	AUX	AUX
+,	PUNCT	PUNCT	PUNCT
+Se	PRON	PRON	PRON
+passen	VERB	VERB	VERB
+so	ADV	ADV	ADV
+sich	PRON	PRON	PRON
+af	ADP	ADP	ADP|PART
+den	DET	DET	PRON|DET
+Wind	NOUN	NOUN	NOUN
+,	PUNCT	PUNCT	PUNCT
+Dat	SCONJ	SCONJ	PRON|DET|SCONJ
+wi	PRON	PRON	PRON
+se	PRON	PRON	PRON
+nich	ADV	ADV	ADV
+kön'n	NOUN?	NOUN	ADJ|NUM|VERB
+foaten	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Na loat se man, kümmt Tied, kümmt Roath, De Dütschen sinn doch as Saldoat De allergrötsten Helden.
+Na	ADP	ADP	ADP
+loat	VERB	VERB	VERB
+se	PRON	PRON	PRON
+man	ADV	ADV	PRON|ADV
+,	PUNCT	PUNCT	PUNCT
+kümmt	VERB	VERB	VERB
+Tied	NOUN	NOUN	NOUN
+,	PUNCT	PUNCT	PUNCT
+kümmt	VERB	VERB	VERB
+Roath	NOUN	NOUN	NOUN
+,	PUNCT	PUNCT	PUNCT
+De	DET	DET	PRON|DET
+Dütschen	ADJ	ADJ	ADJ|NOUN
+sinn	NOUN	NOUN	NOUN
+doch	ADV	ADV	ADV
+as	CCONJ	CCONJ	CCONJ
+Saldoat	VERB?	VERB	PROPN|NOUN
+De	DET	DET	PRON|DET
+allergrötsten	ADJ	NOUN	ADJ
+Helden	NOUN	VERB	NOUN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Wi war'n ehr dat besorgen noch; Paris dat krieg'n wi endlich doch, Denn war'ck mi wedder melden.
+Wi	PRON	PRON	PRON
+war'n	VERB	VERB	_
+ehr	PRON	PRON	ADJ|PRON|ADV|NUM|VERB
+dat	DET	DET	PRON|DET|SCONJ
+besorgen	VERB	NOUN	VERB
+noch	ADV	ADV	ADV
+;	PUNCT	PUNCT	PUNCT
+Paris	VERB?	VERB	PROPN|NOUN
+dat	PRON	PRON	PRON|DET|SCONJ
+krieg'n	VERB	VERB	ADP|VERB
+wi	PRON	PRON	PRON
+endlich	ADV	ADV	ADV
+doch	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+Denn	ADV	ADV	ADV
+war'ck	VERB	VERB	_
+mi	PRON	PRON	PRON
+wedder	ADV	ADV	ADV
+melden	VERB	VERB	_
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Du wetst Marriek, ick heww Di lew, Doch eher kriggst Du keenen Breef, Bet ick Di so kann schrieben: „Marrieken, wetst Du ganz wat Niegs!
+Du	PRON	PRON	PRON
+wetst	NOUN	NOUN	_
+Marriek	VERB?	VERB	NOUN|PROPN
+,	PUNCT	PUNCT	PUNCT
+ick	PRON	PRON	PRON
+heww	VERB	VERB	_
+Di	PRON	PRON	PRON
+lew	ADJ	VERB	ADJ
+,	PUNCT	PUNCT	PUNCT
+Doch	ADV	ADV	ADV
+eher	ADV	ADV	ADV
+kriggst	VERB	VERB	VERB
+Du	PRON	PRON	PRON
+keenen	DET	DET	PRON|DET
+Breef	NOUN	NOUN	NOUN
+,	PUNCT	PUNCT	PUNCT
+Bet	ADP	ADP	ADP
+ick	PRON	PRON	PRON
+Di	PRON	PRON	PRON
+so	ADV	ADV	ADV
+kann	AUX	AUX	AUX
+schrieben	VERB	VERB	VERB
+:	PUNCT	PUNCT	PUNCT
+"	PUNCT	PUNCT	PUNCT
+Marrieken	VERB?	VERB	NOUN|PROPN
+,	PUNCT	PUNCT	PUNCT
+wetst	VERB	VERB	_
+Du	PRON	PRON	PRON
+ganz	ADV	ADV	ADV
+wat	PRON	PRON	PRON
+Niegs	NOUN	VERB	NOUN
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: Jitzt sinn wi glücklich in Paris," Un doabi sall dat blieben.
+Jitzt	ADV	ADV	ADV
+sinn	NOUN	NOUN	NOUN
+wi	PRON	PRON	PRON
+glücklich	ADJ	ADJ	ADJ
+in	ADP	ADP	ADP|PART
+Paris	NOUN	NOUN	PROPN|NOUN
+,	PUNCT	PUNCT	PUNCT
+"	PUNCT	PUNCT	PUNCT
+Un	CCONJ	CCONJ	CCONJ
+doabi	VERB	NOUN	VERB
+sall	AUX	AUX	AUX
+dat	PRON	PRON	PRON|DET|SCONJ
+blieben	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Wo geiht denn dat to Hus mit Di?
+Wo	SCONJ	SCONJ	SCONJ
+geiht	VERB	VERB	VERB
+denn	ADV	ADV	ADV
+dat	PRON	PRON	PRON|DET|SCONJ
+to	ADP	ADP	ADP|PART
+Hus	NOUN	NOUN	NOUN
+mit	ADP	ADP	ADP|PART
+Di	PRON	PRON	PRON
+?	PUNCT	PUNCT	PUNCT
+
+
+# text: Du schrifst joa man so'n Happen mi, Wat moaken unse Jöhren?
+Du	PRON	PRON	PRON
+schrifst	VERB	VERB	_
+joa	NOUN?	NOUN	INTJ|ADV|X|SCONJ|VERB|PART
+man	ADV	ADV	PRON|ADV
+so'n	DET	DET	DET
+Happen	NOUN	NOUN	NOUN
+mi	PRON	PRON	PRON
+,	PUNCT	PUNCT	PUNCT
+Wat	PRON	PRON	PRON
+moaken	VERB	VERB	VERB
+unse	DET	DET	DET
+Jöhren	PROPN	NOUN	PROPN
+?	PUNCT	PUNCT	PUNCT
+
+
+# text: Un hör Marriek, denk doch joa dran, Un goah bi Koopmann Junklaus ran, Wenn Ii noah Pyritz föhren.
+Un	CCONJ	CCONJ	CCONJ
+hör	VERB	VERB	VERB
+Marriek	VERB?	VERB	NOUN|PROPN
+,	PUNCT	PUNCT	PUNCT
+denk	VERB	VERB	VERB
+doch	ADV	ADV	ADV
+joa	NOUN?	NOUN	INTJ|ADV|X|SCONJ|VERB|PART
+dran	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+Un	CCONJ	CCONJ	CCONJ
+goah	VERB	VERB	VERB
+bi	ADP	ADP	ADP|PART
+Koopmann	NOUN	NOUN	NOUN
+Junklaus	VERB?	VERB	NOUN|PROPN
+ran	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+Wenn	SCONJ	SCONJ	SCONJ
+Ii	PRON	PRON	PRON
+noah	ADP	ADP	ADP|PART
+Pyritz	ADJ?	ADJ	NOUN|PROPN
+föhren	NOUN	NOUN	NOUN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Denn grüß em schön un segg em man, „Dat ick den Bittern loaben kann" Ick loat mi uck bedanken.
+Denn	ADV	ADV	ADV
+grüß	VERB	VERB	ADP|VERB
+em	PRON	PRON	PRON
+schön	ADJ	ADJ	ADJ|ADV
+un	CCONJ	CCONJ	CCONJ
+segg	VERB	VERB	VERB
+em	PRON	PRON	PRON
+man	ADV	ADV	PRON|ADV
+,	PUNCT	PUNCT	PUNCT
+"	PUNCT	PUNCT	PUNCT
+Dat	SCONJ	SCONJ	PRON|DET|SCONJ
+ick	PRON	PRON	PRON
+den	DET	DET	PRON|DET
+Bittern	NOUN	NOUN	ADJ|NOUN|VERB
+loaben	VERB	VERB	VERB
+kann	AUX	AUX	AUX
+"	PUNCT	PUNCT	PUNCT
+Ick	PRON	PRON	PRON
+loat	VERB	VERB	VERB
+mi	PRON	PRON	PRON
+uck	NOUN	NOUN	_
+bedanken	VERB	VERB	_
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Dat is een richtig Moagenschluck, Kratzt nich to dull un warmt doch uck; Dat is wat för uns' Kranken Un denn froag up de Post man noah Un schimp man up de Wirthschaft doa, Wat sinn mi dat för Schosen.
+Dat	PRON	PRON	PRON|DET|SCONJ
+is	AUX	AUX	AUX
+een	DET	DET	PRON|DET
+richtig	ADJ	ADJ	ADJ
+Moagenschluck	NOUN	NOUN	NOUN|PROPN
+,	PUNCT	PUNCT	PUNCT
+Kratzt	VERB	VERB	VERB
+nich	ADV	ADV	ADV
+to	ADP	ADP	ADP|PART
+dull	ADJ	ADJ	ADJ|ADV
+un	CCONJ	CCONJ	CCONJ
+warmt	NOUN?	NOUN	ADP|VERB
+doch	ADV	ADV	ADV
+uck	VERB	VERB	_
+;	PUNCT	PUNCT	PUNCT
+Dat	PRON	PRON	PRON|DET|SCONJ
+is	AUX	AUX	AUX
+wat	PRON	PRON	PRON
+för	VERB	VERB	ADJ|ADV|ADP|VERB|NUM
+uns'	DET	DET	PRON|DET
+Kranken	NOUN	NOUN	ADJ|NOUN|VERB
+Un	CCONJ	CCONJ	CCONJ
+denn	ADV	ADV	ADV
+froag	VERB	VERB	ADJ|NUM|VERB
+up	ADP	ADP	ADP|PART
+de	DET	DET	PRON|DET
+Post	NOUN	NOUN	NOUN
+man	ADV	ADV	PRON|ADV
+noah	ADP	ADP	ADP|PART
+Un	CCONJ	CCONJ	CCONJ
+schimp	VERB	PROPN	VERB
+man	ADV	ADV	PRON|ADV
+up	ADP	ADP	ADP|PART
+de	DET	DET	PRON|DET
+Wirthschaft	NOUN	NOUN	NOUN
+doa	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+Wat	PRON	PRON	PRON
+sinn	NOUN	NOUN	NOUN
+mi	PRON	PRON	PRON
+dat	DET	DET	PRON|DET|SCONJ
+för	NOUN?	NOUN	ADJ|ADV|ADP|VERB|NUM
+Schosen	VERB?	VERB	NOUN|PROPN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Kotz schlag!
+Kotz	VERB	VERB	PROPN|NOUN|VERB
+schlag	VERB	NOUN	VERB
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: Holl still, schimp nich, Marriek; Mi föllt jitzt eben in tum Glück, De Breef — steckt in mien Hosen.
+Holl	VERB	VERB	ADJ|ADP|NOUN|NUM|VERB
+still	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+schimp	VERB	PROPN	VERB
+nich	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+Marriek	VERB?	VERB	NOUN|PROPN
+;	PUNCT	PUNCT	PUNCT
+Mi	PRON	PRON	PRON
+föllt	VERB	VERB	VERB
+jitzt	ADV	ADV	ADV
+eben	ADV	ADV	ADV
+in	ADP	ADP	ADP|PART
+tum	ADP	ADP	ADP
+Glück	NOUN	NOUN	NOUN
+,	PUNCT	PUNCT	PUNCT
+De	DET	DET	PRON|DET
+Breef	NOUN	NOUN	NOUN
+-	PUNCT	PUNCT	PUNCT
+steckt	VERB	VERB	VERB
+in	ADP	ADP	ADP|PART
+mien	DET	DET	DET
+Hosen	NOUN	NOUN	NOUN|VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: As ick noaht Feldpost lopen wull,, Dunn regente dat groad so dull.
+As	CCONJ	CCONJ	CCONJ
+ick	PRON	PRON	PRON
+noaht	VERB	VERB	_
+Feldpost	NOUN	NOUN	NOUN|PROPN
+lopen	VERB	VERB	VERB
+wull	AUX	AUX	AUX
+,	PUNCT	PUNCT	PUNCT
+,	PUNCT	PUNCT	PUNCT
+Dunn	ADV	ADV	ADJ|CCONJ|ADV|VERB
+regente	VERB	VERB	_
+dat	PRON	PRON	PRON|DET|SCONJ
+groad	ADV	ADV	ADJ|ADV
+so	ADV	ADV	ADV
+dull	ADJ	ADJ	ADJ|ADV
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Ick denk, töw noch een Bäten.
+Ick	PRON	PRON	PRON
+denk	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+töw	VERB	VERB	VERB
+noch	ADV	ADV	ADV
+een	DET	DET	PRON|DET
+Bäten	NOUN	NOUN	ADJ|NOUN|VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: ﻿14 Dunn treckt ick mi drög Hosen an, Un noahsten dacht ick nich mehr dran; So heww ick dat vergeten.
+﻿14	PUNCT	NOUN	PUNCT
+Dunn	ADV	ADV	ADJ|CCONJ|ADV|VERB
+treckt	VERB	VERB	VERB
+ick	PRON	PRON	PRON
+mi	PRON	PRON	PRON
+drög	VERB	VERB	VERB
+Hosen	NOUN	NOUN	NOUN|VERB
+an	ADP	ADP	ADP|PART
+,	PUNCT	PUNCT	PUNCT
+Un	CCONJ	CCONJ	CCONJ
+noahsten	NOUN	NOUN	_
+dacht	VERB	VERB	VERB
+ick	PRON	PRON	PRON
+nich	ADV	ADV	ADV
+mehr	ADV	ADV	ADV
+dran	ADV	ADV	ADV
+;	PUNCT	PUNCT	PUNCT
+So	ADV	ADV	ADV
+heww	VERB	VERB	_
+ick	PRON	PRON	PRON
+dat	PRON	PRON	PRON|DET|SCONJ
+vergeten	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Na nu, mien allerlewst Marriek, Ick möt nu up Vörposten gliek, Dat heww'ck uck bald in'n Moagen.
+Na	ADP	ADP	ADP
+nu	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+mien	DET	DET	DET
+allerlewst	ADJ	NOUN	ADJ
+Marriek	VERB?	VERB	NOUN|PROPN
+,	PUNCT	PUNCT	PUNCT
+Ick	PRON	PRON	PRON
+möt	VERB	VERB	ADP|VERB
+nu	ADV	ADV	ADV
+up	ADP	ADP	ADP|PART
+Vörposten	NOUN	NOUN	NOUN|PROPN
+gliek	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+Dat	DET	DET	PRON|DET|SCONJ
+heww'ck	NOUN	NOUN	_
+uck	VERB	VERB	_
+bald	ADV	ADV	ADV
+in'n	ADP	ADP	ADP
+Moagen	NOUN	NOUN	NOUN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Ick wull, ick wär to Hus bi Di, Wenn Du uck manchmoal zankst mit mi, Dat lett sich ehr verdroagen.
+Ick	PRON	PRON	PRON
+wull	AUX	AUX	AUX
+,	PUNCT	PUNCT	PUNCT
+ick	PRON	PRON	PRON
+wär	AUX	AUX	AUX
+to	ADP	ADP	ADP|PART
+Hus	NOUN	NOUN	NOUN
+bi	ADP	ADP	ADP|PART
+Di	PRON	PRON	PRON
+,	PUNCT	PUNCT	PUNCT
+Wenn	SCONJ	SCONJ	SCONJ
+Du	PRON	PRON	PRON
+uck	VERB	VERB	_
+manchmoal	ADJ	ADJ	_
+zankst	NOUN	NOUN	_
+mit	ADP	ADP	ADP|PART
+mi	PRON	PRON	PRON
+,	PUNCT	PUNCT	PUNCT
+Dat	PRON	PRON	PRON|DET|SCONJ
+lett	VERB	VERB	VERB
+sich	PRON	PRON	PRON
+ehr	PRON	PRON	ADJ|PRON|ADV|NUM|VERB
+verdroagen	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Doch nu läw woll mien Herzenswiew, Un mit de Jung's gesund hübsch bliew; Un segg Du man to Fritzen: Wenn he in't Schaul recht flietig is, Denn bring ick mit em von Paris Twee grote Kugelspritzen.
+Doch	ADV	ADV	ADV
+nu	ADV	ADV	ADV
+läw	VERB	VERB	_
+woll	ADV	ADV	ADV
+mien	DET	DET	DET
+Herzenswiew	NOUN	NOUN	NOUN|PROPN
+,	PUNCT	PUNCT	PUNCT
+Un	CCONJ	CCONJ	CCONJ
+mit	ADP	ADP	ADP|PART
+de	DET	DET	PRON|DET
+Jung's	NOUN	NOUN	NOUN
+gesund	ADV	ADV	ADJ|ADV
+hübsch	ADV	ADV	ADJ|ADV
+bliew	VERB	VERB	VERB
+;	PUNCT	PUNCT	PUNCT
+Un	CCONJ	CCONJ	CCONJ
+segg	VERB	VERB	VERB
+Du	PRON	PRON	PRON
+man	ADV	ADV	PRON|ADV
+to	ADP	ADP	ADP|PART
+Fritzen	NOUN	NOUN	PROPN|NOUN
+:	PUNCT	PUNCT	PUNCT
+Wenn	SCONJ	SCONJ	SCONJ
+he	PRON	PRON	PRON
+in't	ADP	ADP	ADP
+Schaul	NOUN	NOUN	NOUN|PROPN
+recht	ADV	ADV	ADV
+flietig	ADJ	ADJ	ADJ
+is	AUX	AUX	AUX
+,	PUNCT	PUNCT	PUNCT
+Denn	ADV	ADV	ADV
+bring	VERB	VERB	ADP|VERB
+ick	PRON	PRON	PRON
+mit	ADP	ADP	ADP|PART
+em	PRON	PRON	PRON
+von	ADP	ADP	ADP|PART
+Paris	NOUN	NOUN	PROPN|NOUN
+Twee	NUM	NUM	NUM
+grote	ADJ	ADJ	ADJ
+Kugelspritzen	NOUN	NOUN	NOUN|PROPN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Am 24.
+Am	PRON	PRON	PRON
+24	NUM	VERB	NUM
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Oktober 1870.
+Oktober	NOUN	NOUN	NOUN
+1870	NUM	NUM	NUM
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Crischon fängt Luftballons!
+Crischon	NOUN	NOUN	NOUN|PROPN
+fängt	VERB	VERB	VERB
+Luftballons	VERB?	VERB	NOUN|PROPN
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: un verleert doabi sien schöne Piep.
+un	CCONJ	CCONJ	CCONJ
+verleert	NOUN	NOUN	_
+doabi	VERB	VERB	VERB
+sien	DET	DET	AUX|DET
+schöne	ADJ	ADJ	ADJ
+Piep	NOUN	NOUN	NOUN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Mien lew Marriek!
+Mien	DET	DET	DET
+lew	ADJ	NOUN	ADJ
+Marriek	VERB?	VERB	NOUN|PROPN
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: Wat schrifst Du mi, Du glöwst, ick denk nich mehr an Di?
+Wat	PRON	PRON	PRON
+schrifst	VERB	VERB	_
+Du	PRON	PRON	PRON
+mi	PRON	PRON	PRON
+,	PUNCT	PUNCT	PUNCT
+Du	PRON	PRON	PRON
+glöwst	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+ick	PRON	PRON	PRON
+denk	VERB	VERB	VERB
+nich	ADV	ADV	ADV
+mehr	ADV	ADV	ADV
+an	ADP	ADP	ADP|PART
+Di	PRON	PRON	PRON
+?	PUNCT	PUNCT	PUNCT
+
+
+# text: Wo kannst Du dat woll glöwen.
+Wo	SCONJ	SCONJ	SCONJ
+kannst	AUX	AUX	AUX
+Du	PRON	PRON	PRON
+dat	PRON	PRON	PRON|DET|SCONJ
+woll	ADV	ADV	ADV
+glöwen	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Ick heww Di dunn doch footsten seggt, Bet wi uns harr'n Paris toleggt, Wull ick mit Schrieben töwen.
+Ick	PRON	PRON	PRON
+heww	VERB	VERB	_
+Di	PRON	PRON	PRON
+dunn	ADV	ADV	ADJ|ADV
+doch	ADV	ADV	ADV
+footsten	NOUN	NOUN	_
+seggt	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+Bet	ADP	ADP	ADP
+wi	PRON	PRON	PRON
+uns	PRON	PRON	PRON
+harr'n	VERB	VERB	_
+Paris	NOUN	NOUN	PROPN|NOUN
+toleggt	VERB	VERB	_
+,	PUNCT	PUNCT	PUNCT
+Wull	AUX	AUX	ADJ|AUX|NOUN|NUM|VERB
+ick	PRON	PRON	PRON
+mit	ADP	ADP	ADP|PART
+Schrieben	NOUN	NOUN	NOUN|VERB
+töwen	VERB	VERB	_
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Nu duert mi dat uck to lang, Mi ward noah Di nu uck all bang; Doch wull mien Woort ick hullen.
+Nu	ADV	ADV	ADV
+duert	VERB	VERB	_
+mi	PRON	PRON	PRON
+dat	DET	DET	PRON|DET|SCONJ
+uck	NOUN	NOUN	_
+to	ADP	ADP	ADP|PART
+lang	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+Mi	PRON	PRON	PRON
+ward	AUX	AUX	AUX
+noah	ADP	ADP	ADP|PART
+Di	PRON	PRON	PRON
+nu	ADV	ADV	ADV
+uck	VERB	VERB	_
+all	ADV	ADV	ADV
+bang	VERB	VERB	ADJ|NUM|VERB
+;	PUNCT	PUNCT	PUNCT
+Doch	ADV	ADV	ADV
+wull	AUX	AUX	AUX
+mien	DET	DET	DET
+Woort	NOUN	NOUN	NOUN
+ick	PRON	PRON	PRON
+hullen	VERB	VERB	_
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Wi heww'n Paris noch iimmer nich, Un bombardeeren söll'n wi nich; Dat sinn nu sone Schrullen.
+Wi	PRON	PRON	PRON
+heww'n	VERB	VERB	_
+Paris	NOUN	NOUN	PROPN|NOUN
+noch	ADV	ADV	ADV
+iimmer	VERB	VERB	_
+nich	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+Un	CCONJ	CCONJ	CCONJ
+bombardeeren	NOUN	NOUN	_
+söll'n	AUX	AUX	AUX
+wi	PRON	PRON	PRON
+nich	ADV	ADV	ADV
+;	PUNCT	PUNCT	PUNCT
+Dat	DET	DET	PRON|DET|SCONJ
+sinn	NOUN	NOUN	NOUN
+nu	ADV	ADV	ADV
+sone	ADJ	ADJ	_
+Schrullen	NOUN	NOUN	NOUN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Mi dücht, uthungern dat geiht schlecht, Denn so'n Franzos, wat ett de recht; Joa, wenn dat Pommern wären!
+Mi	PRON	PRON	PRON
+dücht	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+uthungern	VERB	VERB	_
+dat	PRON	PRON	PRON|DET|SCONJ
+geiht	VERB	VERB	VERB
+schlecht	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+Denn	ADV	ADV	ADV
+so'n	DET	DET	DET
+Franzos	NOUN	NOUN	NOUN
+,	PUNCT	PUNCT	PUNCT
+wat	PRON	PRON	PRON
+ett	VERB	VERB	_
+de	DET	DET	PRON|DET
+recht	ADV	NOUN	ADV
+;	PUNCT	PUNCT	PUNCT
+Joa	NOUN	NOUN	NOUN
+,	PUNCT	PUNCT	PUNCT
+wenn	SCONJ	SCONJ	SCONJ
+dat	PRON	PRON	PRON|DET|SCONJ
+Pommern	PROPN	PROPN	PROPN|NOUN
+wären	VERB?	VERB	AUX|X
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: Wi har'n dat Fleesch up jeden Fall De ersten vierteihn Doag gliek all, Wi würden mehr vertehren.
+Wi	PRON	PRON	PRON
+har'n	VERB	VERB	ADJ|X|VERB
+dat	DET	DET	PRON|DET|SCONJ
+Fleesch	NOUN	NOUN	ADJ|NOUN
+up	ADP	ADP	ADP|PART
+jeden	DET	DET	PRON|DET
+Fall	NOUN	NOUN	ADJ|NOUN|NUM|VERB
+De	DET	DET	PRON|DET
+ersten	ADJ	ADJ	ADJ
+vierteihn	NOUN	NOUN	_
+Doag	NOUN	NOUN	NOUN
+gliek	ADV	ADV	ADV
+all	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+Wi	PRON	PRON	PRON
+würden	AUX	AUX	AUX
+mehr	ADV	ADV	ADV
+vertehren	VERB	VERB	_
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Doch so'n Franzos, dat Gott erbarm!
+Doch	ADV	ADV	ADV
+so'n	DET	DET	DET
+Franzos	NOUN	NOUN	NOUN
+,	PUNCT	PUNCT	PUNCT
+dat	DET	DET	PRON|DET|SCONJ
+Gott	NOUN	NOUN	NOUN
+erbarm	VERB	VERB	ADJ|NUM|VERB
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: De Kerls de heww'n joa man en Darm; Nu fäng'n se sich de Ratten; Behelpen sich mit Woatersupp Un freten dodig Padden up Un alle Hun'n un Katten.
+De	DET	DET	PRON|DET
+Kerls	NOUN	NOUN	NOUN
+de	DET	DET	PRON|DET
+heww'n	ADJ	ADJ	_
+joa	NOUN?	NOUN	INTJ|ADV|X|SCONJ|VERB|PART
+man	ADV	ADV	PRON|ADV
+en	DET	DET	PRON|DET
+Darm	NOUN	NOUN	NOUN
+;	PUNCT	PUNCT	PUNCT
+Nu	ADV	ADV	ADV
+fäng'n	VERB	VERB	_
+se	PRON	PRON	PRON
+sich	PRON	PRON	PRON
+de	DET	DET	PRON|DET
+Ratten	NOUN	NOUN	NOUN|PROPN
+;	PUNCT	PUNCT	PUNCT
+Behelpen	VERB?	VERB	NOUN|PROPN
+sich	PRON	PRON	PRON
+mit	ADP	ADP	ADP|PART
+Woatersupp	NOUN	NOUN	NOUN|PROPN
+Un	CCONJ	CCONJ	CCONJ
+freten	VERB	ADJ	VERB
+dodig	ADJ	NOUN	ADJ
+Padden	VERB	VERB	NOUN|VERB
+up	ADP	ADP	ADP|PART
+Un	CCONJ	CCONJ	CCONJ
+alle	ADJ	ADJ	ADJ|PRON
+Hun'n	NOUN	NOUN	NOUN|PROPN
+un	CCONJ	CCONJ	CCONJ
+Katten	VERB	VERB	NOUN|VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Un doabi leben se ganz nett.
+Un	CCONJ	CCONJ	CCONJ
+doabi	VERB	ADJ	VERB
+leben	NOUN	NOUN	NOUN
+se	PRON	PRON	PRON
+ganz	ADV	ADV	ADV
+nett	VERB	VERB	ADJ|ADV|VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Oft gift dat denn uck Jackenfett Wenn se en'n Utfall moaken.
+Oft	ADV	ADV	ADV|VERB
+gift	VERB	VERB	VERB
+dat	PRON	PRON	PRON|DET|SCONJ
+denn	ADV	ADV	ADV
+uck	VERB	VERB	_
+Jackenfett	NOUN	PUNCT	NOUN
+Wenn	SCONJ	SCONJ	SCONJ
+se	PRON	PRON	PRON
+en'n	VERB	VERB	ADJ|NUM|VERB
+Utfall	NOUN	NOUN	NOUN|PROPN
+moaken	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Un wenn dat noch nich schaffen sull, Denn lögen se den Hals sich vull.
+Un	CCONJ	CCONJ	CCONJ
+wenn	SCONJ	SCONJ	SCONJ
+dat	PRON	PRON	PRON|DET|SCONJ
+noch	ADV	ADV	ADV
+nich	ADV	ADV	ADV
+schaffen	X	VERB	X
+sull	AUX	AUX	AUX
+,	PUNCT	PUNCT	PUNCT
+Denn	ADV	ADV	ADV
+lögen	VERB	VERB	VERB
+se	PRON	PRON	PRON
+den	DET	DET	PRON|DET
+Hals	NOUN	NOUN	NOUN
+sich	PRON	PRON	PRON
+vull	ADV	ADV	ADV
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: So stoahn nu hier de Soaken.
+So	ADV	ADV	ADV
+stoahn	VERB	VERB	VERB
+nu	ADV	ADV	ADV
+hier	ADV	ADV	ADV
+de	DET	DET	PRON|DET
+Soaken	NOUN	NOUN	NOUN|PROPN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Wat uns belangt, dat geiht nu so, Wi kieken ganz gemüthlich to Un leggen uns up't Luern.
+Wat	PRON	PRON	PRON
+uns	PRON	PRON	PRON
+belangt	VERB	VERB	_
+,	PUNCT	PUNCT	PUNCT
+dat	PRON	PRON	PRON|DET|SCONJ
+geiht	VERB	VERB	VERB
+nu	ADV	ADV	ADV
+so	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+Wi	PRON	PRON	PRON
+kieken	VERB	VERB	VERB
+ganz	ADV	ADV	ADV
+gemüthlich	VERB	VERB	_
+to	ADP	ADP	ADP|PART
+Un	CCONJ	CCONJ	CCONJ
+leggen	VERB	VERB	VERB
+uns	PRON	PRON	PRON
+up't	ADP	ADP	ADP
+Luern	NOUN	NOUN	NOUN|PROPN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Wi heww'n uns hüslich ingericht Un denken doch, dat de Geschicht Nich ewig mehr ward duern.
+Wi	PRON	PRON	PRON
+heww'n	VERB	VERB	_
+uns	PRON	PRON	PRON
+hüslich	ADJ	VERB	ADJ
+ingericht	VERB	NOUN	VERB
+Un	CCONJ	CCONJ	CCONJ
+denken	VERB	VERB	VERB
+doch	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+dat	PRON	PRON	PRON|DET|SCONJ
+de	DET	DET	PRON|DET
+Geschicht	NOUN	NOUN	NOUN
+Nich	ADV	ADV	ADV
+ewig	ADJ	ADJ	ADJ
+mehr	ADV	ADV	ADV
+ward	AUX	AUX	AUX
+duern	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Wi eten all Doag Fleesch mit Ries, Un denn ward to Verännerniß Ens Ries mit Fleesch gegeten.
+Wi	PRON	PRON	PRON
+eten	VERB	VERB	VERB
+all	ADV	ADV	ADV
+Doag	NOUN	NOUN	NOUN
+Fleesch	VERB?	VERB	ADJ|NOUN
+mit	ADP	ADP	ADP|PART
+Ries	NOUN	NOUN	NOUN
+,	PUNCT	PUNCT	PUNCT
+Un	CCONJ	CCONJ	CCONJ
+denn	ADV	ADV	ADV
+ward	AUX	AUX	AUX
+to	ADP	ADP	ADP|PART
+Verännerniß	NOUN	NOUN	NOUN|PROPN
+Ens	ADV	ADV	ADV
+Ries	NOUN	VERB	NOUN
+mit	ADP	ADP	ADP|PART
+Fleesch	NOUN	NOUN	ADJ|NOUN
+gegeten	VERB	VERB	_
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Doch manchmoal sinn wi sien gesinnt, Denn möt dat Arften=Worschtsupp sind; Dat is en niemodsch Eten.
+Doch	ADV	ADV	ADV
+manchmoal	ADJ	ADJ	_
+sinn	NOUN	NOUN	NOUN
+wi	PRON	PRON	PRON
+sien	DET	DET	AUX|DET
+gesinnt	NOUN?	NOUN	ADJ|VERB
+,	PUNCT	PUNCT	PUNCT
+Denn	ADV	ADV	ADV
+möt	VERB	VERB	ADP|VERB
+dat	DET	DET	PRON|DET|SCONJ
+Arften-Worschtsupp	NOUN	NOUN	NOUN|PROPN
+sind	AUX	AUX	AUX
+;	PUNCT	PUNCT	PUNCT
+Dat	PRON	PRON	PRON|DET|SCONJ
+is	AUX	AUX	AUX
+en	DET	DET	PRON|DET
+niemodsch	NOUN	NOUN	_
+Eten	VERB	VERB	NOUN|VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Dat Beste is en goder Schluck; So'n gift dat denn mitunner uck Bi uns' Fru Marketennern.
+Dat	DET	DET	PRON|DET|SCONJ
+Beste	NOUN	NOUN	ADJ|NOUN|VERB
+is	AUX	AUX	AUX
+en	DET	DET	PRON|DET
+goder	ADJ	ADJ	ADJ
+Schluck	NOUN	NOUN	NOUN|VERB
+;	PUNCT	PUNCT	PUNCT
+So'n	DET?	DET	ADJ|NOUN|NUM|VERB
+gift	VERB	NOUN	VERB
+dat	PRON	PRON	PRON|DET|SCONJ
+denn	ADV	ADV	ADV
+mitunner	ADV	ADV	ADV
+uck	VERB	VERB	_
+Bi	ADP	ADP	ADP|PART
+uns'	DET	DET	PRON|DET
+Fru	NOUN	NOUN	NOUN
+Marketennern	VERB?	VERB	NOUN|PROPN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Blot manchmoal treckt se em to lang Un gütt uns toveel Woater mang; Dat is nu nich to ännern.
+Blot	NOUN	NOUN	NOUN
+manchmoal	NOUN	NOUN	_
+treckt	VERB	VERB	VERB
+se	PRON	PRON	PRON
+em	PRON	PRON	PRON
+to	ADP	ADP	ADP|PART
+lang	ADV	ADV	ADV
+Un	CCONJ	CCONJ	CCONJ
+gütt	VERB	VERB	ADJ|VERB
+uns	PRON	PRON	PRON
+toveel	VERB	VERB	_
+Woater	NOUN	NOUN	NOUN
+mang	ADP	ADP	ADP|ADV
+;	PUNCT	PUNCT	PUNCT
+Dat	PRON	PRON	PRON|DET|SCONJ
+is	AUX	AUX	AUX
+nu	ADV	ADV	ADV
+nich	ADV	ADV	ADV
+to	ADP	ADP	ADP|PART
+ännern	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Wat mi blot argert, dat is man, Dat ick nu nich mehr rooken kann.
+Wat	PRON	PRON	PRON
+mi	PRON	PRON	PRON
+blot	NOUN?	NOUN	ADJ|ADV|VERB
+argert	PART	VERB	PART
+,	PUNCT	PUNCT	PUNCT
+dat	PRON	PRON	PRON|DET|SCONJ
+is	AUX	AUX	AUX
+man	ADV	ADV	PRON|ADV
+,	PUNCT	PUNCT	PUNCT
+Dat	SCONJ	SCONJ	PRON|DET|SCONJ
+ick	PRON	PRON	PRON
+nu	ADV	ADV	ADV
+nich	ADV	ADV	ADV
+mehr	ADV	ADV	ADV
+rooken	VERB	VERB	VERB
+kann	AUX	AUX	AUX
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Mien Piep de is in'n Himmel.
+Mien	DET	DET	DET
+Piep	NOUN	NOUN	NOUN
+de	PRON	PRON	PRON|DET
+is	AUX	AUX	AUX
+in'n	ADP	ADP	ADP
+Himmel	NOUN	NOUN	NOUN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Uns' Hauptmann sähr: „Crischon, Allons!
+Uns'	DET	DET	PRON|DET
+Hauptmann	PROPN	NOUN	PROPN
+sähr	VERB	VERB	_
+:	PUNCT	PUNCT	PUNCT
+"	PUNCT	PUNCT	PUNCT
+Crischon	VERB?	VERB	NOUN|PROPN
+,	PUNCT	PUNCT	PUNCT
+Allons	VERB?	VERB	NOUN|PROPN
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: Mich dünkt, dort fällt ein Luftballon, Flink nach mit Deinem Schimmel.
+Mich	X	X	PRON|X
+dünkt	NOUN?	NOUN	X|VERB
+,	PUNCT	PUNCT	PUNCT
+dort	ADV	ADV	CCONJ|X|ADV|VERB
+fällt	VERB	VERB	VERB
+ein	X	DET	X
+Luftballon	NOUN	NOUN	NOUN|PROPN
+,	PUNCT	PUNCT	PUNCT
+Flink	ADV	ADV	ADJ|ADV
+nach	X	X	X
+mit	ADP	ADP	ADP|PART
+Deinem	DET	NOUN	DET
+Schimmel	VERB	VERB	NOUN|VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: " Dat Ding har woll conträren Wind Un mücht uck woll anschoaten sind, Genog he purzelt runner.
+"	PUNCT	PUNCT	PUNCT
+Dat	DET	DET	PRON|DET|SCONJ
+Ding	NOUN	NOUN	NOUN
+har	AUX	AUX	AUX
+woll	ADV	ADV	ADV
+conträren	ADJ	ADJ	_
+Wind	NOUN	NOUN	NOUN
+Un	CCONJ	CCONJ	CCONJ
+mücht	AUX	AUX	AUX
+uck	VERB	VERB	_
+woll	ADV	ADV	ADV
+anschoaten	VERB	VERB	_
+sind	AUX	AUX	AUX
+,	PUNCT	PUNCT	PUNCT
+Genog	ADV	ADV	ADV
+he	PRON	PRON	PRON
+purzelt	VERB	VERB	VERB
+runner	ADV	ADV	ADV
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Ick brennt em noch ens up dat Fell, Allhand was ick uck all to Stell; Doa har ick denn mien Wunner.
+Ick	PRON	PRON	PRON
+brennt	VERB	VERB	VERB
+em	PRON	PRON	PRON
+noch	ADV	ADV	ADV
+ens	ADV	ADV	ADV
+up	ADP	ADP	ADP|PART
+dat	DET	DET	PRON|DET|SCONJ
+Fell	NOUN	NOUN	NOUN
+,	PUNCT	PUNCT	PUNCT
+Allhand	VERB?	VERB	NOUN|PROPN
+was	AUX	AUX	AUX
+ick	PRON	PRON	PRON
+uck	VERB	VERB	_
+all	ADV	ADV	ADV
+to	ADP	ADP	ADP|PART
+Stell	NOUN	NOUN	NOUN
+;	PUNCT	PUNCT	PUNCT
+Doa	ADV	ADV	ADV
+har	AUX	AUX	AUX
+ick	PRON	PRON	PRON
+denn	ADV	ADV	ADV
+mien	DET	DET	DET
+Wunner	NOUN	NOUN	NOUN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Dre Kerls de krabbelten sich rut; Den en'n, den haut ick up de Schnut, De Anner wull mi foaten; Doch kreeg he blot man miene Piep, Un wiel ick noah den drüdden griep, Möt ick de Piep em loaten.
+Dre	NOUN	NOUN	NOUN
+Kerls	NOUN	VERB	NOUN
+de	DET	DET	PRON|DET
+krabbelten	NOUN	NOUN	_
+sich	PRON	PRON	PRON
+rut	ADV	ADV	ADV
+;	PUNCT	PUNCT	PUNCT
+Den	DET	DET	PRON|DET
+en'n	NOUN?	NOUN	ADJ|NUM|VERB
+,	PUNCT	PUNCT	PUNCT
+den	DET	DET	PRON|DET
+haut	VERB	NOUN	VERB
+ick	PRON	PRON	PRON
+up	ADP	ADP	ADP|PART
+de	DET	DET	PRON|DET
+Schnut	NOUN	NOUN	NOUN|VERB
+,	PUNCT	PUNCT	PUNCT
+De	DET	DET	PRON|DET
+Anner	ADJ	ADJ	ADJ|NOUN|ADP|VERB
+wull	AUX	AUX	AUX
+mi	PRON	PRON	PRON
+foaten	VERB	VERB	VERB
+;	PUNCT	PUNCT	PUNCT
+Doch	ADV	ADV	ADV
+kreeg	VERB	VERB	VERB
+he	PRON	PRON	PRON
+blot	NOUN?	NOUN	ADJ|ADV|VERB
+man	ADV	ADV	PRON|ADV
+miene	DET	DET	DET
+Piep	NOUN	NOUN	NOUN
+,	PUNCT	PUNCT	PUNCT
+Un	CCONJ	CCONJ	CCONJ
+wiel	SCONJ	SCONJ	SCONJ
+ick	PRON	PRON	PRON
+noah	ADP	ADP	ADP|PART
+den	DET	DET	PRON|DET
+drüdden	NOUN	NOUN	_
+griep	VERB	VERB	SCONJ|ADV|VERB
+,	PUNCT	PUNCT	PUNCT
+Möt	VERB	VERB	ADP|VERB
+ick	PRON	PRON	PRON
+de	DET	DET	PRON|DET
+Piep	NOUN	NOUN	NOUN
+em	PRON	PRON	PRON
+loaten	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: He blift gemüthlich in dat Schipp, De Wind geht los, un dat Geripp Fängt noch ens an to flegen.
+He	PRON	PRON	PRON
+blift	VERB	VERB	VERB
+gemüthlich	NOUN	NOUN	_
+in	ADP	ADP	ADP|PART
+dat	DET	DET	PRON|DET|SCONJ
+Schipp	NOUN	NOUN	PROPN|NOUN|VERB
+,	PUNCT	PUNCT	PUNCT
+De	DET	DET	PRON|DET
+Wind	NOUN	NOUN	NOUN
+geht	VERB	VERB	VERB
+los	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+un	CCONJ	CCONJ	CCONJ
+dat	DET	DET	PRON|DET|SCONJ
+Geripp	NOUN	NOUN	NOUN|PROPN
+Fängt	VERB	VERB	VERB
+noch	ADV	ADV	ADV
+ens	ADV	ADV	ADV
+an	ADP	ADP	ADP|PART
+to	ADP	ADP	ADP|PART
+flegen	NOUN	NOUN	_
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Ick künn nu nischt, as kieken to, Un was doabi man noch sehr froh, Dat ick twe Kerls har kreegen.
+Ick	PRON	PRON	PRON
+künn	AUX	AUX	AUX
+nu	ADV	ADV	ADV
+nischt	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+as	CCONJ	CCONJ	CCONJ
+kieken	VERB	VERB	VERB
+to	ADP	ADP	ADP|PART
+,	PUNCT	PUNCT	PUNCT
+Un	CCONJ	CCONJ	CCONJ
+was	AUX	AUX	AUX
+doabi	VERB	VERB	VERB
+man	PRON	PRON	PRON|ADV
+noch	ADV	ADV	ADV
+sehr	ADV	ADV	ADV
+froh	ADJ	ADJ	ADJ|X|ADV
+,	PUNCT	PUNCT	PUNCT
+Dat	SCONJ	SCONJ	PRON|DET|SCONJ
+ick	PRON	PRON	PRON
+twe	ADJ	VERB	ADJ
+Kerls	NOUN	NOUN	NOUN
+har	AUX	AUX	AUX
+kreegen	VERB	VERB	ADP|VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Sühst Du, dat heww ick nu doavon, Mien schöne Piep per Luftballon Is rinner in de Wolken.
+Sühst	VERB	VERB	VERB
+Du	PRON	PRON	PRON
+,	PUNCT	PUNCT	PUNCT
+dat	PRON	PRON	PRON|DET|SCONJ
+heww	VERB	VERB	_
+ick	PRON	PRON	PRON
+nu	ADV	ADV	ADV
+doavon	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+Mien	DET	DET	DET
+schöne	ADJ	ADJ	ADJ
+Piep	NOUN	NOUN	NOUN
+per	VERB	VERB	ADP|PART|VERB
+Luftballon	NOUN	NOUN	NOUN|PROPN
+Is	AUX	AUX	AUX
+rinner	ADV	ADV	ADV
+in	ADP	ADP	ADP|PART
+de	DET	DET	PRON|DET
+Wolken	NOUN	NOUN	NOUN|PROPN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Uns' Tambour seggt woll, 't is nich schlimm, Denn wenn dat erst bekannt ward sinn, Kreeg ick en Piep von Moltken.
+Uns'	DET	DET	PRON|DET
+Tambour	NOUN	NOUN	NOUN
+seggt	VERB	VERB	VERB
+woll	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+'t	PRON	PRON	PRON|DET
+is	AUX	AUX	AUX
+nich	ADV	ADV	ADV
+schlimm	ADJ	ADJ	ADJ|ADV
+,	PUNCT	PUNCT	PUNCT
+Denn	ADV	ADV	ADV
+wenn	SCONJ	SCONJ	SCONJ
+dat	PRON	PRON	PRON|DET|SCONJ
+erst	ADV	ADV	ADV
+bekannt	VERB	VERB	VERB
+ward	AUX	AUX	AUX
+sinn	NOUN	NOUN	NOUN
+,	PUNCT	PUNCT	PUNCT
+Kreeg	VERB	VERB	ADJ|NOUN|NUM|VERB
+ick	PRON	PRON	PRON
+en	DET	DET	PRON|DET
+Piep	NOUN	NOUN	NOUN
+von	ADP	ADP	ADP|PART
+Moltken	NOUN	NOUN	NOUN|PROPN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Wi krieg'n uck noch woll den Cujon, Wi heww'n en Luftballon-Kanon', Dat is Di rein tum Wälzen.
+Wi	PRON	PRON	PRON
+krieg'n	VERB	VERB	ADP|VERB
+uck	NOUN	NOUN	_
+noch	ADV	ADV	ADV
+woll	ADV	ADV	ADV
+den	DET	DET	PRON|DET
+Cujon	NOUN	NOUN	NOUN|PROPN
+,	PUNCT	PUNCT	PUNCT
+Wi	PRON	PRON	PRON
+heww'n	VERB	VERB	_
+en	DET	DET	PRON|DET
+Luftballon-Kanon'	NOUN	NOUN	NOUN|PROPN
+,	PUNCT	PUNCT	PUNCT
+Dat	PRON	PRON	PRON|DET|SCONJ
+is	AUX	AUX	AUX
+Di	PRON	PRON	PRON
+rein	ADV	ADV	ADJ|ADV
+tum	ADP	ADP	ADP
+Wälzen	NOUN	NOUN	NOUN|PROPN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Dat is en ganz putzlustig Ding, So lang, as wie Lebrenzens Kind, Schütt hoch — un geiht up Stelzen.
+Dat	PRON	PRON	PRON|DET|SCONJ
+is	AUX	AUX	AUX
+en	PRON	PRON	PRON|DET
+ganz	ADV	ADV	ADV
+putzlustig	ADJ	ADJ	_
+Ding	NOUN	NOUN	NOUN
+,	PUNCT	PUNCT	PUNCT
+So	ADV	ADV	ADV
+lang	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+as	CCONJ	CCONJ	CCONJ
+wie	PRON	PRON	PRON
+Lebrenzens	VERB?	VERB	NOUN|PROPN
+Kind	NOUN	NOUN	NOUN
+,	PUNCT	PUNCT	PUNCT
+Schütt	VERB	VERB	VERB
+hoch	ADV	ADV	ADV
+-	PUNCT	PUNCT	PUNCT
+un	CCONJ	CCONJ	CCONJ
+geiht	VERB	VERB	VERB
+up	ADP	ADP	ADP|PART
+Stelzen	NOUN	NOUN	NOUN|PROPN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Doch nu, Marrieken, nimm förlew, Ick denk.
+Doch	ADV	ADV	ADV
+nu	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+Marrieken	VERB?	VERB	NOUN|PROPN
+,	PUNCT	PUNCT	PUNCT
+nimm	VERB	ADP	VERB
+förlew	NOUN	NOUN	_
+,	PUNCT	PUNCT	PUNCT
+Ick	PRON	PRON	PRON
+denk	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Du kriggst nu bald en Breef, De in Paris ward schreben.
+Du	PRON	PRON	PRON
+kriggst	VERB	VERB	VERB
+nu	ADV	ADV	ADV
+bald	ADV	ADV	ADV
+en	DET	DET	PRON|DET
+Breef	NOUN	NOUN	NOUN
+,	PUNCT	PUNCT	PUNCT
+De	PRON	PRON	PRON|DET
+in	ADP	ADP	ADP|PART
+Paris	NOUN	NOUN	PROPN|NOUN
+ward	AUX	AUX	AUX
+schreben	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Denn doh ick Di noch Manches kund, Nu grüß de Bälg un blief gesund.
+Denn	ADV	ADV	ADV
+doh	AUX	AUX	AUX
+ick	PRON	PRON	PRON
+Di	PRON	PRON	PRON
+noch	ADV	ADV	ADV
+Manches	NOUN	NOUN	NOUN|PROPN
+kund	VERB	VERB	ADV|VERB
+,	PUNCT	PUNCT	PUNCT
+Nu	ADV	ADV	ADV
+grüß	VERB	VERB	ADP|VERB
+de	DET	DET	PRON|DET
+Bälg	NOUN	NOUN	NOUN|VERB
+un	CCONJ	CCONJ	CCONJ
+blief	VERB	NOUN	VERB
+gesund	ADV	ADV	ADJ|ADV
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Ädjüs!
+Ädjüs	VERB?	VERB	NOUN|PROPN
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: mien lewes Leben.
+mien	DET	DET	DET
+lewes	ADJ	ADJ	_
+Leben	NOUN	NOUN	NOUN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Am 30.
+Am	PRON	PRON	PRON
+30	NUM	VERB	NUM
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: November 1870.
+November	PROPN	PROPN	PROPN
+1870	NUM	NUM	NUM
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Crischon up Onkel Bullerjoahn'.
+Crischon	NOUN	NOUN	NOUN|PROPN
+up	ADP	ADP	ADP|PART
+Onkel	NOUN	NOUN	PROPN|NOUN
+Bullerjoahn'	VERB?	VERB	NOUN|PROPN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Na nu Marriek, mien Herzens-Fru, Wat seggst Du un wat meinst Du nu, Bist nu mit uns tofreden?
+Na	ADP	ADP	ADP
+nu	ADV	ADV	ADV
+Marriek	VERB?	VERB	NOUN|PROPN
+,	PUNCT	PUNCT	PUNCT
+mien	DET	DET	DET
+Herzens-Fru	NOUN	NOUN	NOUN|PROPN
+,	PUNCT	PUNCT	PUNCT
+Wat	PRON	PRON	PRON
+seggst	VERB	VERB	VERB
+Du	PRON	PRON	PRON
+un	CCONJ	CCONJ	CCONJ
+wat	PRON	PRON	PRON
+meinst	VERB	VERB	VERB
+Du	PRON	PRON	PRON
+nu	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+Bist	AUX	AUX	AUX|VERB
+nu	ADV	ADV	ADV
+mit	ADP	ADP	ADP|PART
+uns	PRON	PRON	PRON
+tofreden	VERB	VERB	VERB
+?	PUNCT	PUNCT	PUNCT
+
+
+# text: Jitzt sinn wi Herrn hier von Paris Un warn noah all de Kümmerniß Nu moal ens bong hier leben.
+Jitzt	ADV	ADV	ADV
+sinn	NOUN	NOUN	NOUN
+wi	PRON	PRON	PRON
+Herrn	NOUN	NOUN	NOUN
+hier	ADV	ADV	ADV
+von	ADP	ADP	ADP|PART
+Paris	NOUN	NOUN	PROPN|NOUN
+Un	CCONJ	CCONJ	CCONJ
+warn	NOUN	NOUN	_
+noah	ADP	ADP	ADP|PART
+all	ADV	ADV	ADV
+de	DET	DET	PRON|DET
+Kümmerniß	NOUN	NOUN	NOUN|PROPN
+Nu	ADV	ADV	ADV
+moal	ADV	ADV	ADV
+ens	ADV	ADV	ADV
+bong	VERB	VERB	_
+hier	ADV	ADV	ADV
+leben	NOUN	NOUN	NOUN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Drin sinn wi noch nich in de Stadt; Doa äten se sich nu erst satt Un moaken sich manierlich.
+Drin	ADV	ADV	PART|ADV|VERB
+sinn	NOUN	NOUN	NOUN
+wi	PRON	PRON	PRON
+noch	ADV	ADV	ADV
+nich	ADV	ADV	ADV
+in	ADP	ADP	ADP|PART
+de	DET	DET	PRON|DET
+Stadt	NOUN	NOUN	NOUN
+;	PUNCT	PUNCT	PUNCT
+Doa	ADV	ADV	ADV
+äten	VERB	VERB	VERB
+se	PRON	PRON	PRON
+sich	PRON	PRON	PRON
+nu	ADV	ADV	ADV
+erst	ADV	ADV	ADV
+satt	VERB	VERB	VERB
+Un	CCONJ	CCONJ	CCONJ
+moaken	VERB	VERB	VERB
+sich	PRON	PRON	PRON
+manierlich	VERB?	VERB	ADJ|ADV
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Ehr Tostand is to jämmerlich, De Dütschen söll'n dat sehen nich; Dat is ehr to scharnierlich.
+Ehr	NOUN	NOUN	NOUN|PRON|DET
+Tostand	NOUN	VERB	NOUN
+is	AUX	AUX	AUX
+to	ADP	ADP	ADP|PART
+jämmerlich	ADJ	ADJ	ADJ
+,	PUNCT	PUNCT	PUNCT
+De	DET	DET	PRON|DET
+Dütschen	NOUN	NOUN	ADJ|NOUN
+söll'n	AUX	AUX	AUX
+dat	PRON	PRON	PRON|DET|SCONJ
+sehen	VERB	VERB	VERB
+nich	ADV	ADV	ADV
+;	PUNCT	PUNCT	PUNCT
+Dat	PRON	PRON	PRON|DET|SCONJ
+is	AUX	AUX	AUX
+ehr	PRON	PRON	ADJ|PRON|ADV|NUM|VERB
+to	ADP	ADP	ADP|PART
+scharnierlich	NOUN	NOUN	_
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Na uns kümmt dat uck nich drup an.
+Na	ADP	ADP	ADP
+uns	PRON	PRON	PRON
+kümmt	VERB	VERB	VERB
+dat	DET	DET	PRON|DET|SCONJ
+uck	NOUN	NOUN	_
+nich	ADV	ADV	ADV
+drup	ADV	ADV	ADV
+an	ADP	ADP	ADP|PART
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Nu wi de Festung hewwen man, Nu sinn wi schön geborgen.
+Nu	ADV	ADV	ADV
+wi	PRON	PRON	PRON
+de	DET	DET	PRON|DET
+Festung	NOUN	NOUN	ADJ|NOUN|NUM|VERB
+hewwen	VERB	VERB	_
+man	ADV	ADV	PRON|ADV
+,	PUNCT	PUNCT	PUNCT
+Nu	ADV	ADV	ADV
+sinn	NOUN	NOUN	NOUN
+wi	PRON	PRON	PRON
+schön	ADJ	ADJ	ADJ|ADV
+geborgen	NOUN	NOUN	_
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Wi sitten sicher hier un fest; Wat nu noch fehlt, den letzten Rest, Ward Bismarck woll besorgen.
+Wi	PRON	PRON	PRON
+sitten	VERB	VERB	VERB
+sicher	ADV	ADV	ADJ|ADV
+hier	ADV	ADV	ADV
+un	CCONJ	CCONJ	CCONJ
+fest	ADV	ADV	ADV
+;	PUNCT	PUNCT	PUNCT
+Wat	PRON	PRON	PRON
+nu	ADV	ADV	ADV
+noch	ADV	ADV	ADV
+fehlt	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+den	DET	DET	PRON|DET
+letzten	ADJ	ADJ	ADJ
+Rest	NOUN	NOUN	PROPN|NOUN|VERB
+,	PUNCT	PUNCT	PUNCT
+Ward	AUX	AUX	ADP|AUX|VERB
+Bismarck	PROPN	VERB	PROPN
+woll	ADV	ADV	ADV
+besorgen	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: ﻿18 Dre Wochen hewwen wi nu Ruh; Dat is famos, ick segg Di Fru, Dat wi uck schlapp all wären.
+﻿18	PUNCT	NOUN	PUNCT
+Dre	NOUN	VERB	NOUN
+Wochen	NOUN	NOUN	ADJ|NOUN
+hewwen	VERB	VERB	_
+wi	PRON	PRON	PRON
+nu	ADV	ADV	ADV
+Ruh	NOUN	VERB	NOUN
+;	PUNCT	PUNCT	PUNCT
+Dat	PRON	PRON	PRON|DET|SCONJ
+is	AUX	AUX	AUX
+famos	VERB	VERB	_
+,	PUNCT	PUNCT	PUNCT
+ick	PRON	PRON	PRON
+segg	VERB	VERB	VERB
+Di	PRON	PRON	PRON
+Fru	NOUN	NOUN	NOUN
+,	PUNCT	PUNCT	PUNCT
+Dat	SCONJ	SCONJ	PRON|DET|SCONJ
+wi	PRON	PRON	PRON
+uck	VERB	VERB	_
+schlapp	NOUN?	NOUN	ADJ|ADV
+all	ADV	ADV	ADV
+wären	VERB?	VERB	AUX|X
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Denn dat infahmte Postenstoahn, Un ümmerto sich rümmerschloahn, Dat griept to dull an't Nären.
+Denn	ADV	ADV	ADV
+dat	DET	DET	PRON|DET|SCONJ
+infahmte	NOUN	NOUN	_
+Postenstoahn	VERB?	VERB	NOUN|PROPN
+,	PUNCT	PUNCT	PUNCT
+Un	CCONJ	CCONJ	CCONJ
+ümmerto	ADV	ADV	ADV
+sich	PRON	PRON	PRON
+rümmerschloahn	VERB	VERB	_
+,	PUNCT	PUNCT	PUNCT
+Dat	DET	DET	PRON|DET|SCONJ
+griept	NOUN?	NOUN	ADP|VERB
+to	ADP	ADP	ADP|PART
+dull	ADJ	ADJ	ADJ|ADV
+an't	ADP	ADP	ADP
+Nären	NOUN	NOUN	NOUN|PROPN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Von dat Geknall un Bombardeer'n Doa kann ick hüt noch nich recht hör'n.
+Von	ADP	ADP	ADP
+dat	DET	DET	PRON|DET|SCONJ
+Geknall	NOUN	NOUN	NOUN|PROPN
+un	CCONJ	CCONJ	CCONJ
+Bombardeer'n	NOUN	NOUN	NOUN|PROPN
+Doa	ADV	ADV	ADV
+kann	AUX	AUX	AUX
+ick	PRON	PRON	PRON
+hüt	ADV	ADV	ADV
+noch	ADV	ADV	ADV
+nich	ADV	ADV	ADV
+recht	ADV	ADV	ADV
+hör'n	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Un nu erst de Franzosen.
+Un	CCONJ	CCONJ	CCONJ
+nu	ADV	ADV	ADV
+erst	ADV	ADV	ADV
+de	DET	DET	PRON|DET
+Franzosen	NOUN	NOUN	NOUN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Mi dücht, nu glöb'n se ganz gewiß, Dat mit uns nich to spoaßen is.
+Mi	PRON	PRON	PRON
+dücht	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+nu	ADV	ADV	ADV
+glöb'n	VERB	VERB	_
+se	PRON	PRON	PRON
+ganz	ADV	ADV	ADV
+gewiß	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+Dat	PRON	PRON	PRON|DET|SCONJ
+mit	ADP	ADP	ADP|PART
+uns	PRON	PRON	PRON
+nich	ADV	ADV	ADV
+to	ADP	ADP	ADP|PART
+spoaßen	NOUN	NOUN	_
+is	AUX	AUX	AUX
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Dat Herz sackt ehr in't Hosen.
+Dat	DET	DET	PRON|DET|SCONJ
+Herz	NOUN	NOUN	NOUN
+sackt	VERB	VERB	ADP|SCONJ|VERB
+ehr	PRON	PRON	ADJ|PRON|ADV|NUM|VERB
+in't	ADP	ADP	ADP
+Hosen	NOUN	NOUN	NOUN|VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Ick glöw nu is't mit ehr vörbi; Woto is uck de Schlächterrie, Kann Frankreich dat noch redden?
+Ick	PRON	PRON	PRON
+glöw	VERB	VERB	VERB
+nu	ADV	ADV	ADV
+is't	AUX	AUX	AUX
+mit	ADP	ADP	ADP|PART
+ehr	NOUN?	NOUN	ADJ|PRON|ADV|NUM|VERB
+vörbi	ADV	VERB	ADV
+;	PUNCT	PUNCT	PUNCT
+Woto	ADV	VERB	ADV
+is	AUX	AUX	AUX
+uck	VERB	VERB	_
+de	DET	DET	PRON|DET
+Schlächterrie	NOUN	NOUN	NOUN|PROPN
+,	PUNCT	PUNCT	PUNCT
+Kann	AUX	AUX	AUX
+Frankreich	VERB?	VERB	ADJ|PROPN|NOUN
+dat	PRON	PRON	PRON|DET|SCONJ
+noch	ADV	ADV	ADV
+redden	VERB	VERB	AUX|VERB
+?	PUNCT	PUNCT	PUNCT
+
+
+# text: Denn dat ehr dat doch nich gelingt, Dat Frankreich Dütschland nich betwingt, Doarup is licht to wedden.
+Denn	ADV	ADV	ADV
+dat	DET	DET	PRON|DET|SCONJ
+ehr	NOUN?	NOUN	ADJ|PRON|ADV|NUM|VERB
+dat	PRON	PRON	PRON|DET|SCONJ
+doch	ADV	ADV	ADV
+nich	ADV	ADV	ADV
+gelingt	VERB	VERB	_
+,	PUNCT	PUNCT	PUNCT
+Dat	DET	DET	PRON|DET|SCONJ
+Frankreich	NOUN	NOUN	ADJ|PROPN|NOUN
+Dütschland	PROPN	PROPN	PROPN
+nich	ADV	ADV	ADV
+betwingt	VERB	VERB	_
+,	PUNCT	PUNCT	PUNCT
+Doarup	NOUN	VERB	NOUN
+is	AUX	AUX	AUX
+licht	ADV	ADV	ADJ|ADV
+to	ADP	ADP	ADP|PART
+wedden	VERB	NOUN	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Dat Blatt dat hett sich mächtig wendt Wat nu de groot Natschon man nennt, Dat war'n de Dütschen wesen.
+Dat	DET	DET	PRON|DET|SCONJ
+Blatt	NOUN	NOUN	PROPN|NOUN|VERB
+dat	PRON	PRON	PRON|DET|SCONJ
+hett	AUX	AUX	AUX
+sich	PRON	PRON	PRON
+mächtig	ADJ	VERB	ADJ
+wendt	PROPN	PROPN	_
+Wat	PRON	PRON	PRON
+nu	ADV	ADV	ADV
+de	DET	DET	PRON|DET
+groot	ADJ	ADJ	ADJ|ADV
+Natschon	NOUN	NOUN	NOUN|PROPN
+man	ADV	ADV	PRON|ADV
+nennt	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+Dat	DET	DET	PRON|DET|SCONJ
+war'n	NOUN	NOUN	_
+de	DET	DET	PRON|DET
+Dütschen	NOUN	NOUN	ADJ|NOUN
+wesen	AUX	AUX	AUX
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Dat is nu eenmoal ganz gewiß, So woahr uns' König „Kaiser" is; Du hest dat doch all lesen?
+Dat	PRON	PRON	PRON|DET|SCONJ
+is	AUX	AUX	AUX
+nu	ADV	ADV	ADV
+eenmoal	ADV	ADV	ADV
+ganz	ADV	ADV	ADV
+gewiß	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+So	ADV	ADV	ADV
+woahr	ADV	ADV	ADV
+uns'	DET	DET	PRON|DET
+König	NOUN	NOUN	NOUN
+"	PUNCT	PUNCT	PUNCT
+Kaiser	NOUN	NOUN	NOUN
+"	PUNCT	PUNCT	PUNCT
+is	AUX	AUX	AUX
+;	PUNCT	PUNCT	PUNCT
+Du	PRON	PRON	PRON
+hest	AUX	AUX	AUX
+dat	PRON	PRON	PRON|DET|SCONJ
+doch	ADV	ADV	ADV
+all	ADV	ADV	ADV
+lesen	VERB	VERB	VERB
+?	PUNCT	PUNCT	PUNCT
+
+
+# text: Ick segg Di, dåt wär een Halloh, Wi wär’n hier ganz unbännig froh, Wi schregen uns fast heiser Mit Vivatropen un Hurrah!
+Ick	PRON	PRON	PRON
+segg	VERB	VERB	VERB
+Di	PRON	PRON	PRON
+,	PUNCT	PUNCT	PUNCT
+dåt	PRON	PRON	PRON|DET|SCONJ
+wär	AUX	AUX	AUX
+een	DET	DET	PRON|DET
+Halloh	NOUN	NOUN	ADP|NOUN|VERB
+,	PUNCT	PUNCT	PUNCT
+Wi	PRON	PRON	PRON
+wär'n	AUX	AUX	AUX
+hier	ADV	ADV	ADV
+ganz	ADV	ADV	ADV
+unbännig	ADJ	VERB	ADJ
+froh	ADJ	ADJ	ADJ|X|ADV
+,	PUNCT	PUNCT	PUNCT
+Wi	PRON	PRON	PRON
+schregen	VERB	VERB	VERB
+uns	PRON	PRON	PRON
+fast	ADV	ADV	ADV
+heiser	VERB	VERB	_
+Mit	ADP	ADP	ADP
+Vivatropen	NOUN	NOUN	NOUN
+un	CCONJ	CCONJ	CCONJ
+Hurrah	INTJ	INTJ	INTJ
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: Un Dütschland hoch!
+Un	CCONJ	CCONJ	CCONJ
+Dütschland	PROPN	PROPN	PROPN
+hoch	ADV	ADV	ADV
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: Viktoria!
+Viktoria	VERB?	VERB	NOUN|PROPN
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: Hoch!
+Hoch	ADV	ADV	ADV
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: lew de Dütsche Kaiser!
+lew	ADJ	VERB	ADJ
+de	DET	DET	PRON|DET
+Dütsche	ADJ	ADJ	ADJ|PROPN
+Kaiser	NOUN	NOUN	NOUN
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: Un as nu goar de grang Natschon Uns käm mit de Kap'tulatschon, Wüßt Keener sich to loaten.
+Un	CCONJ	CCONJ	CCONJ
+as	CCONJ	CCONJ	CCONJ
+nu	ADV	ADV	ADV
+goar	ADV	ADV	ADV
+de	DET	DET	PRON|DET
+grang	NOUN	NOUN	_
+Natschon	VERB?	VERB	NOUN|PROPN
+Uns	PRON	PRON	PRON
+käm	VERB	VERB	_
+mit	ADP	ADP	ADP|PART
+de	DET	DET	PRON|DET
+Kap'tulatschon	NOUN	NOUN	NOUN|PROPN
+,	PUNCT	PUNCT	PUNCT
+Wüßt	VERB	VERB	NOUN|VERB
+Keener	PRON	PRON	PRON|DET
+sich	PRON	PRON	PRON
+to	ADP	ADP	ADP|PART
+loaten	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Vör luter Freud' und Seligkeit Heww'n wi bi de Gelegenheit Nich scharp — ne „Kubuld" schoaten.
+Vör	ADP	ADP	ADP
+luter	NOUN?	NOUN	ADJ|AUX|VERB
+Freud'	VERB	VERB	ADJ|NOUN|VERB
+und	CCONJ	CCONJ	CCONJ
+Seligkeit	NOUN	NOUN	NOUN
+Heww'n	VERB?	VERB	NOUN|PROPN
+wi	PRON	PRON	PRON
+bi	ADP	ADP	ADP|PART
+de	DET	DET	PRON|DET
+Gelegenheit	NOUN	NOUN	NOUN
+Nich	ADV	ADV	ADV
+scharp	ADJ	ADJ	ADJ
+-	PUNCT	PUNCT	PUNCT
+ne	ADV?	ADV	PRON|DET
+"	PUNCT	PUNCT	PUNCT
+Kubuld	VERB?	VERB	NOUN|PROPN
+"	PUNCT	PUNCT	PUNCT
+schoaten	VERB	VERB	_
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Ick müßt up Onkel Bullerjoahn Mitrup, üm doa de preuß'sche Foahn Mithelpen uptohissen.
+Ick	PRON	PRON	PRON
+müßt	AUX	AUX	AUX
+up	ADP	ADP	ADP|PART
+Onkel	ADJ?	ADJ	PROPN|NOUN
+Bullerjoahn	NOUN	NOUN	NOUN|PROPN
+Mitrup	VERB?	VERB	NOUN|PROPN
+,	PUNCT	PUNCT	PUNCT
+üm	ADP	ADP	ADP|PART
+doa	ADV	ADV	ADV
+de	DET	DET	PRON|DET
+preuß'sche	NOUN	NOUN	_
+Foahn	VERB	VERB	NOUN|VERB
+Mithelpen	NOUN	NOUN	NOUN|PROPN
+uptohissen	VERB	VERB	_
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Ick segg Di, dat wär eene Lust, Wi leegen all uns an de Brust Mit Drücken un mit Küssen.
+Ick	PRON	PRON	PRON
+segg	VERB	VERB	VERB
+Di	PRON	PRON	PRON
+,	PUNCT	PUNCT	PUNCT
+dat	PRON	PRON	PRON|DET|SCONJ
+wär	AUX	AUX	AUX
+eene	DET	DET	PRON|DET
+Lust	NOUN	NOUN	NOUN|VERB
+,	PUNCT	PUNCT	PUNCT
+Wi	PRON	PRON	PRON
+leegen	ADV	ADV	ADV|VERB
+all	ADV	ADV	ADV
+uns	PRON	PRON	PRON
+an	ADP	ADP	ADP|PART
+de	DET	DET	PRON|DET
+Brust	NOUN	NOUN	PROPN|NOUN|VERB
+Mit	ADP	ADP	ADP
+Drücken	NOUN	NOUN	NOUN|PROPN
+un	CCONJ	CCONJ	CCONJ
+mit	ADP	ADP	ADP|PART
+Küssen	NOUN	NOUN	NOUN|VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Doch doa Du gern nu weeten wist, Wo uns dat ümmer goahn noch is, So kann ick Di blot schrieben: schlecht; Dat güng bald good, bald güng dat Wat Di doavon nich kloar is recht, Möt tum „Vertellen" blieben.
+Doch	ADV	ADV	ADV
+doa	ADV	ADV	ADV
+Du	PRON	PRON	PRON
+gern	ADV	ADV	ADV
+nu	ADV	ADV	ADV
+weeten	VERB	VERB	VERB
+wist	AUX	AUX	AUX|VERB
+,	PUNCT	PUNCT	PUNCT
+Wo	SCONJ	SCONJ	SCONJ
+uns	PRON	PRON	PRON
+dat	PRON	PRON	PRON|DET|SCONJ
+ümmer	ADV	ADV	ADV
+goahn	VERB	VERB	VERB
+noch	ADV	ADV	ADV
+is	AUX	AUX	AUX
+,	PUNCT	PUNCT	PUNCT
+So	ADV	ADV	ADV
+kann	AUX	AUX	AUX
+ick	PRON	PRON	PRON
+Di	PRON	PRON	PRON
+blot	NOUN?	NOUN	ADJ|ADV|VERB
+schrieben	VERB	VERB	VERB
+:	PUNCT	PUNCT	PUNCT
+schlecht	ADV	ADV	ADV
+;	PUNCT	PUNCT	PUNCT
+Dat	PRON	PRON	PRON|DET|SCONJ
+güng	VERB	VERB	VERB
+bald	ADV	ADV	ADV
+good	ADJ	ADJ	ADJ|ADV
+,	PUNCT	PUNCT	PUNCT
+bald	ADV	ADV	ADV
+güng	VERB	VERB	VERB
+dat	PRON	PRON	PRON|DET|SCONJ
+Wat	PRON	PRON	PRON
+Di	PRON	PRON	PRON
+doavon	ADV	ADV	ADV
+nich	ADV	ADV	ADV
+kloar	ADV	ADV	ADJ|ADV
+is	AUX	AUX	AUX
+recht	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+Möt	VERB	VERB	ADP|VERB
+tum	ADP	ADP	ADP
+"	PUNCT	PUNCT	PUNCT
+Vertellen	VERB	VERB	NOUN|VERB
+"	PUNCT	PUNCT	PUNCT
+blieben	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Mi sülwst is noch ganz good to Moth, Wi leben jitzt all tämlich good Un hewwen uck to rooken.
+Mi	PRON	PRON	PRON
+sülwst	PRON	PRON	PRON
+is	AUX	AUX	AUX
+noch	ADV	ADV	ADV
+ganz	ADV	ADV	ADV
+good	ADV	ADV	ADJ|ADV
+to	ADP	ADP	ADP|PART
+Moth	NOUN	NOUN	NOUN
+,	PUNCT	PUNCT	PUNCT
+Wi	PRON	PRON	PRON
+leben	NOUN	NOUN	NOUN
+jitzt	ADV	ADV	ADV
+all	ADV	ADV	ADV
+tämlich	ADV	VERB	ADV
+good	ADJ	ADJ	ADJ|ADV
+Un	CCONJ	CCONJ	CCONJ
+hewwen	NOUN	NOUN	_
+uck	VERB	VERB	_
+to	ADP	ADP	ADP|PART
+rooken	VERB	NOUN	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Mi hett dat ümmer noch so glückt, To Wiehnacht hett mi Sanft herschickt Ne Piep un Päperkoken.
+Mi	PRON	PRON	PRON
+hett	AUX	AUX	AUX
+dat	PRON	PRON	PRON|DET|SCONJ
+ümmer	ADV	ADV	ADV
+noch	ADV	ADV	ADV
+so	ADV	ADV	ADV
+glückt	VERB	VERB	ADV|VERB
+,	PUNCT	PUNCT	PUNCT
+To	ADP	ADP	ADP
+Wiehnacht	NOUN	NOUN	NOUN|PROPN
+hett	AUX	AUX	AUX
+mi	PRON	PRON	PRON
+Sanft	NOUN	ADV	NOUN
+herschickt	VERB	VERB	_
+Ne	DET?	DET	ADJ|INTJ|ADV|NOUN|VERB
+Piep	NOUN	NOUN	NOUN
+un	CCONJ	CCONJ	CCONJ
+Päperkoken	NOUN	VERB	NOUN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Acht Doag vör Wiehnacht kreg ick all De Unnerhosen un den Schall Von Di, mien lew Marrieken.
+Acht	NUM	NUM	NUM|VERB
+Doag	NOUN	NOUN	NOUN
+vör	ADP	ADP	ADP|PART
+Wiehnacht	NOUN	NOUN	NOUN|PROPN
+kreg	VERB	VERB	VERB
+ick	PRON	PRON	PRON
+all	ADV	ADV	ADV
+De	DET	DET	PRON|DET
+Unnerhosen	NOUN	NOUN	NOUN|PROPN
+un	CCONJ	CCONJ	CCONJ
+den	DET	DET	PRON|DET
+Schall	NOUN	NOUN	PROPN|NOUN|VERB
+Von	ADP	ADP	ADP
+Di	PRON	PRON	PRON
+,	PUNCT	PUNCT	PUNCT
+mien	DET	DET	DET
+lew	ADJ	NOUN	ADJ
+Marrieken	VERB?	VERB	NOUN|PROPN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Pannkoken käm von Bultens an, Blot stief gefroren was he man, Ick künn em nich recht bieten.
+Pannkoken	NOUN	NOUN	NOUN|PROPN
+käm	VERB	VERB	_
+von	ADP	ADP	ADP|PART
+Bultens	NOUN	NOUN	NOUN|PROPN
+an	ADP	ADP	ADP|PART
+,	PUNCT	PUNCT	PUNCT
+Blot	NOUN	NOUN	NOUN
+stief	ADJ	ADJ	ADJ|ADV
+gefroren	NOUN	NOUN	_
+was	AUX	AUX	AUX
+he	PRON	PRON	PRON
+man	ADV	ADV	PRON|ADV
+,	PUNCT	PUNCT	PUNCT
+Ick	PRON	PRON	PRON
+künn	AUX	AUX	AUX
+em	PRON	PRON	PRON
+nich	ADV	ADV	ADV
+recht	ADV	ADV	ADV
+bieten	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Grüß man de Fründschaft krüz un quer.
+Grüß	NOUN?	NOUN	ADP|VERB
+man	ADV	ADV	PRON|ADV
+de	DET	DET	PRON|DET
+Fründschaft	NOUN	NOUN	NOUN
+krüz	VERB	VERB	PUNCT|VERB
+un	CCONJ	CCONJ	CCONJ
+quer	ADV	NOUN	ADV
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Dat Ii gesund sinn, freut mi sehr, Gott gäw, Ii blieben’t ümmer.
+Dat	SCONJ	SCONJ	PRON|DET|SCONJ
+Ii	PRON	PRON	PRON
+gesund	ADJ	ADJ	ADJ|ADV
+sinn	NOUN	NOUN	NOUN
+,	PUNCT	PUNCT	PUNCT
+freut	VERB	VERB	VERB
+mi	PRON	PRON	PRON
+sehr	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+Gott	NOUN	NOUN	NOUN
+gäw	VERB	VERB	ADP|VERB
+,	PUNCT	PUNCT	PUNCT
+Ii	PRON	PRON	PRON
+blieben't	VERB	VERB	_
+ümmer	ADV	ADV	ADV
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Ick denk doch recht sehr veel an Ju, Vörut an Di, mien lewe Fru, Un an mien lewen Kinner.
+Ick	PRON	PRON	PRON
+denk	VERB	VERB	VERB
+doch	ADV	ADV	ADV
+recht	ADV	ADV	ADV
+sehr	ADV	ADV	ADV
+veel	VERB	VERB	_
+an	ADP	ADP	ADP|PART
+Ju	PRON	PRON	PRON
+,	PUNCT	PUNCT	PUNCT
+Vörut	ADV	VERB	ADV
+an	ADP	ADP	ADP|PART
+Di	PRON	PRON	PRON
+,	PUNCT	PUNCT	PUNCT
+mien	DET	DET	DET
+lewe	ADJ	ADJ	ADJ|VERB
+Fru	NOUN	NOUN	NOUN
+,	PUNCT	PUNCT	PUNCT
+Un	CCONJ	CCONJ	CCONJ
+an	ADP	ADP	ADP|PART
+mien	DET	DET	DET
+lewen	ADJ	ADJ	ADJ
+Kinner	NOUN	NOUN	NOUN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Ick mag fast goarnich schrieben mehr, Mi ward doabi dat Herz so schwer; Doch möten wi uns foaten.
+Ick	PRON	PRON	PRON
+mag	AUX	AUX	AUX
+fast	ADV	ADV	ADV
+goarnich	ADV	ADV	ADV
+schrieben	VERB	VERB	VERB
+mehr	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+Mi	PRON	PRON	PRON
+ward	AUX	AUX	AUX
+doabi	VERB	VERB	VERB
+dat	DET	DET	PRON|DET|SCONJ
+Herz	NOUN	NOUN	NOUN
+so	ADV	ADV	ADV
+schwer	ADJ	ADJ	ADJ|ADV
+;	PUNCT	PUNCT	PUNCT
+Doch	ADV	ADV	ADV
+möten	VERB	VERB	VERB
+wi	PRON	PRON	PRON
+uns	PRON	PRON	PRON
+foaten	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Wenn de Franzos erst is to Ruh, Denn is erst Tied för Kind un Fru; So lang sinn wi Saldoaten.
+Wenn	SCONJ	SCONJ	SCONJ
+de	DET	DET	PRON|DET
+Franzos	NOUN	NOUN	NOUN
+erst	ADV	ADV	ADV
+is	AUX	AUX	AUX
+to	ADP	ADP	ADP|PART
+Ruh	NOUN	NOUN	NOUN
+,	PUNCT	PUNCT	PUNCT
+Denn	ADV	ADV	ADV
+is	AUX	AUX	AUX
+erst	ADV	ADV	ADV
+Tied	NOUN	NOUN	NOUN
+för	VERB	VERB	ADJ|ADV|ADP|VERB|NUM
+Kind	NOUN	NOUN	NOUN
+un	CCONJ	CCONJ	CCONJ
+Fru	NOUN	NOUN	NOUN
+;	PUNCT	PUNCT	PUNCT
+So	ADV	ADV	ADV
+lang	ADV	ADV	ADV
+sinn	NOUN	NOUN	NOUN
+wi	PRON	PRON	PRON
+Saldoaten	NOUN	NOUN	NOUN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Na möglich sinn wi bald so wiet, Denn is uck werrer anner Tied; Uns' Herrgott mag dat geben.
+Na	ADP	ADP	ADP
+möglich	ADJ	ADJ	ADJ
+sinn	NOUN	NOUN	NOUN
+wi	PRON	PRON	PRON
+bald	ADV	ADV	ADV
+so	ADV	ADV	ADV
+wiet	ADV	ADV	ADJ|ADV
+,	PUNCT	PUNCT	PUNCT
+Denn	ADV	ADV	ADV
+is	AUX	AUX	AUX
+uck	ADJ	ADJ	_
+werrer	NOUN	NOUN	_
+anner	ADJ	ADJ	ADJ
+Tied	NOUN	NOUN	NOUN
+;	PUNCT	PUNCT	PUNCT
+Uns'	DET	DET	PRON|DET
+Herrgott	NOUN	NOUN	NOUN
+mag	AUX	AUX	AUX
+dat	PRON	PRON	PRON|DET|SCONJ
+geben	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Nu läw recht woll, mien Herzenswiew Mit sammt de Kinner, un denn bliew Mien lewes sötes Leben!
+Nu	ADV	ADV	ADV
+läw	VERB	VERB	_
+recht	ADV	ADV	ADV
+woll	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+mien	DET	DET	DET
+Herzenswiew	NOUN	NOUN	NOUN|PROPN
+Mit	ADP	ADP	ADP
+sammt	NOUN?	NOUN	PUNCT|VERB
+de	DET	DET	PRON|DET
+Kinner	NOUN	NOUN	NOUN
+,	PUNCT	PUNCT	PUNCT
+un	CCONJ	CCONJ	CCONJ
+denn	ADV	ADV	ADV
+bliew	VERB	VERB	VERB
+Mien	DET	DET	DET
+lewes	NOUN	NOUN	_
+sötes	VERB	VERB	_
+Leben	NOUN	NOUN	NOUN
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: Am 5.
+Am	PRON	PRON	PRON
+5	NUM	NUM	NUM
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Februar 1871.
+Februar	NOUN	NOUN	NOUN
+1871	NUM	VERB	NUM
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Dunnerstag kümmt Crischon to Hus!
+Dunnerstag	NOUN	NOUN	NOUN|PROPN
+kümmt	VERB	VERB	VERB
+Crischon	NOUN	NOUN	NOUN|PROPN
+to	ADP	ADP	ADP|PART
+Hus	NOUN	NOUN	NOUN
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: Mien lew Marriek!
+Mien	DET	DET	DET
+lew	ADJ	NOUN	ADJ
+Marriek	VERB?	VERB	NOUN|PROPN
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: Dit is to dull!
+Dit	PRON?	PRON	NOUN|VERB
+is	AUX	AUX	AUX
+to	ADP	ADP	ADP|PART
+dull	ADJ	ADJ	ADJ|ADV
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: Fritz Schwarten hört de Puckel vull; Ick heww em so vel beeden, Dat he Di bringen süll Besched, Wo mi dat in’t Loaz'reth hier geht, He süll Di Noahricht geben.
+Fritz	PROPN	PROPN	PROPN
+Schwarten	NOUN	NOUN	ADJ|NOUN|VERB
+hört	VERB	VERB	VERB
+de	DET	DET	PRON|DET
+Puckel	NOUN	NOUN	NOUN
+vull	ADV	ADV	ADV
+;	PUNCT	PUNCT	PUNCT
+Ick	PRON	PRON	PRON
+heww	VERB	VERB	_
+em	PRON	PRON	PRON
+so	ADV	ADV	ADV
+vel	ADV	ADV	ADV
+beeden	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+Dat	SCONJ	SCONJ	PRON|DET|SCONJ
+he	PRON	PRON	PRON
+Di	PRON	PRON	PRON
+bringen	VERB	VERB	VERB
+süll	AUX	AUX	AUX
+Besched	VERB?	VERB	NOUN|PROPN
+,	PUNCT	PUNCT	PUNCT
+Wo	SCONJ	SCONJ	SCONJ
+mi	PRON	PRON	PRON
+dat	PRON	PRON	PRON|DET|SCONJ
+in't	ADP	ADP	ADP
+Loaz'reth	NOUN	NOUN	NOUN|PROPN
+hier	ADV	ADV	ADV
+geht	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+He	PRON	PRON	PRON
+süll	AUX	AUX	AUX
+Di	PRON	PRON	PRON
+Noahricht	NOUN	NOUN	NOUN|PROPN
+geben	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Von Wobbermin is't doch nich wiet, Un is dat jitzt uck Ackertied, Dat müßt he doch besorgen.
+Von	ADP	ADP	ADP
+Wobbermin	NOUN	NOUN	NOUN|PROPN
+is't	AUX	AUX	AUX
+doch	ADV	ADV	ADV
+nich	ADV	ADV	ADV
+wiet	ADV	ADV	ADJ|ADV
+,	PUNCT	PUNCT	PUNCT
+Un	CCONJ	CCONJ	CCONJ
+is	AUX	AUX	AUX
+dat	PRON	PRON	PRON|DET|SCONJ
+jitzt	ADV	ADV	ADV
+uck	ADJ	ADJ	_
+Ackertied	NOUN	NOUN	NOUN|PROPN
+,	PUNCT	PUNCT	PUNCT
+Dat	PRON	PRON	PRON|DET|SCONJ
+müßt	AUX	AUX	AUX
+he	PRON	PRON	PRON
+doch	ADV	ADV	ADV
+besorgen	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Na loat man sinn, mien lewes Kind, Bald war ick sülwen bi Ju sind, Ick reis' all öwermorgen.
+Na	ADP	ADP	ADP
+loat	VERB	VERB	VERB
+man	PRON	PRON	PRON|ADV
+sinn	NOUN	NOUN	NOUN
+,	PUNCT	PUNCT	PUNCT
+mien	DET	DET	DET
+lewes	ADJ	ADJ	_
+Kind	NOUN	NOUN	NOUN
+,	PUNCT	PUNCT	PUNCT
+Bald	ADV	ADV	ADV
+war	AUX	AUX	AUX|X
+ick	PRON	PRON	PRON
+sülwen	VERB	VERB	_
+bi	ADP	ADP	ADP|PART
+Ju	PRON	PRON	PRON
+sind	AUX	AUX	AUX
+,	PUNCT	PUNCT	PUNCT
+Ick	PRON	PRON	PRON
+reis'	VERB	VERB	_
+all	ADV	ADV	ADV
+öwermorgen	VERB	VERB	_
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Ick bin in Rheims hier, in't Loaz'reth, Wo mi de Gicht festhollen hett, Doch nu hett sich dat geben.
+Ick	PRON	PRON	PRON
+bin	AUX	AUX	AUX
+in	ADP	ADP	ADP|PART
+Rheims	NOUN	NOUN	NOUN|PROPN
+hier	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+in't	ADP	ADP	ADP
+Loaz'reth	NOUN	NOUN	NOUN|PROPN
+,	PUNCT	PUNCT	PUNCT
+Wo	SCONJ	SCONJ	SCONJ
+mi	PRON	PRON	PRON
+de	DET	DET	PRON|DET
+Gicht	NOUN	NOUN	NOUN|PROPN
+festhollen	VERB	VERB	_
+hett	AUX	AUX	AUX
+,	PUNCT	PUNCT	PUNCT
+Doch	ADV	ADV	ADV
+nu	ADV	ADV	ADV
+hett	AUX	AUX	AUX
+sich	PRON	PRON	PRON
+dat	PRON	PRON	PRON|DET|SCONJ
+geben	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Ick harr en Rieten in dat Krüz, Ick künn nich liggen up den Stütz, Nich starben un nich leben.
+Ick	PRON	PRON	PRON
+harr	VERB	VERB	_
+en	PRON	PRON	PRON|DET
+Rieten	VERB	VERB	VERB
+in	ADP	ADP	ADP|PART
+dat	DET	DET	PRON|DET|SCONJ
+Krüz	NOUN	NOUN	NOUN
+,	PUNCT	PUNCT	PUNCT
+Ick	PRON	PRON	PRON
+künn	AUX	AUX	AUX
+nich	ADV	ADV	ADV
+liggen	VERB	VERB	VERB
+up	ADP	ADP	ADP|PART
+den	DET	DET	PRON|DET
+Stütz	NOUN	NOUN	NOUN|VERB
+,	PUNCT	PUNCT	PUNCT
+Nich	ADV	ADV	ADV
+starben	VERB	VERB	VERB
+un	CCONJ	CCONJ	CCONJ
+nich	ADV	ADV	ADV
+leben	NOUN	NOUN	NOUN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: De Annern sinn mit Mann un Mus, All öwer vierteihn Doag to Hus, Un ick möt hier nu kranken, Un ängsten mi üm Fru un Kind, Anstatt bi Ju to Hus to sind Un Nudel uns to planten.
+De	DET	DET	PRON|DET
+Annern	ADJ	ADJ	ADJ|PRON
+sinn	NOUN	NOUN	NOUN
+mit	ADP	ADP	ADP|PART
+Mann	NOUN	NOUN	NOUN
+un	CCONJ	CCONJ	CCONJ
+Mus	VERB	VERB	AUX|NOUN|PROPN|VERB
+,	PUNCT	PUNCT	PUNCT
+All	ADV	ADV	ADV
+öwer	VERB	VERB	_
+vierteihn	ADJ	ADJ	_
+Doag	NOUN	NOUN	NOUN
+to	ADP	ADP	ADP|PART
+Hus	NOUN	NOUN	NOUN
+,	PUNCT	PUNCT	PUNCT
+Un	CCONJ	CCONJ	CCONJ
+ick	PRON	PRON	PRON
+möt	VERB	VERB	ADP|VERB
+hier	ADV	ADV	ADV
+nu	ADV	ADV	ADV
+kranken	NOUN?	NOUN	ADJ|VERB
+,	PUNCT	PUNCT	PUNCT
+Un	CCONJ	CCONJ	CCONJ
+ängsten	VERB	VERB	ADJ|VERB
+mi	PRON	PRON	PRON
+üm	ADP	ADP	ADP|PART
+Fru	NOUN	NOUN	NOUN
+un	CCONJ	CCONJ	CCONJ
+Kind	NOUN	NOUN	NOUN
+,	PUNCT	PUNCT	PUNCT
+Anstatt	VERB?	VERB	ADP|CCONJ|SCONJ
+bi	ADP	ADP	ADP|PART
+Ju	PRON	PRON	PRON
+to	ADP	ADP	ADP|PART
+Hus	NOUN	NOUN	NOUN
+to	ADP	ADP	ADP|PART
+sind	AUX	AUX	AUX
+Un	CCONJ	CCONJ	CCONJ
+Nudel	NOUN	VERB	NOUN
+uns	PRON	PRON	PRON
+to	ADP	ADP	ADP|PART
+planten	NOUN	NOUN	_
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Na annern Dunnerstag bin ick (Wenn süs mi good is noch dat Glück) Gewiß to Hus mien Lewen.
+Na	ADP	ADP	ADP
+annern	ADJ	ADJ	ADJ|PRON
+Dunnerstag	NOUN	NOUN	NOUN|PROPN
+bin	AUX	AUX	AUX
+ick	PRON	PRON	PRON
+(	PUNCT	PUNCT	PUNCT
+Wenn	SCONJ	SCONJ	SCONJ
+süs	VERB	VERB	_
+mi	PRON	PRON	PRON
+good	ADV	ADV	ADJ|ADV
+is	AUX	AUX	AUX
+noch	ADV	ADV	ADV
+dat	DET	DET	PRON|DET|SCONJ
+Glück	NOUN	NOUN	NOUN
+)	PUNCT	PUNCT	PUNCT
+Gewiß	ADV	ADV	ADJ|ADV
+to	ADP	ADP	ADP|PART
+Hus	NOUN	NOUN	NOUN
+mien	DET	DET	DET
+Lewen	NOUN	NOUN	ADJ|NOUN|VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Un wenn ick doaran denken doh, Denn ward mi doch üm't Herz so froh, As harr ’t groot Loos ick kregen.
+Un	CCONJ	CCONJ	CCONJ
+wenn	SCONJ	SCONJ	SCONJ
+ick	PRON	PRON	PRON
+doaran	ADV	ADV	ADV
+denken	VERB	VERB	VERB
+doh	AUX	AUX	AUX
+,	PUNCT	PUNCT	PUNCT
+Denn	ADV	ADV	ADV
+ward	AUX	AUX	AUX
+mi	PRON	PRON	PRON
+doch	ADV	ADV	ADV
+üm't	ADP	ADP	ADP
+Herz	NOUN	NOUN	NOUN
+so	ADV	ADV	ADV
+froh	ADJ	ADJ	ADJ|X|ADV
+,	PUNCT	PUNCT	PUNCT
+As	CCONJ	CCONJ	CCONJ
+harr	VERB	VERB	_
+'t	PRON	PRON	PRON|DET
+groot	ADV	ADV	ADJ|ADV
+Loos	VERB	VERB	ADJ|NOUN|ADV|VERB
+ick	PRON	PRON	PRON
+kregen	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Denn sast Du sehn, mien lewe Fru, Denn war' ick jeden Oabend Ju Vertell'n von de Franzosen.
+Denn	ADV	ADV	ADV
+sast	AUX	AUX	AUX
+Du	PRON	PRON	PRON
+sehn	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+mien	DET	DET	DET
+lewe	ADJ	ADJ	ADJ|VERB
+Fru	NOUN	NOUN	NOUN
+,	PUNCT	PUNCT	PUNCT
+Denn	ADV	ADV	ADV
+war'	VERB	VERB	_
+ick	PRON	PRON	PRON
+jeden	DET	DET	PRON|DET
+Oabend	NOUN	NOUN	AUX|NOUN|VERB
+Ju	PRON	PRON	PRON
+Vertell'n	VERB	VERB	VERB
+von	ADP	ADP	ADP|PART
+de	DET	DET	PRON|DET
+Franzosen	NOUN	NOUN	NOUN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Dat Land dat is hier wirklich schön, Wo lang is hier all Alles grön, In'n März gift hier all Rosen.
+Dat	DET	DET	PRON|DET|SCONJ
+Land	NOUN	NOUN	NOUN
+dat	PRON	PRON	PRON|DET|SCONJ
+is	AUX	AUX	AUX
+hier	ADV	ADV	ADV
+wirklich	VERB?	VERB	ADJ|ADV
+schön	ADV	ADV	ADJ|ADV
+,	PUNCT	PUNCT	PUNCT
+Wo	SCONJ	SCONJ	SCONJ
+lang	ADV	ADV	ADV
+is	AUX	AUX	AUX
+hier	ADV	ADV	ADV
+all	ADV	ADV	ADV
+Alles	PRON	PRON	PRON
+grön	ADJ	ADJ	ADJ
+,	PUNCT	PUNCT	PUNCT
+In'n	ADP	ADP	ADJ|ADV|ADP|AUX|NOUN|NUM|VERB
+März	PROPN	PROPN	PROPN|NOUN
+gift	VERB	VERB	VERB
+hier	ADV	ADV	ADV
+all	ADV	ADV	ADV
+Rosen	VERB	VERB	PROPN|NOUN|VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Un billig Lewen is dat hier, „Wien" kost't nich mehr as baiersch Bier, Den bugen hier de Buern.
+Un	CCONJ	CCONJ	CCONJ
+billig	ADJ	ADJ	ADJ|VERB
+Lewen	NOUN	NOUN	ADJ|NOUN|VERB
+is	AUX	AUX	AUX
+dat	PRON	PRON	PRON|DET|SCONJ
+hier	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+"	PUNCT	PUNCT	PUNCT
+Wien	PROPN	PROPN	PROPN|NOUN|VERB
+"	PUNCT	PUNCT	PUNCT
+kost't	VERB	VERB	VERB
+nich	ADV	ADV	ADV
+mehr	ADV	ADV	ADV
+as	CCONJ	CCONJ	CCONJ
+baiersch	NOUN	NOUN	_
+Bier	VERB	VERB	ADJ|PROPN|NOUN|VERB
+,	PUNCT	PUNCT	PUNCT
+Den	DET	DET	PRON|DET
+bugen	NOUN	NOUN	_
+hier	ADV	ADV	ADV
+de	DET	DET	PRON|DET
+Buern	NOUN	NOUN	NOUN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Wenn Frankreich man blot pommersch wär, Treckt ick mit Fru un Kinner her, Dat süll so lang nich duern.
+Wenn	SCONJ	SCONJ	SCONJ
+Frankreich	ADV?	ADV	ADJ|PROPN|NOUN
+man	ADV	ADV	PRON|ADV
+blot	NOUN?	NOUN	ADJ|ADV|VERB
+pommersch	VERB	VERB	_
+wär	AUX	AUX	AUX
+,	PUNCT	PUNCT	PUNCT
+Treckt	VERB	VERB	VERB
+ick	PRON	PRON	PRON
+mit	ADP	ADP	ADP|PART
+Fru	NOUN	NOUN	NOUN
+un	CCONJ	CCONJ	CCONJ
+Kinner	NOUN	NOUN	NOUN
+her	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+Dat	PRON	PRON	PRON|DET|SCONJ
+süll	AUX	AUX	AUX
+so	ADV	ADV	ADV
+lang	ADV	ADV	ADV
+nich	ADV	ADV	ADV
+duern	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Doch de Franzosen sinn joa twatsch!
+Doch	ADV	ADV	ADV
+de	DET	DET	PRON|DET
+Franzosen	NOUN	NOUN	NOUN
+sinn	NOUN	NOUN	NOUN
+joa	NOUN?	NOUN	INTJ|ADV|X|SCONJ|VERB|PART
+twatsch	VERB	VERB	_
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: Un wat se reden, dat is quatsch, Sammt Sidden un Maneeren.
+Un	CCONJ	CCONJ	CCONJ
+wat	PRON	PRON	PRON
+se	PRON	PRON	PRON
+reden	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+dat	PRON	PRON	PRON|DET|SCONJ
+is	AUX	AUX	AUX
+quatsch	VERB	VERB	ADJ|CCONJ|VERB
+,	PUNCT	PUNCT	PUNCT
+Sammt	NOUN	NOUN	NOUN|VERB
+Sidden	VERB?	VERB	NOUN|PROPN
+un	CCONJ	CCONJ	CCONJ
+Maneeren	VERB?	VERB	NOUN|PROPN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Jitzt hau'n se sich enanner dod!
+Jitzt	ADV	ADV	ADV
+hau'n	VERB	VERB	_
+se	PRON	PRON	PRON
+sich	PRON	PRON	PRON
+enanner	PRON	PRON	PRON
+dod	ADV	ADV	ADJ|ADV
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: Mi dücht, Napoljong deiht ehr noth De kann se blot regeeren.
+Mi	PRON	PRON	PRON
+dücht	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+Napoljong	VERB?	VERB	NOUN|PROPN
+deiht	AUX	AUX	AUX
+ehr	DET?	DET	ADJ|PRON|ADV|NUM|VERB
+noth	NOUN	NOUN	NOUN
+De	PRON	PRON	PRON|DET
+kann	AUX	AUX	AUX
+se	PRON	PRON	PRON
+blot	NOUN?	NOUN	ADJ|ADV|VERB
+regeeren	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Paß Du man up!
+Paß	NOUN	NOUN	NOUN
+Du	PRON	PRON	PRON
+man	ADV	ADV	PRON|ADV
+up	ADP	ADP	ADP|PART
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: ick segg Di Frü, Dat Volk dat höllt nich eher Ruh Un is nich eh'r tofreden, Bet werrer kümmt so'n Lulu ran De ehr de Hosen treckt good stramm, Un de se good kann treden.
+ick	PRON	PRON	PRON
+segg	VERB	VERB	VERB
+Di	PRON	PRON	PRON
+Frü	VERB	VERB	ADJ|NOUN|NUM|VERB
+,	PUNCT	PUNCT	PUNCT
+Dat	DET	DET	PRON|DET|SCONJ
+Volk	NOUN	NOUN	NOUN
+dat	PRON	PRON	PRON|DET|SCONJ
+höllt	VERB	VERB	VERB
+nich	ADV	ADV	ADV
+eher	ADV	ADV	ADV
+Ruh	NOUN	NOUN	NOUN
+Un	CCONJ	CCONJ	CCONJ
+is	AUX	AUX	AUX
+nich	ADV	ADV	ADV
+eh'r	ADJ?	ADJ	ADP|SCONJ|ADV|VERB
+tofreden	VERB	NOUN	VERB
+,	PUNCT	PUNCT	PUNCT
+Bet	ADP	ADP	ADP
+werrer	NOUN	NOUN	_
+kümmt	VERB	VERB	VERB
+so'n	DET	DET	DET
+Lulu	NOUN	NOUN	NOUN|PROPN
+ran	ADV	ADV	ADV
+De	DET	DET	PRON|DET
+ehr	NOUN?	NOUN	ADJ|PRON|ADV|NUM|VERB
+de	DET	DET	PRON|DET
+Hosen	NOUN	NOUN	NOUN|VERB
+treckt	VERB	VERB	VERB
+good	ADV	ADV	ADJ|ADV
+stramm	ADV	ADV	ADJ|ADV
+,	PUNCT	PUNCT	PUNCT
+Un	CCONJ	CCONJ	CCONJ
+de	PRON	PRON	PRON|DET
+se	PRON	PRON	PRON
+good	ADV	ADV	ADJ|ADV
+kann	AUX	AUX	AUX
+treden	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: De Dömlichsten sinn in Paris, Wat doa kum ut de Weeg rut is, Steiht as Gardist up Posten.
+De	DET	DET	PRON|DET
+Dömlichsten	ADJ?	ADJ	NOUN|PROPN
+sinn	NOUN	NOUN	NOUN
+in	ADP	ADP	ADP|PART
+Paris	NOUN	NOUN	PROPN|NOUN
+,	PUNCT	PUNCT	PUNCT
+Wat	PRON	PRON	PRON
+doa	ADV	ADV	ADV
+kum	VERB	VERB	ADV|VERB
+ut	ADP	ADP	ADP|PART
+de	DET	DET	PRON|DET
+Weeg	NOUN	NOUN	NOUN|ADV|VERB
+rut	ADV	ADV	ADV
+is	AUX	AUX	AUX
+,	PUNCT	PUNCT	PUNCT
+Steiht	VERB	VERB	VERB
+as	CCONJ	CCONJ	CCONJ
+Gardist	NOUN	NOUN	NOUN|PROPN
+up	ADP	ADP	ADP|PART
+Posten	NOUN	NOUN	NOUN|VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: An Arbiet denkt keen Minsch doa mehr, En Jeder lewt as Militär Up Regiments=Unkosten.
+An	ADP	ADP	ADP|PART
+Arbiet	NOUN	NOUN	NOUN|PROPN
+denkt	VERB	VERB	VERB
+keen	DET	DET	PRON|DET
+Minsch	NOUN	NOUN	NOUN
+doa	ADV	ADV	ADV
+mehr	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+En	PRON	PRON	PRON|DET
+Jeder	PRON	PRON	PRON|DET
+lewt	VERB	VERB	VERB
+as	CCONJ	CCONJ	CCONJ
+Militär	NOUN	NOUN	NOUN
+Up	ADP	ADP	ADP
+Regiments-Unkosten	NOUN	NOUN	NOUN|PROPN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Paris is süs so öbel nich So veel ick von to sehn heww kriggt, Is Allens schön un prächtig.
+Paris	NOUN	NOUN	PROPN|NOUN
+is	AUX	AUX	AUX
+süs	VERB	VERB	_
+so	ADV	ADV	ADV
+öbel	ADJ	VERB	ADJ
+nich	ADV	ADV	ADV
+So	ADV	ADV	ADV
+veel	VERB	VERB	_
+ick	PRON	PRON	PRON
+von	ADP	ADP	ADP|PART
+to	ADP	ADP	ADP|PART
+sehn	VERB	VERB	VERB
+heww	NOUN	NOUN	_
+kriggt	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+Is	AUX	AUX	AUX
+Allens	ADV	ADV	ADV
+schön	ADJ	ADJ	ADJ|ADV
+un	CCONJ	CCONJ	CCONJ
+prächtig	ADJ	ADJ	ADJ
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Blot dat oll Volk dat döcht nich doa, An dat is nich en goodes Hoar; Falsch sinn se niederträchtig.
+Blot	NOUN	NOUN	NOUN
+dat	DET	DET	PRON|DET|SCONJ
+oll	ADJ	ADJ	ADJ|ADV
+Volk	NOUN	NOUN	NOUN
+dat	PRON	PRON	PRON|DET|SCONJ
+döcht	VERB	VERB	VERB
+nich	ADV	ADV	ADV
+doa	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+An	ADP	ADP	ADP|PART
+dat	PRON	PRON	PRON|DET|SCONJ
+is	AUX	AUX	AUX
+nich	ADV	ADV	ADV
+en	DET	DET	PRON|DET
+goodes	ADJ	ADJ	ADJ
+Hoar	NOUN	NOUN	NOUN
+;	PUNCT	PUNCT	PUNCT
+Falsch	VERB?	VERB	ADJ|PART
+sinn	NOUN	NOUN	NOUN
+se	PRON	PRON	PRON
+niederträchtig	VERB	VERB	_
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: De Stroaten sinn doa glubschen lang Un as en Schlidderboahn so blank, Doa stoahn uck „Kacheloaben“ Mit grote noaklich Puppen up As. in Berlin, — uck Reuters drup De sehn narsch ut doa boaben.
+De	DET	DET	PRON|DET
+Stroaten	NOUN	ADJ	NOUN
+sinn	NOUN	NOUN	NOUN
+doa	ADV	ADV	ADV
+glubschen	VERB	VERB	_
+lang	ADV	ADV	ADV
+Un	CCONJ	CCONJ	CCONJ
+as	CCONJ	CCONJ	CCONJ
+en	DET	DET	PRON|DET
+Schlidderboahn	NOUN	NOUN	NOUN|PROPN
+so	ADV	ADV	ADV
+blank	ADJ	ADJ	ADJ|ADV
+,	PUNCT	PUNCT	PUNCT
+Doa	ADV	ADV	ADV
+stoahn	VERB	VERB	VERB
+uck	VERB	VERB	_
+"	PUNCT	PUNCT	PUNCT
+Kacheloaben	NOUN	VERB	NOUN
+"	PUNCT	PUNCT	PUNCT
+Mit	ADP	ADP	ADP
+grote	ADJ	ADJ	ADJ
+noaklich	NOUN	NOUN	_
+Puppen	NOUN	NOUN	NOUN|VERB
+up	ADP	ADP	ADP|PART
+As	CCONJ	CCONJ	CCONJ
+.	PUNCT	PUNCT	PUNCT
+in	ADP	ADP	ADP|PART
+Berlin	PROPN	PROPN	PROPN
+,	PUNCT	PUNCT	PUNCT
+-	PUNCT	PUNCT	PUNCT
+uck	NOUN	NOUN	_
+Reuters	PROPN	VERB	PROPN
+drup	ADV	ADV	ADV
+De	DET	DET	PRON|DET
+sehn	VERB	NOUN	VERB
+narsch	VERB	VERB	_
+ut	ADP	ADP	ADP|PART
+doa	ADV	ADV	ADV
+boaben	ADV	ADV	ADV
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Ick har doa äwerst en Quarteer, As wenn ick unse Kronprinz wär, Un ebenso mien Schimmel.
+Ick	PRON	PRON	PRON
+har	AUX	AUX	AUX
+doa	ADV	ADV	ADV
+äwerst	VERB	VERB	_
+en	DET	DET	PRON|DET
+Quarteer	NOUN	NOUN	NOUN
+,	PUNCT	PUNCT	PUNCT
+As	CCONJ	CCONJ	CCONJ
+wenn	SCONJ	SCONJ	SCONJ
+ick	PRON	PRON	PRON
+unse	DET	DET	DET
+Kronprinz	NOUN	NOUN	NOUN
+wär	AUX	AUX	AUX
+,	PUNCT	PUNCT	PUNCT
+Un	CCONJ	CCONJ	CCONJ
+ebenso	ADV	ADV	ADV
+mien	DET	DET	DET
+Schimmel	NOUN	NOUN	NOUN|VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Ick woahnte doa in'n grötsten Krog Von ganz Paris, söß Stockwark hoch, Dat Hus langt halw in'n Himmel.
+Ick	PRON	PRON	PRON
+woahnte	VERB	VERB	_
+doa	ADV	ADV	ADV
+in'n	ADP	ADP	ADP
+grötsten	ADJ	ADJ	ADJ
+Krog	NOUN	NOUN	NOUN
+Von	ADP	ADP	ADP
+ganz	ADV	ADV	ADV
+Paris	VERB?	VERB	PROPN|NOUN
+,	PUNCT	PUNCT	PUNCT
+söß	VERB	NOUN	VERB
+Stockwark	VERB?	VERB	NOUN|PROPN
+hoch	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+Dat	DET	DET	PRON|DET|SCONJ
+Hus	NOUN	NOUN	NOUN
+langt	VERB	VERB	VERB
+halw	ADV	ADV	ADV
+in'n	ADP	ADP	ADP
+Himmel	NOUN	NOUN	NOUN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: De Krogwirth is en fründlich Mann, Wo de gefällig wesen kann, Doa is he up den Posten.
+De	DET	DET	PRON|DET
+Krogwirth	NOUN	NOUN	NOUN
+is	AUX	AUX	AUX
+en	DET	DET	PRON|DET
+fründlich	ADJ	ADJ	ADJ|ADV
+Mann	NOUN	NOUN	NOUN
+,	PUNCT	PUNCT	PUNCT
+Wo	SCONJ	SCONJ	SCONJ
+de	DET	DET	PRON|DET
+gefällig	ADJ	NOUN	ADJ
+wesen	AUX	AUX	AUX
+kann	AUX	AUX	AUX
+,	PUNCT	PUNCT	PUNCT
+Doa	ADV	ADV	ADV
+is	AUX	AUX	AUX
+he	PRON	PRON	PRON
+up	ADP	ADP	ADP|PART
+den	DET	DET	PRON|DET
+Posten	NOUN	NOUN	NOUN|VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Doch wat de dömlich Husknecht is, De dehr ken'n Happen nich ümsüs, De mök mi immer Kosten.
+Doch	ADV	ADV	ADV
+wat	PRON	PRON	PRON
+de	DET	DET	PRON|DET
+dömlich	NOUN	NOUN	_
+Husknecht	VERB?	VERB	NOUN|PROPN
+is	AUX	AUX	AUX
+,	PUNCT	PUNCT	PUNCT
+De	DET	DET	PRON|DET
+dehr	NOUN	NOUN	_
+ken'n	VERB	VERB	ADJ|ADP|NUM|VERB
+Happen	NOUN	NOUN	NOUN
+nich	ADV	ADV	ADV
+ümsüs	ADV	VERB	ADV
+,	PUNCT	PUNCT	PUNCT
+De	PRON	PRON	PRON|DET
+mök	VERB	VERB	VERB
+mi	PRON	PRON	PRON
+immer	ADV	ADV	ADV
+Kosten	VERB	VERB	NOUN|VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Wat in Paris dat Beste wär, Dat was de Wirth von mien Quarteer, Künn etwas dütsch doch reden.
+Wat	PRON	PRON	PRON
+in	ADP	ADP	ADP|PART
+Paris	NOUN	NOUN	PROPN|NOUN
+dat	DET	DET	PRON|DET|SCONJ
+Beste	NOUN	NOUN	ADJ|NOUN|VERB
+wär	AUX	AUX	AUX
+,	PUNCT	PUNCT	PUNCT
+Dat	PRON	PRON	PRON|DET|SCONJ
+was	AUX	AUX	AUX
+de	DET	DET	PRON|DET
+Wirth	ADJ	NOUN	ADJ
+von	ADP	ADP	ADP|PART
+mien	DET	DET	DET
+Quarteer	NOUN	NOUN	NOUN
+,	PUNCT	PUNCT	PUNCT
+Künn	AUX	AUX	ADJ|ADP|AUX|NOUN|NUM|VERB
+etwas	ADV	ADV	ADV
+dütsch	ADJ	ADJ	ADJ
+doch	ADV	ADV	ADV
+reden	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Dat is mi so to Herzen goahn, Dat en Franzos mi künn verstoahn, As nischt in minen Leben.
+Dat	PRON	PRON	PRON|DET|SCONJ
+is	AUX	AUX	AUX
+mi	PRON	PRON	PRON
+so	ADV	ADV	ADV
+to	ADP	ADP	ADP|PART
+Herzen	NOUN	NOUN	NOUN
+goahn	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+Dat	PRON	PRON	PRON|DET|SCONJ
+en	DET	DET	PRON|DET
+Franzos	NOUN	NOUN	NOUN
+mi	PRON	PRON	PRON
+künn	AUX	AUX	AUX
+verstoahn	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+As	CCONJ	CCONJ	CCONJ
+nischt	ADV	ADV	ADV
+in	ADP	ADP	ADP|PART
+minen	DET	DET	DET
+Leben	NOUN	NOUN	NOUN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Ick sähr: „mong biljä de loschmang!
+Ick	PRON	PRON	PRON
+sähr	VERB	VERB	_
+:	PUNCT	PUNCT	PUNCT
+"	PUNCT	PUNCT	PUNCT
+mong	NOUN	NOUN	_
+biljä	VERB	VERB	_
+de	DET	DET	PRON|DET
+loschmang	NOUN	NOUN	_
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: " Dunn red't he mi up hochdütsch an: „Ick bitt sik nich scharnieren.
+"	PUNCT	PUNCT	PUNCT
+Dunn	ADV	ADV	ADJ|CCONJ|ADV|VERB
+red't	VERB	VERB	VERB
+he	PRON	PRON	PRON
+mi	PRON	PRON	PRON
+up	ADP	ADP	ADP|PART
+hochdütsch	ADJ	ADJ	ADJ
+an	ADP	ADP	ADP|PART
+:	PUNCT	PUNCT	PUNCT
+"	PUNCT	PUNCT	PUNCT
+Ick	PRON	PRON	PRON
+bitt	VERB	VERB	VERB
+sik	NOUN?	NOUN	ADP|PRON|VERB
+nich	ADV	ADV	ADV
+scharnieren	VERB	VERB	_
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Nur lustik spreken deuts Musche, Ick deutse Sprak kanz kut versteh; Ick können deuts parlieren.
+Nur	ADV	ADV	ADV
+lustik	VERB	VERB	_
+spreken	VERB	ADJ	VERB
+deuts	NOUN	NOUN	_
+Musche	VERB	VERB	ADJ|PROPN|NOUN|VERB
+,	PUNCT	PUNCT	PUNCT
+Ick	PRON	PRON	PRON
+deutse	VERB	VERB	_
+Sprak	NOUN	NOUN	NOUN
+kanz	VERB	VERB	_
+kut	NOUN	NOUN	_
+versteh	VERB	VERB	_
+;	PUNCT	PUNCT	PUNCT
+Ick	PRON	PRON	PRON
+können	AUX	AUX	AUX
+deuts	NOUN	NOUN	_
+parlieren	VERB	VERB	_
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Na!
+Na	ADP	ADP	ADP
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: denk ick, denn man immer to, Doch mit dat hochdütsch wetst Du jo, Dat hett sien Fies'matenten.
+denk	VERB	VERB	VERB
+ick	PRON	PRON	PRON
+,	PUNCT	PUNCT	PUNCT
+denn	ADV	ADV	ADV
+man	ADV	ADV	PRON|ADV
+immer	ADV	ADV	ADV
+to	ADP	ADP	ADP|PART
+,	PUNCT	PUNCT	PUNCT
+Doch	ADV	ADV	ADV
+mit	ADP	ADP	ADP|PART
+dat	DET	DET	PRON|DET|SCONJ
+hochdütsch	ADJ	ADJ	ADJ
+wetst	NOUN	NOUN	_
+Du	PRON	PRON	PRON
+jo	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+Dat	PRON	PRON	PRON|DET|SCONJ
+hett	AUX	AUX	AUX
+sien	DET	DET	AUX|DET
+Fies'matenten	NOUN	NOUN	NOUN|PROPN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Denn dat oll dömlich mir un mich, Dat kann ick uck so richtig nich, Dat is wat för Studenten.
+Denn	ADV	ADV	ADV
+dat	DET	DET	PRON|DET|SCONJ
+oll	ADJ	ADJ	ADJ|ADV
+dömlich	NOUN	NOUN	_
+mir	X	X	X
+un	CCONJ	CCONJ	CCONJ
+mich	X	X	X
+,	PUNCT	PUNCT	PUNCT
+Dat	PRON	PRON	PRON|DET|SCONJ
+kann	AUX	AUX	AUX
+ick	PRON	PRON	PRON
+uck	VERB	VERB	_
+so	ADV	ADV	ADV
+richtig	ADJ	ADJ	ADJ
+nich	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+Dat	PRON	PRON	PRON|DET|SCONJ
+is	AUX	AUX	AUX
+wat	PRON	PRON	PRON
+för	NOUN?	NOUN	ADJ|ADV|ADP|VERB|NUM
+Studenten	VERB?	VERB	NOUN|PROPN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Indessen geiht dat halwegs doch Un is doch immer beter noch, As dat oll Kauderwelschen.
+Indessen	NOUN	NOUN	CCONJ|NOUN|VERB
+geiht	VERB	VERB	VERB
+dat	DET	DET	PRON|DET|SCONJ
+halwegs	NOUN	NOUN	_
+doch	ADV	ADV	ADV
+Un	CCONJ	CCONJ	CCONJ
+is	AUX	AUX	AUX
+doch	ADV	ADV	ADV
+immer	ADV	ADV	ADV
+beter	ADJ	ADJ	ADJ|ADV
+noch	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+As	CCONJ	CCONJ	CCONJ
+dat	DET	DET	PRON|DET|SCONJ
+oll	ADJ	ADJ	ADJ|ADV
+Kauderwelschen	NOUN	NOUN	NOUN|PROPN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Doch wär de Fründschaft sehr bald ut.
+Doch	ADV	ADV	ADV
+wär	AUX	AUX	AUX
+de	DET	DET	PRON|DET
+Fründschaft	NOUN	NOUN	NOUN
+sehr	ADV	ADV	ADV
+bald	ADV	ADV	ADV
+ut	ADP	ADP	ADP|PART
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Wi müßten joa gliek werrer rut; Dat argerte mi hellschen.
+Wi	PRON	PRON	PRON
+müßten	AUX	AUX	AUX
+joa	NOUN?	NOUN	INTJ|ADV|X|SCONJ|VERB|PART
+gliek	ADV	ADV	ADV
+werrer	VERB	VERB	_
+rut	ADV	ADV	ADV
+;	PUNCT	PUNCT	PUNCT
+Dat	PRON	PRON	PRON|DET|SCONJ
+argerte	VERB	VERB	_
+mi	PRON	PRON	PRON
+hellschen	ADJ	VERB	ADJ
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Ick dacht, wi würden in Paris Acht Doag doch blieben ganz gewiß.
+Ick	PRON	PRON	PRON
+dacht	VERB	VERB	VERB
+,	PUNCT	PUNCT	PUNCT
+wi	PRON	PRON	PRON
+würden	AUX	AUX	AUX
+in	ADP	ADP	ADP|PART
+Paris	NOUN	NOUN	PROPN|NOUN
+Acht	NUM	NUM	NUM|VERB
+Doag	NOUN	NOUN	NOUN
+doch	ADV	ADV	ADV
+blieben	VERB	VERB	VERB
+ganz	ADV	ADV	ADV
+gewiß	ADV	ADV	ADV
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Ick wull mi All's bekieken.
+Ick	PRON	PRON	PRON
+wull	AUX	AUX	AUX
+mi	PRON	PRON	PRON
+All's	ADV	ADV	ADV
+bekieken	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Joa woll!
+Joa	NOUN	NOUN	NOUN
+woll	ADV	ADV	ADV
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: Kum wär'n wi ingerückt, Dunn würd'n wi werrer ruter schickt.
+Kum	NOUN?	NOUN	ADV|VERB
+wär'n	AUX	AUX	AUX
+wi	PRON	PRON	PRON
+ingerückt	VERB	VERB	_
+,	PUNCT	PUNCT	PUNCT
+Dunn	ADV	ADV	ADJ|CCONJ|ADV|VERB
+würd'n	ADP	VERB	ADP
+wi	PRON	PRON	PRON
+werrer	VERB	VERB	_
+ruter	ADV	ADV	ADV
+schickt	VERB	VERB	ADJ|VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Dat kann ick nich begriepen.
+Dat	PRON	PRON	PRON|DET|SCONJ
+kann	AUX	AUX	AUX
+ick	PRON	PRON	PRON
+nich	ADV	ADV	ADV
+begriepen	VERB	VERB	_
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Doch sall mi dat ganz recht uck sinn, Wenn ick nu man to Hus erst bin.
+Doch	ADV	ADV	ADV
+sall	AUX	AUX	AUX
+mi	PRON	PRON	PRON
+dat	PRON	PRON	PRON|DET|SCONJ
+ganz	ADV	ADV	ADV
+recht	ADV	ADV	ADV
+uck	ADJ	ADJ	_
+sinn	NOUN	NOUN	NOUN
+,	PUNCT	PUNCT	PUNCT
+Wenn	SCONJ	SCONJ	SCONJ
+ick	PRON	PRON	PRON
+nu	ADV	ADV	ADV
+man	ADV	ADV	PRON|ADV
+to	ADP	ADP	ADP|PART
+Hus	NOUN	NOUN	NOUN
+erst	ADV	ADV	ADV
+bin	AUX	AUX	AUX
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Denn loat ick Alles gellen.
+Denn	ADV	ADV	ADV
+loat	VERB	VERB	VERB
+ick	PRON	PRON	PRON
+Alles	PRON	PRON	PRON
+gellen	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: ﻿24 Denn kann sich Frankreich ganz un joar Upfreeten noch mit Hut un Hoar Un up den Kopp sich stellen.
+﻿24	PUNCT	NOUN	PUNCT
+Denn	ADV	ADV	ADV
+kann	AUX	AUX	AUX
+sich	PRON	PRON	PRON
+Frankreich	VERB?	VERB	ADJ|PROPN|NOUN
+ganz	ADV	ADV	ADV
+un	CCONJ	CCONJ	CCONJ
+joar	NOUN	NOUN	_
+Upfreeten	VERB?	VERB	NOUN|PROPN
+noch	ADV	ADV	ADV
+mit	ADP	ADP	ADP|PART
+Hut	NOUN	NOUN	NOUN|VERB
+un	CCONJ	CCONJ	CCONJ
+Hoar	NOUN	NOUN	NOUN
+Un	CCONJ	CCONJ	CCONJ
+up	ADP	ADP	ADP|PART
+den	DET	DET	PRON|DET
+Kopp	NOUN	NOUN	NOUN
+sich	PRON	PRON	PRON
+stellen	VERB	VERB	VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Mit de Kriegskosten denk ick mi, Dat ward woll hinken segg ick Di; Von wegen de Mill'arden.
+Mit	ADP	ADP	ADP
+de	DET	DET	PRON|DET
+Kriegskosten	NOUN	NOUN	NOUN|PROPN
+denk	VERB	VERB	VERB
+ick	PRON	PRON	PRON
+mi	PRON	PRON	PRON
+,	PUNCT	PUNCT	PUNCT
+Dat	PRON	PRON	PRON|DET|SCONJ
+ward	AUX	AUX	AUX
+woll	ADV	ADV	ADV
+hinken	VERB	NOUN	VERB
+segg	VERB	VERB	VERB
+ick	PRON	PRON	PRON
+Di	PRON	PRON	PRON
+;	PUNCT	PUNCT	PUNCT
+Von	ADP	ADP	ADP
+wegen	ADP	ADP	ADP|PART
+de	DET	DET	PRON|DET
+Mill'arden	NOUN	NOUN	NOUN|PROPN
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Wenn hier keen anner Wirthschaft ward, Denn kriegen wi doavon en Quark; Denn ward dat holprig waren.
+Wenn	SCONJ	SCONJ	SCONJ
+hier	ADV	ADV	ADV
+keen	DET	DET	PRON|DET
+anner	ADJ	ADJ	ADJ
+Wirthschaft	NOUN	NOUN	NOUN
+ward	AUX	AUX	AUX
+,	PUNCT	PUNCT	PUNCT
+Denn	ADV	ADV	ADV
+kriegen	VERB	VERB	VERB
+wi	PRON	PRON	PRON
+doavon	ADV	ADV	ADV
+en	DET	DET	PRON|DET
+Quark	NOUN	NOUN	NOUN
+;	PUNCT	PUNCT	PUNCT
+Denn	ADV	ADV	ADV
+ward	AUX	AUX	AUX
+dat	DET	DET	PRON|DET|SCONJ
+holprig	NOUN?	NOUN	ADJ|VERB
+waren	VERB	VERB	PUNCT|VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Na nu Marrieken!
+Na	ADP	ADP	ADP
+nu	ADV	ADV	ADV
+Marrieken	VERB?	VERB	NOUN|PROPN
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: denk doa dran, Tum Dunnerstag denn kümmt Dien Mann, Denn koakst Du mi geel Röben Mit Päkelfleesch — noah mienen Ju.
+denk	VERB	VERB	VERB
+doa	ADV	ADV	ADV
+dran	ADV	ADV	ADV
+,	PUNCT	PUNCT	PUNCT
+Tum	ADP	ADP	ADP
+Dunnerstag	NOUN	NOUN	NOUN|PROPN
+denn	ADV	ADV	ADV
+kümmt	VERB	VERB	VERB
+Dien	DET	DET	DET
+Mann	NOUN	NOUN	NOUN
+,	PUNCT	PUNCT	PUNCT
+Denn	ADV	ADV	ADV
+koakst	VERB	VERB	_
+Du	PRON	PRON	PRON
+mi	PRON	PRON	PRON
+geel	VERB	VERB	_
+Röben	NOUN	NOUN	NOUN|VERB
+Mit	ADP	ADP	ADP
+Päkelfleesch	NOUN	NOUN	NOUN
+-	PUNCT	PUNCT	PUNCT
+noah	ADP	ADP	ADP|PART
+mienen	DET	DET	DET
+Ju	PRON	PRON	PRON
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Nu bliew gesund, mien lewe Fru!
+Nu	ADV	ADV	ADV
+bliew	VERB	VERB	VERB
+gesund	ADV	ADV	ADJ|ADV
+,	PUNCT	PUNCT	PUNCT
+mien	DET	DET	DET
+lewe	ADJ	ADJ	ADJ|VERB
+Fru	NOUN	NOUN	NOUN
+!	PUNCT	PUNCT	PUNCT
+
+
+# text: So lang möt wi noch töben.
+So	ADV	ADV	ADV
+lang	ADV	ADV	ADV
+möt	VERB	VERB	ADP|VERB
+wi	PRON	PRON	PRON
+noch	ADV	ADV	ADV
+töben	VERB	VERB	AUX|PART|VERB
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Am 24.
+Am	PRON	PRON	PRON
+24	NUM	VERB	NUM
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: April 1871.
+April	NOUN	NOUN	PROPN|NOUN
+1871	NUM	VERB	NUM
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Nachdruck wird verfolgt.
+Nachdruck	VERB?	VERB	NOUN|PROPN
+wird	X	X	X
+verfolgt	NOUN	NOUN	_
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Druck von E.
+Druck	NOUN	NOUN	PROPN|NOUN|VERB
+von	ADP	ADP	ADP|PART
+E	PROPN	PROPN	PROPN|INTJ|NOUN|VERB|PART
+.	PUNCT	PUNCT	PUNCT
+
+
+# text: Giese in Pyritz.
+Giese	PROPN	NOUN	PROPN
+in	ADP	ADP	ADP|PART
+Pyritz	NOUN	NOUN	NOUN|PROPN
+.	PUNCT	PUNCT	PUNCT
+
+
+
+
+
