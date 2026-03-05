@@ -54,3 +54,4 @@ At the moment, this data can be of value for the study of morphology and lexis, 
 
 - migrate `upos/` scripts
 - document `editor/` and refinement cycles
+- add documentation on North Markian and Low German
