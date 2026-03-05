@@ -1,6 +1,9 @@
 # Corpus of North Markian and Central Pomeranian (NMK Corpus)
 
-> Note: **DO NOT EDIT DIRECTLY**. This is the public release repository for the NMK corpus. For internal development, please checkout [our private repository](https://github.com/acoli-repo/nmk-corpus) and run `make update_release` *in that repository* to update any data here. If you like to contribute, please get in touch with [@chiarcos](https://github.com/chiarcos) and/or the [Chair of Applied Computational Linguistics at the University of Augsburg, Germany](https://www.uni-augsburg.de/en/fakultaet/philhist/professuren/Applied-Computational-Linguistics/).
+> **DO NOT EDIT DIRECTLY**
+> - This is the public release repository for the NMK corpus. For internal development, please checkout [our private repository](https://github.com/acoli-repo/nmk-corpus) and run `make update_release` *in that repository* to update any data here.
+> - Note that not all build scripts have been migrated yet.
+> - If you like to contribute, or want to get access to the original build scripts, please get in touch with [@chiarcos](https://github.com/chiarcos) and/or the [Chair of Applied Computational Linguistics at the University of Augsburg, Germany](https://www.uni-augsburg.de/en/fakultaet/philhist/professuren/Applied-Computational-Linguistics/).
 
 
 **Content**:
@@ -8,6 +11,7 @@
 - [`pdf/`](pdf) gzipped PDFs containing the source texts (scanned, content pages only)
 - [`txt/`](txt) Transkribus OCR, plain text (no OCR post-correction)
 - [`upos/`](upos) automated annotation for universal parts of speech in four columns, `FORM`, `UPOS` (predicted part of speech) and two auxiliary columns (see UPOS annotation below)
+<<<<<<< HEAD
 - [`lemmatizer/`](lemmatizer) lemmatizer v0.03
 	- see [`Readme`](lemmatizer/Readme.md) for how to compile and run
 	- including a [command-line editor](lemmatizer/editor) for manual curation of analyzed forms 
