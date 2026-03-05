@@ -8,8 +8,15 @@
 - [`pdf/`](pdf) gzipped PDFs containing the source texts (scanned, content pages only)
 - [`txt/`](txt) Transkribus OCR, plain text (no OCR post-correction)
 - [`upos/`](upos) automated annotation for universal parts of speech in four columns, `FORM`, `UPOS` (predicted part of speech) and two auxiliary columns (see UPOS annotation below)
+- [`lemmatizer/`](lemmatizer) lemmatizer v0.03
+	- see [`Readme`](lemmatizer/Readme.md) for how to compile and run
+	- including a [command-line editor](lemmatizer/editor) for manual curation of analyzed forms 
+	- including manually curated [full-form lists](lemmatizer/full_forms)
 
-## UPOS annotation
+## Corpus data and UPOS annotation
+
+Note that lemmatizer v0.03 does not perform disambiguation. This is to be accomplished with transfer learning using data from related language varieties.
+So far, we thus only provide corpus data with POS tagging. In its nature, this is auxiliary data that has been created in preparation of the lemmatizer, i.e., for pre-filtering the word forms in order to develop morphological analysis components for verbal, nominal, adjectival and pronominal inflectional and derivational morphology.
 
 [`upos/`](upos) provides automated annotation for universal parts of speech in four columns, `FORM`, `UPOS` (predicted part of speech), `UPOS-HMM` (HMM prediction), `UPOS-DICT` (parts of speech according to dictionary lookup):
 
@@ -22,10 +29,11 @@
 	1. (*direct mode*) initially performed by combining transition probabilities from UD corpora (see [Readme](upos/Readme.md) for details) and emission probabilities from a heuristically bootstrapped dictionaries and statistical OOV heuristics, or
 	2. (*retraining mode*): annotated with Hammy HMM trained over the data resulting from direct annotation
 
-	During compilation, we identify the best-performing parameter configuration against a manually annotated sample. The best-performing configuration is applied, see [Readme](upos/Readme.md) for evaluation scores and the parameters of the best-performing configuration.
+	During compilation, we automatically identify the best-performing parameter configuration against a manually annotated sample. The best-performing configuration is applied, see [Readme](upos/Readme.md) for evaluation scores and the parameters of the best-performing configuration.
 
 - `UPOS-DICT` lookup-based UPOS annotations against a heuristically compiled POS dictionary, no disambiguation.
 
 ## TODO
 
 - migrate `upos/` scripts
+- document `editor/` and refinement cycles

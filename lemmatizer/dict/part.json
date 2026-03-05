@@ -1,0 +1,1522 @@
+{
+  "O/PART": {
+    "O/PART": {
+      "O": {
+        "o": {
+          "dict/part.tsv": [
+            "O/PART\tO\to"
+          ]
+        }
+      }
+    }
+  },
+  "Ut/PART": {
+    "Ut/PART": {
+      "Ut": {
+        "Ut": {
+          "dict/part.tsv": [
+            "Ut/PART\tUt\tUt"
+          ]
+        },
+        "Uut": {
+          "dict/part.tsv": [
+            "Ut/PART\tUt\tUut"
+          ]
+        },
+        "ut": {
+          "dict/part.tsv": [
+            "Ut/PART\tUt\tut"
+          ]
+        },
+        "uth": {
+          "dict/part.tsv": [
+            "Ut/PART\tUt\tuth"
+          ]
+        },
+        "uut": {
+          "dict/part.tsv": [
+            "Ut/PART\tUt\tuut"
+          ]
+        }
+      }
+    },
+    "Ut/PART.ocr": {
+      "Ut": {
+        "nt": {
+          "dict/part.tsv": [
+            "PART.ocr\tUt/PART\tUt\tnt"
+          ]
+        }
+      }
+    }
+  },
+  "Uter/PART": {
+    "Uter/PART": {
+      "U’ter": {
+        "Uter": {
+          "dict/part.tsv": [
+            "Uter/PART\tU’ter\tUter"
+          ]
+        },
+        "uter": {
+          "dict/part.tsv": [
+            "Uter/PART\tU’ter\tuter"
+          ]
+        }
+      }
+    }
+  },
+  "af/PART": {
+    "af/PART": {
+      "af": {
+        "Af": {
+          "dict/part.tsv": [
+            "af/PART\taf\tAf"
+          ]
+        },
+        "af": {
+          "dict/part.tsv": [
+            "PART\taf/PART\taf\taf",
+            "af/PART\taf\taf"
+          ]
+        }
+      }
+    }
+  },
+  "an/PART": {
+    "an/PART": {
+      "an": {
+        "An": {
+          "dict/part.tsv": [
+            "an/PART\tan\tAn"
+          ]
+        },
+        "an": {
+          "dict/part.tsv": [
+            "an/PART\tan\tan"
+          ]
+        }
+      }
+    }
+  },
+  "as/PART": {
+    "as/PART": {
+      "as": {
+        "As": {
+          "dict/part.tsv": [
+            "as/PART\tas\tAs"
+          ]
+        },
+        "as": {
+          "dict/part.tsv": [
+            "as/PART\tas\tas"
+          ]
+        }
+      }
+    }
+  },
+  "bI+samen/PART": {
+    "bI+samen/PART": {
+      "bI’sa’men": {
+        "biesammen": {
+          "dict/part.tsv": [
+            "bI+samen/PART\tbI’sa’men\tbiesammen"
+          ]
+        }
+      }
+    }
+  },
+  "bI/PART": {
+    "bI/PART": {
+      "bI": {
+        "Bi": {
+          "dict/part.tsv": [
+            "bI/PART\tbI\tBi"
+          ]
+        },
+        "Bie": {
+          "dict/part.tsv": [
+            "bI/PART\tbI\tBie"
+          ]
+        },
+        "By": {
+          "dict/part.tsv": [
+            "bI/PART\tbI\tBy"
+          ]
+        },
+        "bi": {
+          "dict/part.tsv": [
+            "bI/PART\tbI\tbi"
+          ]
+        },
+        "bie": {
+          "dict/part.tsv": [
+            "bI/PART\tbI\tbie"
+          ]
+        },
+        "by": {
+          "dict/part.tsv": [
+            "bI/PART\tbI\tby"
+          ]
+        }
+      }
+    }
+  },
+  "bet/PART": {
+    "bet/PART": {
+      "bet": {
+        "Bet": {
+          "dict/part.tsv": [
+            "bet/PART\tbet\tBet"
+          ]
+        },
+        "bet": {
+          "dict/part.tsv": [
+            "bet/PART\tbet\tbet"
+          ]
+        }
+      }
+    }
+  },
+  "danke/PART.hd": {
+    "danke/PART.Ans.hd": {
+      "dan’ke": {
+        "Danke": {
+          "dict/part.tsv": [
+            "PART.Ans.hd\tdanke/PART.hd\tdan’ke\tDanke"
+          ]
+        },
+        "danke": {
+          "dict/part.tsv": [
+            "PART.Ans.hd\tdanke/PART.hd\tdan’ke\tdanke"
+          ]
+        }
+      }
+    }
+  },
+  "dox/PART": {
+    "dox/PART.Ans": {
+      "dox": {
+        "doch": {
+          "dict/part.tsv": [
+            "PART.Ans\tdox/PART\tdox\tdoch"
+          ]
+        }
+      }
+    }
+  },
+  "då+dörx/PART": {
+    "då+dörx/PART": {
+      "då’dörx": {
+        "doadörch": {
+          "dict/part.tsv": [
+            "då+dörx/PART\tdå’dörx\tdoadörch"
+          ]
+        }
+      }
+    }
+  },
+  "då+fon/PART": {
+    "då+fon/PART": {
+      "då’fon": {
+        "davon": {
+          "dict/part.tsv": [
+            "PART\tdå+fon/PART\tdå’fon\tdavon"
+          ]
+        }
+      }
+    }
+  },
+  "då+gÄgen/PART": {
+    "då+gÄgen/PART.hd": {
+      "då’gÄ’gen": {
+        "dagegen": {
+          "dict/part.tsv": [
+            "PART.hd\tdå+gÄgen/PART\tdå’gÄ’gen\tdagegen"
+          ]
+        }
+      }
+    }
+  },
+  "då+hEr/PART": {
+    "då+hEr/PART": {
+      "då’hEr": {
+        "daher": {
+          "dict/part.tsv": [
+            "då+hEr/PART\tdå’hEr\tdaher"
+          ]
+        }
+      }
+    }
+  },
+  "då+heim/PART": {
+    "då+heim/PART.hd": {
+      "då’heim": {
+        "daheim": {
+          "dict/part.tsv": [
+            "PART.hd\tdå+heim/PART\tdå’heim\tdaheim"
+          ]
+        }
+      }
+    }
+  },
+  "då+hen/PART": {
+    "då+hen/PART": {
+      "då’hen": {
+        "doahen": {
+          "dict/part.tsv": [
+            "då+hen/PART\tdå’hen\tdoahen"
+          ]
+        }
+      }
+    }
+  },
+  "då+mang/PART": {
+    "då+mang/PART": {
+      "då’mang": {
+        "damang": {
+          "dict/part.tsv": [
+            "då+mang/PART\tdå’mang\tdamang"
+          ]
+        }
+      }
+    }
+  },
+  "då+tsU/PART": {
+    "då+tsU/PART.hd": {
+      "då’tsU": {
+        "dazu": {
+          "dict/part.tsv": [
+            "PART.hd\tdå+tsU/PART\tdå’tsU\tdazu"
+          ]
+        }
+      }
+    }
+  },
+  "då/PART": {
+    "då/PART": {
+      "då": {
+        "da": {
+          "dict/part.tsv": [
+            "då/PART\tdå\tda"
+          ]
+        }
+      }
+    }
+  },
+  "dår+Ut/PART": {
+    "dår+Ut/PART": {
+      "drUt": {
+        "drut": {
+          "dict/part.tsv": [
+            "dår+Ut/PART\tdrUt\tdrut"
+          ]
+        }
+      },
+      "dår’Ut": {
+        "doarut": {
+          "dict/part.tsv": [
+            "dår+Ut/PART\tdår’Ut\tdoarut"
+          ]
+        }
+      }
+    }
+  },
+  "dår+an/PART": {
+    "dår+an/PART": {
+      "dran": {
+        "dran": {
+          "dict/part.tsv": [
+            "dår+an/PART\tdran\tdran"
+          ]
+        }
+      },
+      "då’ran": {
+        "daran": {
+          "dict/part.tsv": [
+            "dår+an/PART\tdå’ran\tdaran"
+          ]
+        }
+      }
+    }
+  },
+  "dår+in/PART": {
+    "dår+in/PART": {
+      "drin": {
+        "drin": {
+          "dict/part.tsv": [
+            "dår+in/PART\tdrin\tdrin"
+          ]
+        }
+      },
+      "då’rin": {
+        "doarin": {
+          "dict/part.tsv": [
+            "dår+in/PART\tdå’rin\tdoarin"
+          ]
+        }
+      }
+    }
+  },
+  "dår+up/PART": {
+    "dår+up/PART": {
+      "dår’up": {
+        "doarup": {
+          "dict/part.tsv": [
+            "dår+up/PART\tdår’up\tdoarup"
+          ]
+        }
+      }
+    }
+  },
+  "dår+üm/PART.hd": {
+    "dår+üm/PART.hd": {
+      "då’rüm": {
+        "doarum": {
+          "dict/part.tsv": [
+            "dår+üm/PART.hd\tdå’rüm\tdoarum"
+          ]
+        }
+      }
+    }
+  },
+  "dår/PART": {
+    "dår/PART": {
+      "dår": {
+        "dar": {
+          "dict/part.tsv": [
+            "dår/PART\tdår\tdar"
+          ]
+        }
+      }
+    }
+  },
+  "dörx/PART": {
+    "dörx/PART": {
+      "dörx": {
+        "Dörch": {
+          "dict/part.tsv": [
+            "dörx/PART\tdörx\tDörch"
+          ]
+        },
+        "dörch": {
+          "dict/part.tsv": [
+            "dörx/PART\tdörx\tdörch"
+          ]
+        }
+      }
+    },
+    "dörx/PART.Ans.ocr": {
+      "dörx": {
+        "dorch": {
+          "dict/part.tsv": [
+            "PART.Ans.ocr\tdörx/PART\tdörx\tdorch"
+          ]
+        }
+      }
+    },
+    "dörx/PART.ocr": {
+      "dörx": {
+        "Dorch": {
+          "dict/part.tsv": [
+            "PART.ocr\tdörx/PART\tdörx\tDorch"
+          ]
+        },
+        "dorch": {
+          "dict/part.tsv": [
+            "PART.ocr\tdörx/PART\tdörx\tdorch"
+          ]
+        }
+      }
+    }
+  },
+  "ent-gÄgen/PART": {
+    "ent-gÄgen/PART": {
+      "ent’gÄ’gen": {
+        "entgegen": {
+          "dict/part.tsv": [
+            "ent-gÄgen/PART\tent’gÄ’gen\tentgegen"
+          ]
+        }
+      }
+    }
+  },
+  "ent-lang/PART": {
+    "ent-lang/PART": {
+      "ent’lang": {
+        "entlang": {
+          "dict/part.tsv": [
+            "ent-lang/PART\tent’lang\tentlang"
+          ]
+        }
+      }
+    }
+  },
+  "enttswei/PART": {
+    "enttswei/PART.hd": {
+      "ent’tswei": {
+        "entzwei": {
+          "dict/part.tsv": [
+            "PART.hd\tenttswei/PART\tent’tswei\tentzwei"
+          ]
+        }
+      }
+    }
+  },
+  "fOr+werts/PART": {
+    "fOr+werts/PART.hd": {
+      "fOr’werts": {
+        "vorwärts": {
+          "dict/part.tsv": [
+            "PART.hd\tfOr+werts/PART\tfOr’werts\tvorwärts"
+          ]
+        }
+      }
+    }
+  },
+  "fan/PART": {
+    "fan/PART": {
+      "fan": {
+        "van": {
+          "dict/part.tsv": [
+            "fan/PART\tfan\tvan"
+          ]
+        }
+      }
+    }
+  },
+  "fest/PART": {
+    "fest/PART": {
+      "fest": {
+        "fest": {
+          "dict/part.tsv": [
+            "fest/PART\tfest\tfest"
+          ]
+        }
+      }
+    }
+  },
+  "fol/PART": {
+    "fol/PART": {
+      "fol": {
+        "voll": {
+          "dict/part.tsv": [
+            "fol/PART\tfol\tvoll"
+          ]
+        }
+      }
+    }
+  },
+  "fort/PART": {
+    "fort/PART": {
+      "fort": {
+        "fort": {
+          "dict/part.tsv": [
+            "fort/PART\tfort\tfort"
+          ]
+        }
+      }
+    }
+  },
+  "fuler/PART": {
+    "fuler/PART": {
+      "fu’ler": {
+        "vuller": {
+          "dict/part.tsv": [
+            "fuler/PART\tfu’ler\tvuller"
+          ]
+        }
+      }
+    }
+  },
+  "fÄl/PART": {
+    "fÄl/PART.ocr": {
+      "fÄl": {
+        "voal": {
+          "dict/part.tsv": [
+            "PART.ocr\tfÄl/PART\tfÄl\tvoal"
+          ]
+        }
+      }
+    }
+  },
+  "fœr+Ut/PART": {
+    "fœr+Ut/PART.ocr": {
+      "fœr’Ut": {
+        "vorut": {
+          "dict/part.tsv": [
+            "PART.ocr\tfœr+Ut/PART\tfœr’Ut\tvorut"
+          ]
+        }
+      }
+    }
+  },
+  "fœr/PART": {
+    "fœr/PART": {
+      "fœr": {
+        "Föar": {
+          "dict/part.tsv": [
+            "fœr/PART\tfœr\tFöar"
+          ]
+        },
+        "Vær": {
+          "dict/part.tsv": [
+            "fœr/PART\tfœr\tVær"
+          ]
+        },
+        "Vöar": {
+          "dict/part.tsv": [
+            "fœr/PART\tfœr\tVöar"
+          ]
+        },
+        "Vör": {
+          "dict/part.tsv": [
+            "fœr/PART\tfœr\tVör"
+          ]
+        },
+        "Vöär": {
+          "dict/part.tsv": [
+            "fœr/PART\tfœr\tVöär"
+          ]
+        },
+        "föar": {
+          "dict/part.tsv": [
+            "fœr/PART\tfœr\tföar"
+          ]
+        },
+        "för": {
+          "dict/part.tsv": [
+            "fœr/PART\tfœr\tför"
+          ]
+        },
+        "förr": {
+          "dict/part.tsv": [
+            "fœr/PART\tfœr\tförr"
+          ]
+        },
+        "voär": {
+          "dict/part.tsv": [
+            "fœr/PART\tfœr\tvoär"
+          ]
+        },
+        "voͤr": {
+          "dict/part.tsv": [
+            "fœr/PART\tfœr\tvoͤr"
+          ]
+        },
+        "vær": {
+          "dict/part.tsv": [
+            "fœr/PART\tfœr\tvær"
+          ]
+        },
+        "vöar": {
+          "dict/part.tsv": [
+            "fœr/PART\tfœr\tvöar"
+          ]
+        },
+        "vör": {
+          "dict/part.tsv": [
+            "fœr/PART\tfœr\tvör"
+          ]
+        },
+        "vöär": {
+          "dict/part.tsv": [
+            "fœr/PART\tfœr\tvöär"
+          ]
+        }
+      }
+    },
+    "fœr/PART.ocr": {
+      "fœr": {
+        "Vdr": {
+          "dict/part.tsv": [
+            "PART.ocr\tfœr/PART\tfœr\tVdr"
+          ]
+        },
+        "vdr": {
+          "dict/part.tsv": [
+            "PART.ocr\tfœr/PART\tfœr\tvdr"
+          ]
+        },
+        "ver": {
+          "dict/part.tsv": [
+            "PART.ocr\tfœr/PART\tfœr\tver"
+          ]
+        },
+        "vor": {
+          "dict/part.tsv": [
+            "PART.ocr\tfœr/PART\tfœr\tvor"
+          ]
+        },
+        "vår": {
+          "dict/part.tsv": [
+            "PART.ocr\tfœr/PART\tfœr\tvår"
+          ]
+        },
+        "vær": {
+          "dict/part.tsv": [
+            "PART.ocr\tfœr/PART\tfœr\tvær"
+          ]
+        }
+      }
+    }
+  },
+  "glIk/PART": {
+    "glIk/PART": {
+      "glIk": {
+        "glick": {
+          "dict/part.tsv": [
+            "glIk/PART\tglIk\tglick"
+          ]
+        }
+      }
+    }
+  },
+  "gÄgen+œver/PART": {
+    "gÄgen+œver/PART": {
+      "gÄ’gen’œ’ber": {
+        "gegenöaber": {
+          "dict/part.tsv": [
+            "gÄgen+œver/PART\tgÄ’gen’œ’ber\tgegenöaber"
+          ]
+        }
+      }
+    }
+  },
+  "gÄgen/PART": {
+    "gÄgen/PART": {
+      "gÄ’gen": {
+        "gegen": {
+          "dict/part.tsv": [
+            "gÄgen/PART\tgÄ’gen\tgegen"
+          ]
+        }
+      }
+    }
+  },
+  "hEr+Ut/PART": {
+    "hEr+Ut/PART": {
+      "rUt": {
+        "rut": {
+          "dict/part.tsv": [
+            "hEr+Ut/PART\trUt\trut"
+          ]
+        }
+      }
+    }
+  },
+  "hEr+Uter/PART": {
+    "hEr+Uter/PART": {
+      "rU’ter": {
+        "ruter": {
+          "dict/part.tsv": [
+            "hEr+Uter/PART\trU’ter\truter"
+          ]
+        },
+        "ruuter": {
+          "dict/part.tsv": [
+            "hEr+Uter/PART\trU’ter\truuter"
+          ]
+        }
+      }
+    }
+  },
+  "hEr+af/PART": {
+    "hEr+af/PART": {
+      "he’raf": {
+        "heraff": {
+          "dict/part.tsv": [
+            "hEr+af/PART\the’raf\theraff"
+          ]
+        }
+      },
+      "raf": {
+        "raff": {
+          "dict/part.tsv": [
+            "hEr+af/PART\traf\traff"
+          ]
+        }
+      }
+    }
+  },
+  "hEr+an/PART": {
+    "hEr+an/PART": {
+      "he’ran": {
+        "heran": {
+          "dict/part.tsv": [
+            "hEr+an/PART\the’ran\theran"
+          ]
+        }
+      },
+      "ran": {
+        "ran": {
+          "dict/part.tsv": [
+            "hEr+an/PART\tran\tran"
+          ]
+        }
+      }
+    }
+  },
+  "hEr+aner/PART": {
+    "hEr+aner/PART": {
+      "he’ra’ner": {
+        "heranner": {
+          "dict/part.tsv": [
+            "hEr+aner/PART\the’ra’ner\theranner"
+          ]
+        }
+      }
+    }
+  },
+  "hEr+fœr/PART": {
+    "hEr+fœr/PART.ocr": {
+      "her’fœr": {
+        "hervor": {
+          "dict/part.tsv": [
+            "PART.ocr\thEr+fœr/PART\ther’fœr\thervor"
+          ]
+        }
+      }
+    }
+  },
+  "hEr+neder/PART": {
+    "hEr+neder/PART.ocr": {
+      "her’ne’der": {
+        "hernådder": {
+          "dict/part.tsv": [
+            "PART.ocr\thEr+neder/PART\ther’ne’der\thernådder"
+          ]
+        }
+      }
+    }
+  },
+  "hEr+nå/PART": {
+    "hEr+nå/PART": {
+      "her’nå": {
+        "hernoah": {
+          "dict/part.tsv": [
+            "hEr+nå/PART\ther’nå\thernoah"
+          ]
+        }
+      }
+    }
+  },
+  "hEr+uner/PART": {
+    "hEr+uner/PART": {
+      "he’ru’ner": {
+        "herunner": {
+          "dict/part.tsv": [
+            "hEr+uner/PART\the’ru’ner\therunner"
+          ]
+        }
+      }
+    }
+  },
+  "hEr+uper/PART": {
+    "hEr+uper/PART": {
+      "ru’per": {
+        "rupper": {
+          "dict/part.tsv": [
+            "hEr+uper/PART\tru’per\trupper"
+          ]
+        }
+      }
+    }
+  },
+  "hEr+üm/PART": {
+    "hEr+üm/PART.hd": {
+      "rüm": {
+        "rum": {
+          "dict/part.tsv": [
+            "PART.hd\thEr+üm/PART\trüm\trum"
+          ]
+        }
+      }
+    },
+    "hEr+üm/PART.ocr": {
+      "he’rÜm": {
+        "herum": {
+          "dict/part.tsv": [
+            "PART.ocr\thEr+üm/PART\the’rÜm\therum"
+          ]
+        }
+      },
+      "rüm": {
+        "rům": {
+          "dict/part.tsv": [
+            "PART.ocr\thEr+üm/PART\trüm\trům"
+          ]
+        }
+      }
+    }
+  },
+  "hEr+ümer/PART": {
+    "hEr+ümer/PART": {
+      "he’rü’mer": {
+        "herrümmer": {
+          "dict/part.tsv": [
+            "hEr+ümer/PART\the’rü’mer\therrümmer"
+          ]
+        }
+      }
+    }
+  },
+  "hIr+hEr/PART": {
+    "hIr+hEr/PART.hd": {
+      "hIr’hEr": {
+        "hierher": {
+          "dict/part.tsv": [
+            "PART.hd\thIr+hEr/PART\thIr’hEr\thierher"
+          ]
+        }
+      }
+    }
+  },
+  "hen/PART": {
+    "hen/PART": {
+      "hen": {
+        "hen": {
+          "dict/part.tsv": [
+            "hen/PART\then\then"
+          ]
+        }
+      }
+    }
+  },
+  "her/PART": {
+    "her/PART": {
+      "hEr": {
+        "her": {
+          "dict/part.tsv": [
+            "her/PART\thEr\ther"
+          ]
+        }
+      }
+    },
+    "her/PART.hd": {
+      "hEr": {
+        "her": {
+          "dict/part.tsv": [
+            "PART.hd\ther/PART\thEr\ther"
+          ]
+        }
+      }
+    }
+  },
+  "hin/PART": {
+    "hin/PART": {
+      "hin": {
+        "hin": {
+          "dict/part.tsv": [
+            "hin/PART\thin\thin"
+          ]
+        }
+      }
+    }
+  },
+  "hiner/PART": {
+    "hiner/PART": {
+      "hi’ner": {
+        "Hinner": {
+          "dict/part.tsv": [
+            "hiner/PART\thi’ner\tHinner"
+          ]
+        },
+        "hinner": {
+          "dict/part.tsv": [
+            "hiner/PART\thi’ner\thinner"
+          ]
+        }
+      }
+    }
+  },
+  "in/PART": {
+    "in/PART": {
+      "in": {
+        "In": {
+          "dict/part.tsv": [
+            "in/PART\tin\tIn"
+          ]
+        },
+        "in": {
+          "dict/part.tsv": [
+            "in/PART\tin\tin"
+          ]
+        }
+      }
+    }
+  },
+  "jå/PART": {
+    "jå/PART.Ans": {
+      "jå": {
+        "Ja": {
+          "dict/part.tsv": [
+            "PART.Ans\tjå/PART\tjå\tJa"
+          ]
+        },
+        "Jå": {
+          "dict/part.tsv": [
+            "PART.Ans\tjå/PART\tjå\tJå"
+          ]
+        },
+        "jo": {
+          "dict/part.tsv": [
+            "PART.Ans\tjå/PART\tjå\tjo"
+          ]
+        },
+        "joa": {
+          "dict/part.tsv": [
+            "PART.Ans\tjå/PART\tjå\tjoa"
+          ]
+        }
+      }
+    },
+    "jå/PART.Ans.ocr": {
+      "jå": {
+        "jod": {
+          "dict/part.tsv": [
+            "PART.Ans.ocr\tjå/PART\tjå\tjod"
+          ]
+        }
+      }
+    }
+  },
+  "lOs/PART": {
+    "lOs/PART": {
+      "lOs": {
+        "los": {
+          "dict/part.tsv": [
+            "lOs/PART\tlOs\tlos"
+          ]
+        }
+      }
+    }
+  },
+  "lang/PART": {
+    "lang/PART": {
+      "lang": {
+        "lang": {
+          "dict/part.tsv": [
+            "lang/PART\tlang\tlang"
+          ]
+        }
+      }
+    }
+  },
+  "mang/PART": {
+    "mang/PART": {
+      "mang": {
+        "Mank": {
+          "dict/part.tsv": [
+            "mang/PART\tmang\tMank"
+          ]
+        },
+        "mang": {
+          "dict/part.tsv": [
+            "mang/PART\tmang\tmang"
+          ]
+        },
+        "mank": {
+          "dict/part.tsv": [
+            "mang/PART\tmang\tmank"
+          ]
+        }
+      },
+      "mank": {
+        "mank": {
+          "dict/part.tsv": [
+            "mang/PART\tmank\tmank"
+          ]
+        }
+      }
+    }
+  },
+  "med/PART": {
+    "med/PART": {
+      "met": {
+        "Met": {
+          "dict/part.tsv": [
+            "med/PART\tmet\tMet"
+          ]
+        },
+        "met": {
+          "dict/part.tsv": [
+            "med/PART\tmet\tmet"
+          ]
+        }
+      }
+    },
+    "med/PART.hd": {
+      "met": {
+        "mit": {
+          "dict/part.tsv": [
+            "PART.hd\tmed/PART\tmet\tmit"
+          ]
+        }
+      }
+    }
+  },
+  "nE/PART": {
+    "nE/PART.Ans": {
+      "nE": {
+        "nee": {
+          "dict/part.tsv": [
+            "PART.Ans\tnE/PART\tnE\tnee"
+          ]
+        }
+      }
+    },
+    "nE/PART.Ans.hd": {
+      "nE": {
+        "nein": {
+          "dict/part.tsv": [
+            "PART.Ans.hd\tnE/PART\tnE\tnein"
+          ]
+        }
+      }
+    }
+  },
+  "nU/PART": {
+    "nU/PART.Ans": {
+      "nU": {
+        "nu": {
+          "dict/part.tsv": [
+            "PART.Ans\tnU/PART\tnU\tnu"
+          ]
+        }
+      }
+    }
+  },
+  "nax/PART": {
+    "nax/PART.hd": {
+      "nax": {
+        "nach": {
+          "dict/part.tsv": [
+            "PART.hd\tnax/PART\tnax\tnach"
+          ]
+        }
+      }
+    }
+  },
+  "neder/PART": {
+    "neder/PART": {
+      "ne’der": {
+        "nedder": {
+          "dict/part.tsv": [
+            "neder/PART\tne’der\tnedder"
+          ]
+        }
+      }
+    }
+  },
+  "nÄben+hEr/PART": {
+    "nÄben+hEr/PART": {
+      "nÄ’ben’hEr": {
+        "nebenher": {
+          "dict/part.tsv": [
+            "nÄben+hEr/PART\tnÄ’ben’hEr\tnebenher"
+          ]
+        }
+      }
+    }
+  },
+  "nÄben/PART": {
+    "nÄben/PART": {
+      "nÄ’ben": {
+        "Neben": {
+          "dict/part.tsv": [
+            "nÄben/PART\tnÄ’ben\tNeben"
+          ]
+        },
+        "neben": {
+          "dict/part.tsv": [
+            "nÄben/PART\tnÄ’ben\tneben"
+          ]
+        }
+      }
+    }
+  },
+  "nå/PART": {
+    "nå/PART": {
+      "nå": {
+        "Na": {
+          "dict/part.tsv": [
+            "nå/PART\tnå\tNa"
+          ]
+        },
+        "Noa": {
+          "dict/part.tsv": [
+            "nå/PART\tnå\tNoa"
+          ]
+        },
+        "Noah": {
+          "dict/part.tsv": [
+            "nå/PART\tnå\tNoah"
+          ]
+        },
+        "Nå": {
+          "dict/part.tsv": [
+            "nå/PART\tnå\tNå"
+          ]
+        },
+        "na": {
+          "dict/part.tsv": [
+            "nå/PART\tnå\tna"
+          ]
+        },
+        "noa": {
+          "dict/part.tsv": [
+            "nå/PART\tnå\tnoa"
+          ]
+        },
+        "noah": {
+          "dict/part.tsv": [
+            "nå/PART\tnå\tnoah"
+          ]
+        },
+        "nå": {
+          "dict/part.tsv": [
+            "nå/PART\tnå\tnå"
+          ]
+        }
+      }
+    },
+    "nå/PART.ocr": {
+      "nå": {
+        "nogh": {
+          "dict/part.tsv": [
+            "PART.ocr\tnå/PART\tnå\tnogh"
+          ]
+        },
+        "nä": {
+          "dict/part.tsv": [
+            "PART.ocr\tnå/PART\tnå\tnä"
+          ]
+        }
+      }
+    }
+  },
+  "sIt/PART": {
+    "sIt/PART": {
+      "sIt": {
+        "Siet": {
+          "dict/part.tsv": [
+            "sIt/PART\tsIt\tSiet"
+          ]
+        },
+        "siet": {
+          "dict/part.tsv": [
+            "sIt/PART\tsIt\tsiet"
+          ]
+        }
+      }
+    }
+  },
+  "stat/PART": {
+    "stat/PART": {
+      "stat": {
+        "statt": {
+          "dict/part.tsv": [
+            "stat/PART\tstat\tstatt"
+          ]
+        }
+      }
+    }
+  },
+  "tO+samt/PART": {
+    "tO+samt/PART.ocr": {
+      "tO’samt": {
+        "tosamni": {
+          "dict/part.tsv": [
+            "PART.ocr\ttO+samt/PART\ttO’samt\ttosamni"
+          ]
+        }
+      }
+    }
+  },
+  "tO/PART": {
+    "tO/PART": {
+      "tO": {
+        "To": {
+          "dict/part.tsv": [
+            "tO/PART\ttO\tTo"
+          ]
+        },
+        "tho": {
+          "dict/part.tsv": [
+            "tO/PART\ttO\ttho"
+          ]
+        },
+        "to": {
+          "dict/part.tsv": [
+            "tO/PART\ttO\tto"
+          ]
+        }
+      }
+    },
+    "tO/PART.ocr": {
+      "tO": {
+        "te": {
+          "dict/part.tsv": [
+            "PART.ocr\ttO/PART\ttO\tte"
+          ]
+        },
+        "tø": {
+          "dict/part.tsv": [
+            "PART.ocr\ttO/PART\ttO\ttø"
+          ]
+        }
+      }
+    }
+  },
+  "twiSen/PART": {
+    "twiSen/PART": {
+      "twi’Sen": {
+        "Twischen": {
+          "dict/part.tsv": [
+            "twiSen/PART\ttwi’Sen\tTwischen"
+          ]
+        },
+        "twischen": {
+          "dict/part.tsv": [
+            "twiSen/PART\ttwi’Sen\ttwischen"
+          ]
+        }
+      }
+    }
+  },
+  "uf/PART": {
+    "uf/PART": {
+      "uf": {
+        "uf": {
+          "dict/part.tsv": [
+            "uf/PART\tuf\tuf"
+          ]
+        }
+      }
+    }
+  },
+  "under/PART": {
+    "under/PART": {
+      "u’ner": {
+        "Unner": {
+          "dict/part.tsv": [
+            "under/PART\tu’ner\tUnner"
+          ]
+        },
+        "unner": {
+          "dict/part.tsv": [
+            "under/PART\tu’ner\tunner"
+          ]
+        }
+      }
+    }
+  },
+  "up/PART": {
+    "up/PART": {
+      "up": {
+        "Up": {
+          "dict/part.tsv": [
+            "up/PART\tup\tUp"
+          ]
+        },
+        "up": {
+          "dict/part.tsv": [
+            "up/PART\tup\tup"
+          ]
+        }
+      }
+    },
+    "up/PART.ocr": {
+      "up": {
+        "üp": {
+          "dict/part.tsv": [
+            "PART.ocr\tup/PART\tup\tüp"
+          ]
+        }
+      }
+    }
+  },
+  "wE/PART": {
+    "wE/PART": {
+      "wE": {
+        "Wee": {
+          "dict/part.tsv": [
+            "wE/PART\twE\tWee"
+          ]
+        },
+        "weh": {
+          "dict/part.tsv": [
+            "wE/PART\twE\tweh"
+          ]
+        }
+      }
+    }
+  },
+  "wOl/PART": {
+    "wOl/PART.hd": {
+      "wOl": {
+        "wohl": {
+          "dict/part.tsv": [
+            "PART.hd\twOl/PART\twOl\twohl"
+          ]
+        }
+      }
+    }
+  },
+  "weg/PART": {
+    "weg/PART": {
+      "weg": {
+        "wech": {
+          "dict/part.tsv": [
+            "weg/PART\tweg\twech"
+          ]
+        },
+        "weg": {
+          "dict/part.tsv": [
+            "weg/PART\tweg\tweg"
+          ]
+        }
+      }
+    }
+  },
+  "wÄgen/PART": {
+    "wÄgen/PART": {
+      "wÄ’gen": {
+        "Wegen": {
+          "dict/part.tsv": [
+            "wÄgen/PART\twÄ’gen\tWegen"
+          ]
+        },
+        "wegen": {
+          "dict/part.tsv": [
+            "wÄgen/PART\twÄ’gen\twegen"
+          ]
+        }
+      }
+    }
+  },
+  "wÄgen?/PART?": {
+    "wÄgen?/PART?": {
+      "wE’gen": {
+        "weegen": {
+          "dict/part.tsv": [
+            "wÄgen?/PART?\twE’gen\tweegen"
+          ]
+        }
+      }
+    }
+  },
+  "wår/PART": {
+    "wår/PART": {
+      "wår": {
+        "wahr": {
+          "dict/part.tsv": [
+            "wår/PART\twår\twahr"
+          ]
+        },
+        "woahr": {
+          "dict/part.tsv": [
+            "wår/PART\twår\twoahr"
+          ]
+        },
+        "woar": {
+          "dict/part.tsv": [
+            "wår/PART\twår\twoar"
+          ]
+        }
+      }
+    }
+  },
+  "üm+hEr/PART": {
+    "üm+hEr/PART.ocr?": {
+      "üm’hEr": {
+        "umher": {
+          "dict/part.tsv": [
+            "PART.ocr?\tüm+hEr/PART\tüm’hEr\tumher"
+          ]
+        }
+      }
+    }
+  },
+  "üm/PART": {
+    "üm/PART": {
+      "üm": {
+        "üm": {
+          "dict/part.tsv": [
+            "üm/PART\tüm\tüm"
+          ]
+        }
+      }
+    },
+    "üm/PART.ocr?": {
+      "üm": {
+        "um": {
+          "dict/part.tsv": [
+            "PART.ocr?\tüm/PART\tüm\tum"
+          ]
+        }
+      }
+    }
+  },
+  "œver/PART": {
+    "œver/PART": {
+      "œ’ver": {
+        "äber": {
+          "dict/part.tsv": [
+            "œver/PART\tœ’ver\täber"
+          ]
+        },
+        "äver": {
+          "dict/part.tsv": [
+            "œver/PART\tœ’ver\täver"
+          ]
+        },
+        "æber": {
+          "dict/part.tsv": [
+            "œver/PART\tœ’ver\tæber"
+          ]
+        },
+        "öaber": {
+          "dict/part.tsv": [
+            "œver/PART\tœ’ver\töaber"
+          ]
+        },
+        "öber": {
+          "dict/part.tsv": [
+            "œver/PART\tœ’ver\töber"
+          ]
+        },
+        "öäber": {
+          "dict/part.tsv": [
+            "œver/PART\tœ’ver\töäber"
+          ]
+        }
+      }
+    },
+    "œver/PART.ocr": {
+      "œ’ver": {
+        "dáber": {
+          "dict/part.tsv": [
+            "PART.ocr\tœver/PART\tœ’ver\tdáber"
+          ]
+        },
+        "däber": {
+          "dict/part.tsv": [
+            "PART.ocr\tœver/PART\tœ’ver\tdäber"
+          ]
+        },
+        "eber": {
+          "dict/part.tsv": [
+            "PART.ocr\tœver/PART\tœ’ver\teber"
+          ]
+        },
+        "øber": {
+          "dict/part.tsv": [
+            "PART.ocr\tœver/PART\tœ’ver\tøber"
+          ]
+        }
+      }
+    }
+  }
+}

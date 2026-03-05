@@ -1,0 +1,2937 @@
+{
+  "Egentlix/ADV.reg": {
+    "Egentlix/ADV.reg": {
+      "Egentlix": {
+        "eegentlich": {
+          "dict/prep.tsv": [
+            "Egentlix/ADV.reg\tEgentlix\teegentlich"
+          ]
+        }
+      }
+    }
+  },
+  "Ehemals/ADV.hd": {
+    "Ehemals/ADV.hd": {
+      "Ehemals": {
+        "ehemals": {
+          "dict/prep.tsv": [
+            "Ehemals/ADV.hd\tEhemals\tehemals"
+          ]
+        }
+      }
+    }
+  },
+  "En+mål/ADV": {
+    "En+mål/ADV": {
+      "Enmål": {
+        "enmoal": {
+          "dict/prep.tsv": [
+            "En+mål/ADV\tEnmål\tenmoal"
+          ]
+        }
+      }
+    }
+  },
+  "O/ADP": {
+    "O/ADP": {
+      "O": {
+        "o": {
+          "dict/prep.tsv": [
+            "O/ADP\tO\to"
+          ]
+        }
+      }
+    }
+  },
+  "One/ADP.hd": {
+    "One/ADP.Acc.hd": {
+      "One": {
+        "ohne": {
+          "dict/prep.tsv": [
+            "ADP.Acc.hd\tOne/ADP.hd\tOne\tohne"
+          ]
+        }
+      }
+    }
+  },
+  "Ut/ADP": {
+    "Ut/ADP": {
+      "Ut": {
+        "Ut": {
+          "dict/prep.tsv": [
+            "Ut/ADP\tUt\tUt"
+          ]
+        },
+        "Uut": {
+          "dict/prep.tsv": [
+            "Ut/ADP\tUt\tUut"
+          ]
+        },
+        "ut": {
+          "dict/prep.tsv": [
+            "Ut/ADP\tUt\tut"
+          ]
+        },
+        "uth": {
+          "dict/prep.tsv": [
+            "Ut/ADP\tUt\tuth"
+          ]
+        },
+        "uut": {
+          "dict/prep.tsv": [
+            "Ut/ADP\tUt\tuut"
+          ]
+        }
+      }
+    },
+    "Ut/ADP+DEF.Def.Masc.Sg.Acc.clit": {
+      "Ut’n": {
+        "ut'n": {
+          "dict/prep.tsv": [
+            "ADP+DEF.Def.Masc.Sg.Acc.clit\tUt/ADP\tUt’n\tut'n"
+          ]
+        }
+      }
+    },
+    "Ut/ADP+DEF.Def.Neut.Sg.Acc.clit": {
+      "Ut’t": {
+        "ut'": {
+          "dict/prep.tsv": [
+            "ADP+DEF.Def.Neut.Sg.Acc.clit\tUt/ADP\tUt’t\tut'"
+          ]
+        },
+        "ut't": {
+          "dict/prep.tsv": [
+            "ADP+DEF.Def.Neut.Sg.Acc.clit\tUt/ADP\tUt’t\tut't"
+          ]
+        }
+      }
+    }
+  },
+  "Uter/ADP": {
+    "Uter/ADP": {
+      "Uter": {
+        "Uter": {
+          "dict/prep.tsv": [
+            "Uter/ADP\tUter\tUter"
+          ]
+        },
+        "uter": {
+          "dict/prep.tsv": [
+            "Uter/ADP\tUter\tuter"
+          ]
+        }
+      }
+    }
+  },
+  "ab/ADP.hd": {
+    "ab/ADP.Dat.hd": {
+      "ab": {
+        "ab": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd\tab/ADP.hd\tab\tab"
+          ]
+        }
+      }
+    }
+  },
+  "af/ADP": {
+    "af/ADP": {
+      "af": {
+        "Af": {
+          "dict/prep.tsv": [
+            "af/ADP\taf\tAf"
+          ]
+        },
+        "af": {
+          "dict/prep.tsv": [
+            "af/ADP\taf\taf"
+          ]
+        }
+      }
+    }
+  },
+  "an/ADP": {
+    "an/ADP": {
+      "an": {
+        "An": {
+          "dict/prep.tsv": [
+            "an/ADP\tan\tAn"
+          ]
+        },
+        "an": {
+          "dict/prep.tsv": [
+            "an/ADP\tan\tan"
+          ]
+        }
+      }
+    },
+    "an/ADP+DET.Def.Masc.Acc.Sg.clit": {
+      "an’n": {
+        "An'n": {
+          "dict/prep.tsv": [
+            "ADP+DET.Def.Masc.Acc.Sg.clit\tan/ADP\tan’n\tAn'n"
+          ]
+        },
+        "an'n": {
+          "dict/prep.tsv": [
+            "ADP+DET.Def.Masc.Acc.Sg.clit\tan/ADP\tan’n\tan'n"
+          ]
+        }
+      }
+    },
+    "an/ADP+DET.Def.Masc.Dat.Sg.hd.clit": {
+      "am": {
+        "Am": {
+          "dict/prep.tsv": [
+            "ADP+DET.Def.Masc.Dat.Sg.hd.clit\tan/ADP\tam\tAm"
+          ]
+        },
+        "am": {
+          "dict/prep.tsv": [
+            "ADP+DET.Def.Masc.Dat.Sg.hd.clit\tan/ADP\tam\tam"
+          ]
+        }
+      }
+    },
+    "an/ADP+DET.Def.Neut.Acc.Sg.clit": {
+      "an’t": {
+        "An't": {
+          "dict/prep.tsv": [
+            "ADP+DET.Def.Neut.Acc.Sg.clit\tan/ADP\tan’t\tAn't"
+          ]
+        },
+        "an't": {
+          "dict/prep.tsv": [
+            "ADP+DET.Def.Neut.Acc.Sg.clit\tan/ADP\tan’t\tan't"
+          ]
+        }
+      }
+    },
+    "an/ADP+DET.Def.Neut.Acc.Sg.hd.clit": {
+      "an’s": {
+        "ans": {
+          "dict/prep.tsv": [
+            "ADP+DET.Def.Neut.Acc.Sg.hd.clit\tan/ADP\tan’s\tans"
+          ]
+        }
+      }
+    },
+    "an/ADP.Acc": {
+      "an": {
+        "An": {
+          "dict/prep.tsv": [
+            "ADP.Acc\tan/ADP\tan\tAn"
+          ]
+        },
+        "an": {
+          "dict/prep.tsv": [
+            "ADP.Acc\tan/ADP\tan\tan"
+          ]
+        }
+      }
+    },
+    "an/ADP.Dat.hd": {
+      "an": {
+        "An": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd\tan/ADP\tan\tAn"
+          ]
+        },
+        "an": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd\tan/ADP\tan\tan"
+          ]
+        }
+      }
+    }
+  },
+  "anstat/ADP.hd": {
+    "anstat/ADP.Gen.hd": {
+      "anstat": {
+        "anstatt": {
+          "dict/prep.tsv": [
+            "ADP.Gen.hd\tanstat/ADP.hd\tanstat\tanstatt"
+          ]
+        }
+      }
+    }
+  },
+  "as/ADP": {
+    "as/ADP": {
+      "as": {
+        "As": {
+          "dict/prep.tsv": [
+            "as/ADP\tas\tAs"
+          ]
+        },
+        "as": {
+          "dict/prep.tsv": [
+            "as/ADP\tas\tas"
+          ]
+        }
+      }
+    }
+  },
+  "auf/ADP.hd": {
+    "auf/ADP.Acc.hd": {
+      "auf": {
+        "Auf": {
+          "dict/prep.tsv": [
+            "ADP.Acc.hd\tauf/ADP.hd\tauf\tAuf"
+          ]
+        },
+        "auf": {
+          "dict/prep.tsv": [
+            "ADP.Acc.hd\tauf/ADP.hd\tauf\tauf"
+          ]
+        }
+      }
+    },
+    "auf/ADP.Dat.hd": {
+      "auf": {
+        "Auf": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd\tauf/ADP.hd\tauf\tAuf"
+          ]
+        },
+        "auf": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd\tauf/ADP.hd\tauf\tauf"
+          ]
+        }
+      }
+    }
+  },
+  "aus/ADP.hd": {
+    "aus/ADP.Dat.hd": {
+      "aus": {
+        "Aus": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd\taus/ADP.hd\taus\tAus"
+          ]
+        },
+        "aus": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd\taus/ADP.hd\taus\taus"
+          ]
+        }
+      }
+    }
+  },
+  "auser/ADP.hd": {
+    "auser/ADP.Dat.hd": {
+      "auser": {
+        "außer": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd\tauser/ADP.hd\tauser\taußer"
+          ]
+        }
+      }
+    }
+  },
+  "bI+hEr/ADV": {
+    "bI+hEr/ADV": {
+      "bIhEr": {
+        "byher": {
+          "dict/prep.tsv": [
+            "bI+hEr/ADV\tbIhEr\tbyher"
+          ]
+        }
+      }
+    }
+  },
+  "bI/ADP": {
+    "bI/ADP": {
+      "bI": {
+        "Bie": {
+          "dict/prep.tsv": [
+            "bI/ADP\tbI\tBie"
+          ]
+        },
+        "By": {
+          "dict/prep.tsv": [
+            "bI/ADP\tbI\tBy"
+          ]
+        },
+        "bie": {
+          "dict/prep.tsv": [
+            "bI/ADP\tbI\tbie"
+          ]
+        },
+        "by": {
+          "dict/prep.tsv": [
+            "bI/ADP\tbI\tby"
+          ]
+        }
+      }
+    },
+    "bI/ADP+DET.Def.Masc.Acc.Sg.clit": {
+      "bI’n": {
+        "bi'n": {
+          "dict/prep.tsv": [
+            "ADP+DET.Def.Masc.Acc.Sg.clit\tbI/ADP\tbI’n\tbi'n"
+          ]
+        },
+        "by'n": {
+          "dict/prep.tsv": [
+            "ADP+DET.Def.Masc.Acc.Sg.clit\tbI/ADP\tbI’n\tby'n"
+          ]
+        }
+      }
+    },
+    "bI/ADP+DET.Def.Masc.Dat.Sg.clit": {
+      "bI’m": {
+        "Biem": {
+          "dict/prep.tsv": [
+            "ADP+DET.Def.Masc.Dat.Sg.clit\tbI/ADP\tbI’m\tBiem"
+          ]
+        },
+        "bie'm": {
+          "dict/prep.tsv": [
+            "ADP+DET.Def.Masc.Dat.Sg.clit\tbI/ADP\tbI’m\tbie'm"
+          ]
+        },
+        "biem": {
+          "dict/prep.tsv": [
+            "ADP+DET.Def.Masc.Dat.Sg.clit\tbI/ADP\tbI’m\tbiem"
+          ]
+        }
+      }
+    },
+    "bI/ADP+DET.Def.Neut.Acc.Sg.clit": {
+      "bI’t": {
+        "Bi't": {
+          "dict/prep.tsv": [
+            "ADP+DET.Def.Neut.Acc.Sg.clit\tbI/ADP\tbI’t\tBi't"
+          ]
+        },
+        "Bie't": {
+          "dict/prep.tsv": [
+            "ADP+DET.Def.Neut.Acc.Sg.clit\tbI/ADP\tbI’t\tBie't"
+          ]
+        },
+        "bi't": {
+          "dict/prep.tsv": [
+            "ADP+DET.Def.Neut.Acc.Sg.clit\tbI/ADP\tbI’t\tbi't"
+          ]
+        },
+        "bie't": {
+          "dict/prep.tsv": [
+            "ADP+DET.Def.Neut.Acc.Sg.clit\tbI/ADP\tbI’t\tbie't"
+          ]
+        }
+      }
+    },
+    "bI/ADP.Acc": {
+      "bI": {
+        "Bi": {
+          "dict/prep.tsv": [
+            "ADP.Acc\tbI/ADP\tbI\tBi"
+          ]
+        },
+        "bi": {
+          "dict/prep.tsv": [
+            "ADP.Acc\tbI/ADP\tbI\tbi"
+          ]
+        }
+      }
+    }
+  },
+  "bei/ADP.hd": {
+    "bei/ADP.Dat.hd": {
+      "bei": {
+        "Bei": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd\tbei/ADP.hd\tbei\tBei"
+          ]
+        },
+        "bei": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd\tbei/ADP.hd\tbei\tbei"
+          ]
+        },
+        "bey": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd\tbei/ADP.hd\tbei\tbey"
+          ]
+        }
+      }
+    },
+    "bei/ADP.Dat.hd+DET.Def.Dat.Masc.Sg.hd.clit": {
+      "bei’m": {
+        "Beim": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd+DET.Def.Dat.Masc.Sg.hd.clit\tbei/ADP.hd\tbei’m\tBeim"
+          ]
+        },
+        "beim": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd+DET.Def.Dat.Masc.Sg.hd.clit\tbei/ADP.hd\tbei’m\tbeim"
+          ]
+        }
+      }
+    },
+    "bei/ADP.Dat.hd+DET.Def.Dat.Neut.Sg.hd.clit": {
+      "bei’m": {
+        "Beim": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd+DET.Def.Dat.Neut.Sg.hd.clit\tbei/ADP.hd\tbei’m\tBeim"
+          ]
+        },
+        "beim": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd+DET.Def.Dat.Neut.Sg.hd.clit\tbei/ADP.hd\tbei’m\tbeim"
+          ]
+        }
+      }
+    },
+    "bei/ADP.Dat.hd+DET.Def.Dat.Pl.clit": {
+      "bei’n": {
+        "bei'n": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd+DET.Def.Dat.Pl.clit\tbei/ADP.hd\tbei’n\tbei'n"
+          ]
+        }
+      }
+    }
+  },
+  "bet/ADP": {
+    "bet/ADP": {
+      "bet": {
+        "Bet": {
+          "dict/prep.tsv": [
+            "bet/ADP\tbet\tBet"
+          ]
+        },
+        "bet": {
+          "dict/prep.tsv": [
+            "bet/ADP\tbet\tbet"
+          ]
+        }
+      }
+    },
+    "bet/ADP+PRON.3.Sg.Neut.Sg.Nom": {
+      "bet’t": {
+        "bett": {
+          "dict/prep.tsv": [
+            "ADP+PRON.3.Sg.Neut.Sg.Nom\tbet/ADP\tbet’t\tbett"
+          ]
+        }
+      }
+    }
+  },
+  "bet/SCONJ": {
+    "bet/SCONJ": {
+      "bet": {
+        "bät": {
+          "dict/prep.tsv": [
+            "bet/SCONJ\tbet\tbät"
+          ]
+        }
+      }
+    }
+  },
+  "binen/ADP.hd": {
+    "binen/ADP.Gen.hd": {
+      "binen": {
+        "binnen": {
+          "dict/prep.tsv": [
+            "ADP.Gen.hd\tbinen/ADP.hd\tbinen\tbinnen"
+          ]
+        }
+      }
+    }
+  },
+  "binen/ADV": {
+    "binen/ADV": {
+      "binen": {
+        "binnen": {
+          "dict/prep.tsv": [
+            "binen/ADV\tbinen\tbinnen"
+          ]
+        }
+      }
+    }
+  },
+  "bis/ADP.hd": {
+    "bis/ADP.Acc.hd": {
+      "bis": {
+        "Bis": {
+          "dict/prep.tsv": [
+            "ADP.Acc.hd\tbis/ADP.hd\tbis\tBis"
+          ]
+        },
+        "bis": {
+          "dict/prep.tsv": [
+            "ADP.Acc.hd\tbis/ADP.hd\tbis\tbis"
+          ]
+        }
+      }
+    }
+  },
+  "dank/ADP.hd": {
+    "dank/ADP.Dat.hd": {
+      "dank": {
+        "Dank": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd\tdank/ADP.hd\tdank\tDank"
+          ]
+        },
+        "dank": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd\tdank/ADP.hd\tdank\tdank"
+          ]
+        }
+      }
+    },
+    "dank/ADP.Gen.hd": {
+      "dank": {
+        "Dank": {
+          "dict/prep.tsv": [
+            "ADP.Gen.hd\tdank/ADP.hd\tdank\tDank"
+          ]
+        },
+        "dank": {
+          "dict/prep.tsv": [
+            "ADP.Gen.hd\tdank/ADP.hd\tdank\tdank"
+          ]
+        }
+      }
+    }
+  },
+  "darunter/ADV.hd": {
+    "darunter/ADV.hd": {
+      "darunter": {
+        "darunter": {
+          "dict/prep.tsv": [
+            "darunter/ADV.hd\tdarunter\tdarunter"
+          ]
+        }
+      }
+    }
+  },
+  "durx/ADP.hd": {
+    "durx/ADP.Acc.hd": {
+      "durx": {
+        "durch": {
+          "dict/prep.tsv": [
+            "ADP.Acc.hd\tdurx/ADP.hd\tdurx\tdurch"
+          ]
+        }
+      }
+    }
+  },
+  "då+dörx/ADV": {
+    "då+dörx/ADV": {
+      "dådörx": {
+        "doadörch": {
+          "dict/prep.tsv": [
+            "då+dörx/ADV\tdådörx\tdoadörch"
+          ]
+        }
+      }
+    }
+  },
+  "då+fœr/ADV": {
+    "då+fœr/ADV": {
+      "dåfœr": {
+        "doavöär": {
+          "dict/prep.tsv": [
+            "då+fœr/ADV\tdåfœr\tdoavöär"
+          ]
+        }
+      }
+    }
+  },
+  "då+måls/ADV": {
+    "då+måls/ADV": {
+      "dåmåls": {
+        "doamoals": {
+          "dict/prep.tsv": [
+            "då+måls/ADV\tdåmåls\tdoamoals"
+          ]
+        }
+      }
+    }
+  },
+  "dår+bI/ADV": {
+    "dår+bI/ADV.ocr": {
+      "dårbI": {
+        "derby": {
+          "dict/prep.tsv": [
+            "ADV.ocr\tdår+bI/ADV\tdårbI\tderby"
+          ]
+        }
+      }
+    }
+  },
+  "dår+hiner/ADV": {
+    "dår+hiner/ADV.ocr": {
+      "dårhiner": {
+        "derhinner": {
+          "dict/prep.tsv": [
+            "ADV.ocr\tdår+hiner/ADV\tdårhiner\tderhinner"
+          ]
+        }
+      }
+    }
+  },
+  "dår+nÄben/ADV": {
+    "dår+nÄben/ADV.ocr": {
+      "dårnÄben": {
+        "Derneben": {
+          "dict/prep.tsv": [
+            "ADV.ocr\tdår+nÄben/ADV\tdårnÄben\tDerneben"
+          ]
+        }
+      }
+    }
+  },
+  "dår+up/ADV": {
+    "dår+up/ADV": {
+      "dårup": {
+        "doarup": {
+          "dict/prep.tsv": [
+            "dår+up/ADV\tdårup\tdoarup"
+          ]
+        }
+      }
+    }
+  },
+  "dörx/ADP": {
+    "dörx/ADP": {
+      "dörx": {
+        "Dörch": {
+          "dict/prep.tsv": [
+            "dörx/ADP\tdörx\tDörch"
+          ]
+        },
+        "dörch": {
+          "dict/prep.tsv": [
+            "dörx/ADP\tdörx\tdörch"
+          ]
+        }
+      }
+    },
+    "dörx/ADP+DET.Def.Neut.Acc.Sg.clit": {
+      "dörx’t": {
+        "dörch't": {
+          "dict/prep.tsv": [
+            "ADP+DET.Def.Neut.Acc.Sg.clit\tdörx/ADP\tdörx’t\tdörch't"
+          ]
+        }
+      }
+    },
+    "dörx/ADP.ocr": {
+      "dörx": {
+        "Dorch": {
+          "dict/prep.tsv": [
+            "ADP.ocr\tdörx/ADP\tdörx\tDorch"
+          ]
+        },
+        "dorch": {
+          "dict/prep.tsv": [
+            "ADP.ocr\tdörx/ADP\tdörx\tdorch"
+          ]
+        }
+      }
+    }
+  },
+  "entgEgen/ADP.hd": {
+    "entgEgen/ADP.Dat.hd": {
+      "entgEgen": {
+        "Entgegen": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd\tentgEgen/ADP.hd\tentgEgen\tEntgegen"
+          ]
+        },
+        "entgegen": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd\tentgEgen/ADP.hd\tentgEgen\tentgegen"
+          ]
+        }
+      }
+    }
+  },
+  "entlang/ADP.hd": {
+    "entlang/ADP.Acc.hd": {
+      "entlang": {
+        "entlang": {
+          "dict/prep.tsv": [
+            "ADP.Acc.hd\tentlang/ADP.hd\tentlang\tentlang"
+          ]
+        }
+      }
+    },
+    "entlang/ADP.Dat.hd": {
+      "entlang": {
+        "entlang": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd\tentlang/ADP.hd\tentlang\tentlang"
+          ]
+        }
+      }
+    },
+    "entlang/ADP.Gen.hd": {
+      "entlang": {
+        "entlang": {
+          "dict/prep.tsv": [
+            "ADP.Gen.hd\tentlang/ADP.hd\tentlang\tentlang"
+          ]
+        }
+      }
+    }
+  },
+  "fE/NOUN.Neut": {
+    "fE/NOUN.Neut.Nom.Sg": {
+      "fE": {
+        "Veeh": {
+          "dict/prep.tsv": [
+            "NOUN.Neut.Nom.Sg\tfE/NOUN.Neut\tfE\tVeeh"
+          ]
+        }
+      }
+    }
+  },
+  "fIr/CARD.hd": {
+    "fIr/CARD.Nom.Pl.hd": {
+      "fIr": {
+        "vier": {
+          "dict/prep.tsv": [
+            "CARD.Nom.Pl.hd\tfIr/CARD.hd\tfIr\tvier"
+          ]
+        }
+      }
+    }
+  },
+  "fOr/ADP.hd": {
+    "fOr/ADP.Acc.hd": {
+      "fOr": {
+        "Vor": {
+          "dict/prep.tsv": [
+            "ADP.Acc.hd\tfOr/ADP.hd\tfOr\tVor"
+          ]
+        },
+        "vor": {
+          "dict/prep.tsv": [
+            "ADP.Acc.hd\tfOr/ADP.hd\tfOr\tvor"
+          ]
+        }
+      }
+    },
+    "fOr/ADP.Dat.hd": {
+      "fOr": {
+        "Vor": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd\tfOr/ADP.hd\tfOr\tVor"
+          ]
+        },
+        "vor": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd\tfOr/ADP.hd\tfOr\tvor"
+          ]
+        }
+      }
+    }
+  },
+  "fOran/ADP.hd": {
+    "fOran/ADP.Dat.hd": {
+      "fOran": {
+        "Voran": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd\tfOran/ADP.hd\tfOran\tVoran"
+          ]
+        },
+        "voran": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd\tfOran/ADP.hd\tfOran\tvoran"
+          ]
+        }
+      }
+    }
+  },
+  "fan/ADP": {
+    "fan/ADP": {
+      "fan": {
+        "van": {
+          "dict/prep.tsv": [
+            "fan/ADP\tfan\tvan"
+          ]
+        }
+      }
+    }
+  },
+  "fol/ADP": {
+    "fol/ADP": {
+      "fol": {
+        "voll": {
+          "dict/prep.tsv": [
+            "fol/ADP\tfol\tvoll"
+          ]
+        }
+      }
+    }
+  },
+  "fon/ADP.hd": {
+    "fon/ADP.Acc.hd": {
+      "fon": {
+        "Von": {
+          "dict/prep.tsv": [
+            "ADP.Acc.hd\tfon/ADP.hd\tfon\tVon"
+          ]
+        },
+        "von": {
+          "dict/prep.tsv": [
+            "ADP.Acc.hd\tfon/ADP.hd\tfon\tvon"
+          ]
+        }
+      }
+    },
+    "fon/ADP.Dat.hd": {
+      "fon": {
+        "Von": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd\tfon/ADP.hd\tfon\tVon"
+          ]
+        },
+        "von": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd\tfon/ADP.hd\tfon\tvon"
+          ]
+        }
+      }
+    },
+    "fon/ADP.hd+DET.Def.Masc.Dat.Sg.hd.clit": {
+      "fom": {
+        "Vom": {
+          "dict/prep.tsv": [
+            "ADP.hd+DET.Def.Masc.Dat.Sg.hd.clit\tfon/ADP.hd\tfom\tVom"
+          ]
+        },
+        "vom": {
+          "dict/prep.tsv": [
+            "ADP.hd+DET.Def.Masc.Dat.Sg.hd.clit\tfon/ADP.hd\tfom\tvom"
+          ]
+        }
+      }
+    },
+    "fon/ADP.hd+DET.Def.Neut.Acc.Sg.clit": {
+      "fon’t": {
+        "Von't": {
+          "dict/prep.tsv": [
+            "ADP.hd+DET.Def.Neut.Acc.Sg.clit\tfon/ADP.hd\tfon’t\tVon't"
+          ]
+        },
+        "von't": {
+          "dict/prep.tsv": [
+            "ADP.hd+DET.Def.Neut.Acc.Sg.clit\tfon/ADP.hd\tfon’t\tvon't"
+          ]
+        }
+      }
+    },
+    "fon/ADP.hd+DET.Def.Neut.Dat.Sg.hd.clit": {
+      "fom": {
+        "Vom": {
+          "dict/prep.tsv": [
+            "ADP.hd+DET.Def.Neut.Dat.Sg.hd.clit\tfon/ADP.hd\tfom\tVom"
+          ]
+        },
+        "vom": {
+          "dict/prep.tsv": [
+            "ADP.hd+DET.Def.Neut.Dat.Sg.hd.clit\tfon/ADP.hd\tfom\tvom"
+          ]
+        }
+      }
+    },
+    "fon/ADP.hd+DET.Def.Pl.Acc.clit": {
+      "fon’n": {
+        "Von'n": {
+          "dict/prep.tsv": [
+            "ADP.hd+DET.Def.Pl.Acc.clit\tfon/ADP.hd\tfon’n\tVon'n"
+          ]
+        },
+        "von'n": {
+          "dict/prep.tsv": [
+            "ADP.hd+DET.Def.Pl.Acc.clit\tfon/ADP.hd\tfon’n\tvon'n"
+          ]
+        }
+      }
+    }
+  },
+  "fuler/ADP": {
+    "fuler/ADP": {
+      "fuler": {
+        "vuller": {
+          "dict/prep.tsv": [
+            "fuler/ADP\tfuler\tvuller"
+          ]
+        }
+      }
+    }
+  },
+  "fÄl/ADP": {
+    "fÄl/ADP.ocr": {
+      "fÄl": {
+        "voal": {
+          "dict/prep.tsv": [
+            "ADP.ocr\tfÄl/ADP\tfÄl\tvoal"
+          ]
+        }
+      }
+    }
+  },
+  "fÄl/ADV": {
+    "fÄl/ADV.ocr": {
+      "fÄl": {
+        "vbäl": {
+          "dict/prep.tsv": [
+            "ADV.ocr\tfÄl/ADV\tfÄl\tvbäl"
+          ]
+        },
+        "vdål": {
+          "dict/prep.tsv": [
+            "ADV.ocr\tfÄl/ADV\tfÄl\tvdål"
+          ]
+        }
+      }
+    }
+  },
+  "fÜr/ADP.hd": {
+    "fÜr/ADP.Acc.hd": {
+      "fÜr": {
+        "Für": {
+          "dict/prep.tsv": [
+            "ADP.Acc.hd\tfÜr/ADP.hd\tfÜr\tFür"
+          ]
+        },
+        "für": {
+          "dict/prep.tsv": [
+            "ADP.Acc.hd\tfÜr/ADP.hd\tfÜr\tfür"
+          ]
+        }
+      }
+    },
+    "fÜr/ADP.Acc.hd+DET.Def.Neut.Acc.Sg.hd.clit": {
+      "fÜr’s": {
+        "fürs": {
+          "dict/prep.tsv": [
+            "ADP.Acc.hd+DET.Def.Neut.Acc.Sg.hd.clit\tfÜr/ADP.hd\tfÜr’s\tfürs"
+          ]
+        }
+      }
+    }
+  },
+  "fœr+Enäner/ADV": {
+    "fœr+Enäner/ADV": {
+      "fErnäner": {
+        "vernänner": {
+          "dict/prep.tsv": [
+            "fœr+Enäner/ADV\tfErnäner\tvernänner"
+          ]
+        }
+      }
+    }
+  },
+  "fœr+erst/ADV": {
+    "fœr+erst/ADV": {
+      "fœrerst": {
+        "vörerst": {
+          "dict/prep.tsv": [
+            "fœr+erst/ADV\tfœrerst\tvörerst"
+          ]
+        }
+      }
+    }
+  },
+  "fœr+hEr/ADV": {
+    "fœr+hEr/ADV": {
+      "fœrhEr": {
+        "vöarher": {
+          "dict/prep.tsv": [
+            "fœr+hEr/ADV\tfœrhEr\tvöarher"
+          ]
+        }
+      }
+    }
+  },
+  "fœr/ADP": {
+    "fœr/ADP": {
+      "fœr": {
+        "Föar": {
+          "dict/prep.tsv": [
+            "fœr/ADP\tfœr\tFöar"
+          ]
+        },
+        "Vær": {
+          "dict/prep.tsv": [
+            "fœr/ADP\tfœr\tVær"
+          ]
+        },
+        "Vöar": {
+          "dict/prep.tsv": [
+            "fœr/ADP\tfœr\tVöar"
+          ]
+        },
+        "Vör": {
+          "dict/prep.tsv": [
+            "fœr/ADP\tfœr\tVör"
+          ]
+        },
+        "Vöär": {
+          "dict/prep.tsv": [
+            "fœr/ADP\tfœr\tVöär"
+          ]
+        },
+        "föar": {
+          "dict/prep.tsv": [
+            "fœr/ADP\tfœr\tföar"
+          ]
+        },
+        "för": {
+          "dict/prep.tsv": [
+            "fœr/ADP\tfœr\tför"
+          ]
+        },
+        "förr": {
+          "dict/prep.tsv": [
+            "fœr/ADP\tfœr\tförr"
+          ]
+        },
+        "voͤr": {
+          "dict/prep.tsv": [
+            "fœr/ADP\tfœr\tvoͤr"
+          ]
+        },
+        "vær": {
+          "dict/prep.tsv": [
+            "fœr/ADP\tfœr\tvær"
+          ]
+        },
+        "vöar": {
+          "dict/prep.tsv": [
+            "fœr/ADP\tfœr\tvöar"
+          ]
+        },
+        "vör": {
+          "dict/prep.tsv": [
+            "fœr/ADP\tfœr\tvör"
+          ]
+        },
+        "vöär": {
+          "dict/prep.tsv": [
+            "fœr/ADP\tfœr\tvöär"
+          ]
+        }
+      }
+    },
+    "fœr/ADP+DEF.Def.Acc.Sg.Masc.clit": {
+      "fœr’n": {
+        "Vöär'n": {
+          "dict/prep.tsv": [
+            "ADP+DEF.Def.Acc.Sg.Masc.clit\tfœr/ADP\tfœr’n\tVöär'n"
+          ]
+        },
+        "vöär'n": {
+          "dict/prep.tsv": [
+            "ADP+DEF.Def.Acc.Sg.Masc.clit\tfœr/ADP\tfœr’n\tvöär'n"
+          ]
+        }
+      }
+    },
+    "fœr/ADP+DEF.Def.Masc.Sg.Acc.clit": {
+      "fœr’n": {
+        "vær'n": {
+          "dict/prep.tsv": [
+            "ADP+DEF.Def.Masc.Sg.Acc.clit\tfœr/ADP\tfœr’n\tvær'n"
+          ]
+        }
+      }
+    },
+    "fœr/ADP+DEF.Def.Neut.Sg.Acc.clit": {
+      "fœr’t": {
+        "Vöär't": {
+          "dict/prep.tsv": [
+            "ADP+DEF.Def.Neut.Sg.Acc.clit\tfœr/ADP\tfœr’t\tVöär't"
+          ]
+        },
+        "vær't": {
+          "dict/prep.tsv": [
+            "ADP+DEF.Def.Neut.Sg.Acc.clit\tfœr/ADP\tfœr’t\tvær't"
+          ]
+        },
+        "vöär't": {
+          "dict/prep.tsv": [
+            "ADP+DEF.Def.Neut.Sg.Acc.clit\tfœr/ADP\tfœr’t\tvöär't"
+          ]
+        }
+      }
+    },
+    "fœr/ADP+DEF.Ind.Acc.Sg.Masc.clit": {
+      "fœr’n": {
+        "Vdr'n": {
+          "dict/prep.tsv": [
+            "ADP+DEF.Ind.Acc.Sg.Masc.clit\tfœr/ADP\tfœr’n\tVdr'n"
+          ]
+        },
+        "vdr'n": {
+          "dict/prep.tsv": [
+            "ADP+DEF.Ind.Acc.Sg.Masc.clit\tfœr/ADP\tfœr’n\tvdr'n"
+          ]
+        }
+      }
+    },
+    "fœr/ADP+DET.Ind.Masc.Sg.Acc.clit": {
+      "fœr’n": {
+        "Vör'n": {
+          "dict/prep.tsv": [
+            "ADP+DET.Ind.Masc.Sg.Acc.clit\tfœr/ADP\tfœr’n\tVör'n"
+          ]
+        },
+        "Vörn": {
+          "dict/prep.tsv": [
+            "ADP+DET.Ind.Masc.Sg.Acc.clit\tfœr/ADP\tfœr’n\tVörn"
+          ]
+        },
+        "vör'n": {
+          "dict/prep.tsv": [
+            "ADP+DET.Ind.Masc.Sg.Acc.clit\tfœr/ADP\tfœr’n\tvör'n"
+          ]
+        },
+        "vörn": {
+          "dict/prep.tsv": [
+            "ADP+DET.Ind.Masc.Sg.Acc.clit\tfœr/ADP\tfœr’n\tvörn"
+          ]
+        }
+      }
+    },
+    "fœr/ADP+DET.Ind.Neut.Sg.Acc.clit": {
+      "fœr’t": {
+        "Vör't": {
+          "dict/prep.tsv": [
+            "ADP+DET.Ind.Neut.Sg.Acc.clit\tfœr/ADP\tfœr’t\tVör't"
+          ]
+        },
+        "vör't": {
+          "dict/prep.tsv": [
+            "ADP+DET.Ind.Neut.Sg.Acc.clit\tfœr/ADP\tfœr’t\tvör't"
+          ]
+        }
+      }
+    },
+    "fœr/ADP.ocr": {
+      "fœr": {
+        "Vdr": {
+          "dict/prep.tsv": [
+            "ADP.ocr\tfœr/ADP\tfœr\tVdr"
+          ]
+        },
+        "vdr": {
+          "dict/prep.tsv": [
+            "ADP.ocr\tfœr/ADP\tfœr\tvdr"
+          ]
+        },
+        "vår": {
+          "dict/prep.tsv": [
+            "ADP.ocr\tfœr/ADP\tfœr\tvår"
+          ]
+        }
+      }
+    },
+    "fœr/ADP.ocr+DET.Ind.Masc.Sg.Acc.clit": {
+      "fœr’n": {
+        "vor'n": {
+          "dict/prep.tsv": [
+            "ADP.ocr+DET.Ind.Masc.Sg.Acc.clit\tfœr/ADP\tfœr’n\tvor'n"
+          ]
+        },
+        "vorn": {
+          "dict/prep.tsv": [
+            "ADP.ocr+DET.Ind.Masc.Sg.Acc.clit\tfœr/ADP\tfœr’n\tvorn"
+          ]
+        }
+      }
+    },
+    "fœr/ADP.ocr+DET.Ind.Neut.Sg.Acc.clit": {
+      "fœr’t": {
+        "vor't": {
+          "dict/prep.tsv": [
+            "ADP.ocr+DET.Ind.Neut.Sg.Acc.clit\tfœr/ADP\tfœr’t\tvor't"
+          ]
+        }
+      }
+    }
+  },
+  "fœrwärts/ADV": {
+    "fœrwärts/ADV": {
+      "fœrwärts": {
+        "Vörwärts": {
+          "dict/prep.tsv": [
+            "fœrwärts/ADV\tfœrwärts\tVörwärts"
+          ]
+        }
+      }
+    }
+  },
+  "gEgen/ADP.hd": {
+    "gEgen/ADP.Acc.hd": {
+      "gEgen": {
+        "Gegen": {
+          "dict/prep.tsv": [
+            "ADP.Acc.hd\tgEgen/ADP.hd\tgEgen\tGegen"
+          ]
+        },
+        "gegen": {
+          "dict/prep.tsv": [
+            "ADP.Acc.hd\tgEgen/ADP.hd\tgEgen\tgegen"
+          ]
+        }
+      }
+    }
+  },
+  "gen/ADP.hd": {
+    "gen/ADP.hd": {
+      "gen": {
+        "gen": {
+          "dict/prep.tsv": [
+            "gen/ADP.hd\tgen\tgen"
+          ]
+        }
+      }
+    }
+  },
+  "glIk+fals/ADV": {
+    "glIk+fals/ADV": {
+      "glIkfals": {
+        "gliekfalls": {
+          "dict/prep.tsv": [
+            "glIk+fals/ADV\tglIkfals\tgliekfalls"
+          ]
+        }
+      }
+    }
+  },
+  "glIk/ADP": {
+    "glIk/ADP": {
+      "glIk": {
+        "glick": {
+          "dict/prep.tsv": [
+            "glIk/ADP\tglIk\tglick"
+          ]
+        }
+      }
+    }
+  },
+  "glIk/ADV": {
+    "glIk/ADV": {
+      "glIk": {
+        "glick": {
+          "dict/prep.tsv": [
+            "glIk/ADV\tglIk\tglick"
+          ]
+        }
+      }
+    }
+  },
+  "glU/ADV": {
+    "glU/ADV": {
+      "glU": {
+        "glu": {
+          "dict/prep.tsv": [
+            "glU/ADV\tglU\tglu"
+          ]
+        }
+      }
+    }
+  },
+  "gleix/ADP.hd": {
+    "gleix/ADP.hd": {
+      "gleix": {
+        "gleich": {
+          "dict/prep.tsv": [
+            "gleix/ADP.hd\tgleix\tgleich"
+          ]
+        }
+      }
+    }
+  },
+  "gleix/ADV.hd": {
+    "gleix/ADV.hd": {
+      "gleix": {
+        "gleich": {
+          "dict/prep.tsv": [
+            "gleix/ADV.hd\tgleix\tgleich"
+          ]
+        }
+      }
+    }
+  },
+  "hen+nå/ADV": {
+    "hen+nå/ADV": {
+      "hennå": {
+        "he-noah": {
+          "dict/prep.tsv": [
+            "hen+nå/ADV\thennå\the-noah"
+          ]
+        }
+      }
+    }
+  },
+  "her+bI/ADV": {
+    "her+bI/ADV": {
+      "herbI": {
+        "herbie": {
+          "dict/prep.tsv": [
+            "her+bI/ADV\therbI\therbie"
+          ]
+        },
+        "herby": {
+          "dict/prep.tsv": [
+            "her+bI/ADV\therbI\therby"
+          ]
+        }
+      }
+    }
+  },
+  "her+unen/ADV": {
+    "her+unen/ADV": {
+      "herunen": {
+        "herrunn": {
+          "dict/prep.tsv": [
+            "her+unen/ADV\therunen\therrunn"
+          ]
+        }
+      }
+    }
+  },
+  "hiner/ADP": {
+    "hiner/ADP": {
+      "hiner": {
+        "Hinner": {
+          "dict/prep.tsv": [
+            "hiner/ADP\thiner\tHinner"
+          ]
+        },
+        "hinner": {
+          "dict/prep.tsv": [
+            "hiner/ADP\thiner\thinner"
+          ]
+        }
+      }
+    },
+    "hiner/ADP+DET.Def.Acc.Neut.Sg.clit": {
+      "hiner’t": {
+        "hinnert": {
+          "dict/prep.tsv": [
+            "ADP+DET.Def.Acc.Neut.Sg.clit\thiner/ADP\thiner’t\thinnert"
+          ]
+        }
+      }
+    },
+    "hiner/ADP+DET.Def.Pl.Acc.clit": {
+      "hiner’n": {
+        "hinnern": {
+          "dict/prep.tsv": [
+            "ADP+DET.Def.Pl.Acc.clit\thiner/ADP\thiner’n\thinnern"
+          ]
+        }
+      }
+    }
+  },
+  "hinter/ADP.hd": {
+    "hinter/ADP.Acc.hd": {
+      "hinter": {
+        "hinter": {
+          "dict/prep.tsv": [
+            "ADP.Acc.hd\thinter/ADP.hd\thinter\thinter"
+          ]
+        }
+      }
+    },
+    "hinter/ADP.Dat.hd": {
+      "hinter": {
+        "hinter": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd\thinter/ADP.hd\thinter\thinter"
+          ]
+        }
+      }
+    }
+  },
+  "hunertlei/ADV": {
+    "hunertlei/ADV": {
+      "hunertlei": {
+        "hunnertley": {
+          "dict/prep.tsv": [
+            "hunertlei/ADV\thunertlei\thunnertley"
+          ]
+        }
+      }
+    }
+  },
+  "imer+dår/ADV": {
+    "imer+dår/ADV": {
+      "imerdår": {
+        "immerdoar": {
+          "dict/prep.tsv": [
+            "imer+dår/ADV\timerdår\timmerdoar"
+          ]
+        }
+      }
+    }
+  },
+  "in+des/ADV": {
+    "in+des/ADV": {
+      "indes": {
+        "indeß": {
+          "dict/prep.tsv": [
+            "in+des/ADV\tindes\tindeß"
+          ]
+        }
+      }
+    }
+  },
+  "in+des/SCONJ": {
+    "in+des/SCONJ": {
+      "indes": {
+        "indeß": {
+          "dict/prep.tsv": [
+            "in+des/SCONJ\tindes\tindeß"
+          ]
+        }
+      }
+    }
+  },
+  "in/ADP": {
+    "in/ADP": {
+      "in": {
+        "In": {
+          "dict/prep.tsv": [
+            "in/ADP\tin\tIn"
+          ]
+        },
+        "in": {
+          "dict/prep.tsv": [
+            "in/ADP\tin\tin"
+          ]
+        }
+      }
+    },
+    "in/ADP+DET.Ind.Acc.Sg.Masc.clit": {
+      "in’n": {
+        "In'n": {
+          "dict/prep.tsv": [
+            "ADP+DET.Ind.Acc.Sg.Masc.clit\tin/ADP\tin’n\tIn'n"
+          ]
+        },
+        "Inn": {
+          "dict/prep.tsv": [
+            "ADP+DET.Ind.Acc.Sg.Masc.clit\tin/ADP\tin’n\tInn"
+          ]
+        },
+        "in'n": {
+          "dict/prep.tsv": [
+            "ADP+DET.Ind.Acc.Sg.Masc.clit\tin/ADP\tin’n\tin'n"
+          ]
+        },
+        "inn": {
+          "dict/prep.tsv": [
+            "ADP+DET.Ind.Acc.Sg.Masc.clit\tin/ADP\tin’n\tinn"
+          ]
+        }
+      }
+    },
+    "in/ADP+DET.Ind.Acc.Sg.Neut.clit": {
+      "in’t": {
+        "In't": {
+          "dict/prep.tsv": [
+            "ADP+DET.Ind.Acc.Sg.Neut.clit\tin/ADP\tin’t\tIn't"
+          ]
+        },
+        "in't": {
+          "dict/prep.tsv": [
+            "ADP+DET.Ind.Acc.Sg.Neut.clit\tin/ADP\tin’t\tin't"
+          ]
+        },
+        "int": {
+          "dict/prep.tsv": [
+            "ADP+DET.Ind.Acc.Sg.Neut.clit\tin/ADP\tin’t\tint"
+          ]
+        }
+      }
+    },
+    "in/ADP+DET.Ind.Acc.Sg.Neut.hd.clit": {
+      "in’s": {
+        "in's": {
+          "dict/prep.tsv": [
+            "ADP+DET.Ind.Acc.Sg.Neut.hd.clit\tin/ADP\tin’s\tin's"
+          ]
+        }
+      }
+    },
+    "in/ADP+DET.Ind.Neut.Acc.Sg.hd.clit": {
+      "in’s": {
+        "ins": {
+          "dict/prep.tsv": [
+            "ADP+DET.Ind.Neut.Acc.Sg.hd.clit\tin/ADP\tin’s\tins"
+          ]
+        }
+      }
+    }
+  },
+  "inerhalb/ADP.hd": {
+    "inerhalb/ADP.Gen.hd": {
+      "inerhalb": {
+        "innerhalb": {
+          "dict/prep.tsv": [
+            "ADP.Gen.hd\tinerhalb/ADP.hd\tinerhalb\tinnerhalb"
+          ]
+        }
+      }
+    }
+  },
+  "ixts/ADV": {
+    "ixts/ADV": {
+      "ixts": {
+        "ichts": {
+          "dict/prep.tsv": [
+            "ixts/ADV\tixts\tichts"
+          ]
+        }
+      }
+    }
+  },
+  "jE/ADP.hd": {
+    "jE/ADP.Dat.hd": {
+      "jE": {
+        "Je": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd\tjE/ADP.hd\tjE\tJe"
+          ]
+        },
+        "je": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd\tjE/ADP.hd\tjE\tje"
+          ]
+        }
+      }
+    }
+  },
+  "jE/ADV": {
+    "jE/ADV": {
+      "jE": {
+        "Je": {
+          "dict/prep.tsv": [
+            "jE/ADV\tjE\tJe"
+          ]
+        },
+        "je": {
+          "dict/prep.tsv": [
+            "jE/ADV\tjE\tje"
+          ]
+        }
+      }
+    }
+  },
+  "jå/ADV": {
+    "jå/ADV": {
+      "jå": {
+        "Jo": {
+          "dict/prep.tsv": [
+            "jå/ADV\tjå\tJo"
+          ]
+        },
+        "jo": {
+          "dict/prep.tsv": [
+            "jå/ADV\tjå\tjo"
+          ]
+        }
+      }
+    }
+  },
+  "klipe+klår/ADV": {
+    "klipe+klår/ADV": {
+      "klipeklår": {
+        "klippekloar": {
+          "dict/prep.tsv": [
+            "klipe+klår/ADV\tklipeklår\tklippekloar"
+          ]
+        }
+      }
+    }
+  },
+  "kosten+frI/ADV": {
+    "kosten+frI/ADV": {
+      "kostenfrI": {
+        "kostenfry": {
+          "dict/prep.tsv": [
+            "kosten+frI/ADV\tkostenfrI\tkostenfry"
+          ]
+        }
+      }
+    }
+  },
+  "lengs/ADP.hd": {
+    "lengs/ADP.Gen.hd": {
+      "lengs": {
+        "längs": {
+          "dict/prep.tsv": [
+            "ADP.Gen.hd\tlengs/ADP.hd\tlengs\tlängs"
+          ]
+        }
+      }
+    }
+  },
+  "mang/ADP": {
+    "mang/ADP": {
+      "mang": {
+        "Mank": {
+          "dict/prep.tsv": [
+            "mang/ADP\tmang\tMank"
+          ]
+        },
+        "mang": {
+          "dict/prep.tsv": [
+            "mang/ADP\tmang\tmang"
+          ]
+        },
+        "mank": {
+          "dict/prep.tsv": [
+            "mang/ADP\tmang\tmank"
+          ]
+        }
+      }
+    }
+  },
+  "met/ADP": {
+    "met/ADP": {
+      "met": {
+        "Met": {
+          "dict/prep.tsv": [
+            "met/ADP\tmet\tMet"
+          ]
+        },
+        "met": {
+          "dict/prep.tsv": [
+            "met/ADP\tmet\tmet"
+          ]
+        }
+      }
+    }
+  },
+  "mit/ADP.hd": {
+    "mit/ADP.Dat.hd": {
+      "mit": {
+        "Mit": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd\tmit/ADP.hd\tmit\tMit"
+          ]
+        },
+        "mit": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd\tmit/ADP.hd\tmit\tmit"
+          ]
+        }
+      }
+    },
+    "mit/ADP.Dat.hd+DET.Ind.Masc.Sg.Acc.clit": {
+      "mit’n": {
+        "mit'n": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd+DET.Ind.Masc.Sg.Acc.clit\tmit/ADP.hd\tmit’n\tmit'n"
+          ]
+        }
+      }
+    },
+    "mit/ADP.Dat.hd+DET.Ind.Neut.Sg.Acc.clit": {
+      "mit’t": {
+        "Mitt": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd+DET.Ind.Neut.Sg.Acc.clit\tmit/ADP.hd\tmit’t\tMitt"
+          ]
+        },
+        "mit't": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd+DET.Ind.Neut.Sg.Acc.clit\tmit/ADP.hd\tmit’t\tmit't"
+          ]
+        },
+        "mitt": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd+DET.Ind.Neut.Sg.Acc.clit\tmit/ADP.hd\tmit’t\tmitt"
+          ]
+        }
+      }
+    }
+  },
+  "mÜsam/ADV.hd": {
+    "mÜsam/ADV.hd": {
+      "mÜsam": {
+        "mühsam": {
+          "dict/prep.tsv": [
+            "mÜsam/ADV.hd\tmÜsam\tmühsam"
+          ]
+        }
+      }
+    }
+  },
+  "mœglixerwIs/ADV": {
+    "mœglixerwIs/ADV": {
+      "mœglixerwIs": {
+        "mæglicherwies'": {
+          "dict/prep.tsv": [
+            "mœglixerwIs/ADV\tmœglixerwIs\tmæglicherwies'"
+          ]
+        }
+      }
+    }
+  },
+  "nU/ADV": {
+    "nU/ADV": {
+      "nU": {
+        "Nu": {
+          "dict/prep.tsv": [
+            "nU/ADV\tnU\tNu"
+          ]
+        },
+        "nu": {
+          "dict/prep.tsv": [
+            "nU/ADV\tnU\tnu"
+          ]
+        }
+      }
+    }
+  },
+  "nahe/ADV.hd": {
+    "nahe/ADV.hd": {
+      "nahe": {
+        "nahe": {
+          "dict/prep.tsv": [
+            "nahe/ADV.hd\tnahe\tnahe"
+          ]
+        }
+      }
+    }
+  },
+  "nax/ADP.hd": {
+    "nax/ADP.Dat.hd": {
+      "nax": {
+        "Nach": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd\tnax/ADP.hd\tnax\tNach"
+          ]
+        },
+        "nach": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd\tnax/ADP.hd\tnax\tnach"
+          ]
+        }
+      }
+    }
+  },
+  "nÄben/ADP": {
+    "nÄben/ADP": {
+      "nÄben": {
+        "Neben": {
+          "dict/prep.tsv": [
+            "nÄben/ADP\tnÄben\tNeben"
+          ]
+        },
+        "neben": {
+          "dict/prep.tsv": [
+            "nÄben/ADP\tnÄben\tneben"
+          ]
+        }
+      }
+    }
+  },
+  "nå+midag/NOUN.Masc": {
+    "nå+midag/NOUN.Masc.Nom.Sg": {
+      "nåmidag": {
+        "Noahmiddag": {
+          "dict/prep.tsv": [
+            "NOUN.Masc.Nom.Sg\tnå+midag/NOUN.Masc\tnåmidag\tNoahmiddag"
+          ]
+        }
+      }
+    }
+  },
+  "nå/ADP": {
+    "nå/ADP": {
+      "nå": {
+        "Na": {
+          "dict/prep.tsv": [
+            "nå/ADP\tnå\tNa"
+          ]
+        },
+        "Noa": {
+          "dict/prep.tsv": [
+            "nå/ADP\tnå\tNoa"
+          ]
+        },
+        "Noah": {
+          "dict/prep.tsv": [
+            "nå/ADP\tnå\tNoah"
+          ]
+        },
+        "Nå": {
+          "dict/prep.tsv": [
+            "nå/ADP\tnå\tNå"
+          ]
+        },
+        "na": {
+          "dict/prep.tsv": [
+            "nå/ADP\tnå\tna"
+          ]
+        },
+        "noa": {
+          "dict/prep.tsv": [
+            "nå/ADP\tnå\tnoa"
+          ]
+        },
+        "noah": {
+          "dict/prep.tsv": [
+            "nå/ADP\tnå\tnoah"
+          ]
+        },
+        "nå": {
+          "dict/prep.tsv": [
+            "nå/ADP\tnå\tnå"
+          ]
+        }
+      }
+    },
+    "nå/ADP+DET.Ind.Masc.Sg.Acc.clit": {
+      "nå’n": {
+        "na'n": {
+          "dict/prep.tsv": [
+            "ADP+DET.Ind.Masc.Sg.Acc.clit\tnå/ADP\tnå’n\tna'n"
+          ]
+        }
+      }
+    },
+    "nå/ADP+DET.Ind.Neut.Sg.Acc.clit": {
+      "nå’t": {
+        "na't": {
+          "dict/prep.tsv": [
+            "ADP+DET.Ind.Neut.Sg.Acc.clit\tnå/ADP\tnå’t\tna't"
+          ]
+        }
+      }
+    },
+    "nå/ADP.ocr": {
+      "nå": {
+        "nogh": {
+          "dict/prep.tsv": [
+            "ADP.ocr\tnå/ADP\tnå\tnogh"
+          ]
+        }
+      }
+    }
+  },
+  "nå/ADV": {
+    "nå/ADV": {
+      "nå": {
+        "nah": {
+          "dict/prep.tsv": [
+            "nå/ADV\tnå\tnah"
+          ]
+        }
+      }
+    }
+  },
+  "ob/ADP.hd": {
+    "ob/ADP.Gen.hd": {
+      "ob": {
+        "Ob": {
+          "dict/prep.tsv": [
+            "ADP.Gen.hd\tob/ADP.hd\tob\tOb"
+          ]
+        },
+        "ob": {
+          "dict/prep.tsv": [
+            "ADP.Gen.hd\tob/ADP.hd\tob\tob"
+          ]
+        }
+      }
+    }
+  },
+  "ob/SCONJ.hd": {
+    "ob/SCONJ.hd": {
+      "ob": {
+        "ob": {
+          "dict/prep.tsv": [
+            "ob/SCONJ.hd\tob\tob"
+          ]
+        }
+      }
+    }
+  },
+  "of/SCONJ": {
+    "of/SCONJ": {
+      "of": {
+        "Of": {
+          "dict/prep.tsv": [
+            "of/SCONJ\tof\tOf"
+          ]
+        },
+        "of": {
+          "dict/prep.tsv": [
+            "of/SCONJ\tof\tof"
+          ]
+        }
+      }
+    }
+  },
+  "ok/ADV": {
+    "ok/ADV": {
+      "ok": {
+        "ock": {
+          "dict/prep.tsv": [
+            "ok/ADV\tok\tock"
+          ]
+        }
+      }
+    }
+  },
+  "per/ADP.hd": {
+    "per/ADP.Dat.hd": {
+      "per": {
+        "per": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd\tper/ADP.hd\tper\tper"
+          ]
+        }
+      }
+    }
+  },
+  "plus/ADP.hd": {
+    "plus/ADP.Acc.hd": {
+      "plus": {
+        "plus": {
+          "dict/prep.tsv": [
+            "ADP.Acc.hd\tplus/ADP.hd\tplus\tplus"
+          ]
+        }
+      }
+    },
+    "plus/ADP.Dat.hd": {
+      "plus": {
+        "plus": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd\tplus/ADP.hd\tplus\tplus"
+          ]
+        }
+      }
+    },
+    "plus/ADP.Gen.hd": {
+      "plus": {
+        "plus": {
+          "dict/prep.tsv": [
+            "ADP.Gen.hd\tplus/ADP.hd\tplus\tplus"
+          ]
+        }
+      }
+    }
+  },
+  "sIt/ADP": {
+    "sIt/ADP": {
+      "sIt": {
+        "Siet": {
+          "dict/prep.tsv": [
+            "sIt/ADP\tsIt\tSiet"
+          ]
+        },
+        "siet": {
+          "dict/prep.tsv": [
+            "sIt/ADP\tsIt\tsiet"
+          ]
+        }
+      }
+    },
+    "sIt/ADP+DET.Def.Neut.Acc.Sg.clit": {
+      "sIt’t": {
+        "siett": {
+          "dict/prep.tsv": [
+            "ADP+DET.Def.Neut.Acc.Sg.clit\tsIt/ADP\tsIt’t\tsiett"
+          ]
+        }
+      }
+    }
+  },
+  "sIt/NOUN.Fem": {
+    "sIt/NOUN.Fem.Nom.Sg": {
+      "sIt": {
+        "Siet": {
+          "dict/prep.tsv": [
+            "NOUN.Fem.Nom.Sg\tsIt/NOUN.Fem\tsIt\tSiet"
+          ]
+        }
+      }
+    }
+  },
+  "seit/ADP.hd": {
+    "seit/ADP.Dat.hd": {
+      "seit": {
+        "Seit": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd\tseit/ADP.hd\tseit\tSeit"
+          ]
+        },
+        "seit": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd\tseit/ADP.hd\tseit\tseit"
+          ]
+        }
+      }
+    },
+    "seit/ADP.hd+DET.Def.Neut.Acc.Sg.clit": {
+      "seit’t": {
+        "seit't": {
+          "dict/prep.tsv": [
+            "ADP.hd+DET.Def.Neut.Acc.Sg.clit\tseit/ADP.hd\tseit’t\tseit't"
+          ]
+        }
+      }
+    }
+  },
+  "seitens/ADP.hd": {
+    "seitens/ADP.Gen.hd": {
+      "seitens": {
+        "Seitens": {
+          "dict/prep.tsv": [
+            "ADP.Gen.hd\tseitens/ADP.hd\tseitens\tSeitens"
+          ]
+        }
+      }
+    }
+  },
+  "stat/ADP.hd": {
+    "stat/ADP.Dat.hd": {
+      "stat": {
+        "Statt": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd\tstat/ADP.hd\tstat\tStatt"
+          ]
+        },
+        "statt": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd\tstat/ADP.hd\tstat\tstatt"
+          ]
+        }
+      }
+    },
+    "stat/ADP.Gen.hd": {
+      "stat": {
+        "Statt": {
+          "dict/prep.tsv": [
+            "ADP.Gen.hd\tstat/ADP.hd\tstat\tStatt"
+          ]
+        },
+        "statt": {
+          "dict/prep.tsv": [
+            "ADP.Gen.hd\tstat/ADP.hd\tstat\tstatt"
+          ]
+        }
+      }
+    },
+    "stat/ADP.hd+DET.Def.Neut.Sg.hd.clit": {
+      "stat’s": {
+        "Statt's": {
+          "dict/prep.tsv": [
+            "ADP.hd+DET.Def.Neut.Sg.hd.clit\tstat/ADP.hd\tstat’s\tStatt's"
+          ]
+        },
+        "Statts": {
+          "dict/prep.tsv": [
+            "ADP.hd+DET.Def.Neut.Sg.hd.clit\tstat/ADP.hd\tstat’s\tStatts"
+          ]
+        },
+        "statts": {
+          "dict/prep.tsv": [
+            "ADP.hd+DET.Def.Neut.Sg.hd.clit\tstat/ADP.hd\tstat’s\tstatts"
+          ]
+        }
+      }
+    }
+  },
+  "tO+rüg/ADV": {
+    "tO+rüg/ADV.ocr": {
+      "tOrüg": {
+        "torugg": {
+          "dict/prep.tsv": [
+            "ADV.ocr\ttO+rüg/ADV\ttOrüg\ttorugg"
+          ]
+        }
+      }
+    }
+  },
+  "tO/ADP": {
+    "tO/ADP": {
+      "tO": {
+        "To": {
+          "dict/prep.tsv": [
+            "tO/ADP\ttO\tTo"
+          ]
+        },
+        "tho": {
+          "dict/prep.tsv": [
+            "tO/ADP\ttO\ttho"
+          ]
+        },
+        "to": {
+          "dict/prep.tsv": [
+            "tO/ADP\ttO\tto"
+          ]
+        }
+      }
+    },
+    "tO/ADP+DET.Def.Fem.Sg.Dat.clit": {
+      "tO’r": {
+        "To'r": {
+          "dict/prep.tsv": [
+            "ADP+DET.Def.Fem.Sg.Dat.clit\ttO/ADP\ttO’r\tTo'r"
+          ]
+        },
+        "to'r": {
+          "dict/prep.tsv": [
+            "ADP+DET.Def.Fem.Sg.Dat.clit\ttO/ADP\ttO’r\tto'r"
+          ]
+        }
+      }
+    },
+    "tO/ADP+DET.Def.Masc.Sg.Acc.clit": {
+      "tO’n": {
+        "To'n": {
+          "dict/prep.tsv": [
+            "ADP+DET.Def.Masc.Sg.Acc.clit\ttO/ADP\ttO’n\tTo'n"
+          ]
+        },
+        "to'n": {
+          "dict/prep.tsv": [
+            "ADP+DET.Def.Masc.Sg.Acc.clit\ttO/ADP\ttO’n\tto'n"
+          ]
+        }
+      }
+    },
+    "tO/ADP+DET.Def.Masc.Sg.Dat.clit": {
+      "tO’m": {
+        "To'm": {
+          "dict/prep.tsv": [
+            "ADP+DET.Def.Masc.Sg.Dat.clit\ttO/ADP\ttO’m\tTo'm"
+          ]
+        },
+        "Tom": {
+          "dict/prep.tsv": [
+            "ADP+DET.Def.Masc.Sg.Dat.clit\ttO/ADP\ttO’m\tTom"
+          ]
+        },
+        "Tum": {
+          "dict/prep.tsv": [
+            "ADP+DET.Def.Masc.Sg.Dat.clit\ttO/ADP\ttO’m\tTum"
+          ]
+        },
+        "to'm": {
+          "dict/prep.tsv": [
+            "ADP+DET.Def.Masc.Sg.Dat.clit\ttO/ADP\ttO’m\tto'm"
+          ]
+        },
+        "tom": {
+          "dict/prep.tsv": [
+            "ADP+DET.Def.Masc.Sg.Dat.clit\ttO/ADP\ttO’m\ttom"
+          ]
+        },
+        "tum": {
+          "dict/prep.tsv": [
+            "ADP+DET.Def.Masc.Sg.Dat.clit\ttO/ADP\ttO’m\ttum"
+          ]
+        }
+      }
+    },
+    "tO/ADP.ocr": {
+      "tO": {
+        "te": {
+          "dict/prep.tsv": [
+            "ADP.ocr\ttO/ADP\ttO\tte"
+          ]
+        }
+      }
+    }
+  },
+  "tOsamen/ADV": {
+    "tOsamen/ADV.Spv": {
+      "tOsamenst": {
+        "tosammst": {
+          "dict/prep.tsv": [
+            "ADV.Spv\ttOsamen/ADV\ttOsamenst\ttosammst"
+          ]
+        }
+      }
+    }
+  },
+  "tOsamt/ADV": {
+    "tOsamt/ADV": {
+      "tOsamt": {
+        "Tosammt": {
+          "dict/prep.tsv": [
+            "tOsamt/ADV\ttOsamt\tTosammt"
+          ]
+        }
+      }
+    }
+  },
+  "trots/ADP.hd": {
+    "trots/ADP.Dat.hd": {
+      "trots": {
+        "Trotz": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd\ttrots/ADP.hd\ttrots\tTrotz"
+          ]
+        },
+        "trotz": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd\ttrots/ADP.hd\ttrots\ttrotz"
+          ]
+        }
+      }
+    },
+    "trots/ADP.Gen.hd": {
+      "trots": {
+        "Trotz": {
+          "dict/prep.tsv": [
+            "ADP.Gen.hd\ttrots/ADP.hd\ttrots\tTrotz"
+          ]
+        },
+        "trotz": {
+          "dict/prep.tsv": [
+            "ADP.Gen.hd\ttrots/ADP.hd\ttrots\ttrotz"
+          ]
+        }
+      }
+    }
+  },
+  "tsU/ADP.hd": {
+    "tsU/ADP.Dat.hd": {
+      "tsU": {
+        "Zu": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd\ttsU/ADP.hd\ttsU\tZu"
+          ]
+        },
+        "zu": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd\ttsU/ADP.hd\ttsU\tzu"
+          ]
+        }
+      }
+    },
+    "tsU/ADP.hd+DEF.Def.Fem.Dat.Sg.hd": {
+      "tsUr": {
+        "Zur": {
+          "dict/prep.tsv": [
+            "ADP.hd+DEF.Def.Fem.Dat.Sg.hd\ttsU/ADP.hd\ttsUr\tZur"
+          ]
+        },
+        "zur": {
+          "dict/prep.tsv": [
+            "ADP.hd+DEF.Def.Fem.Dat.Sg.hd\ttsU/ADP.hd\ttsUr\tzur"
+          ]
+        }
+      }
+    },
+    "tsU/ADP.hd+DEF.Def.Neut.Dat.Sg.hd": {
+      "tsu’m": {
+        "Zum": {
+          "dict/prep.tsv": [
+            "ADP.hd+DEF.Def.Neut.Dat.Sg.hd\ttsU/ADP.hd\ttsu’m\tZum"
+          ]
+        },
+        "zum": {
+          "dict/prep.tsv": [
+            "ADP.hd+DEF.Def.Neut.Dat.Sg.hd\ttsU/ADP.hd\ttsu’m\tzum"
+          ]
+        }
+      }
+    },
+    "tsU/ADP.hd+DET.Def.Masc.Dat.Sg.hd": {
+      "tsu’m": {
+        "Zum": {
+          "dict/prep.tsv": [
+            "ADP.hd+DET.Def.Masc.Dat.Sg.hd\ttsU/ADP.hd\ttsu’m\tZum"
+          ]
+        },
+        "zum": {
+          "dict/prep.tsv": [
+            "ADP.hd+DET.Def.Masc.Dat.Sg.hd\ttsU/ADP.hd\ttsu’m\tzum"
+          ]
+        }
+      }
+    }
+  },
+  "tswiSen/ADP.hd": {
+    "tswiSen/ADP.Acc.hd": {
+      "tswiSen": {
+        "zwischen": {
+          "dict/prep.tsv": [
+            "ADP.Acc.hd\ttswiSen/ADP.hd\ttswiSen\tzwischen"
+          ]
+        }
+      }
+    },
+    "tswiSen/ADP.Dat.hd": {
+      "tswiSen": {
+        "zwischen": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd\ttswiSen/ADP.hd\ttswiSen\tzwischen"
+          ]
+        }
+      }
+    }
+  },
+  "twiSen/ADP": {
+    "twiSen/ADP": {
+      "twiSen": {
+        "Twischen": {
+          "dict/prep.tsv": [
+            "twiSen/ADP\ttwiSen\tTwischen"
+          ]
+        },
+        "twischen": {
+          "dict/prep.tsv": [
+            "twiSen/ADP\ttwiSen\ttwischen"
+          ]
+        }
+      }
+    }
+  },
+  "uf/ADP": {
+    "uf/ADP": {
+      "uf": {
+        "uf": {
+          "dict/prep.tsv": [
+            "uf/ADP\tuf\tuf"
+          ]
+        }
+      }
+    }
+  },
+  "um/ADP.hd": {
+    "um/ADP.Acc.hd": {
+      "um": {
+        "Um": {
+          "dict/prep.tsv": [
+            "ADP.Acc.hd\tum/ADP.hd\tum\tUm"
+          ]
+        },
+        "um": {
+          "dict/prep.tsv": [
+            "ADP.Acc.hd\tum/ADP.hd\tum\tum"
+          ]
+        }
+      }
+    },
+    "um/ADP.Gen.hd": {
+      "um": {
+        "Um": {
+          "dict/prep.tsv": [
+            "ADP.Gen.hd\tum/ADP.hd\tum\tUm"
+          ]
+        },
+        "um": {
+          "dict/prep.tsv": [
+            "ADP.Gen.hd\tum/ADP.hd\tum\tum"
+          ]
+        }
+      }
+    },
+    "um/ADP.hd+DET.Def.Neut.Acc.Sg.hd.clit": {
+      "um’s": {
+        "Ums": {
+          "dict/prep.tsv": [
+            "ADP.hd+DET.Def.Neut.Acc.Sg.hd.clit\tum/ADP.hd\tum’s\tUms"
+          ]
+        }
+      }
+    }
+  },
+  "unen/ADV": {
+    "unen/ADV": {
+      "unen": {
+        "Un'n": {
+          "dict/prep.tsv": [
+            "unen/ADV\tunen\tUn'n"
+          ]
+        },
+        "un'n": {
+          "dict/prep.tsv": [
+            "unen/ADV\tunen\tun'n"
+          ]
+        },
+        "unn'": {
+          "dict/prep.tsv": [
+            "unen/ADV\tunen\tunn'"
+          ]
+        }
+      }
+    }
+  },
+  "uner/ADP": {
+    "uner/ADP": {
+      "uner": {
+        "Unner": {
+          "dict/prep.tsv": [
+            "uner/ADP\tuner\tUnner"
+          ]
+        },
+        "unner": {
+          "dict/prep.tsv": [
+            "uner/ADP\tuner\tunner"
+          ]
+        }
+      }
+    },
+    "uner/ADP+DET.Def.Masc.Sg.Acc.clit": {
+      "uner’n": {
+        "Unnern": {
+          "dict/prep.tsv": [
+            "ADP+DET.Def.Masc.Sg.Acc.clit\tuner/ADP\tuner’n\tUnnern"
+          ]
+        },
+        "unnern": {
+          "dict/prep.tsv": [
+            "ADP+DET.Def.Masc.Sg.Acc.clit\tuner/ADP\tuner’n\tunnern"
+          ]
+        }
+      }
+    },
+    "uner/ADP+DET.Ind.Masc.Sg.Acc.clit": {
+      "uner’n": {
+        "unner'n": {
+          "dict/prep.tsv": [
+            "ADP+DET.Ind.Masc.Sg.Acc.clit\tuner/ADP\tuner’n\tunner'n"
+          ]
+        }
+      }
+    }
+  },
+  "unter/ADP.hd": {
+    "unter/ADP.Acc.hd": {
+      "unter": {
+        "unter": {
+          "dict/prep.tsv": [
+            "ADP.Acc.hd\tunter/ADP.hd\tunter\tunter"
+          ]
+        }
+      }
+    },
+    "unter/ADP.Dat.hd": {
+      "unter": {
+        "unter": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd\tunter/ADP.hd\tunter\tunter"
+          ]
+        }
+      }
+    }
+  },
+  "unweit/ADP.hd": {
+    "unweit/ADP.Gen.hd": {
+      "unweit": {
+        "unweit": {
+          "dict/prep.tsv": [
+            "ADP.Gen.hd\tunweit/ADP.hd\tunweit\tunweit"
+          ]
+        }
+      }
+    }
+  },
+  "up+tsund/ADV": {
+    "up+tsund/ADV": {
+      "uptsund": {
+        "upzund": {
+          "dict/prep.tsv": [
+            "up+tsund/ADV\tuptsund\tupzund"
+          ]
+        }
+      }
+    }
+  },
+  "up/ADP": {
+    "up/ADP": {
+      "up": {
+        "Up": {
+          "dict/prep.tsv": [
+            "up/ADP\tup\tUp"
+          ]
+        },
+        "up": {
+          "dict/prep.tsv": [
+            "up/ADP\tup\tup"
+          ]
+        }
+      }
+    },
+    "up/ADP+DEF.Def.Fem.Sg.Acc.clit": {
+      "up’t": {
+        "upt": {
+          "dict/prep.tsv": [
+            "ADP+DEF.Def.Fem.Sg.Acc.clit\tup/ADP\tup’t\tupt"
+          ]
+        }
+      }
+    },
+    "up/ADP+DEF.Def.Pl.Acc.clit": {
+      "up’t": {
+        "Upt": {
+          "dict/prep.tsv": [
+            "ADP+DEF.Def.Pl.Acc.clit\tup/ADP\tup’t\tUpt"
+          ]
+        }
+      }
+    },
+    "up/ADP+DEF.Ind.Masc.Sg.Acc.clit": {
+      "up’n": {
+        "up'n": {
+          "dict/prep.tsv": [
+            "ADP+DEF.Ind.Masc.Sg.Acc.clit\tup/ADP\tup’n\tup'n"
+          ]
+        },
+        "uppen": {
+          "dict/prep.tsv": [
+            "ADP+DEF.Ind.Masc.Sg.Acc.clit\tup/ADP\tup’n\tuppen"
+          ]
+        }
+      }
+    },
+    "up/ADP+DEF.Ind.Neut.Sg.Acc.clit": {
+      "up’t": {
+        "Up't": {
+          "dict/prep.tsv": [
+            "ADP+DEF.Ind.Neut.Sg.Acc.clit\tup/ADP\tup’t\tUp't"
+          ]
+        },
+        "up't": {
+          "dict/prep.tsv": [
+            "ADP+DEF.Ind.Neut.Sg.Acc.clit\tup/ADP\tup’t\tup't"
+          ]
+        }
+      }
+    },
+    "up/ADP.ocr": {
+      "up": {
+        "üp": {
+          "dict/prep.tsv": [
+            "ADP.ocr\tup/ADP\tup\tüp"
+          ]
+        }
+      }
+    }
+  },
+  "wEgen/ADP": {
+    "wEgen/ADP": {
+      "wEgen": {
+        "weegen": {
+          "dict/prep.tsv": [
+            "wEgen/ADP\twEgen\tweegen"
+          ]
+        }
+      }
+    },
+    "wEgen/ADP.Dat": {
+      "wEgen": {
+        "Wegen": {
+          "dict/prep.tsv": [
+            "ADP.Dat\twEgen/ADP\twEgen\tWegen"
+          ]
+        },
+        "wegen": {
+          "dict/prep.tsv": [
+            "ADP.Dat\twEgen/ADP\twEgen\twegen"
+          ]
+        }
+      }
+    }
+  },
+  "wIl/SCONJ": {
+    "wIl/SCONJ": {
+      "wIl": {
+        "wiel": {
+          "dict/prep.tsv": [
+            "wIl/SCONJ\twIl\twiel"
+          ]
+        }
+      }
+    }
+  },
+  "wol/ADV": {
+    "wol/ADV": {
+      "wol": {
+        "wol": {
+          "dict/prep.tsv": [
+            "wol/ADV\twol\twol"
+          ]
+        },
+        "woll": {
+          "dict/prep.tsv": [
+            "wol/ADV\twol\twoll"
+          ]
+        }
+      }
+    }
+  },
+  "wÄrend/ADP.hd": {
+    "wÄrend/ADP.Dat.hd": {
+      "wÄrend": {
+        "während": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd\twÄrend/ADP.hd\twÄrend\twährend"
+          ]
+        }
+      }
+    },
+    "wÄrend/ADP.Gen.hd": {
+      "wÄrend": {
+        "während": {
+          "dict/prep.tsv": [
+            "ADP.Gen.hd\twÄrend/ADP.hd\twÄrend\twährend"
+          ]
+        }
+      }
+    }
+  },
+  "Über/ADP.hd": {
+    "Über/ADP.Acc.hd": {
+      "Über": {
+        "über": {
+          "dict/prep.tsv": [
+            "ADP.Acc.hd\tÜber/ADP.hd\tÜber\tüber"
+          ]
+        }
+      }
+    },
+    "Über/ADP.Dat.hd": {
+      "Über": {
+        "über": {
+          "dict/prep.tsv": [
+            "ADP.Dat.hd\tÜber/ADP.hd\tÜber\tüber"
+          ]
+        }
+      }
+    },
+    "Über/ADP.hd+DET.Def.Masc.Acc.Sg.clit": {
+      "Über’n": {
+        "übern": {
+          "dict/prep.tsv": [
+            "ADP.hd+DET.Def.Masc.Acc.Sg.clit\tÜber/ADP.hd\tÜber’n\tübern"
+          ]
+        }
+      }
+    },
+    "Über/ADP.hd+DET.Def.Masc.Dat.Sg.clit": {
+      "Über’m": {
+        "überm": {
+          "dict/prep.tsv": [
+            "ADP.hd+DET.Def.Masc.Dat.Sg.clit\tÜber/ADP.hd\tÜber’m\tüberm"
+          ]
+        }
+      }
+    },
+    "Über/ADP.hd+DET.Def.Neut.Acc.Sg.hd.clit": {
+      "Über’s": {
+        "übers": {
+          "dict/prep.tsv": [
+            "ADP.hd+DET.Def.Neut.Acc.Sg.hd.clit\tÜber/ADP.hd\tÜber’s\tübers"
+          ]
+        }
+      }
+    },
+    "Über/ADP.hd+DET.Def.Neut.Dat.Sg.clit": {
+      "Über’m": {
+        "überm": {
+          "dict/prep.tsv": [
+            "ADP.hd+DET.Def.Neut.Dat.Sg.clit\tÜber/ADP.hd\tÜber’m\tüberm"
+          ]
+        }
+      }
+    }
+  },
+  "ån/ADP": {
+    "ån/ADP": {
+      "ån": {
+        "Ahn'": {
+          "dict/prep.tsv": [
+            "ån/ADP\tån\tAhn'"
+          ]
+        },
+        "Oahn": {
+          "dict/prep.tsv": [
+            "ån/ADP\tån\tOahn"
+          ]
+        },
+        "ahn": {
+          "dict/prep.tsv": [
+            "ån/ADP\tån\tahn"
+          ]
+        },
+        "ahn'": {
+          "dict/prep.tsv": [
+            "ån/ADP\tån\tahn'"
+          ]
+        },
+        "oahn": {
+          "dict/prep.tsv": [
+            "ån/ADP\tån\toahn"
+          ]
+        }
+      }
+    },
+    "ån/ADP.arch": {
+      "åne": {
+        "Oahne": {
+          "dict/prep.tsv": [
+            "ADP.arch\tån/ADP\tåne\tOahne"
+          ]
+        },
+        "oahne": {
+          "dict/prep.tsv": [
+            "ADP.arch\tån/ADP\tåne\toahne"
+          ]
+        }
+      }
+    }
+  },
+  "åver/ADV": {
+    "åver/ADV": {
+      "åver": {
+        "åber": {
+          "dict/prep.tsv": [
+            "åver/ADV\tåver\tåber"
+          ]
+        }
+      }
+    }
+  },
+  "åver/CCONJ": {
+    "åver/CCONJ": {
+      "åver": {
+        "Oaber": {
+          "dict/prep.tsv": [
+            "åver/CCONJ\tåver\tOaber"
+          ]
+        },
+        "oaber": {
+          "dict/prep.tsv": [
+            "åver/CCONJ\tåver\toaber"
+          ]
+        }
+      }
+    }
+  },
+  "üm/ADP": {
+    "üm/ADP": {
+      "üm": {
+        "üm": {
+          "dict/prep.tsv": [
+            "üm/ADP\tüm\tüm"
+          ]
+        }
+      }
+    },
+    "üm/ADP+DET.Def.Neut.Acc.Sg.clit": {
+      "üm’t": {
+        "üm't": {
+          "dict/prep.tsv": [
+            "ADP+DET.Def.Neut.Acc.Sg.clit\tüm/ADP\tüm’t\tüm't"
+          ]
+        }
+      }
+    },
+    "üm/ADP+DET.Def.Neut.Acc.Sg.hd.clit": {
+      "üm’s": {
+        "üm's": {
+          "dict/prep.tsv": [
+            "ADP+DET.Def.Neut.Acc.Sg.hd.clit\tüm/ADP\tüm’s\tüm's"
+          ]
+        }
+      }
+    }
+  },
+  "ümsünst/ADV": {
+    "ümsünst/ADV.ocr": {
+      "ümsünst": {
+        "ümfünst": {
+          "dict/prep.tsv": [
+            "ADV.ocr\tümsünst/ADV\tümsünst\tümfünst"
+          ]
+        }
+      }
+    }
+  },
+  "œver/ADP": {
+    "œver/ADP": {
+      "œver": {
+        "äber": {
+          "dict/prep.tsv": [
+            "œver/ADP\tœver\täber"
+          ]
+        },
+        "äver": {
+          "dict/prep.tsv": [
+            "œver/ADP\tœver\täver"
+          ]
+        },
+        "æber": {
+          "dict/prep.tsv": [
+            "œver/ADP\tœver\tæber"
+          ]
+        },
+        "öaber": {
+          "dict/prep.tsv": [
+            "œver/ADP\tœver\töaber"
+          ]
+        },
+        "öber": {
+          "dict/prep.tsv": [
+            "œver/ADP\tœver\töber"
+          ]
+        },
+        "öäber": {
+          "dict/prep.tsv": [
+            "œver/ADP\tœver\töäber"
+          ]
+        }
+      }
+    },
+    "œver/ADP+DET.Ind.Acc.Sg.Masc.clit": {
+      "œver’n": {
+        "æber'n": {
+          "dict/prep.tsv": [
+            "ADP+DET.Ind.Acc.Sg.Masc.clit\tœver/ADP\tœver’n\tæber'n"
+          ]
+        }
+      }
+    },
+    "œver/ADP.ocr": {
+      "œver": {
+        "däber": {
+          "dict/prep.tsv": [
+            "ADP.ocr\tœver/ADP\tœver\tdäber"
+          ]
+        },
+        "eber": {
+          "dict/prep.tsv": [
+            "ADP.ocr\tœver/ADP\tœver\teber"
+          ]
+        }
+      }
+    },
+    "œver/ADP.ocr+DET.Ind.Acc.Sg.Masc.clit": {
+      "œver’n": {
+        "däbern": {
+          "dict/prep.tsv": [
+            "ADP.ocr+DET.Ind.Acc.Sg.Masc.clit\tœver/ADP\tœver’n\tdäbern"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1464 @@
+{
+  "E/SCONJ": {
+    "E/SCONJ": {
+      "E": {
+        "Eh": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        },
+        "e": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        },
+        "eh": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        },
+        "eh'": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    },
+    "E/SCONJ.Cpv": {
+      "Er": {
+        "eh'r": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "al+weder/ADV": {
+    "al+weder/ADV": {
+      "al’we’der": {
+        "allwädder": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "alein/CCONJ.hd": {
+    "alein/CCONJ.hd": {
+      "a’lein": {
+        "allein": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "alemal/ADV.hd": {
+    "alemal/ADV.hd": {
+      "a’le’mål": {
+        "allemal": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "als/CCONJ.hd": {
+    "als/CCONJ.hd": {
+      "als": {
+        "Als": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        },
+        "als": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "alsO/ADV": {
+    "alsO/ADV": {
+      "al’sO": {
+        "allso": {
+          "dict/conj.tsv": [
+            "",
+            "nns = also/ADV"
+          ]
+        }
+      }
+    }
+  },
+  "an+stat/SCONJ": {
+    "an+stat/SCONJ": {
+      "an’stat": {
+        "anstatt": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    },
+    "an+stat/SCONJ.hd": {
+      "an’stat": {
+        "anstatt": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "as/SCONJ": {
+    "as/SCONJ": {
+      "as": {
+        "As": {
+          "dict/conj.tsv": [
+            "",
+            "mvp = as/CCONJ"
+          ]
+        },
+        "as": {
+          "dict/conj.tsv": [
+            "",
+            "mvp = as/CCONJ"
+          ]
+        }
+      },
+      "as’n": {
+        "as'n": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    },
+    "as/SCONJ DET.Def.Neut.Nom.Sg": {
+      "as’t": {
+        "As't": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        },
+        "as't": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    },
+    "as/SCONJ PRON.3.Sg.Neut.Nom": {
+      "as’t": {
+        "as't": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "auser/CCONJ.hd": {
+    "auser/CCONJ.hd": {
+      "au’ser": {
+        "außer": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "bEt/SCONJ": {
+    "bEt/SCONJ": {
+      "bet": {
+        "Bett": {
+          "dict/conj.tsv": [
+            "",
+            "mvp = bet/ADP"
+          ]
+        },
+        "bett": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "bI+hEr/ADV": {
+    "bI+hEr/ADV": {
+      "bI’hEr": {
+        "Byher": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "bI/ADP": {
+    "bI/ADP.arch": {
+      "bI": {
+        "by": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "be+sunder-s/ADV": {
+    "be+sunder-s/ADV": {
+      "be’su’ners": {
+        "besunners": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "bet/SCONJ": {
+    "bet/SCONJ.ocr": {
+      "bet": {
+        "bot": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "bis/SCONJ.hd": {
+    "bis/SCONJ.hd": {
+      "bis": {
+        "Bis": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        },
+        "bis": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "da+heim/ADV.hd": {
+    "da+heim/ADV.hd": {
+      "da’heim": {
+        "daheim": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "da+tsU/SCONJ.hd": {
+    "da+tsU/SCONJ.hd": {
+      "da’zsU": {
+        "dazu": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "da/SCONJ": {
+    "da/SCONJ": {
+      "bis": {
+        "Da": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        },
+        "da": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "dan/CCONJ": {
+    "dan/CCONJ": {
+      "dan": {
+        "dann": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "das/SCONJ.hd": {
+    "das/SCONJ.hd": {
+      "das": {
+        "daß": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "daß/SCONJ.hd": {
+    "daß/SCONJ.hd": {
+      "das": {
+        "Daß": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        },
+        "daß": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "den/CCONJ": {
+    "den/CCONJ": {
+      "den": {
+        "Denn": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        },
+        "denn": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "destO/SCONJ.lat": {
+    "destO/SCONJ.lat": {
+      "des’tO": {
+        "desto": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "dort/ADV": {
+    "dort/ADV": {
+      "dort": {
+        "dort": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "dox+En+mål/SCONJ": {
+    "dox+En+mål/SCONJ": {
+      "dox’mål": {
+        "dochmal": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "dox/CCONJ": {
+    "dox/CCONJ": {
+      "dox": {
+        "Doch": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        },
+        "doch": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "dox/SCONJ": {
+    "dox/SCONJ": {
+      "dox": {
+        "Doch": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        },
+        "doch": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "dun/CCONJ": {
+    "dun/CCONJ": {
+      "dun": {
+        "Dunn": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        },
+        "dunn": {
+          "dict/conj.tsv": [
+            "mvp = dunn/CCONJ"
+          ]
+        }
+      }
+    }
+  },
+  "dät/PRON.Dem.Neut.Gen.Sg.arch-halv/ADP.arch/CCONJ": {
+    "dät/PRON.Dem.Neut.Gen.Sg.arch-halv/ADP.arch/CCONJ.hd": {
+      "des’halb": {
+        "deshalb": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "dät/SCONJ": {
+    "dät/SCONJ": {
+      "dat": {
+        "Dat": {
+          "dict/conj.tsv": [
+            "",
+            "mvp = dat/CCONJ"
+          ]
+        },
+        "dat": {
+          "dict/conj.tsv": [
+            "",
+            "mvp = dat/CCONJ"
+          ]
+        },
+        "dath": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        },
+        "datt": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      },
+      "det": {
+        "Det": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        },
+        "Dät": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        },
+        "Dåt": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        },
+        "dát": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        },
+        "dât": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        },
+        "dät": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        },
+        "dåt": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    },
+    "dät/SCONJ PRON.3.Sg.Neut.Nom.clit": {
+      "det’t": {
+        "dåt't": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "då+dår+in/ADV": {
+    "då+dår+in/ADV": {
+      "då’drin": {
+        "Doadrin": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "då+hEr/CCONJ": {
+    "då+hEr/CCONJ.hd": {
+      "da’hEr": {
+        "daher": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "då+hEr/SCONJ": {
+    "då+hEr/SCONJ.hd": {
+      "da’hEr": {
+        "daher": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "då+hinder/ADV": {
+    "då+hinder/ADV": {
+      "då’hi’ner": {
+        "doahinner": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "då+mid/SCONJ": {
+    "då+mid/SCONJ": {
+      "då’mit": {
+        "Damit": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        },
+        "damit": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "då+mål-s/ADV": {
+    "då+mål-s/ADV": {
+      "då’måls": {
+        "Doamoals": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "då+nå/CCONJ": {
+    "då+nå/CCONJ": {
+      "då’nå": {
+        "doanoah": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "då/SCONJ": {
+    "då/SCONJ": {
+      "då": {
+        "da": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "dår+hinder/CCONJ": {
+    "dår+hinder/CCONJ": {
+      "der’hi’ner": {
+        "Derhinner": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "dår+in-e/ADV": {
+    "dår+in-e/ADV": {
+      "dri’ne": {
+        "drinne": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "dår+twiSen/CCONJ": {
+    "dår+twiSen/CCONJ": {
+      "der’twi’Sen": {
+        "Dertwischen": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "dår+œver/ADP-en/ADV": {
+    "dår+œver/ADP-en/ADV": {
+      "drœ’ben": {
+        "dröäben": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "dörx/ADP": {
+    "dörx/ADP DET.Def.Masc.Acc.Sg.clit": {
+      "dör’xen": {
+        "dörchen": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "ge-trÜ/ADV": {
+    "ge-trÜ/ADV": {
+      "ge’trÜ": {
+        "getrü": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "gråd/ADV": {
+    "gråd/ADV": {
+      "gråd": {
+        "g'road": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "in+dEm/SCONJ.hd": {
+    "in+dEm/SCONJ.hd": {
+      "in’dEm": {
+        "Indem": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        },
+        "indem": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "in+desen/CCONJ.hd": {
+    "in+desen/CCONJ.hd": {
+      "in’de’sen": {
+        "Indessen": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "irgend+wO/ADV.hd": {
+    "irgend+wO/ADV.hd": {
+      "ir’gend’wO": {
+        "irgendwo": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "ixt-en-s/ADV": {
+    "ixt-en-s/ADV": {
+      "ix’tens": {
+        "Ichtens": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "je-dox/CCONJ.hd": {
+    "je-dox/CCONJ.hd": {
+      "je’dox": {
+        "jedoch": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "jå/ADV": {
+    "jå/ADV": {
+      "jå": {
+        "joa": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "jå/SCONJ": {
+    "jå/SCONJ": {
+      "jå": {
+        "joa": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "menig+mål/ADV": {
+    "menig+mål/ADV": {
+      "menx’mål": {
+        "mänchmal": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "nU/ADV": {
+    "nU/ADV.ocr": {
+      "nU": {
+        "nn": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        },
+        "nz": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "ne+irgends/ADV": {
+    "ne+irgends/ADV": {
+      "na’rens": {
+        "narens": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "nÄmlix/ADV.hd": {
+    "nÄmlix/ADV.hd": {
+      "nÄm’lix": {
+        "nämlich": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "nÄven+an/ADV": {
+    "nÄven+an/ADV": {
+      "nÄ’ben’an": {
+        "nebenan": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "nÄven+bI/SCONJ": {
+    "nÄven+bI/SCONJ": {
+      "nÄ’ben’bI": {
+        "nebenbie": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "nå+dEm/SCONJ": {
+    "nå+dEm/SCONJ": {
+      "nå’dEm": {
+        "nahdem": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "oder/CCONJ": {
+    "oder/CCONJ": {
+      "o’der": {
+        "oder": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    },
+    "oder/CCONJ.ocr": {
+      "o’der": {
+        "ödder": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "ov+SOn/SCONJ": {
+    "ov+SOn/SCONJ.Spv": {
+      "of’t": {
+        "obschonst": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "ov/SCONJ": {
+    "ov/SCONJ": {
+      "ob": {
+        "Ob": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        },
+        "ob": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      },
+      "of": {
+        "Of": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        },
+        "of": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    },
+    "ov/SCONJ PRON.3.Sg.Neut.Nom.clit": {
+      "of’t": {
+        "of't": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "plus/CCONJ.lat": {
+    "plus/CCONJ.lat": {
+      "plus": {
+        "plus": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "sO+bald/SCONJ": {
+    "sO+bald/SCONJ": {
+      "sO’bald": {
+        "Sobald": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        },
+        "sobald": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "sO+wI/SCONJ.hd": {
+    "sO+wI/SCONJ.hd": {
+      "sO’wI": {
+        "Sowie": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "sO+wOl/CCONJ.hd": {
+    "sO+wOl/CCONJ.hd": {
+      "sO’wOl": {
+        "sowohl": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "sO+wol/CCONJ": {
+    "sO+wol/CCONJ": {
+      "sO’wol": {
+        "sowoll": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "sO/CCONJ": {
+    "sO/CCONJ": {
+      "sO": {
+        "so": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "seit+dEm/SCONJ.hd": {
+    "seit+dEm/SCONJ.hd": {
+      "seit’dEm": {
+        "Seitdem": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        },
+        "seitdem": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "seit/SCONJ.hd": {
+    "seit/SCONJ.hd": {
+      "seit": {
+        "Seit": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        },
+        "seit": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "so/CCONJ": {
+    "so/CCONJ": {
+      "sO": {
+        "So": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "so/SCONJ": {
+    "so/SCONJ": {
+      "sO": {
+        "So": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        },
+        "so": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "sunst/ADV": {
+    "sunst/ADV": {
+      "sunst": {
+        "sunst": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "sunst/CCONJ": {
+    "sunst/CCONJ.Spv": {
+      "süns’ten": {
+        "sünsten": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "trots+dEm/CCONJ": {
+    "trots+dEm/CCONJ.hd": {
+      "trots’dEm": {
+        "trotzdem": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "trots+dEm/SCONJ": {
+    "trots+dEm/SCONJ.hd": {
+      "trots’dEm": {
+        "trotzdem": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "tswar/CCONJ.hd": {
+    "tswar/CCONJ.hd": {
+      "tswar": {
+        "zwar": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        },
+        "zwei": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "twår-s/SCONJ": {
+    "twår-s/SCONJ": {
+      "twårs": {
+        "twors": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "twår/SCONJ": {
+    "twår/SCONJ": {
+      "twår": {
+        "twor": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    },
+    "twår/SCONJ.Spv": {
+      "twårst": {
+        "tworst": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "un/CCONJ": {
+    "un/CCONJ": {
+      "un": {
+        "Un": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        },
+        "un": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    },
+    "un/CCONJ.arch": {
+      "un’de": {
+        "Unde": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        },
+        "unde": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    },
+    "un/CCONJ.hd": {
+      "und": {
+        "Und": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        },
+        "Vnd": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        },
+        "und": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    },
+    "un/CCONJ.hd.ocr": {
+      "und": {
+        "uud": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        },
+        "uzt": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    },
+    "un/CCONJ.ocr": {
+      "un": {
+        "nn": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "up+itsund/ADV": {
+    "up+itsund/ADV": {
+      "up’tsund": {
+        "upzund": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "wEder/CCONJ.hd": {
+    "wEder/CCONJ.hd": {
+      "wE’der": {
+        "weder": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "wI/SCONJ.hd": {
+    "wI/SCONJ.hd": {
+      "wI": {
+        "wie": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "wO+bei/SCONJ.hd": {
+    "wO+bei/SCONJ.hd.arch": {
+      "wO’bei": {
+        "wobey": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "wO+mid/SCONJ": {
+    "wO+mid/SCONJ": {
+      "wO’mit": {
+        "womit": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "wO+tsU/SCONJ.hd": {
+    "wO+tsU/SCONJ.hd": {
+      "wO’tsU": {
+        "wozu": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "wO/SCONJ": {
+    "wO/SCONJ": {
+      "wO": {
+        "wo": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "wOr+an/SCONJ": {
+    "wOr+an/SCONJ": {
+      "wO’ran": {
+        "woran": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "weder/ADV": {
+    "weder/ADV": {
+      "we’der": {
+        "weder": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        },
+        "wäͤdder": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "weil/SCONJ": {
+    "weil/SCONJ.hd": {
+      "weil": {
+        "weil": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "wen/SCONJ": {
+    "wen/SCONJ": {
+      "wen": {
+        "Wänn": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        },
+        "wenn": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "wÄrend/SCONJ": {
+    "wÄrend/SCONJ.hd": {
+      "wÄ’rend": {
+        "während": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "ån/SCONJ": {
+    "ån/SCONJ.hd": {
+      "O’ne": {
+        "ohne": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "åver/CCONJ": {
+    "åver/CCONJ": {
+      "å’ber": {
+        "Aber": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        },
+        "Oaber": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        },
+        "aber": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        },
+        "oaber": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    },
+    "åver/CCONJ.Cpv": {
+      "œ’ver": {
+        "äwer": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    },
+    "åver/CCONJ.Spv": {
+      "œ’ber": {
+        "æber": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        },
+        "öaber": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        },
+        "öber": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        },
+        "öäber": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    },
+    "åver/CCONJ.hd": {
+      "å’ber": {
+        "Aber": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        },
+        "aber": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "œver+al/SCONJ": {
+    "œver+al/SCONJ": {
+      "œ’ber’al": {
+        "åberall": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    },
+    "œver+al/SCONJ.ocr": {
+      "œ’ber’al": {
+        "åberall": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  },
+  "œver+ful/ADV": {
+    "œver+ful/ADV": {
+      "œ’ber’ful": {
+        "öbervull": {
+          "dict/conj.tsv": [
+            ""
+          ]
+        }
+      }
+    }
+  }
+}
