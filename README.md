@@ -1,4 +1,4 @@
-# Corpus of North Markian and Central Pomeranian (NMK Corpus)
+# Building a Corpus of North Markian and Central Pomeranian (NMK Corpus)
 
 > **DO NOT EDIT DIRECTLY**
 > - This is the public release repository for the NMK corpus. For internal development, please checkout [our private repository](https://github.com/acoli-repo/nmk-corpus) and run `make update_release` *in that repository* to update any data here.
@@ -11,16 +11,29 @@
 - [`pdf/`](pdf) gzipped PDFs containing the source texts (scanned, content pages only)
 - [`txt/`](txt) Transkribus OCR, plain text (no OCR post-correction)
 - [`upos/`](upos) automated annotation for universal parts of speech in four columns, `FORM`, `UPOS` (predicted part of speech) and two auxiliary columns (see UPOS annotation below)
-<<<<<<< HEAD
 - [`lemmatizer/`](lemmatizer) lemmatizer v0.03
-	- see [`Readme`](lemmatizer/Readme.md) for how to compile and run
-	- including a [command-line editor](lemmatizer/editor) for manual curation of analyzed forms 
-	- including manually curated [full-form lists](lemmatizer/full_forms)
+
+## NMK Lemmatizer v0.03
+
+Finite-state morphology and manually curated full form dictionaries for the analysis of North Markian / Central Pomeranian authors from the 19th c.
+
+- see [`Readme`](lemmatizer/Readme.md) for how to compile and run
+- including a [command-line editor](lemmatizer/editor) for manual curation of analyzed forms 
+- including manually curated [full-form lists](lemmatizer/full_forms)
+
+Note that lemmatizer v0.03 does not perform disambiguation. This is to be accomplished with transfer learning using data from related language varieties.
+
+> The earlier versions v0.01 and v0.02 have been developed for and used in an iterative bootstrapping and refinement cycle as described in the accompanying paper, but have not been properly released.
 
 ## Corpus data and UPOS annotation
 
-Note that lemmatizer v0.03 does not perform disambiguation. This is to be accomplished with transfer learning using data from related language varieties.
-So far, we thus only provide corpus data with POS tagging. In its nature, this is auxiliary data that has been created in preparation of the lemmatizer, i.e., for pre-filtering the word forms in order to develop morphological analysis components for verbal, nominal, adjectival and pronominal inflectional and derivational morphology.
+As the lemmatizer does not support automated disambiguation for morphological analyses yet, we only provide corpus data with POS tagging. This is the first digital corpus of North Markian text we are aware of and one of the first freely available corpus of Low German literature. However, this is still work in progress as it suffers from a number of drawbacks:
+
+- The text is automatically OCRed, without manual post-editing
+- The text contains doublettes: As for Bornemann's texts, many poems from his 1810/16 book may also occur in the 1868 re-edition. However, we include both, as the older texts belong to the oldest attestations of North Markian, and the younger ones have been substantially modernized (and, in the eyes of speakers, sanitized) two generations after. As for Dörr's text, the original publication contained duplicate and re-ordered pages, so that some pages are actually included up to 7 times. Also, as sentence boundaries are inferred across page breaks, this leads to incorrect sentences.
+- the text contains passages in High German, Yiddish, French, Mecklenburgian (another, more remotely related Low German dialect), Missingsch (a historical regiolect blending aspects of Low German and High/Central German) which are not identified as such
+
+At the moment, this data can be of value for the study of morphology and lexis, but not for the study of syntax. In its very nature, it is at the stage of auxiliary created to support the development of a lemmatizer, i.e., for pre-filtering the word forms in order to develop morphological analysis components for verbal, nominal, adjectival and pronominal inflectional and derivational morphology. In subsequent research, we plan to consolidate the corpus and provide a proper release.
 
 [`upos/`](upos) provides automated annotation for universal parts of speech in four columns, `FORM`, `UPOS` (predicted part of speech), `UPOS-HMM` (HMM prediction), `UPOS-DICT` (parts of speech according to dictionary lookup):
 
