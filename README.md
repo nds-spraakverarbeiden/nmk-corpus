@@ -10,7 +10,9 @@ This repository provides a corpus of North Markian and Central Pomeranian (Germa
 
 North Markian is a dialect of Low German spoken in the federal states of Sachsen-Anhalt, Brandenburg and Mecklenburg-Vorpommern in Germany. For modern Mecklenburg-Vorpommern and the historical region of Hither Pomerania in modern Poland, the dialect is referred to as _Central Pomeranian_, but differences between North Markian proper and Central Pomeranian are marginal. In modern Poland, the dialect is extict, in Germany, it is severely threatened.
 
-Since July 2024, the Low German language [is protected by state law](https://bravors.brandenburg.de/gesetze/bbgndg) in the federal state of Brandenburg, but political decisions and educational resources to protect and support the language should be made in accordance with an understanding of the characteristics of the language that is to be protected. Unfortunately, North Markian is very poorly documented and scientifically underexplored so that these characteristics are largely unknown. This corpus is being developed with the intent to address that gap and to provide a basis for the corpus-linguistic investigation of North Markian.
+Since July 2024, the Low German language [is protected by state law](https://bravors.brandenburg.de/gesetze/bbgndg) in the federal state of Brandenburg, but political decisions and educational resources to protect and support the language should be made in accordance with an understanding of the characteristics of the language that is to be protected. Unfortunately, North Markian is very poorly documented and scientifically underexplored so that these characteristics are largely unknown. This corpus is being developed with the intent to address that gap and to provide a basis for the study of North Markian with modern methods of corpus linguistics, digital lexicography and computational linguistics.
+
+## Terms and conditions
 
 The **corpus** is released as open source under the [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA)][LICENSE] license. You are free to
 
@@ -22,23 +24,23 @@ Under the following terms:
 * **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 * **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
-If you use data or code from this repository in an academic context, please cite the following paper
+If you use any data or code from this repository, esp. in an academic context, please cite the following paper
 
-	Christian Chiarcos (2026), Towards the Morphological Annotation of North Markian (Low German), In Proceedings of the Fifteenth biennial Language Resources and Evaluation Conference (LREC-2026), Palma, Mallorca, Spain, May 13-15, 2026.
+> Christian Chiarcos (2026), Towards the Morphological Annotation of North Markian (Low German), In Proceedings of the Fifteenth biennial Language Resources and Evaluation Conference (LREC-2026), Palma, Mallorca, Spain, May 13-15, 2026.
 
 This repository also contains software, in particular, tools for the morphological analysis of North Markian in particular and Low German in general. The **code** contained in this repository is published as open source under the Apache License, Version 2.0, January 2004, http://www.apache.org/licenses/.
 
+**Disclaimer**:
+No warrantees whatsoever. All data provided here was created with automated methods, incl. automated OCR, automated POS annotation and (under development) automated lemmatization.
 
-**Content**:
+
+## Contents of this repository
 
 - [`pdf/`](pdf) gzipped PDFs containing the source texts (scanned, content pages only)
 - [`txt/`](txt) Transkribus OCR, plain text (no OCR post-correction)
 - [`upos/`](upos) automated annotation for universal parts of speech in four columns, `FORM`, `UPOS` (predicted part of speech) and two auxiliary columns (see UPOS annotation below)
 - [`lemmatizer/`](lemmatizer) Lemmatizer v0.3
 
-**Disclaimer**:
-
-No warrantees whatsoever. All data provided here was created with automated methods, incl. automated OCR, automated POS annotation and (under development) automated lemmatization.
 
 ## Corpus data and UPOS annotation
 
