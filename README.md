@@ -12,6 +12,23 @@ North Markian is a dialect of Low German spoken in the federal states of Sachsen
 
 Since July 2024, the Low German language [is protected by state law](https://bravors.brandenburg.de/gesetze/bbgndg) in the federal state of Brandenburg, but political decisions and educational resources to protect and support the language should be made in accordance with an understanding of the characteristics of the language that is to be protected. Unfortunately, North Markian is very poorly documented and scientifically underexplored so that these characteristics are largely unknown. This corpus is being developed with the intent to address that gap and to provide a basis for the corpus-linguistic investigation of North Markian.
 
+The **corpus** is released as open source under the [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA)][LICENSE] license. You are free to
+
+* **Share** — copy and redistribute the material in any medium or format for any purpose, even commercially.
+* **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
+
+Under the following terms:
+
+* **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+* **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+If you use data or code from this repository in an academic context, please cite the following paper
+
+	Christian Chiarcos (2026), Towards the Morphological Annotation of North Markian (Low German), In Proceedings of the Fifteenth biennial Language Resources and Evaluation Conference (LREC-2026), Palma, Mallorca, Spain, May 13-15, 2026.
+
+This repository also contains software, in particular, tools for the morphological analysis of North Markian in particular and Low German in general. The **code** contained in this repository is published as open source under the Apache License, Version 2.0, January 2004, http://www.apache.org/licenses/.
+
+
 **Content**:
 
 - [`pdf/`](pdf) gzipped PDFs containing the source texts (scanned, content pages only)
