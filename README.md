@@ -6,24 +6,22 @@
 > - If you like to contribute, or want to get access to the original build scripts, please get in touch with [@chiarcos](https://github.com/chiarcos) and/or the [Chair of Applied Computational Linguistics at the University of Augsburg, Germany](https://www.uni-augsburg.de/en/fakultaet/philhist/professuren/Applied-Computational-Linguistics/).
 
 
+This repository provides a corpus of North Markian and Central Pomeranian (German _Nordmärkisch-Mittelpommersches Korpus_, NMK), consisting of copyright-free literary works to represent the primary regions and varieties of the dialect.
+
+North Markian is a dialect of Low German spoken in the federal states of Sachsen-Anhalt, Brandenburg and Mecklenburg-Vorpommern in Germany. For modern Mecklenburg-Vorpommern and the historical region of Hither Pomerania in modern Poland, the dialect is referred to as _Central Pomeranian_, but differences between North Markian proper and Central Pomeranian are marginal. In modern Poland, the dialect is extict, in Germany, it is severely threatened.
+
+Since July 2024, the Low German language [is protected by state law](https://bravors.brandenburg.de/gesetze/bbgndg) in the federal state of Brandenburg, but political decisions and educational resources to protect and support the language should be made in accordance with an understanding of the characteristics of the language that is to be protected. Unfortunately, North Markian is very poorly documented and scientifically underexplored so that these characteristics are largely unknown. This corpus is being developed with the intent to address that gap and to provide a basis for the corpus-linguistic investigation of North Markian.
+
 **Content**:
 
 - [`pdf/`](pdf) gzipped PDFs containing the source texts (scanned, content pages only)
 - [`txt/`](txt) Transkribus OCR, plain text (no OCR post-correction)
 - [`upos/`](upos) automated annotation for universal parts of speech in four columns, `FORM`, `UPOS` (predicted part of speech) and two auxiliary columns (see UPOS annotation below)
-- [`lemmatizer/`](lemmatizer) lemmatizer v0.03
+- [`lemmatizer/`](lemmatizer) Lemmatizer v0.3
 
-## NMK Lemmatizer v0.03
+**Disclaimer**:
 
-Finite-state morphology and manually curated full form dictionaries for the analysis of North Markian / Central Pomeranian authors from the 19th c.
-
-- see [`Readme`](lemmatizer/Readme.md) for how to compile and run
-- including a [command-line editor](lemmatizer/editor) for manual curation of analyzed forms 
-- including manually curated [full-form lists](lemmatizer/full_forms)
-
-Note that lemmatizer v0.03 does not perform disambiguation. This is to be accomplished with transfer learning using data from related language varieties.
-
-> The earlier versions v0.01 and v0.02 have been developed for and used in an iterative bootstrapping and refinement cycle as described in the accompanying paper, but have not been properly released.
+No warrantees whatsoever. All data provided here was created with automated methods, incl. automated OCR, automated POS annotation and (under development) automated lemmatization.
 
 ## Corpus data and UPOS annotation
 
@@ -49,6 +47,20 @@ At the moment, this data can be of value for the study of morphology and lexis, 
 	During compilation, we automatically identify the best-performing parameter configuration against a manually annotated sample. The best-performing configuration is applied, see [Readme](upos/Readme.md) for evaluation scores and the parameters of the best-performing configuration.
 
 - `UPOS-DICT` lookup-based UPOS annotations against a heuristically compiled POS dictionary, no disambiguation.
+
+## NMK Lemmatizer v0.3
+
+Finite-state morphology and manually curated full form dictionaries for the analysis of North Markian / Central Pomeranian authors from the 19th c.
+
+- see [`Readme`](lemmatizer/Readme.md) for how to compile and run
+- including a [command-line editor](lemmatizer/editor) for manual curation of analyzed forms 
+- including manually curated [full-form lists](lemmatizer/full_forms)
+
+Note that Lemmatizer v0.3 does not perform disambiguation. This is to be accomplished with transfer learning using data from related language varieties.
+
+> The earlier versions v0.1 and v0.2 have been developed for and used in an iterative bootstrapping and refinement cycle as described in the accompanying paper, but have not been properly released.
+
+
 
 ## TODO
 

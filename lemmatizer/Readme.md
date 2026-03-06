@@ -25,4 +25,4 @@ Note that it will skip any line starting with `#`. This can also process TSV for
 
 For testing a default configuration, run `make test`. Make sure to manually delete `analyze.sh.cache.json` beforehand.
 
-For a detailed description of the components and the steps taken to construct them, see [concept-and-development.md](concept-and-development.md).
+For a detailed description of the components and the steps taken to construct them, see [concept-and-development.md](concept-and-development.md).q
