@@ -1,4 +1,4 @@
-# Building a Corpus of North Markian and Central Pomeranian (NMK Corpus)
+# North Markian Corpus (NMK Corpus)
 
 > **DO NOT EDIT DIRECTLY**
 > - This is the public release repository for the NMK corpus. For internal development, please checkout [our private repository](https://github.com/acoli-repo/nmk-corpus) and run `make update_release` *in that repository* to update any data here.
