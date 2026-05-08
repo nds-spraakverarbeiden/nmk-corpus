@@ -57,9 +57,9 @@ At the moment, this data can be of value for the study of morphology and lexis, 
 
 - `FORM`
 - `UPOS` universal part of speech, <html><!-- based on rule-based integration of HMM- and dictionary annotations
-	1. use `UPOS-HMM` tag if among `UPOS-DICT` tags; else 
-	2. use `UPOS-DICT` tag if unambiguous; else
-	3. use `UPOS-HMM` tag with question mark
+	- use `UPOS-HMM` tag if among `UPOS-DICT` tags; else 
+	- use `UPOS-DICT` tag if unambiguous; else
+	- use `UPOS-HMM` tag with question mark
 - `UPOS-HMM`--></html> automated UPOS annotation with [Hammy](https://github.com/acoli-repo/hammy/), i.e. either
 	1. (*direct mode*) initially performed by combining transition probabilities from UD corpora (see [Readme](upos/Readme.md) for details) and emission probabilities from a heuristically bootstrapped dictionaries and statistical OOV heuristics, or
 	2. (*retraining mode*): annotated with Hammy HMM trained over the data resulting from direct annotation
