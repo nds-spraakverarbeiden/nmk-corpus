@@ -38,7 +38,8 @@ No warrantees whatsoever. All data provided here was created with automated meth
 
 - [`pdf/`](pdf) gzipped PDFs containing the source texts (scanned, content pages only)
 - [`txt/`](txt) Transkribus OCR, plain text (no OCR post-correction)
-- [`upos/`](upos) automated annotation for universal parts of speech in four columns, `FORM`, `UPOS` (predicted part of speech) and two auxiliary columns (see UPOS annotation below)
+- [`upos/`](upos) automated annotation for universal parts of speech in two columns, `FORM`, `UPOS` (predicted part of speech) 
+	<!-- and two auxiliary columns (see UPOS annotation below) -->
 - [`lemmatizer/`](lemmatizer) Lemmatizer v0.3
 
 
@@ -52,20 +53,22 @@ As the lemmatizer does not support automated disambiguation for morphological an
 
 At the moment, this data can be of value for the study of morphology and lexis, but not for the study of syntax. In its very nature, it is at the stage of auxiliary created to support the development of a lemmatizer, i.e., for pre-filtering the word forms in order to develop morphological analysis components for verbal, nominal, adjectival and pronominal inflectional and derivational morphology. In subsequent research, we plan to consolidate the corpus and provide a proper release.
 
-[`upos/`](upos) provides automated annotation for universal parts of speech in four columns, `FORM`, `UPOS` (predicted part of speech), `UPOS-HMM` (HMM prediction), `UPOS-DICT` (parts of speech according to dictionary lookup):
+[`upos/`](upos) provides automated annotation for universal parts of speech<!-- in four columns, `FORM`, `UPOS` (predicted part of speech), `UPOS-HMM` (HMM prediction), `UPOS-DICT` (parts of speech according to dictionary lookup)-->:
 
 - `FORM`
-- `UPOS` universal part of speech, based on rule-based integration of HMM- and dictionary annotations
+- `UPOS` universal part of speech, <!-- based on rule-based integration of HMM- and dictionary annotations
 	1. use `UPOS-HMM` tag if among `UPOS-DICT` tags; else 
 	2. use `UPOS-DICT` tag if unambiguous; else
 	3. use `UPOS-HMM` tag with question mark
-- `UPOS-HMM` automated UPOS annotation with [Hammy](https://github.com/acoli-repo/hammy/), i.e. either
+- `UPOS-HMM`--> automated UPOS annotation with [Hammy](https://github.com/acoli-repo/hammy/), i.e. either
 	1. (*direct mode*) initially performed by combining transition probabilities from UD corpora (see [Readme](upos/Readme.md) for details) and emission probabilities from a heuristically bootstrapped dictionaries and statistical OOV heuristics, or
 	2. (*retraining mode*): annotated with Hammy HMM trained over the data resulting from direct annotation
 
 	During compilation, we automatically identify the best-performing parameter configuration against a manually annotated sample. The best-performing configuration is applied, see [Readme](upos/Readme.md) for evaluation scores and the parameters of the best-performing configuration.
 
-- `UPOS-DICT` lookup-based UPOS annotations against a heuristically compiled POS dictionary, no disambiguation.
+<!-- - `UPOS-DICT` lookup-based UPOS annotations against a heuristically compiled POS dictionary, no disambiguation. -->
+
+<!-- dict-based annotation has been dropped temporarily, and may be restored at a later point in time -->
 
 ## NMK Lemmatizer v0.3
 
