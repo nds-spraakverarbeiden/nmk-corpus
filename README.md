@@ -55,13 +55,17 @@ At the moment, this data can be of value for the study of morphology and lexis, 
 
 [`upos/`](upos) provides automated annotation for universal parts of speech <!-- in four columns, `FORM`, `UPOS` (predicted part of speech), `UPOS-HMM` (HMM prediction), `UPOS-DICT` (parts of speech according to dictionary lookup):-->
 
-- `FORM`
-- `UPOS` universal part of speech, 
-<!-- based on rule-based integration of HMM- and dictionary annotations
+<!-- 
+- `UPOS`
+	based on rule-based integration of HMM- and dictionary annotations
 	use `UPOS-HMM` tag if among `UPOS-DICT` tags; else 
 	use `UPOS-DICT` tag if unambiguous; else
 	use `UPOS-HMM` tag with question mark
 `UPOS-HMM`-->	
+
+
+- `FORM`
+- `UPOS` universal part of speech, 
 
 	automated UPOS annotation with [Hammy](https://github.com/acoli-repo/hammy/), i.e. either
 	1. (*direct mode*) initially performed by combining transition probabilities from UD corpora (see [Readme](upos/Readme.md) for details) and emission probabilities from a heuristically bootstrapped dictionaries and statistical OOV heuristics, or
