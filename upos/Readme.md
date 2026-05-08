@@ -1,6 +1,10 @@
-# Release candidate of Fr 16. Aug 14:50:34 CEST 2024
+# UPOS-tagged NMK Corpus (revision of Fr 8. Mai 12:33:52 CEST 2026)
 
-built from  with the following properties:
+> **NOTE**: We perform HMM-based UPOS tagging only, emission probabilities estimated from the dictionaries and transition probabilities from selected Germanic UD corpora.
+> We do not integrate lemmatization yet, because we don't disambiguate, so far.
+> We do not perform sentence splitting but preserve original line and page breaks.
+
+built with the following properties:
 
 - model corpus/scripts/models/UD_Dutch-Alpino.lcased.1.model
 - evaluation against `corpus/test`
@@ -27,52 +31,3 @@ built from  with the following properties:
 		|X|1.0|1.0|1.0|
 		|_|0|0|0|
 
-## Build log
-
-	corpus/full/bornemann-1810-gedichte.full.conll > upos/bornemann-1810-gedichte.full.conll
-	reading from stdin
-	
-	corpus/full/bornemann-1813-erz.full.conll > upos/bornemann-1813-erz.full.conll
-	reading from stdin
-	
-	corpus/full/bornemann-1816-gedichte.full.conll > upos/bornemann-1816-gedichte.full.conll
-	reading from stdin
-	
-	corpus/full/bornemann-1868-gedichte.full.conll > upos/bornemann-1868-gedichte.full.conll
-	reading from stdin
-	
-	corpus/full/doerr-1884-goederschlaechter.full.conll > upos/doerr-1884-goederschlaechter.full.conll
-	reading from stdin
-	
-	corpus/full/hill-1868-schnurren.full.conll > upos/hill-1868-schnurren.full.conll
-	reading from stdin
-	
-	corpus/full/jung-1855-gedichte.full.conll > upos/jung-1855-gedichte.full.conll
-	reading from stdin
-	
-	corpus/full/keller-1871.full.conll > upos/keller-1871.full.conll
-	reading from stdin
-	
-	corpus/full/keller-1872.full.conll > upos/keller-1872.full.conll
-	reading from stdin
-	
-	corpus/full/keller-1877.full.conll > upos/keller-1877.full.conll
-	reading from stdin
-	
-	corpus/full/schwerin-1858-altmark.full.conll > upos/schwerin-1858-altmark.full.conll
-	reading from stdin
-	
-	corpus/full/schwerin-1859-voeggel.full.conll > upos/schwerin-1859-voeggel.full.conll
-	reading from stdin
-	
-merged with dictionary-based preannotation, such that 
- - unambiguous preannotation overrides HMM annotation
- - for ambiguous preannotations compatible with HMM output, use HMM output
- - for ambiguous preannotations not compatible with HMM output, use HMM output and mark tag by ?
- - if no automated pre-annotation, use HMM output
-
-columns:
-- **WORD**
-- **MERGED**
-- **HMM**
-- **DICT**
