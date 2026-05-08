@@ -1,0 +1,18507 @@
+Erster	NOUN
+Act	VERB
+.	PUNCT
+
+
+--	PUNCT
+(	PUNCT
+Wohnzimmer	VERB
+bei	X
+Barko	NOUN
+.	PUNCT
+Mittelthür	VERB
+mit	ADP
+Vorhängen	NOUN
+,	PUNCT
+rechts	ADV
+ein	DET
+Fenster	NOUN
+,	PUNCT
+davor	VERB
+
+
+eine	DET
+Staffelei	NOUN
+mit	ADP
+Zubehör	NOUN
+;	PUNCT
+am	PRON
+Fenster	NOUN
+Blumentöpfe	VERB
+;	PUNCT
+im	ADP
+Hintergrunde	NOUN
+links	ADV
+
+
+eine	DET
+Thür	NOUN
+;	PUNCT
+im	ADP
+Vordergrunde	NOUN
+links	ADV
+ein	DET
+Tisch	NOUN
+mit	ADP
+Zeitungen	NOUN
+,	PUNCT
+dahinter	VERB
+ein	DET
+Großstuhl	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Rechts	ADV
+und	CCONJ
+links	ADV
+wird	X
+vom	ADP
+Zuschauerraum	NOUN
+aus	ADP
+bestimmt	NOUN
+.	PUNCT
+)	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+.	PUNCT
+Fritz	PROPN
+.	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+(	PUNCT
+mit	ADP
+den	DET
+Zeitungen	NOUN
+beschäftigt	VERB
+)	PUNCT
+.	PUNCT
+Ick	PRON
+segg	VERB
+Di	PRON
+nu	ADV
+tum	ADP
+letzten	ADJ
+
+
+Mal	ADV
+:	PUNCT
+Da	ADV
+ward	AUX
+niks	VERB
+ut	ADP
+,	PUNCT
+ja	ADJ
+niks	NOUN
+!	PUNCT
+Nu	ADV
+un	CCONJ
+nimmermehr	NOUN
+gev	VERB
+ick	PRON
+dat	PRON
+to	ADP
+.	PUNCT
+
+
+--	PUNCT
+Glöwst	VERB
+Du	PRON
+ick	PRON
+harr	VERB
+min	DET
+Lebenstied	NOUN
+mi	PRON
+daför	NOUN
+quält	VERB
+,	PUNCT
+üm	ADP
+nu	ADV
+mit	ADP
+antosehn	VERB
+,	PUNCT
+
+
+--	PUNCT
+dat	PRON
+min	DET
+schöne	ADJ
+Angerhof	NOUN
+von	ADP
+son	DET
+Stadtfrölen	NOUN
+to	ADP
+Grun'n	NOUN
+regiert	VERB
+ward	AUX
+?	PUNCT
+
+
+--	PUNCT
+Fritz	PROPN
+.	PUNCT
+Aber	CCONJ
+lieber	NOUN
+Vater	NOUN
+
+
+Barko	VERB
+.	PUNCT
+Ruhig	ADJ
+wenn	SCONJ
+ick	PRON
+red	VERB
+!	PUNCT
+Hest	AUX
+Du	PRON
+öwer	VERB
+all	ADV
+de	DET
+hochdütsche	ADJ
+,	PUNCT
+
+
+--	PUNCT
+städt'sche	NOUN
+Bildung	VERB
+den	DET
+Respect	NOUN
+gegen	ADP
+din	DET
+Vatter	NOUN
+so	ADV
+wied	NOUN
+vergeten	VERB
+,	PUNCT
+dat	PRON
+
+
+Du	PRON
+mi	PRON
+nich	ADV
+mal	ADV
+mehr	ADV
+utreden	ADJ
+letst	NOUN
+?	PUNCT
+O	VERB
+ick	PRON
+weet	VERB
+woll	ADV
+wat	PRON
+Du	PRON
+mit	ADP
+Din	DET
+
+
+Stadtdam	NOUN
+för	VERB
+groote	ADJ
+Nosinen	NOUN
+in'n	ADP
+Sack	NOUN
+hest	AUX
+:	PUNCT
+Den	DET
+Ollen	ADJ
+so	ADV
+bi	ADP
+Sied	NOUN
+
+
+setten	VERB
+,	PUNCT
+un	CCONJ
+achter	VERB
+sinen	DET
+Rüggen	NOUN
+sich	PRON
+öwer	VERB
+sine	DET
+ungebild'ten	NOUN
+Maneren	VERB
+lustig	ADJ
+
+
+maken	VERB
+;	PUNCT
+Kutschpeer	NOUN
+hollen	VERB
+,	PUNCT
+Bedienten	NOUN
+hollen	VERB
+un	CCONJ
+Visiten	NOUN
+maken	VERB
+,	PUNCT
+bet	ADP
+allens	ADV
+
+
+tum	ADP
+Düwel	NOUN
+is	AUX
+,	PUNCT
+un	CCONJ
+Juden	NOUN
+un	CCONJ
+Excuters	VERB
+dat	DET
+Kurn	NOUN
+von'n	ADP
+Böhn	NOUN
+un	CCONJ
+dat	DET
+
+
+Veeh	NOUN
+ut'n	ADP
+Stall	NOUN
+verschludern	VERB
+.	PUNCT
+Nee	VERB
+,	PUNCT
+min	DET
+Söhn	NOUN
+,	PUNCT
+noch	ADV
+bin	AUX
+ick	PRON
+Herr	NOUN
+von'n	ADP
+
+
+Angerhof	VERB
+,	PUNCT
+un	CCONJ
+ick	PRON
+will't	AUX
+uck	VERB
+noch	ADV
+en	DET
+Beten	ADJ
+blieben	VERB
+.	PUNCT
+Frieg	VERB
+Di	PRON
+mintwegen	VERB
+
+
+dat	DET
+armste	ADJ
+Mäken	NOUN
+,	PUNCT
+wenn	SCONJ
+se	PRON
+man	ADV
+Character	VERB
+hett	AUX
+,	PUNCT
+öwerst	VERB
+kortröckig	NOUN
+möt	VERB
+
+
+se	PRON
+gan	VERB
+,	PUNCT
+plattdütsch	ADJ
+möt	NOUN
+se	PRON
+reden	VERB
+un	CCONJ
+de	DET
+Landwirthschaft	NOUN
+möt	VERB
+se	PRON
+verstahn	VERB
+,	PUNCT
+
+
+--	PUNCT
+denn	ADV
+will'ck	VERB
+mit	ADP
+Freuden	NOUN
+ja	ADJ
+seggen	VERB
+;	PUNCT
+doch	ADV
+keen	DET
+Stadtdam	NOUN
+sall	AUX
+mi	PRON
+hier	ADV
+
+
+in't	ADP
+Hus	NOUN
+,	PUNCT
+dabi	ADV
+blivt	VERB
+dat	PRON
+,	PUNCT
+so	ADV
+wahr	ADV
+ick	PRON
+Michel	NOUN
+Barko	NOUN
+heet	VERB
+.	PUNCT
+Denn	ADV
+ick	PRON
+
+
+weet	VERB
+,	PUNCT
+dat	PRON
+wär	AUX
+en	DET
+Unglück	NOUN
+för	VERB
+mi	PRON
+un	CCONJ
+noch	ADV
+mehr	ADV
+för	VERB
+Di	PRON
+,	PUNCT
+min	DET
+Söhn	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Lat	VERB
+Di	PRON
+reden	VERB
+,	PUNCT
+hör	VERB
+Din	DET
+ollen	ADJ
+Vatter	NOUN
+,	PUNCT
+he	PRON
+is	AUX
+man	ADV
+en	DET
+dummen	ADJ
+Buer	NOUN
+,	PUNCT
+
+
+--	PUNCT
+öwerst	VERB
+he	PRON
+kennt	VERB
+de	DET
+Welt	NOUN
+un	CCONJ
+meint	VERB
+dat	DET
+seker	NOUN
+good	ADV
+mit	ADP
+Di	PRON
+.	PUNCT
+Glöv	VERB
+,	PUNCT
+min	DET
+
+
+Söhn	VERB
+,	PUNCT
+unse	DET
+Wirthschaft	NOUN
+schmitt	VERB
+den	DET
+Putz	NOUN
+un	CCONJ
+de	DET
+langen	ADJ
+Schleppen	NOUN
+,	PUNCT
+wo	SCONJ
+
+
+se	PRON
+in	ADP
+de	DET
+Stadt	NOUN
+de	DET
+Strat	NOUN
+mit	ADP
+fegen	NOUN
+,	PUNCT
+nich	ADV
+af	ADP
+;	PUNCT
+mi	PRON
+wunnert	VERB
+dat	PRON
+Du	PRON
+sowat	VERB
+
+
+nich	ADV
+von	ADP
+sülben	NOUN
+bedenkst	VERB
+,	PUNCT
+bist	AUX
+Du	PRON
+denn	ADV
+ganz	ADV
+un	CCONJ
+gar	ADV
+vernagelt	VERB
+?	PUNCT
+Wo	SCONJ
+is	AUX
+
+
+denn	ADV
+Dine	VERB
+städt'sche	NOUN
+Klookheit	VERB
+un	CCONJ
+Gelehrsamkeit	VERB
+,	PUNCT
+dat	SCONJ
+Du	PRON
+sowat	VERB
+nich	ADV
+
+
+insehn	VERB
+kannst	AUX
+.	PUNCT
+Oewerst	VERB
+ick	PRON
+hebb	AUX
+Schuld	VERB
+,	PUNCT
+warüm	VERB
+wär	AUX
+ick	PRON
+so	ADV
+schwach	ADJ
+,	PUNCT
+
+
+--	PUNCT
+Din	DET
+selig	ADJ
+Mutter	NOUN
+den	DET
+Willen	NOUN
+to	ADP
+don	NOUN
+un	CCONJ
+Di	PRON
+in	ADP
+de	DET
+Stadt	NOUN
+uptrecken	VERB
+to	ADP
+
+
+laten	VERB
+.	PUNCT
+Wat	PRON
+is	AUX
+nu	ADV
+ut	ADP
+Di	PRON
+worden	AUX
+,	PUNCT
+en	DET
+Landschafts-	NOUN
+und	CCONJ
+Potretten-Maler	VERB
+.	PUNCT
+
+
+--	PUNCT
+Leever	VERB
+Gott	NOUN
+,	PUNCT
+dat	PRON
+kann	AUX
+ja	ADJ
+uck	NOUN
+ganz	ADV
+good	ADJ
+sind	AUX
+,	PUNCT
+ick	PRON
+glövt	VERB
+man	PRON
+nich	ADV
+.	PUNCT
+Dat	PRON
+
+
+wär	AUX
+mi	PRON
+uck	VERB
+ganz	ADV
+gliek	ADV
+,	PUNCT
+wenn	SCONJ
+Crischan	ADV
+man	ADV
+leevte	VERB
+,	PUNCT
+öwerst	VERB
+nu	ADV
+Din	DET
+
+
+Broder	NOUN
+storben	VERB
+,	PUNCT
+mußt	AUX
+Du	PRON
+doch	ADV
+den	DET
+Angerhof	NOUN
+annehmen	VERB
+,	PUNCT
+damit	ADV
+he	PRON
+nich	ADV
+
+
+in	ADP
+fremde	ADJ
+Händ	NOUN
+kümmt	VERB
+.	PUNCT
+Ick	PRON
+künn	AUX
+ja	ADJ
+nich	ADV
+ruhig	ADJ
+starven	NOUN
+,	PUNCT
+un	CCONJ
+Din	DET
+
+
+Mutter	NOUN
+würd	AUX
+sich	PRON
+in't	ADP
+Grav	NOUN
+ümkehren	VERB
+,	PUNCT
+wenn	SCONJ
+Du	PRON
+sowat	VERB
+angan	NOUN
+laten	VERB
+
+
+Fritz	PROPN
+.	PUNCT
+Seid	VERB
+Ihr	PRON
+zu	ADP
+Ende	PROPN
+,	PUNCT
+Vater	NOUN
+?	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+.	PUNCT
+Noch	ADV
+nich	ADV
+ganz	ADV
+.	PUNCT
+Ick	PRON
+wull	AUX
+Di	PRON
+man	ADV
+noch	ADV
+seggen	VERB
+,	PUNCT
+dat	PRON
+
+
+Du	PRON
+Di	PRON
+uck	VERB
+de	DET
+hochdütsche	ADJ
+Sprak	NOUN
+hier	ADV
+afgewöhnen	VERB
+un	CCONJ
+wedder	ADV
+ordentlich	ADV
+
+
+plattdütsch	ADJ
+reden	NOUN
+lehren	VERB
+mußt	AUX
+,	PUNCT
+sünst	ADV
+hebben	AUX
+de	DET
+Lüd	NOUN
+hier	ADV
+kenen	DET
+Respect	NOUN
+
+
+för	VERB
+Di	PRON
+,	PUNCT
+un	CCONJ
+denn	ADV
+hör	VERB
+min	DET
+letztes	ADJ
+Woort	NOUN
+,	PUNCT
+entweder	VERB
+Du	PRON
+letst	VERB
+Din	DET
+Brut	NOUN
+,	PUNCT
+
+
+--	PUNCT
+oder	CCONJ
+Du	PRON
+letst	VERB
+Din	DET
+Vatter	NOUN
+un	CCONJ
+de	DET
+Wirthschaft	NOUN
+.	PUNCT
+will	AUX
+ab	X
+
+
+Fritz	PROPN
+seine	X
+Hand	NOUN
+ergreifend	VERB
+:	PUNCT
+Vater	NOUN
+,	PUNCT
+guter	VERB
+Vater	NOUN
+!	PUNCT
+bleibt	VERB
+und	CCONJ
+hört	VERB
+mich	X
+
+
+an	ADP
+,	PUNCT
+weshalb	NOUN
+seid	VERB
+Ihr	PRON
+denn	ADV
+so	ADV
+hart	ADJ
+gegen	ADP
+mich	X
+;	PUNCT
+aus	ADP
+Liebe	NOUN
+zu	ADP
+Euch	PRON
+habe	X
+
+
+ich	PRON
+meine	DET
+Studien	NOUN
+aufgegeben	VERB
+und	CCONJ
+bin	AUX
+zurückgekehrt	VERB
+.	PUNCT
+Wer	PRON
+sagt	VERB
+,	PUNCT
+daß	X
+
+
+meine	DET
+Bildung	NOUN
+,	PUNCT
+die	PRON
+ich	PRON
+doch	ADV
+nicht	ADV
+verschuldet	VERB
+,	PUNCT
+mir	X
+hinderlich	NOUN
+sei	VERB
+,	PUNCT
+ein	X
+
+
+tüchtiger	NOUN
+Landwirth	VERB
+zu	ADP
+werden	AUX
+,	PUNCT
+zumal	VERB
+Ihr	PRON
+noch	ADV
+rüstig	ADJ
+genug	NOUN
+seid	VERB
+,	PUNCT
+um	ADP
+
+
+mit	ADP
+Rath	VERB
+und	CCONJ
+That	X
+mir	X
+beizustehen	NOUN
+.	PUNCT
+Im	ADP
+Gegentheil	NOUN
+,	PUNCT
+ich	PRON
+habe	X
+mir	X
+
+
+theoretische	NOUN
+Kenntnisse	VERB
+,	PUNCT
+von	ADP
+denen	NOUN
+Ihr	DET
+freilich	NOUN
+nichts	ADV
+hören	VERB
+wollt	VERB
+,	PUNCT
+auch	X
+
+
+in	ADP
+der	DET
+Landwirthschaft	NOUN
+erworben	VERB
+,	PUNCT
+und	CCONJ
+mit	ADP
+Gottes	NOUN
+Hilfe	NOUN
+hoffe	VERB
+ich	PRON
+sehr	ADV
+
+
+bald	ADV
+den	DET
+Angerhof	NOUN
+verbessern	VERB
+und	CCONJ
+vergrößern	NOUN
+zu	ADP
+können	AUX
+.	PUNCT
+Ich	PRON
+werde	AUX
+
+
+nicht	ADV
+spazieren	ADJ
+fahren	NOUN
+und	CCONJ
+Visiten	NOUN
+geben	VERB
+;	PUNCT
+ich	PRON
+werde	AUX
+arbeiten	VERB
+,	PUNCT
+arbeiten	VERB
+
+
+wie	PRON
+Ihr	PRON
+es	X
+gethan	NOUN
+,	PUNCT
+doch	ADV
+nicht	ADV
+mit	ADP
+den	DET
+Händen	NOUN
+allein	VERB
+,	PUNCT
+auch	ADV
+mit	ADP
+dem	DET
+
+
+Kopfe	VERB
+,	PUNCT
+und	CCONJ
+schon	ADV
+in	ADP
+wenig	DET
+Jahren	NOUN
+hoffe	VERB
+ich	PRON
+Euch	PRON
+zu	ADP
+beweisen	NOUN
+,	PUNCT
+daß	CCONJ
+unser	DET
+
+
+Acker	NOUN
+zweimal	VERB
+so	ADV
+viel	X
+wie	PRON
+heute	ADV
+zu	ADP
+liefern	NOUN
+im	ADP
+Stande	NOUN
+ist	AUX
+.	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+.	PUNCT
+Ja	ADJ
+woll	ADV
+,	PUNCT
+ja	ADJ
+woll	ADV
+!	PUNCT
+de	DET
+Eier	NOUN
+sind	AUX
+all	ADV
+immer	ADV
+klöker	ADJ
+as	CCONJ
+de	DET
+
+
+Höhner	NOUN
+west	AUX
+.	PUNCT
+Du	PRON
+warst	VERB
+woll	ADV
+noch	ADV
+ut	ADP
+de	DET
+Stoppeln	NOUN
+Schwebelsticken	VERB
+
+
+maken	VERB
+.	PUNCT
+Wahrscheinlich	VERB
+is	AUX
+Din	DET
+vehrnehme	ADJ
+Brut	NOUN
+ebenso	ADV
+klook	ADJ
+,	PUNCT
+un	CCONJ
+treckt	VERB
+
+
+uck	NOUN
+noch	ADV
+von	ADP
+de	DET
+Ossen	NOUN
+Melk	VERB
+un	CCONJ
+Botter	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Fritz	PROPN
+.	PUNCT
+Vater	NOUN
+,	PUNCT
+ich	PRON
+bitte	VERB
+Euch	PRON
+,	PUNCT
+Ihr	PRON
+kennt	VERB
+Röschen	NOUN
+nicht	ADV
+,	PUNCT
+warum	VERB
+
+
+wollt	VERB
+Ihr	PRON
+ein	DET
+tüchtiges	NOUN
+und	CCONJ
+braves	ADJ
+Mädchen	NOUN
+schmähen	VERB
+,	PUNCT
+die	PRON
+Ihr	PRON
+nie	ADV
+
+
+Barko	VERB
+.	PUNCT
+Wat	PRON
+,	PUNCT
+ick	PRON
+kenn	VERB
+se	PRON
+nich	ADV
+?	PUNCT
+Dat	DET
+stimmt	NOUN
+,	PUNCT
+ick	PRON
+hebb	AUX
+se	PRON
+noch	ADV
+
+
+nich	ADV
+sehen	VERB
+,	PUNCT
+will	AUX
+se	PRON
+uck	VERB
+nich	ADV
+sehen	VERB
+.	PUNCT
+Oewerst	VERB
+sall	AUX
+ick	PRON
+se	PRON
+Di	PRON
+beschrieven	VERB
+,	PUNCT
+
+
+--	PUNCT
+ganz	ADV
+genau	ADV
+beschrieven	VERB
+?	PUNCT
+Paß	NOUN
+up	ADP
+,	PUNCT
+ick	PRON
+fang	VERB
+von	ADP
+baben	ADV
+an	ADP
+:	PUNCT
+Up'n	ADP
+Kopp	NOUN
+
+
+vull	ADV
+luter	ADJ
+falsche	NOUN
+Flechten	VERB
+sitt	NOUN
+en	DET
+Ding	NOUN
+von	ADP
+Bloomen	NOUN
+un	CCONJ
+Band	NOUN
+tohoop	VERB
+
+
+geprünt	VERB
+,	PUNCT
+wat	PRON
+en	DET
+Hoot	NOUN
+sind	AUX
+sall	AUX
+,	PUNCT
+wat	PRON
+öwerst	VERB
+nich	ADV
+behöden	VERB
+deit	AUX
+,	PUNCT
+nich	ADV
+vör	ADP
+
+
+Regen	NOUN
+nich	ADV
+vör	ADP
+Sünnenschien	NOUN
+.	PUNCT
+Denn	ADV
+kümmt	VERB
+en	DET
+Gesicht	NOUN
+so	ADV
+krankhaft	VERB
+
+
+bleek	VERB
+,	PUNCT
+dat	PRON
+man	ADV
+nich	ADV
+erst	ADV
+fragen	VERB
+brukt	VERB
+,	PUNCT
+ob	SCONJ
+son	DET
+Frölen	NOUN
+in	ADP
+de	DET
+Stadt	NOUN
+,	PUNCT
+oder	CCONJ
+
+
+in	ADP
+de	DET
+frische	ADJ
+gesunde	NOUN
+Landlust	VERB
+groot	ADV
+is	AUX
+worden	AUX
+.	PUNCT
+Ach	VERB
+un	CCONJ
+denn	ADV
+de	DET
+
+
+Kledaschen	NOUN
+von	ADP
+son	DET
+Püppke	NOUN
+:	PUNCT
+Föftig	NUM
+Ellen	NOUN
+Spinnweben-Tüg	VERB
+warrn	NOUN
+to	ADP
+
+
+luter	ADJ
+Zippels	NOUN
+schneden	VERB
+,	PUNCT
+wedder	ADV
+tohoop	ADJ
+geflickt	NOUN
+un	CCONJ
+mit	ADP
+wenigstens	NOUN
+noch	ADV
+
+
+föftig	NUM
+Ellen	NOUN
+Kram	VERB
+von	ADP
+en	DET
+anner	ADJ
+Farf	NOUN
+beprünt	VERB
+un	CCONJ
+besett't	VERB
+,	PUNCT
+achter	VERB
+'n	DET
+
+
+grooten	ADJ
+Sattel	NOUN
+un	CCONJ
+'ne	DET
+Schlepp	NOUN
+,	PUNCT
+de	DET
+Strat	NOUN
+to	ADP
+fegen	NOUN
+,	PUNCT
+dat	PRON
+neñ'n	VERB
+se	PRON
+en	DET
+
+
+Kleed	VERB
+.	PUNCT
+De	DET
+Föt	NOUN
+sind	AUX
+ingepreßt	VERB
+in	ADP
+Puppenschoh	NOUN
+,	PUNCT
+so	ADV
+eng	VERB
+un	CCONJ
+dünn	VERB
+,	PUNCT
+dat	PRON
+
+
+se	PRON
+natte	ADJ
+Föt	NOUN
+kriegt	VERB
+,	PUNCT
+wenn	SCONJ
+tofällig	VERB
+Ener	PRON
+in	ADP
+de	DET
+Stuv	NOUN
+hett	AUX
+spuckt	VERB
+.	PUNCT
+Herr	NOUN
+
+
+Du	PRON
+meines	NOUN
+Lebens	VERB
+,	PUNCT
+wenn	SCONJ
+ick	PRON
+bedenk	VERB
+,	PUNCT
+dat	PRON
+so	ADV
+en	DET
+upgeputztes	ADJ
+Ding	NOUN
+hier	ADV
+
+
+in	ADP
+Hus	NOUN
+un	CCONJ
+Hof	NOUN
+un	CCONJ
+Stall	NOUN
+na	ADP
+Ordnung	NOUN
+sehen	VERB
+süll	AUX
+,	PUNCT
+denn	ADV
+kümmt	VERB
+mi	PRON
+dat	DET
+
+
+doch	ADV
+grad	VERB
+so	ADV
+vör	ADP
+,	PUNCT
+as	CCONJ
+wenn	SCONJ
+de	DET
+Köster	NOUN
+in	ADP
+sin'n	NOUN
+Sünndagsstaat	VERB
+wull	AUX
+
+
+Ossen	NOUN
+schlachten	VERB
+.	PUNCT
+Du	PRON
+wist	AUX
+mi	PRON
+inreden	VERB
+,	PUNCT
+ut	ADP
+Leev	NOUN
+to	ADP
+mi	PRON
+bist	AUX
+Du	PRON
+torüg	VERB
+
+
+--	PUNCT
+kamen	VERB
+?	PUNCT
+Nee	VERB
+,	PUNCT
+min	DET
+Söhn	NOUN
+,	PUNCT
+ick	PRON
+weet	VERB
+dat	DET
+beter	ADJ
+.	PUNCT
+Du	PRON
+kannst	AUX
+mit	ADP
+Dine	VERB
+
+
+Pinselie	VERB
+Di	PRON
+nich	ADV
+sülben	VERB
+,	PUNCT
+vel	ADV
+weniger	VERB
+noch	ADV
+Fru	NOUN
+un	CCONJ
+Kinner	NOUN
+ernähren	VERB
+,	PUNCT
+
+
+--	PUNCT
+darüm	ADV
+wist	AUX
+Du	PRON
+Di	PRON
+hier	ADV
+bi	ADP
+den	DET
+Ollen	ADJ
+in't	ADP
+warme	ADJ
+Nest	NOUN
+setten	VERB
+.	PUNCT
+
+
+--	PUNCT
+Fritz	PROPN
+.	PUNCT
+Vater	NOUN
+ich	PRON
+bitte	VERB
+-	PUNCT
+--	PUNCT
+Barko	VERB
+.	PUNCT
+Still	ADV
+!	PUNCT
+Ick	PRON
+hebb	AUX
+niks	NOUN
+dagegen	VERB
+,	PUNCT
+bliev	VERB
+Du	PRON
+hier	ADV
+,	PUNCT
+un	CCONJ
+war	AUX
+
+
+en	DET
+düchtigen	NOUN
+Landwirth	VERB
+,	PUNCT
+öwerst	VERB
+mit	ADP
+Din	DET
+Heirathsplan	NOUN
+un	CCONJ
+Din	DET
+ganzen	ADJ
+
+
+hochdütschen	NOUN
+Kram	VERB
+sast	AUX
+Du	PRON
+mi	PRON
+verschonen	VERB
+,	PUNCT
+sünst	ADV
+gehst	VERB
+Du	PRON
+hen	ADV
+,	PUNCT
+wo	SCONJ
+Du	PRON
+
+
+her	ADV
+bist	AUX
+kamen	VERB
+und	CCONJ
+dat	PRON
+gliek	ADV
+!	PUNCT
+
+
+--	PUNCT
+Fritz	PROPN
+.	PUNCT
+Vater	NOUN
+!	PUNCT
+Ihr	DET
+zeigt	NOUN
+mir	X
+die	PRON
+Thür	VERB
+?	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+.	PUNCT
+Di	PRON
+nich	ADV
+öwerst	NOUN
+Dine	VERB
+hochdütsche	ADJ
+Fründschaft	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Fritz	PROPN
+.	PUNCT
+Vater	NOUN
+,	PUNCT
+ich	PRON
+will	AUX
+Alles	PRON
+thun	X
+,	PUNCT
+was	AUX
+Ihr	DET
+verlangt	NOUN
+,	PUNCT
+werde	AUX
+ja	ADJ
+
+
+auch	X
+unsere	ADJ
+plattdeutsche	NOUN
+Sprache	VERB
+wieder	ADV
+sprechen	VERB
+lernen	VERB
+,	PUNCT
+wenn	SCONJ
+es	X
+mir	X
+
+
+Anfangs	VERB
+auch	X
+schwer	ADJ
+werden	AUX
+dürfte	VERB
+,	PUNCT
+doch	ADV
+von	ADP
+Nöschen	NOUN
+kann	AUX
+und	CCONJ
+werde	AUX
+
+
+ich	PRON
+nimmer	NOUN
+lassen	VERB
+.	PUNCT
+O	PROPN
+verdammt	VERB
+sie	PRON
+nicht	ADV
+,	PUNCT
+ehe	VERB
+Ihr	PRON
+sie	PRON
+gesehen	VERB
+,	PUNCT
+lernt	VERB
+
+
+sie	PRON
+erst	ADV
+kennen	VERB
+,	PUNCT
+sie	PRON
+ist	AUX
+kein	DET
+verwöhntes	NOUN
+eitles	VERB
+Ding	NOUN
+,	PUNCT
+sondern	VERB
+ein	DET
+wohler	NOUN
+
+
+--	PUNCT
+zogenes	VERB
+,	PUNCT
+braves	NOUN
+Mädchen	VERB
+,	PUNCT
+von	ADP
+Kindheit	NOUN
+an	ADP
+Arbeit	NOUN
+gewöhnt	VERB
+,	PUNCT
+fleißig	VERB
+und	CCONJ
+
+
+geschickt	VERB
+,	PUNCT
+so	ADV
+daß	X
+sie	PRON
+wohl	ADV
+eine	DET
+Wirthschaft	NOUN
+zu	ADP
+führen	NOUN
+weiß	PROPN
+und	CCONJ
+sich	PRON
+auch	X
+
+
+hier	ADV
+sehr	ADV
+bald	ADV
+zurechtfinden	ADJ
+würde	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Barko	NOUN
+eifrig	VERB
+.	PUNCT
+Hier	ADV
+nich	ADV
+!	PUNCT
+hiet	VERB
+nich	ADV
+!	PUNCT
+
+
+--	PUNCT
+Fritz	PROPN
+kniet	VERB
+.	PUNCT
+Vater	NOUN
+,	PUNCT
+seid	VERB
+nicht	ADV
+so	ADV
+hart	ADJ
+,	PUNCT
+auf	ADP
+meinen	X
+Knieen	NOUN
+be	VERB
+
+
+--	PUNCT
+schwöre	VERB
+ich	PRON
+Euch	VERB
+;	PUNCT
+ich	PRON
+kann	AUX
+von	ADP
+Röschen	NOUN
+nicht	ADV
+lassen	VERB
+,	PUNCT
+eher	ADV
+lasse	VERB
+ich	PRON
+
+
+mein	X
+Leben	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Vorige	VERB
+.	PUNCT
+Hans	PROPN
+.	PUNCT
+Fritz	PROPN
+springt	VERB
+auf	ADP
+,	PUNCT
+so	ADV
+wie	PRON
+Haus	PROPN
+eintritt	VERB
+.	PUNCT
+
+
+--	PUNCT
+Hans	PROPN
+.	PUNCT
+Herr	NOUN
+,	PUNCT
+dat	PRON
+süht	VERB
+na	ADP
+Regen	NOUN
+ut	ADP
+,	PUNCT
+will'n	AUX
+wie	PRON
+nich	ADV
+hüt	ADV
+noch	ADV
+
+
+inföhrn	VERB
+?	PUNCT
+zu	ADP
+Fritz	PROPN
+wöttisch	VERB
+:	PUNCT
+Jung	NOUN
+Herr	NOUN
+,	PUNCT
+Se	PRON
+hebben	AUX
+sich	PRON
+de	DET
+schönen	ADJ
+Büksen	NOUN
+
+
+schmutzig	NOUN
+makt	VERB
+.	PUNCT
+(	PUNCT
+Klopft	NOUN
+ungeschickt	VERB
+auf	ADP
+Fritzens	NOUN
+Knie	VERB
+,	PUNCT
+sich	PRON
+stellend	VERB
+,	PUNCT
+als	CCONJ
+wolle	VERB
+er	PRON
+den	DET
+Staub	NOUN
+ab	X
+
+
+--	PUNCT
+klopfen	VERB
+.	PUNCT
+)	PUNCT
+Se	PRON
+willn	VERB
+sich	PRON
+woll	ADV
+de	DET
+Stäwel	NOUN
+schonen	VERB
+,	PUNCT
+dat	SCONJ
+Se	PRON
+up	ADP
+de	DET
+Knee	NOUN
+
+
+Fritz	PROPN
+(	PUNCT
+zurücktretend	VERB
+,	PUNCT
+empfindlich	VERB
+)	PUNCT
+.	PUNCT
+Kümmere	VERB
+Dich	PRON
+um	ADP
+Deine	DET
+Sachen	NOUN
+,	PUNCT
+Du	PRON
+
+
+falscher	NOUN
+Renard	VERB
+und	CCONJ
+incommodire	VERB
+mich	X
+nicht	ADV
+.	PUNCT
+
+
+--	PUNCT
+Hans	PROPN
+.	PUNCT
+Wa-at	VERB
+?	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+(	PUNCT
+ärgerlich	ADJ
+)	PUNCT
+.	PUNCT
+Du	PRON
+sast	AUX
+anspannen	VERB
+un	CCONJ
+Allens	ADV
+fahrig	NOUN
+maken	VERB
+,	PUNCT
+ick	PRON
+
+
+bin	AUX
+gliek	ADV
+buten	ADV
+.	PUNCT
+
+
+--	PUNCT
+Hans	PROPN
+.	PUNCT
+Na	ADP
+dat	PRON
+is	AUX
+doch	ADV
+dütsch	ADJ
+,	PUNCT
+dat	DET
+kann'n	NOUN
+doch	ADV
+verstahn	VERB
+.	PUNCT
+(	PUNCT
+Ab	X
+.	PUNCT
+)	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+(	PUNCT
+nachrufend	VERB
+)	PUNCT
+.	PUNCT
+Nimm	ADP
+min	DET
+Flint	NOUN
+uck	VERB
+mit	ADP
+,	PUNCT
+wie	PRON
+möten	NOUN
+versöken	VERB
+,	PUNCT
+
+
+--	PUNCT
+de	DET
+Spatzen	NOUN
+ut	ADP
+de	DET
+Kirschenallee	NOUN
+to	ADP
+drieven	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Haus	PROPN
+(	PUNCT
+braußen	VERB
+)	PUNCT
+.	PUNCT
+Schön	ADV
+,	PUNCT
+ick	PRON
+war	AUX
+Alles	PRON
+besorgen	VERB
+.	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+.	PUNCT
+Fritz	PROPN
+.	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+.	PUNCT
+Warüm	NOUN
+fahrst	VERB
+Du	PRON
+den	DET
+Haus	PROPN
+so	ADV
+an	ADP
+,	PUNCT
+he	PRON
+wull	AUX
+Di	PRON
+doch	ADV
+
+
+blot	NOUN
+gefällig	VERB
+sind	AUX
+?	PUNCT
+
+
+--	PUNCT
+Fritz	PROPN
+.	PUNCT
+Der	DET
+gefällig	NOUN
+?	PUNCT
+das	PRON
+ist	AUX
+der	DET
+Einzige	NOUN
+von	ADP
+Deinen	ADJ
+Leuten	NOUN
+den	DET
+
+
+ich	PRON
+nicht	ADV
+leiden	VERB
+kann	AUX
+.	PUNCT
+Ich	PRON
+möchte	NOUN
+wetten	VERB
+,	PUNCT
+der	DET
+Mensch	NOUN
+hat	AUX
+kein	DET
+gut	NOUN
+
+
+Gewissen	NOUN
+,	PUNCT
+auch	X
+riecht	VERB
+er	PRON
+stets	ADV
+nach	X
+Schnaps	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+.	PUNCT
+Dat	PRON
+hebb	AUX
+ick	PRON
+noch	ADV
+nich	ADV
+spührt	VERB
+,	PUNCT
+Du	PRON
+bist	AUX
+man	ADV
+immer	ADV
+en	DET
+
+
+Beten	ADJ
+vorilig	NOUN
+mit	ADP
+Din	DET
+Ansichten	NOUN
+,	PUNCT
+Hans	PROPN
+is	AUX
+noch	ADV
+immer	ADV
+toverlässig	VERB
+west	AUX
+.	PUNCT
+
+
+--	PUNCT
+(	PUNCT
+Nimmt	VERB
+Stock	NOUN
+und	CCONJ
+Mütze	VERB
+.	PUNCT
+)	PUNCT
+Doch	ADV
+nu	ADV
+schriev	VERB
+mi	PRON
+de	DET
+Breef	NOUN
+,	PUNCT
+un	CCONJ
+mak	VERB
+mi	PRON
+nich	ADV
+
+
+wedder	ADV
+son	DET
+Puppenspill	NOUN
+,	PUNCT
+dat	PRON
+paßt	VERB
+nich	ADV
+up'u	ADJ
+Land	NOUN
+,	PUNCT
+wie	PRON
+liggen	VERB
+hier	ADV
+
+
+höchstens	NOUN
+up	ADP
+de	DET
+Knee	NOUN
+,	PUNCT
+wenn	SCONJ
+wie	PRON
+mit	ADP
+unsen	DET
+Herrgott	NOUN
+reden	VERB
+.	PUNCT
+Du	PRON
+makst	VERB
+
+
+Di	PRON
+lächerlich	ADJ
+vör	ADP
+de	DET
+Lüd	NOUN
+.	PUNCT
+-	PUNCT
+Im	ADP
+Oewrigen	NOUN
+wetst	VERB
+Du	PRON
+nu	ADV
+min	DET
+Meinung	NOUN
+,	PUNCT
+
+
+--	PUNCT
+dabi	ADV
+blivt	VERB
+dat	PRON
+.	PUNCT
+Ick	PRON
+föhr	VERB
+jitzt	ADV
+in't	ADP
+Feld	NOUN
+,	PUNCT
+nu	ADV
+besinn	VERB
+Di	PRON
+,	PUNCT
+un	CCONJ
+wes	NOUN
+ver	ADP
+
+
+--	PUNCT
+nünftig	VERB
+.	PUNCT
+(	PUNCT
+A	PROPN
+.	PUNCT
+)	PUNCT
+
+
+--	PUNCT
+Fritz	PROPN
+allein	VERB
+.	PUNCT
+
+
+--	PUNCT
+Fritz	PROPN
+.	PUNCT
+So	ADV
+ist	AUX
+denn	ADV
+Alles	PRON
+,	PUNCT
+Alles	PRON
+vergebens	VERB
+.	PUNCT
+Nie	ADV
+wird	X
+es	X
+mir	X
+gelingen	NOUN
+,	PUNCT
+
+
+--	PUNCT
+dies	DET
+harte	ADJ
+Herz	NOUN
+zu	ADP
+rühren	NOUN
+.	PUNCT
+Es	X
+ist	AUX
+wahr	ADV
+,	PUNCT
+ich	PRON
+mache	VERB
+mich	X
+lächerlich	ADJ
+den	DET
+
+
+Leuten	NOUN
+gegenüber	VERB
+,	PUNCT
+die	PRON
+ich	PRON
+nicht	ADV
+,	PUNCT
+die	PRON
+mich	X
+nicht	ADV
+verstehn	VERB
+.	PUNCT
+O	ADP
+meine	DET
+gute	NOUN
+
+
+Mutter	NOUN
+,	PUNCT
+Deine	DET
+wohlgemeinte	NOUN
+Fürsorge	VERB
+macht	AUX
+mich	X
+jetzt	ADV
+namenlos	ADJ
+elend	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Mußte	VERB
+ich	PRON
+deshalb	VERB
+schon	ADV
+in	ADP
+früh'ster	NOUN
+Jugend	VERB
+zur	ADP
+Stadt	NOUN
+,	PUNCT
+um	ADP
+dem	DET
+Eltern	NOUN
+
+
+--	PUNCT
+hause	VERB
+,	PUNCT
+dem	DET
+Vaterherzen	NOUN
+völlig	ADJ
+entfremdet	NOUN
+zu	ADP
+werden	AUX
+.	PUNCT
+(	PUNCT
+Draußen	NOUN
+schnell	VERB
+
+
+verhallendes	NOUN
+Geräusch	VERB
+von	ADP
+Wagen	NOUN
+,	PUNCT
+Peitschenknall	VERB
+und	CCONJ
+Gesang	NOUN
+.	PUNCT
+)	PUNCT
+(	PUNCT
+Fritz	PROPN
+geht	VERB
+zum	X
+Fenster	NOUN
+.	PUNCT
+)	PUNCT
+
+
+--	PUNCT
+Da	ADV
+fahren	VERB
+sie	PRON
+hin	VERB
+,	PUNCT
+die	PRON
+glücklichen	NOUN
+Menschen	VERB
+,	PUNCT
+die	PRON
+bei	X
+schwerer	ADJ
+Arbeit	NOUN
+so	ADV
+
+
+heiter	NOUN
+und	CCONJ
+zufrieden	VERB
+.	PUNCT
+Auch	X
+der	DET
+Vater	NOUN
+fährt	VERB
+mit	ADP
+ihnen	X
+,	PUNCT
+weshalb	VERB
+nur	ADV
+läßt	VERB
+
+
+er	PRON
+mich	X
+allein	PROPN
+zurück	X
+,	PUNCT
+wo	SCONJ
+Alles	PRON
+hinaus	NOUN
+eilt	VERB
+,	PUNCT
+dem	DET
+drohenden	NOUN
+Regen	VERB
+die	PRON
+Beute	VERB
+
+
+zu	ADP
+entreißen	NOUN
+.	PUNCT
+Scheine	VERB
+ich	PRON
+Ihm	VERB
+zu	ADP
+schwächlich	NOUN
+,	PUNCT
+um	ADP
+mit	ADP
+seinen	ADJ
+Leuten	NOUN
+wett	VERB
+
+
+--	PUNCT
+eifern	VERB
+zu	ADP
+können	AUX
+?	PUNCT
+O	ADP
+nein	PROPN
+,	PUNCT
+das	PRON
+glaube	VERB
+ich	PRON
+nicht	ADV
+,	PUNCT
+nur	ADV
+Geschick	VERB
+,	PUNCT
+nicht	ADV
+
+
+Kraft	NOUN
+möchte	VERB
+mir	X
+dazu	NOUN
+fehlen	VERB
+.	PUNCT
+Es	X
+gehört	VERB
+eben	ADV
+Uebung	VERB
+auch	ADV
+zur	ADP
+ein	DET
+
+
+--	PUNCT
+fachsten	VERB
+Sache	NOUN
+.	PUNCT
+Er	DET
+fürchtet	NOUN
+,	PUNCT
+daß	CCONJ
+ich	PRON
+mich	X
+wieder	ADV
+lächerlich	ADJ
+mache	NOUN
+;	PUNCT
+ich	PRON
+
+
+passe	NOUN
+eben	ADV
+nach	X
+seiner	X
+Ansicht	NOUN
+nicht	ADV
+zur	ADP
+Landwirthschaft	NOUN
+.	PUNCT
+Nun	ADV
+wohl	ADV
+!	PUNCT
+
+
+--	PUNCT
+So	ADV
+soll	AUX
+die	PRON
+Kunst	VERB
+,	PUNCT
+die	PRON
+edle	VERB
+Kunst	NOUN
+allein	VERB
+mir	X
+bleiben	NOUN
+,	PUNCT
+wenn	SCONJ
+beides	NOUN
+zu	ADP
+
+
+vereinen	VERB
+mir	X
+nicht	ADV
+gestattet	VERB
+ist	AUX
+.	PUNCT
+(	PUNCT
+Steht	VERB
+vom	ADP
+Fenster	NOUN
+abgewendet	VERB
+diesem	DET
+den	DET
+Rücken	NOUN
+zu	ADP
+
+
+--	PUNCT
+kehrend	VERB
+.	PUNCT
+)	PUNCT
+Ich	PRON
+will	AUX
+fort	ADV
+,	PUNCT
+fort	ADV
+von	ADP
+hier	ADV
+,	PUNCT
+wo	SCONJ
+ich	PRON
+fern	ADV
+vom	ADP
+Strudel	NOUN
+der	DET
+Welt	NOUN
+
+
+in	ADP
+stiller	NOUN
+Zurückgezogenheit	VERB
+,	PUNCT
+mein	X
+häusliches	ADJ
+Glück	NOUN
+zu	ADP
+gründen	NOUN
+gehofft	VERB
+,	PUNCT
+
+
+--	PUNCT
+um	ADP
+ungestört	NOUN
+ganz	ADV
+meiner	ADJ
+Liebe	NOUN
+und	CCONJ
+der	DET
+Kunst	NOUN
+leben	NOUN
+zu	ADP
+können	AUX
+.	PUNCT
+
+
+--	PUNCT
+Es	X
+ist	AUX
+vorbei	VERB
+.	PUNCT
+Ich	PRON
+bin	AUX
+enttäuscht	VERB
+.	PUNCT
+O	PROPN
+mein	X
+gutes	NOUN
+Röschen	VERB
+,	PUNCT
+wie	PRON
+nahe	VERB
+
+
+glaubte	VERB
+ich	PRON
+dem	DET
+Ziele	NOUN
+uns'rer	VERB
+Wünsche	NOUN
+zu	ADP
+sein	X
+und	CCONJ
+jetzt	ADV
+.	PUNCT
+-	PUNCT
+(	PUNCT
+Man	ADV
+hört	VERB
+
+
+einen	X
+Wagen	NOUN
+,	PUNCT
+gleich	ADV
+darauf	ADJ
+dumpfen	NOUN
+Donner	VERB
+.	PUNCT
+)	PUNCT
+Horch	VERB
+,	PUNCT
+ein	DET
+Wagen	NOUN
+.	PUNCT
+-	PUNCT
+Sollte	VERB
+
+
+der	DET
+Vater	NOUN
+zurückkehren	VERB
+?	PUNCT
+(	PUNCT
+geht	VERB
+zum	X
+Fenster	NOUN
+)	PUNCT
+(	PUNCT
+es	X
+donnert	NOUN
+.	PUNCT
+)	PUNCT
+Nein	PROPN
+,	PUNCT
+ich	PRON
+täuschte	VERB
+
+
+mich	X
+,	PUNCT
+es	X
+donnert	NOUN
+,	PUNCT
+ein	X
+Gewitter	ADJ
+steigt	NOUN
+herauf	VERB
+.	PUNCT
+Gott	NOUN
+gebe	VERB
+,	PUNCT
+daß	X
+es	X
+ohne	SCONJ
+
+
+starken	ADJ
+Regen	NOUN
+abgeht	VERB
+und	CCONJ
+der	DET
+reiche	NOUN
+Einschnitt	VERB
+dem	DET
+Vater	NOUN
+nicht	ADV
+verderbe	VERB
+.	PUNCT
+
+
+--	PUNCT
+Wie	PRON
+herrlich	ADJ
+stand	NOUN
+das	DET
+Korn	NOUN
+.	PUNCT
+Wohl	ADV
+war	AUX
+es	X
+eine	X
+Lust	NOUN
+zu	ADP
+sehen	VERB
+,	PUNCT
+wenn	SCONJ
+
+
+die	PRON
+vollen	NOUN
+Aehren	VERB
+,	PUNCT
+vom	ADP
+Winde	ADJ
+leicht	NOUN
+bewegt	VERB
+,	PUNCT
+ein	DET
+Wellenmeer	NOUN
+zu	ADP
+bilden	NOUN
+
+
+schienen	VERB
+.	PUNCT
+(	PUNCT
+Blitz	VERB
+und	CCONJ
+Donner	VERB
+.	PUNCT
+)	PUNCT
+
+
+--	PUNCT
+Fritz	PROPN
+.	PUNCT
+Rosa	VERB
+.	PUNCT
+
+
+--	PUNCT
+Letztere	VERB
+ist	AUX
+leise	ADJ
+eingetreten	NOUN
+und	CCONJ
+lauschend	NOUN
+hinter	VERB
+dem	DET
+Thürvorhang	NOUN
+geblieben	VERB
+.	PUNCT
+
+
+--	PUNCT
+Fritz	PROPN
+(	PUNCT
+Rosa	VERB
+nicht	ADV
+bemerkend	VERB
+)	PUNCT
+.	PUNCT
+O	ADP
+Röschen	NOUN
+hatte	VERB
+Recht	ADV
+,	PUNCT
+wohl	ADV
+ist	AUX
+es	X
+schön	ADJ
+
+
+hier	ADV
+auf	ADP
+dem	DET
+Lande	NOUN
+,	PUNCT
+doch	ADV
+leider	ADV
+nicht	ADV
+für	ADP
+mich	X
+.	PUNCT
+Der	DET
+Starrsinn	NOUN
+meines	VERB
+
+
+Vaters	NOUN
+vernichtet	VERB
+alle	PRON
+meine	DET
+Hoffnungen	NOUN
+und	CCONJ
+Pläne	NOUN
+für	ADP
+die	PRON
+Zukunft	VERB
+.	PUNCT
+-	PUNCT
+--	PUNCT
+Wie	PRON
+werde	AUX
+ich	PRON
+es	X
+über's	ADJ
+Herz	NOUN
+bringen	VERB
+,	PUNCT
+meinem	DET
+Röschen	NOUN
+die	PRON
+harte	ADJ
+
+
+Antwort	VERB
+des	DET
+Vaters	NOUN
+mitzutheilen	VERB
+.	PUNCT
+Doch	ADV
+Muth	VERB
+.	PUNCT
+-	PUNCT
+Ich	PRON
+will	AUX
+und	CCONJ
+werde	AUX
+
+
+mein	X
+Ziel	NOUN
+auch	ADV
+ohne	SCONJ
+den	DET
+Vater	NOUN
+erreichen	VERB
+,	PUNCT
+noch	ADV
+habe	X
+ich	PRON
+Kraft	NOUN
+mit	ADP
+dem	DET
+
+
+Schicksal	NOUN
+zu	ADP
+kämpfen	NOUN
+und	CCONJ
+mir	X
+selbst	PRON
+den	DET
+eignen	NOUN
+Herd	VERB
+zu	ADP
+gründen	NOUN
+,	PUNCT
+die	PRON
+
+
+Liebe	VERB
+wird	X
+mich	X
+begeistern	NOUN
+,	PUNCT
+daß	CCONJ
+die	PRON
+Kunst	AUX
+mich	X
+erhebe	NOUN
+.	PUNCT
+(	PUNCT
+Blitz	NOUN
+u	VERB
+.	PUNCT
+Donner	VERB
+.	PUNCT
+)	PUNCT
+
+
+--	PUNCT
+Sofort	ADV
+werde	AUX
+ich	PRON
+meine	DET
+Sachen	NOUN
+ord'nen	VERB
+,	PUNCT
+dem	DET
+Vater	NOUN
+meinen	X
+Entschluß	NOUN
+
+
+mittheilen	VERB
+,	PUNCT
+das	DET
+Grab	NOUN
+meiner	VERB
+guten	ADJ
+Mutter	NOUN
+noch	ADV
+einmal	ADJ
+besuchen	NOUN
+und	CCONJ
+
+
+dann	ADV
+-	PUNCT
+Ade	VERB
+Du	PRON
+trautes	NOUN
+Häuschen	VERB
+,	PUNCT
+ade	VERB
+!	PUNCT
+(	PUNCT
+singt	VERB
+:	PUNCT
+)	PUNCT
+
+
+--	PUNCT
+No	VERB
+.	PUNCT
+.	PUNCT
+Lied	VERB
+.	PUNCT
+
+
+--	PUNCT
+Ade	VERB
+ich	PRON
+scheide	VERB
+nun	ADV
+von	ADP
+hier	ADV
+,	PUNCT
+
+
+--	PUNCT
+Du	PRON
+trautes	NOUN
+Vaterhaus	VERB
+;	PUNCT
+
+
+--	PUNCT
+Nicht	ADV
+hält	VERB
+es	X
+länger	ADV
+mich	X
+bei	X
+Dir	X
+,	PUNCT
+
+
+--	PUNCT
+Muß	AUX
+in	ADP
+die	PRON
+Welt	NOUN
+hinaus	VERB
+.	PUNCT
+
+
+--	PUNCT
+Ihr	DET
+Blümlein	NOUN
+,	PUNCT
+die	PRON
+ich	PRON
+treu	NOUN
+gepflegt	VERB
+,	PUNCT
+
+
+--	PUNCT
+Müßt	AUX
+einsam	VERB
+nun	ADV
+verblühn	VERB
+,	PUNCT
+
+
+--	PUNCT
+Die	PRON
+Hoffnung	NOUN
+,	PUNCT
+die	PRON
+ich	PRON
+froh	ADJ
+gehegt	NOUN
+,	PUNCT
+
+
+--	PUNCT
+Mit	ADP
+Euch	PRON
+welkt	VERB
+sie	PRON
+dahin	VERB
+.	PUNCT
+
+
+--	PUNCT
+(	PUNCT
+Schwächerer	NOUN
+Donner	VERB
+.	PUNCT
+)	PUNCT
+
+
+--	PUNCT
+Weit	VERB
+muß	AUX
+ich	PRON
+in	ADP
+die	PRON
+Welt	NOUN
+hinaus	VERB
+,	PUNCT
+
+
+--	PUNCT
+Weiß	X
+selber	NOUN
+nicht	ADV
+wohin	VERB
+.	PUNCT
+
+
+--	PUNCT
+Kann	AUX
+weilen	VERB
+nicht	ADV
+im	ADP
+Elternhaus	NOUN
+,	PUNCT
+
+
+--	PUNCT
+Muß	AUX
+in	ADP
+die	PRON
+Ferne	NOUN
+ziehn	VERB
+.	PUNCT
+
+
+--	PUNCT
+Wer	PRON
+pflegt	VERB
+den	DET
+Grabeshügel	NOUN
+nun	ADV
+
+
+Du	PRON
+gute	VERB
+Mutter	NOUN
+Dic	VERB
+?	PUNCT
+
+
+--	PUNCT
+Ich	PRON
+kann	AUX
+es	X
+ferner	NOUN
+nicht	ADV
+mehr	ADV
+thun	X
+,	PUNCT
+
+
+--	PUNCT
+Muß	AUX
+scheiden	VERB
+,	PUNCT
+ach	VERB
+von	ADP
+hier	ADV
+!	PUNCT
+
+
+--	PUNCT
+(	PUNCT
+Leifer	NOUN
+Donner	VERB
+.	PUNCT
+)	PUNCT
+
+
+--	PUNCT
+Spricht	VERB
+schwermüthig	VERB
+die	PRON
+letzte	ADJ
+Strophe	NOUN
+nach	X
+
+
+--	PUNCT
+Muß	AUX
+scheiden	VERB
+,	PUNCT
+ach	VERB
+von	ADP
+hier	ADV
+.	PUNCT
+
+
+--	PUNCT
+Hätte	VERB
+ich	PRON
+doch	ADV
+nicht	ADV
+gedacht	VERB
+,	PUNCT
+daß	CCONJ
+die	PRON
+zwei	VERB
+Wochen	NOUN
+meines	NOUN
+Hierseins	VERB
+
+
+genügen	NOUN
+würden	AUX
+,	PUNCT
+mir	X
+das	DET
+kleine	ADJ
+Häuschen	NOUN
+wieder	ADV
+so	ADV
+lieb	VERB
+zu	ADP
+machen	X
+,	PUNCT
+
+
+--	PUNCT
+daß	CCONJ
+der	DET
+Abschied	NOUN
+davon	ADV
+mich	X
+fast	ADV
+verzagen	ADJ
+läßt	NOUN
+.	PUNCT
+Links	ADV
+ab	X
+.	PUNCT
+(	PUNCT
+Donner	VERB
+.	PUNCT
+)	PUNCT
+
+
+--	PUNCT
+Rosa	VERB
+allein	NOUN
+vortretend	VERB
+und	CCONJ
+Fritz	PROPN
+nachschauend	VERB
+
+
+Rosa	VERB
+.	PUNCT
+Schöne	ADJ
+Aussichten	NOUN
+das	PRON
+,	PUNCT
+und	CCONJ
+gleich	ADV
+verzagen	VERB
+will	AUX
+er	PRON
+mir	X
+,	PUNCT
+
+
+--	PUNCT
+das	PRON
+darf	AUX
+nicht	ADV
+sein	X
+.	PUNCT
+Singt	VERB
+:	PUNCT
+
+
+--	PUNCT
+No	VERB
+.	PUNCT
+.	PUNCT
+Einlage	VERB
+.	PUNCT
+
+
+--	PUNCT
+Verzage	VERB
+nicht	ADV
+,	PUNCT
+wenn	SCONJ
+einst	ADP
+Dein	DET
+Orkan	NOUN
+stürmet	VERB
+;	PUNCT
+(	PUNCT
+Donner	VERB
+.	PUNCT
+)	PUNCT
+
+
+--	PUNCT
+Wenn	SCONJ
+rings	NOUN
+herum	VERB
+sich	PRON
+Wog	VERB
+auf	ADP
+Woge	NOUN
+thürmet	VERB
+.	PUNCT
+
+
+--	PUNCT
+"	PUNCT
+:	PUNCT
+Trau	VERB
+nur	ADV
+auf	ADP
+den	DET
+,	PUNCT
+der	DET
+Wind	NOUN
+und	CCONJ
+Woge	NOUN
+bricht	VERB
+,	PUNCT
+
+
+--	PUNCT
+Verzage	VERB
+nicht	ADV
+,	PUNCT
+verzage	VERB
+nicht	ADV
+!	PUNCT
+:	PUNCT
+.	PUNCT
+
+
+--	PUNCT
+Verzage	VERB
+nicht	ADV
+,	PUNCT
+wenn	SCONJ
+Freunde	VERB
+Dich	PRON
+verlassen	VERB
+,	PUNCT
+
+
+--	PUNCT
+Gott	NOUN
+ist	AUX
+Dein	DET
+Schutz	NOUN
+,	PUNCT
+mag	AUX
+alch	VERB
+die	PRON
+Welt	NOUN
+Dich	PRON
+hassen	VERB
+,	PUNCT
+
+
+--	PUNCT
+:	PUNCT
+:	PUNCT
+Trau	VERB
+nur	ADV
+auf	ADP
+den	DET
+,	PUNCT
+der	DET
+hält	NOUN
+was	AUX
+er	DET
+verspricht	NOUN
+;	PUNCT
+
+
+--	PUNCT
+Verzage	VERB
+nicht	ADV
+,	PUNCT
+verzage	VERB
+nicht	ADV
+!	PUNCT
+:	PUNCT
+,	PUNCT
+.	PUNCT
+
+
+--	PUNCT
+Verzage	VERB
+nicht	ADV
+in	ADP
+Deinen	NOUN
+Unglückstagen	VERB
+,	PUNCT
+
+
+--	PUNCT
+Noch	ADV
+hast	AUX
+Du	PRON
+Kraft	NOUN
+,	PUNCT
+sie	PRON
+muthig	VERB
+zu	ADP
+ertragen	NOUN
+
+
+--	PUNCT
+:	PUNCT
+:	PUNCT
+Trau	VERB
+nur	ADV
+auf	ADP
+den	DET
+,	PUNCT
+der	PRON
+sprach	VERB
+:	PUNCT
+"	PUNCT
+Es	X
+werde	AUX
+Licht	ADV
+!	PUNCT
+"	PUNCT
+(	PUNCT
+Heller	NOUN
+Blitz	VERB
+)	PUNCT
+
+
+--	PUNCT
+Verzage	VERB
+nicht	ADV
+,	PUNCT
+verzage	VERB
+nicht	ADV
+.	PUNCT
+"	PUNCT
+.	PUNCT
+
+
+--	PUNCT
+Rosa	VERB
+.	PUNCT
+Fritz	PROPN
+.	PUNCT
+
+
+--	PUNCT
+Fritz	PROPN
+eilt	VERB
+beim	ADP
+Schluß	PROPN
+des	DET
+Liedes	NOUN
+herein	VERB
+,	PUNCT
+Rosa	VERB
+stürmisch	NOUN
+umarmend	VERB
+,	PUNCT
+während	VERB
+die	PRON
+Musik	VERB
+
+
+den	DET
+Refrain	NOUN
+wiederholt	VERB
+.	PUNCT
+Röschen	VERB
+!	PUNCT
+Theures	NOUN
+Mädchen	VERB
+,	PUNCT
+Du	PRON
+hier	ADV
+?	PUNCT
+
+
+--	PUNCT
+Rosa	VERB
+.	PUNCT
+Mein	X
+lieber	X
+,	PUNCT
+guter	VERB
+Fritz	PROPN
+!	PUNCT
+
+
+--	PUNCT
+Fritz	PROPN
+.	PUNCT
+Aber	CCONJ
+,	PUNCT
+um	ADP
+Gotteswillen	INTJ
+,	PUNCT
+wie	PRON
+kommst	VERB
+Du	PRON
+hierher	ADV
+?	PUNCT
+Wenn	SCONJ
+
+
+der	DET
+Vater	NOUN
+-	PUNCT
+--	PUNCT
+Rosa	VERB
+schnel	NOUN
+unterbrechend	VERB
+und	CCONJ
+heiter	VERB
+.	PUNCT
+Wie	PRON
+ich	PRON
+hierher	ADV
+komme	VERB
+?	PUNCT
+Nun	ADV
+sehr	ADV
+
+
+einfach	VERB
+.	PUNCT
+Ich	PRON
+bin	AUX
+hergefahren	VERB
+und	CCONJ
+Du	PRON
+bist	AUX
+ungalant	NOUN
+genug	VERB
+,	PUNCT
+uns	PRON
+weder	NOUN
+
+
+zu	ADP
+empfangen	NOUN
+,	PUNCT
+noch	ADV
+beim	ADP
+Absteigen	NOUN
+behülflich	VERB
+zu	ADP
+sein	X
+
+
+Fritz	PROPN
+.	PUNCT
+O	ADP
+verzeihe	NOUN
+,	PUNCT
+liebes	VERB
+Herz	NOUN
+,	PUNCT
+mich	X
+täuschte	VERB
+das	DET
+Rollen	NOUN
+des	X
+
+
+Donners	VERB
+,	PUNCT
+ich	PRON
+hatte	VERB
+keine	X
+Ahnung	NOUN
+
+
+Rosa	VERB
+.	PUNCT
+Und	CCONJ
+so	ADV
+weiter	ADV
+u	VERB
+.	PUNCT
+s	VERB
+.	PUNCT
+w	VERB
+.	PUNCT
+Papperlapap	VERB
+.	PUNCT
+Theile	VERB
+mir	X
+lieber	X
+
+
+die	PRON
+Antwort	VERB
+Deines	ADJ
+Vaters	NOUN
+mit	ADP
+.	PUNCT
+Du	PRON
+böser	ADJ
+Fritz	PROPN
+,	PUNCT
+schon	ADV
+acht	VERB
+volle	PROPN
+Tage	X
+
+
+warte	VERB
+ich	PRON
+vergebens	VERB
+auf	ADP
+Nachricht	NOUN
+-	PUNCT
+ist	AUX
+das	PRON
+hübsch	ADV
+von	ADP
+Dir	X
+?	PUNCT
+
+
+--	PUNCT
+Fritz	PROPN
+.	PUNCT
+O	ADP
+Nöschen	NOUN
+
+
+Rosa	NOUN
+einfallend	VERB
+.	PUNCT
+Es	X
+ist	AUX
+Alles	PRON
+aus	ADP
+;	PUNCT
+Alles	PRON
+.	PUNCT
+(	PUNCT
+Feiter	VERB
+)	PUNCT
+Nicht	ADV
+wahr	ADV
+,	PUNCT
+das	PRON
+
+
+wolltest	VERB
+Du	PRON
+doch	ADV
+sagen	X
+?	PUNCT
+Nun	ADV
+ich	PRON
+weiß	X
+es	X
+schon	ADV
+,	PUNCT
+denn	ADV
+-	PUNCT
+verzeihe	VERB
+
+
+ich	PRON
+habe	X
+Dich	X
+vorher	PROPN
+ein	X
+wenig	ADJ
+belauscht	NOUN
+,	PUNCT
+würde	VERB
+es	X
+Dir	X
+aber	CCONJ
+auch	X
+
+
+ohnehin	NOUN
+auf	ADP
+den	DET
+ersten	ADJ
+Blick	NOUN
+angesehen	VERB
+haben	AUX
+.	PUNCT
+Nimm	VERB
+es	X
+mir	X
+nicht	ADV
+übel	VERB
+,	PUNCT
+
+
+--	PUNCT
+Du	PRON
+machst	VERB
+ein	DET
+Gesicht	NOUN
+,	PUNCT
+wie	PRON
+acht	VERB
+Tage	X
+Regenwetter	NOUN
+.	PUNCT
+Brrr	VERB
+!	PUNCT
+Courage	VERB
+
+
+mein	X
+Ritter	NOUN
+,	PUNCT
+Kopf	NOUN
+in	ADP
+die	PRON
+Höh	VERB
+!	PUNCT
+So	ADV
+!	PUNCT
+So	ADV
+!	PUNCT
+Siehst	VERB
+Du	PRON
+,	PUNCT
+jetzt	ADV
+gefällst	VERB
+Du	PRON
+
+
+mir	X
+weit	NOUN
+besser	VERB
+.	PUNCT
+Nun	ADV
+lache	ADJ
+einmal	NOUN
+,	PUNCT
+bitte	VERB
+,	PUNCT
+bitte	VERB
+,	PUNCT
+versuch	VERB
+es	X
+doch	ADV
+.	PUNCT
+
+
+--	PUNCT
+Fritz	PROPN
+gezwungen	NOUN
+lächelnd	VERB
+.	PUNCT
+Röschen	VERB
+,	PUNCT
+Du	PRON
+kannst	AUX
+noch	ADV
+scherzen	VERB
+und	CCONJ
+ich	PRON
+
+
+möchte	NOUN
+verzweifeln	VERB
+!	PUNCT
+
+
+--	PUNCT
+Nöschen	NOUN
+leicht	VERB
+mit	ADP
+dem	DET
+Fuße	NOUN
+slampfend	VERB
+Du	PRON
+sollst	AUX
+aber	CCONJ
+nicht	ADV
+verzweifeln	VERB
+,	PUNCT
+
+
+--	PUNCT
+ich	PRON
+will	AUX
+es	X
+nicht	ADV
+.	PUNCT
+Du	PRON
+sollst	AUX
+heiter	VERB
+sein	X
+,	PUNCT
+wie	PRON
+ich	PRON
+es	X
+bin	AUX
+,	PUNCT
+denn	ADV
+ich	PRON
+sage	VERB
+
+
+Dir	X
+,	PUNCT
+es	X
+ist	AUX
+nicht	ADV
+Alles	PRON
+aus	ADP
+,	PUNCT
+o	PROPN
+noch	ADV
+lange	ADV
+nicht	ADV
+!	PUNCT
+Ich	PRON
+bin	AUX
+doch	ADV
+auch	ADV
+
+
+noch	ADV
+da	ADV
+,	PUNCT
+ich	PRON
+werde	AUX
+den	DET
+Kampf	NOUN
+mit	ADP
+Deinem	NOUN
+Stiefvater	VERB
+zu	ADP
+Ende	NOUN
+führen	VERB
+,	PUNCT
+
+
+--	PUNCT
+aber	CCONJ
+siegreicher	VERB
+wie	PRON
+Du	PRON
+,	PUNCT
+hörst	VERB
+Du	PRON
+Fritz	PROPN
+,	PUNCT
+siegreich	VERB
+.	PUNCT
+
+
+--	PUNCT
+Fritz	PROPN
+.	PUNCT
+O	ADP
+Röschen	NOUN
+,	PUNCT
+Du	PRON
+kennst	VERB
+den	DET
+Vater	NOUN
+nicht	ADV
+
+
+Rosa	VERB
+.	PUNCT
+Allerdings	VERB
+habe	X
+ich	PRON
+ihn	PRON
+noch	ADV
+nicht	ADV
+gesehen	VERB
+,	PUNCT
+doch	ADV
+das	DET
+thut	NOUN
+
+
+nichts	ADV
+,	PUNCT
+die	PRON
+Männer	VERB
+sind	AUX
+ja	ADJ
+alle	PRON
+gleich	ADV
+!	PUNCT
+Verlaß	VERB
+Dich	PRON
+drauf	ADV
+,	PUNCT
+mir	X
+wider	NOUN
+
+
+--	PUNCT
+steht	VERB
+er	PRON
+nicht	ADV
+.	PUNCT
+
+
+--	PUNCT
+Fritz	PROPN
+.	PUNCT
+Du	PRON
+irrst	VERB
+mein	X
+Kind	NOUN
+,	PUNCT
+er	PRON
+ist	AUX
+hart	ADJ
+und	CCONJ
+unerbittlich	VERB
+.	PUNCT
+
+
+--	PUNCT
+Rosa	NOUN
+heiter	VERB
+.	PUNCT
+O	ADP
+sieh	NOUN
+einmal	VERB
+!	PUNCT
+Es	X
+fällt	VERB
+mir	X
+auch	X
+jar	NOUN
+nicht	ADV
+ein	VERB
+,	PUNCT
+
+
+--	PUNCT
+ihn	PRON
+zu	ADP
+bitten	NOUN
+,	PUNCT
+im	ADP
+Gegentheil	NOUN
+,	PUNCT
+Dein	DET
+Vater	NOUN
+soll	AUX
+mich	X
+bitten	NOUN
+,	PUNCT
+ja	INTJ
+!	PUNCT
+gewiß	ADV
+,	PUNCT
+sehr	ADV
+
+
+soll	AUX
+er	PRON
+mich	X
+bitten	NOUN
+,	PUNCT
+hier	ADV
+zu	ADP
+bleiben	NOUN
+und	CCONJ
+ihn	PRON
+zu	ADP
+hätscheln	NOUN
+und	CCONJ
+zu	ADP
+pflegen	NOUN
+,	PUNCT
+
+
+--	PUNCT
+wie	PRON
+ich	PRON
+meine	DET
+Mama	NOUN
+gepflegt	VERB
+,	PUNCT
+ehe	VERB
+der	DET
+böse	ADJ
+Tod	NOUN
+sie	PRON
+mir	X
+entrissen	NOUN
+.	PUNCT
+
+
+--	PUNCT
+(	PUNCT
+Es	X
+blitzt	NOUN
+.	PUNCT
+)	PUNCT
+
+
+--	PUNCT
+Fritz	PROPN
+.	PUNCT
+Aber	CCONJ
+Röschen	VERB
+,	PUNCT
+erkläre	NOUN
+mir-	VERB
+
+
+Rosa	NOUN
+eisrig	VERB
+.	PUNCT
+Erklärungen	VERB
+sind	AUX
+immer	ADV
+langweilig	VERB
+,	PUNCT
+doch	ADV
+draußen	VERB
+ist	AUX
+
+
+die	PRON
+Miethsfrau	VERB
+,	PUNCT
+die	PRON
+Seelbach	VERB
+,	PUNCT
+die	PRON
+soll	AUX
+Dir	PRON
+erklären	VERB
+,	PUNCT
+wie	PRON
+es	X
+anzufangen	NOUN
+
+
+ist	AUX
+,	PUNCT
+das	DET
+Herz	NOUN
+Deines	VERB
+Vaters	NOUN
+zu	ADP
+bezwingen	NOUN
+.	PUNCT
+Ich	PRON
+hörte	VERB
+gestern	NOUN
+von	ADP
+ihr	DET
+,	PUNCT
+
+
+--	PUNCT
+daß	CCONJ
+sie	PRON
+Auftrag	VERB
+von	ADP
+Deinem	ADJ
+Vater	NOUN
+habe	X
+,	PUNCT
+eine	DET
+andere	NOUN
+Wirtschafterin	VERB
+
+
+hierherzuschaffen	VERB
+,	PUNCT
+weil	SCONJ
+er	PRON
+in	ADP
+seinem	NOUN
+Eifer	VERB
+die	PRON
+alte	VERB
+Hanne	NOUN
+fortgejagt	VERB
+.	PUNCT
+
+
+--	PUNCT
+Darauf	NOUN
+baute	VERB
+ich	PRON
+sofort	ADV
+meinen	X
+Plan	NOUN
+,	PUNCT
+wohl	ADV
+ahnend	VERB
+,	PUNCT
+daß	X
+mein	X
+sentimentaler	NOUN
+
+
+Held	NOUN
+hier	ADV
+noch	ADV
+nichts	DET
+Ersprießliches	NOUN
+ausgerichtet	VERB
+habe	X
+.	PUNCT
+Da	ADV
+Dein	DET
+Vater	NOUN
+
+
+mich	X
+noch	ADV
+nie	ADV
+gesehen	VERB
+,	PUNCT
+soll	AUX
+er	PRON
+mich	X
+erst	ADV
+als	X
+seine	X
+Wirthin	NOUN
+,	PUNCT
+nicht	ADV
+als	X
+
+
+Deine	DET
+Braut	NOUN
+kennen	VERB
+lernen	VERB
+.	PUNCT
+Heiter	VERB
+.	PUNCT
+Bin	AUX
+ich	PRON
+erst	ADV
+ein	DET
+Paar	NOUN
+Wochen	NOUN
+hier	ADV
+,	PUNCT
+
+
+--	PUNCT
+o	PROPN
+dann	ADV
+müßte	VERB
+es	X
+doch	ADV
+sonderbar	ADJ
+zugehen	NOUN
+,	PUNCT
+wenn	SCONJ
+Dein	DET
+Vater	NOUN
+nicht	ADV
+
+
+wünschen	VERB
+sollte	VERB
+,	PUNCT
+eine	X
+so	ADV
+tüchtige	VERB
+und	CCONJ
+liebenswürdige	NOUN
+Wirthin	VERB
+,	PUNCT
+wie	PRON
+ich	PRON
+bin	AUX
+,	PUNCT
+
+
+--	PUNCT
+für	ADP
+immer	ADV
+um	ADP
+sich	PRON
+zu	ADP
+behalten	NOUN
+.	PUNCT
+Ha	VERB
+,	PUNCT
+ha	VERB
+,	PUNCT
+ha	VERB
+!	PUNCT
+Wenn	SCONJ
+er	PRON
+mich	X
+nur	ADV
+erst	ADV
+
+
+aufgenommen	NOUN
+hat	AUX
+,	PUNCT
+und	CCONJ
+das	PRON
+wird	X
+Frau	PROPN
+Seelbach	VERB
+schon	ADV
+besorgen	VERB
+;	PUNCT
+Butter	VERB
+
+
+und	CCONJ
+Käse	NOUN
+verstehe	VERB
+ich	PRON
+längst	ADV
+zu	ADP
+machen	X
+,	PUNCT
+melken	NOUN
+muß	AUX
+die	PRON
+Kuhmagd	VERB
+und	CCONJ
+
+
+kochen	NOUN
+kann	AUX
+ich	PRON
+,	PUNCT
+kochen	VERB
+!	PUNCT
+-	PUNCT
+ich	PRON
+sage	VERB
+Dir	X
+,	PUNCT
+alle	PRON
+zehn	X
+Finger	NOUN
+soll	AUX
+sich	PRON
+Dein	VERB
+
+
+Papa	PROPN
+nach	X
+meinen	X
+Speisen	NOUN
+lecken	VERB
+.	PUNCT
+
+
+--	PUNCT
+Fritz	PROPN
+.	PUNCT
+Ha	NOUN
+ha	VERB
+!	PUNCT
+
+
+--	PUNCT
+Rose	VERB
+.	PUNCT
+Ja	INTJ
+!	PUNCT
+-	PUNCT
+Also	ADV
+nicht	ADV
+verzagt	VERB
+mein	X
+Schatz	NOUN
+,	PUNCT
+alles	PRON
+Uebrige	VERB
+
+
+wird	X
+sich	PRON
+finden	VERB
+;	PUNCT
+Frau	PROPN
+Seelbach	VERB
+muß	AUX
+rathen	VERB
+und	CCONJ
+helfen	VERB
+.	PUNCT
+Auft	VERB
+.	PUNCT
+Aber	CCONJ
+
+
+Frau	PROPN
+Seelbach	VERB
+,	PUNCT
+so	ADV
+kommen	VERB
+Sie	PRON
+doch	ADV
+herein	VERB
+!	PUNCT
+(	PUNCT
+Ganz	ADV
+schwacher	ADJ
+Donner	NOUN
+.	PUNCT
+)	PUNCT
+
+
+--	PUNCT
+Fritz	PROPN
+.	PUNCT
+Aber	CCONJ
+Kind	NOUN
+,	PUNCT
+ich	PRON
+bitte	VERB
+Dich	PRON
+,	PUNCT
+Du	PRON
+wolltest	VERB
+mit	ADP
+Deinen	NOUN
+zarten	VERB
+
+
+Händchen	NOUN
+hier	ADV
+
+
+Rosa	VERB
+.	PUNCT
+Papperlapapp	VERB
+!	PUNCT
+-	PUNCT
+Meine	DET
+zarten	NOUN
+Händchen	VERB
+sind	AUX
+schon	ADV
+in	ADP
+
+
+einer	DET
+größeren	ADJ
+Wirthschaft	NOUN
+thätig	NOUN
+gewesen	VERB
+und	CCONJ
+werden	AUX
+auch	X
+hoffentlich	NOUN
+
+
+hier	ADV
+nicht	ADV
+zerbrechen	VERB
+.	PUNCT
+Uebrigens	NOUN
+sei	VERB
+ganz	ADV
+ohne	SCONJ
+Sorge	NOUN
+um	ADP
+mich	X
+,	PUNCT
+ich	PRON
+denke	VERB
+
+
+mich	X
+durchaus	NOUN
+nicht	ADV
+über	X
+die	PRON
+Maßen	NOUN
+anzustrengen	VERB
+,	PUNCT
+ach	INTJ
+,	PUNCT
+Gott	NOUN
+bewahre	VERB
+!	PUNCT
+
+
+--	PUNCT
+Nur	ADV
+grade	VERB
+so	ADV
+viel	X
+,	PUNCT
+wie	PRON
+nöthig	VERB
+ist	AUX
+,	PUNCT
+um	ADP
+die	PRON
+Wirthschaft	NOUN
+gut	NOUN
+in	ADP
+Ordnung	NOUN
+
+
+zu	ADP
+halten	VERB
+und	CCONJ
+Deinem	NOUN
+eigensinnigen	VERB
+Papa	PROPN
+begreiflich	VERB
+zu	ADP
+machen	X
+,	PUNCT
+daß	X
+
+
+auch	X
+ein	X
+Stadtdämchen	VERB
+eine	DET
+tüchtige	NOUN
+Landwirthin	VERB
+sein	X
+kann	AUX
+.	PUNCT
+
+
+--	PUNCT
+Fritz	PROPN
+.	PUNCT
+Röschen	VERB
+,	PUNCT
+Du	PRON
+liebes	VERB
+,	PUNCT
+herziges	NOUN
+Mädchen	VERB
+!	PUNCT
+Will	AUX
+sie	PRON
+umarmen	VERB
+.	PUNCT
+
+
+--	PUNCT
+Rosa	NOUN
+neckisch	VERB
+.	PUNCT
+Halt	VERB
+,	PUNCT
+mein	X
+verliebter	NOUN
+Ritter	VERB
+!	PUNCT
+Wir	PRON
+kennen	VERB
+uns	PRON
+
+
+nicht	ADV
+-	PUNCT
+garnicht	VERB
+,	PUNCT
+verstanden	VERB
+?	PUNCT
+Komme	VERB
+ich	PRON
+mit	ADP
+Frau	PROPN
+Seelbachs	VERB
+
+
+Hülfe	NOUN
+hier	ADV
+an	ADP
+,	PUNCT
+so	ADV
+mußt	AUX
+Du	PRON
+fort	ADV
+,	PUNCT
+weit	VERB
+fort	ADV
+.	PUNCT
+Erst	ADV
+auf	ADP
+Deines	NOUN
+Vaters	VERB
+
+
+ausdrücklichen	ADJ
+Wunsch	NOUN
+lernen	VERB
+wird	X
+uns	PRON
+kennen	VERB
+;	PUNCT
+später	VERB
+mein	X
+Freund	PROPN
+,	PUNCT
+
+
+--	PUNCT
+hörst	VERB
+Du	PRON
+?	PUNCT
+Später	VERB
+.	PUNCT
+"	PUNCT
+Ich	PRON
+hoffe	VERB
+,	PUNCT
+Du	PRON
+wirst	VERB
+Deine	DET
+Rolle	NOUN
+begreifen	VERB
+und	CCONJ
+
+
+standhaft	ADJ
+durchzuführen	NOUN
+suchen	VERB
+,	PUNCT
+sie	PRON
+ist	AUX
+ja	ADJ
+nur	ADV
+leicht	VERB
+,	PUNCT
+ha	VERB
+,	PUNCT
+ha	VERB
+!	PUNCT
+ich	PRON
+habe	X
+
+
+jedenfalls	VERB
+die	PRON
+schwerste	NOUN
+Partie	VERB
+.	PUNCT
+Sicherer	VERB
+ist	AUX
+es	X
+jedenfalls	NOUN
+,	PUNCT
+wenn	SCONJ
+Du	PRON
+Dich	PRON
+
+
+in	ADP
+zwei	ADJ
+Jahren	NOUN
+hier	ADV
+garnicht	NOUN
+sehen	VERB
+läßt	VERB
+,	PUNCT
+wir	PRON
+möchten	VERB
+bei	X
+einem	X
+Besuche	NOUN
+
+
+Deinerseits	VERB
+beide	PRON
+aus	ADP
+der	DET
+Rolle	NOUN
+fallen	VERB
+.	PUNCT
+
+
+--	PUNCT
+Fritz	PROPN
+.	PUNCT
+Zwei	VERB
+Jahre	PROPN
+?	PUNCT
+so	ADV
+lange	ADJ
+soll	AUX
+ich	PRON
+noch	ADV
+warten	VERB
+,	PUNCT
+ohne	SCONJ
+Dich	PRON
+
+
+sehen	VERB
+und	CCONJ
+sprechen	VERB
+zu	ADP
+dürfen	NOUN
+,	PUNCT
+das	PRON
+ertrage	VERB
+ich	PRON
+nicht	ADV
+.	PUNCT
+
+
+--	PUNCT
+Rosa	VERB
+.	PUNCT
+Ei	NOUN
+was	AUX
+,	PUNCT
+zwei	VERB
+.	PUNCT
+Jahre	PROPN
+sind	AUX
+keine	X
+Ewigkeit	NOUN
+,	PUNCT
+ich	PRON
+gebe	VERB
+Dir	X
+
+
+--	PUNCT
+Küsse	VERB
+mit	ADP
+,	PUNCT
+macht	NOUN
+grade	VERB
+auf	ADP
+jeden	DET
+Tag	NOUN
+einen	X
+und	CCONJ
+Sonntags	NOUN
+zwei	VERB
+,	PUNCT
+
+
+--	PUNCT
+damit	ADV
+kannst	AUX
+Du	PRON
+auskommen	VERB
+.	PUNCT
+Außerdem	VERB
+ist	AUX
+es	X
+doch	ADV
+auch	ADV
+nicht	ADV
+so	ADV
+ganz	ADV
+
+
+gewiß	ADV
+,	PUNCT
+daß	X
+es	X
+mir	X
+gelingen	PROPN
+wird	X
+,	PUNCT
+das	DET
+Herz	NOUN
+Deines	VERB
+bärbeißigen	NOUN
+Stief	ADV
+
+
+--	PUNCT
+vaters	VERB
+für	ADP
+uns	PRON
+zu	ADP
+gewinnen	NOUN
+.	PUNCT
+Also	ADV
+mußt	AUX
+Du	PRON
+doch	ADV
+inzwischen	VERB
+auf	ADP
+alle	ADJ
+
+
+Fälle	VERB
+uns	PRON
+anderweitig	VERB
+eine	DET
+Häuslichkeit	NOUN
+zu	ADP
+gründen	NOUN
+suchen	VERB
+,	PUNCT
+und	CCONJ
+das	DET
+
+
+geht	VERB
+nicht	ADV
+so	ADV
+schnell	VERB
+,	PUNCT
+mein	X
+Schatz	NOUN
+.	PUNCT
+Aber	CCONJ
+weißt	VERB
+Du	PRON
+,	PUNCT
+vor	ADP
+zwei	ADJ
+Jahren	NOUN
+
+
+will	AUX
+ich	PRON
+auch	X
+garnicht	NOUN
+heirathen	VERB
+,	PUNCT
+nein	PROPN
+,	PUNCT
+Gott	NOUN
+bewahre	VERB
+!	PUNCT
+Frau	PROPN
+Seelbach	VERB
+
+
+sagt	VERB
+,	PUNCT
+ich	PRON
+sei	VERB
+noch	ADV
+zu	ADP
+jung	NOUN
+,	PUNCT
+und	CCONJ
+was	AUX
+die	PRON
+sagt	VERB
+,	PUNCT
+das	PRON
+glaube	VERB
+ich	PRON
+entschieden	VERB
+,	PUNCT
+
+
+--	PUNCT
+sie	PRON
+meint	VERB
+es	X
+gut	X
+.	PUNCT
+(	PUNCT
+Frau	PROPN
+Seeibach	VERB
+ist	AUX
+kurz	ADJ
+vorher	NOUN
+eingetreten	VERB
+und	CCONJ
+hat	AUX
+die	PRON
+letzten	ADJ
+Worte	NOUN
+gehört	VERB
+.	PUNCT
+)	PUNCT
+
+
+--	PUNCT
+Vorige	VERB
+?	PUNCT
+Frau	PROPN
+Seelbach	VERB
+.	PUNCT
+
+
+--	PUNCT
+Fr	VERB
+.	PUNCT
+Seelbach	VERB
+(	PUNCT
+für	ADP
+sich	PRON
+.	PUNCT
+)	PUNCT
+Das	DET
+gute	ADJ
+Kind	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Rosa	VERB
+(	PUNCT
+sie	PRON
+erblickend	VERB
+)	PUNCT
+.	PUNCT
+Ach	INTJ
+!	PUNCT
+da	ADV
+ist	AUX
+sie	PRON
+ja	ADJ
+.	PUNCT
+(	PUNCT
+Vorstellend	VERB
+.	PUNCT
+)	PUNCT
+Mein	X
+Bräutigam	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Fr	VERB
+.	PUNCT
+Seelbach	VERB
+.	PUNCT
+Still	ADV
+!	PUNCT
+still	ADV
+,	PUNCT
+mein	X
+Kind	NOUN
+,	PUNCT
+wenn	SCONJ
+Ihr	DET
+Plan	NOUN
+gelingen	VERB
+
+
+soll	AUX
+,	PUNCT
+so	ADV
+darf	AUX
+vor	ADP
+allen	ADJ
+Dingen	NOUN
+Eure	VERB
+Liebe	NOUN
+zu	ADP
+einander	NOUN
+nicht	ADV
+verrathen	VERB
+
+
+Fritz	PROPN
+.	PUNCT
+Sie	PRON
+haben	AUX
+Recht	ADV
+,	PUNCT
+gute	VERB
+Frau	PROPN
+,	PUNCT
+(	PUNCT
+reicht	VERB
+ihr	PRON
+die	PRON
+Hand	NOUN
+,	PUNCT
+sie	PRON
+artig	VERB
+zum	X
+
+
+Großstuhl	NOUN
+führend	VERB
+)	PUNCT
+ich	PRON
+zweifle	NOUN
+jedoch	VERB
+,	PUNCT
+daß	X
+mein	X
+Vater	NOUN
+Röschen	NOUN
+aufnehmen	VERB
+
+
+wird	X
+,	PUNCT
+die	PRON
+Städter	VERB
+sind	AUX
+ihm	PRON
+verhaßt	VERB
+,	PUNCT
+und	CCONJ
+die	PRON
+Städterinnen	VERB
+leider	ADV
+noch	ADV
+
+
+mehr	ADV
+.	PUNCT
+Schön	ADV
+die	PRON
+Kleidung	VERB
+,	PUNCT
+selbst	PRON
+die	PRON
+Sprache	VERB
+ist	AUX
+ihm	PRON
+zuwider	VERB
+;	PUNCT
+er	PRON
+
+
+nimmt	VERB
+sicherlich	ADV
+nur	ADV
+eine	DET
+ländlich	NOUN
+gekleidete	VERB
+und	CCONJ
+plattdeutsch	NOUN
+sprechende	VERB
+
+
+Wirthin	NOUN
+auf	ADP
+.	PUNCT
+Will	AUX
+er	PRON
+mir	X
+doch	ADV
+sein	X
+Haus	PROPN
+verschließen	VERB
+,	PUNCT
+falls	VERB
+ich	PRON
+mich	X
+
+
+nicht	ADV
+nach	X
+seinem	ADJ
+Geschmack	NOUN
+verheirathen	VERB
+will	AUX
+.	PUNCT
+
+
+--	PUNCT
+Rosa	VERB
+.	PUNCT
+O	VERB
+,	PUNCT
+das	PRON
+haben	AUX
+wir	PRON
+schon	ADV
+erfahren	VERB
+,	PUNCT
+und	CCONJ
+auch	X
+dafür	NOUN
+ist	AUX
+
+
+bereits	NOUN
+gesorgt	VERB
+,	PUNCT
+mein	X
+Lieber	X
+.	PUNCT
+Ein	X
+passender	ADJ
+Anzug	NOUN
+liegt	VERB
+schon	ADV
+für	ADP
+mich	X
+
+
+im	ADP
+nächsten	ADJ
+Dorfe	NOUN
+bereit	VERB
+;	PUNCT
+dorthin	NOUN
+wollten	VERB
+wir	PRON
+soeben	VERB
+,	PUNCT
+weil	SCONJ
+wir	PRON
+
+
+aber	CCONJ
+fürchteten	VERB
+,	PUNCT
+in	ADP
+unserm	NOUN
+offenen	VERB
+Wagen	NOUN
+vom	ADP
+Regen	NOUN
+überrascht	VERB
+zu	ADP
+
+
+werden	AUX
+,	PUNCT
+sind	AUX
+wir	PRON
+hier	ADV
+eingekehrt	VERB
+,	PUNCT
+nachdem	VERB
+wir	PRON
+vom	ADP
+Schäfer	NOUN
+unterwegs	VERB
+
+
+erfahren	VERB
+,	PUNCT
+daß	CCONJ
+Du	PRON
+allein	VERB
+zu	ADP
+Hause	NOUN
+seist	VERB
+.	PUNCT
+Siehst	VERB
+Du	PRON
+,	PUNCT
+guter	VERB
+Fritz	PROPN
+,	PUNCT
+das	PRON
+
+
+Glück	NOUN
+begünstigt	VERB
+uns	PRON
+.	PUNCT
+Du	PRON
+bist	AUX
+nun	ADV
+vorbereitet	VERB
+;	PUNCT
+das	DET
+Gewitter	NOUN
+zieht	VERB
+
+
+vorüber	VERB
+,	PUNCT
+jetzt	ADV
+können	AUX
+wir	PRON
+weiter	ADV
+fahren	VERB
+.	PUNCT
+Alles	PRON
+geht	VERB
+nach	X
+Wunsch	NOUN
+.	PUNCT
+In	ADP
+
+
+höchstens	ADJ
+zwei	NOUN
+Stunden	VERB
+sind	AUX
+wir	PRON
+wieder	ADV
+hier	ADV
+,	PUNCT
+um	ADP
+mit	ADP
+Deinem	ADJ
+Vater	NOUN
+
+
+zu	ADP
+verhandeln	NOUN
+.	PUNCT
+Sorge	VERB
+,	PUNCT
+daß	CCONJ
+wir	PRON
+Dich	PRON
+dann	ADV
+nicht	ADV
+hier	ADV
+treffen	VERB
+,	PUNCT
+ich	PRON
+fürchte	VERB
+,	PUNCT
+
+
+--	PUNCT
+Du	PRON
+fällst	VERB
+aus	ADP
+der	DET
+Rolle	NOUN
+.	PUNCT
+Doch	ADV
+nun	ADV
+noch	ADV
+Eins	VERB
+,	PUNCT
+mein	X
+Schatz	NOUN
+:	PUNCT
+Du	PRON
+
+
+glövst	VERB
+,	PUNCT
+ick	PRON
+kann	AUX
+nich	ADV
+plattdütsch	ADJ
+snaken	NOUN
+?	PUNCT
+O	VERB
+,	PUNCT
+min	DET
+leev	NOUN
+Fritzing	VERB
+,	PUNCT
+da	ADV
+kennst	VERB
+
+
+Du	PRON
+mi	PRON
+schlecht	ADV
+;	PUNCT
+dat	PRON
+hebb	AUX
+ick	PRON
+bi	ADP
+Unkel	NOUN
+Gustav	VERB
+in	ADP
+Geiersdörp	NOUN
+all	ADV
+lehrt	VERB
+
+
+un	CCONJ
+dörchut	NOUN
+noch	ADV
+nich	ADV
+vergeten	VERB
+,	PUNCT
+as	CCONJ
+Du	PRON
+hörst	VERB
+.	PUNCT
+Nich	ADV
+Fru	NOUN
+Seelbach	VERB
+?	PUNCT
+
+
+--	PUNCT
+Dat	PRON
+ward	AUX
+sich	PRON
+Allens	ADV
+maken	VERB
+,	PUNCT
+uns'	DET
+Herrgott	NOUN
+ward	AUX
+uns	PRON
+nich	ADV
+verlaten	VERB
+.	PUNCT
+
+
+--	PUNCT
+Doch	ADV
+nu	ADV
+Adjüs	VERB
+,	PUNCT
+min	DET
+Schatz	NOUN
+,	PUNCT
+schriev	VERB
+mi	PRON
+hübsch	ADV
+bald	ADV
+wo	SCONJ
+Du	PRON
+blivst	VERB
+,	PUNCT
+de	DET
+
+
+Adreß	NOUN
+kannst	AUX
+Du	PRON
+an	ADP
+Fru	NOUN
+Seelbach	NOUN
+richten	VERB
+.	PUNCT
+Adjüs	VERB
+,	PUNCT
+min	DET
+leev	NOUN
+Fritzing	VERB
+,	PUNCT
+
+
+--	PUNCT
+bliv	VERB
+mi	PRON
+gesund	ADV
+un	CCONJ
+tru	NOUN
+,	PUNCT
+dat	DET
+Anner	ADJ
+findt	VERB
+sich	PRON
+Allens	ADV
+.	PUNCT
+
+
+--	PUNCT
+Fritz	PROPN
+leidenschaftlich	VERB
+sie	PRON
+umarmend	VERB
+.	PUNCT
+Röschen	VERB
+,	PUNCT
+himmlisches	NOUN
+Mädchen	VERB
+!	PUNCT
+Du	PRON
+
+
+Sonne	DET
+meines	NOUN
+Lebens	VERB
+,	PUNCT
+wie	PRON
+soll	AUX
+ich	PRON
+Dir	PRON
+danken	VERB
+.	PUNCT
+Neue	VERB
+Hoffnung	NOUN
+,	PUNCT
+neuer	VERB
+
+
+Muth	NOUN
+beseelen	VERB
+mich	X
+,	PUNCT
+sobald	VERB
+nur	ADV
+Du	PRON
+mir	X
+nahst	NOUN
+.	PUNCT
+O	VERB
+Du	PRON
+haft	NOUN
+Recht	ADV
+,	PUNCT
+
+
+--	PUNCT
+jetzt	ADV
+ist	AUX
+noch	ADV
+nicht	ADV
+Alles	PRON
+,	PUNCT
+aus	ADP
+,	PUNCT
+Dir	X
+wird	X
+es	X
+sicher	ADJ
+gelingen	NOUN
+,	PUNCT
+den	DET
+Vater	NOUN
+
+
+zu	ADP
+versöhnen	NOUN
+,	PUNCT
+aber	CCONJ
+auch	X
+ich	PRON
+werde	AUX
+nicht	ADV
+müßig	VERB
+sein	X
+.	PUNCT
+Der	DET
+Vater	NOUN
+ver	ADP
+
+
+--	PUNCT
+achtet	VERB
+die	PRON
+Kunst	VERB
+,	PUNCT
+weil	SCONJ
+sie	PRON
+mir	X
+bis	CCONJ
+jetzt	ADV
+noch	ADV
+wenig	ADJ
+eingebracht	NOUN
+.	PUNCT
+Aber	CCONJ
+
+
+ich	PRON
+schwöre	VERB
+Dir	X
+bei	X
+uns'rer	NOUN
+Liebe	VERB
+,	PUNCT
+daß	CCONJ
+ich	PRON
+nicht	ADV
+eher	ADV
+ruhen	VERB
+werde	AUX
+,	PUNCT
+bis	CCONJ
+
+
+ich	PRON
+,	PUNCT
+unabhängig	VERB
+vom	ADP
+Vater	NOUN
+,	PUNCT
+selbst	PRON
+im	ADP
+Stande	NOUN
+bin	AUX
+,	PUNCT
+ein	DET
+eig'nes	NOUN
+Heim	VERB
+
+
+uns	PRON
+zu	ADP
+erwerben	NOUN
+.	PUNCT
+Zwei	VERB
+Jahre	PROPN
+sägtest	VERB
+Du	PRON
+,	PUNCT
+wollen	AUX
+wir	PRON
+warten	VERB
+;	PUNCT
+gut	NOUN
+,	PUNCT
+es	X
+
+
+sei	VERB
+,	PUNCT
+ich	PRON
+werde	AUX
+die	PRON
+Zeit	NOUN
+zu	ADP
+nützen	NOUN
+wissen	VERB
+.	PUNCT
+Noch	ADV
+in	ADP
+dieser	X
+Stunde	NOUN
+will	AUX
+
+
+--	PUNCT
+ich	PRON
+meine	DET
+Abreise	NOUN
+vorbereiten	VERB
+.	PUNCT
+Ihnen	X
+,	PUNCT
+Frau	PROPN
+Seelbach	VERB
+,	PUNCT
+vertrau'	VERB
+ich	PRON
+diese	DET
+
+
+Waise	VERB
+als	X
+mein	X
+theuerstes	ADJ
+Kleinod	NOUN
+an	ADP
+;	PUNCT
+ich	PRON
+bitte	VERB
+Sie	PRON
+innig	VERB
+,	PUNCT
+Mutterstelle	VERB
+
+
+bei	X
+meinem	X
+Röschen	NOUN
+zu	ADP
+vertreten	NOUN
+.	PUNCT
+Da	ADV
+Sie	PRON
+ja	ADJ
+mit	ADP
+meinem	DET
+Vater	NOUN
+bekannt	VERB
+
+
+sind	AUX
+,	PUNCT
+werden	AUX
+Sie	PRON
+am	PRON
+besten	ADJ
+Gelegenheit	NOUN
+finden	VERB
+,	PUNCT
+Röschen	VERB
+zuweilen	NOUN
+helfend	VERB
+
+
+und	CCONJ
+rathend	NOUN
+zur	ADP
+Seite	NOUN
+zu	ADP
+stehen	VERB
+.	PUNCT
+Nicht	ADV
+wahr	ADV
+,	PUNCT
+gute	VERB
+Frau	PROPN
+,	PUNCT
+Sie	PRON
+ver	ADP
+
+
+--	PUNCT
+sprechen	VERB
+mir	X
+dies	X
+?	PUNCT
+-	PUNCT
+Ich	PRON
+werde	AUX
+Ihnen	X
+ewig	ADJ
+dankbar	NOUN
+dafür	VERB
+sein	X
+.	PUNCT
+
+
+--	PUNCT
+Fr	VERB
+.	PUNCT
+Seelbach	VERB
+.	PUNCT
+"	PUNCT
+Sprechen	VERB
+Tie	NOUN
+nicht	ADV
+von	ADP
+Dank	NOUN
+,	PUNCT
+junger	VERB
+Herr	NOUN
+,	PUNCT
+was	AUX
+
+
+ich	PRON
+kann	AUX
+,	PUNCT
+thue	VERB
+ich	PRON
+schon	ADV
+dem	DET
+lieben	NOUN
+Kinde	VERB
+zu	ADP
+Gefallen	VERB
+;	PUNCT
+darauf	VERB
+können	AUX
+
+
+Sie	PRON
+sich	PRON
+fest	ADV
+verlassen	VERB
+.	PUNCT
+
+
+--	PUNCT
+Fritz	PROPN
+.	PUNCT
+Recht	ADV
+,	PUNCT
+gute	VERB
+Frau	PROPN
+,	PUNCT
+Sie	PRON
+werden	AUX
+-	PUNCT
+--	PUNCT
+Fr	VERB
+.	PUNCT
+Seelbach	VERB
+.	PUNCT
+Still	ADV
+,	PUNCT
+stil	VERB
+.	PUNCT
+!	PUNCT
+Wir	PRON
+haben	AUX
+keine	X
+Zeit	PROPN
+mehr	ADV
+zu	ADP
+
+
+Erklärungen	VERB
+,	PUNCT
+wir	PRON
+müssen	AUX
+fort	ADV
+,	PUNCT
+es	X
+ist	AUX
+die	PRON
+höchste	VERB
+Zeit	PROPN
+,	PUNCT
+Ihr	DET
+Vater	NOUN
+kann	AUX
+
+
+jeden	DET
+Augenblick	NOUN
+vom	ADP
+Felde	NOUN
+wiederkehren	VERB
+.	PUNCT
+
+
+--	PUNCT
+Rosa	VERB
+.	PUNCT
+Frau	PROPN
+Seelbach	VERB
+hat	AUX
+Recht	ADV
+,	PUNCT
+lieber	X
+Fritz	PROPN
+,	PUNCT
+wir	PRON
+müssen	AUX
+eilen	VERB
+,	PUNCT
+
+
+--	PUNCT
+lebe	VERB
+wohl	ADV
+und	CCONJ
+sei	VERB
+ohne	SCONJ
+Sorge	NOUN
+um	ADP
+mich	X
+.	PUNCT
+Auf	ADP
+Wiederseh'n	NOUN
+!	PUNCT
+-	PUNCT
+--	PUNCT
+Fritz	PROPN
+.	PUNCT
+Auf	ADP
+Wiedersehen	NOUN
+nach	X
+zwei	ADJ
+Jahren	NOUN
+!	PUNCT
+
+
+--	PUNCT
+(	PUNCT
+Während	VERB
+der	DET
+Umarmung	ADJ
+heller	NOUN
+Blitz	VERB
+.	PUNCT
+)	PUNCT
+
+
+--	PUNCT
+Der	DET
+Vorhang	NOUN
+fällt	VERB
+.	PUNCT
+
+
+--	PUNCT
+Ende	PROPN
+des	X
+ersten	ADJ
+Actes	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Zweiter	NOUN
+Act	VERB
+.	PUNCT
+
+
+--	PUNCT
+(	PUNCT
+Freie	VERB
+Gegend	NOUN
+,	PUNCT
+ein	X
+gemähtes	ADJ
+Roggenfeld	NOUN
+vorstellend	VERB
+.	PUNCT
+Links	ADV
+an	ADP
+der	DET
+.	PUNCT
+Coulisse	VERB
+
+
+ein	DET
+Baum	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Je	ADV
+nachdem	VERB
+es	X
+der	DET
+Raum	NOUN
+gestattet	VERB
+,	PUNCT
+sieht	VERB
+man	ADV
+im	ADP
+Vordergrunde	NOUN
+ein	VERB
+bis	CCONJ
+
+
+zwei	ADJ
+Reihen	NOUN
+Aehren	VERB
+,	PUNCT
+in	ADP
+der	DET
+Ordnung	NOUN
+,	PUNCT
+wie	PRON
+das	DET
+Korn	NOUN
+gemäht	VERB
+wird	X
+,	PUNCT
+liegen	VERB
+.	PUNCT
+Im	ADP
+
+
+Hiutergrunde	VERB
+wird	X
+von	ADP
+Mädchen	NOUN
+gleich	ADV
+beim	ADP
+Aufzuge	NOUN
+das	DET
+Nachharken	NOUN
+dargestellt	VERB
+;	PUNCT
+
+
+--	PUNCT
+ein	X
+wenig	ADJ
+später	NOUN
+wird-	VERB
+auch	X
+das	PRON
+im	ADP
+Vordergrunde	NOUN
+liegende	VERB
+Korn	NOUN
+von	ADP
+Knechten	NOUN
+
+
+aufgeharkt	VERB
+,	PUNCT
+zu	ADP
+kleinen	ADJ
+Garben	NOUN
+gebunden	VERB
+und	CCONJ
+solcher	NOUN
+Garben	VERB
+zu	ADP
+einem	DET
+Haufen	NOUN
+
+
+aufrecht	ADV
+gestellt	VERB
+.	PUNCT
+
+
+--	PUNCT
+Auf	ADP
+größeren	ADJ
+Theatern	NOUN
+würde	VERB
+auch	X
+das	DET
+Einfahren	NOUN
+zu	ADP
+markiren	NOUN
+sein	X
+,	PUNCT
+während	VERB
+
+
+an	ADP
+kleineren	NOUN
+Bühnen	VERB
+das	DET
+Aufstellen	NOUN
+des	DET
+Haufens	NOUN
+(	PUNCT
+Mandel	VERB
+)	PUNCT
+besser	VERB
+vorher	NOUN
+besorgt	VERB
+
+
+wird	X
+.	PUNCT
+-	PUNCT
+Dilettanten	VERB
+können	AUX
+das	DET
+Stück	NOUN
+sehr	ADV
+leicht	VERB
+mit	ADP
+Fortlassung	NOUN
+des	X
+zweiten	PROPN
+
+
+Actes	ADJ
+überhaupt	NOUN
+aufführen	VERB
+.	PUNCT
+)	PUNCT
+
+
+--	PUNCT
+Hans	PROPN
+,	PUNCT
+Jochen	VERB
+,	PUNCT
+Michel	PROPN
+,	PUNCT
+Liese	VERB
+,	PUNCT
+Grete	VERB
+und	CCONJ
+Chor	VERB
+der	DET
+Arbeiter	NOUN
+und	CCONJ
+
+
+Mädchen	NOUN
+singen	VERB
+:	PUNCT
+
+
+--	PUNCT
+No	VERB
+.	PUNCT
+.	PUNCT
+Lied	VERB
+.	PUNCT
+
+
+--	PUNCT
+Das	DET
+Wetter	ADJ
+zieht	NOUN
+vorüber	VERB
+,	PUNCT
+
+
+--	PUNCT
+Nun	ADV
+an	ADP
+die	PRON
+Arbeit	NOUN
+wieder	ADV
+;	PUNCT
+
+
+--	PUNCT
+Bringt	VERB
+schnell	ADP
+das	DET
+Korn	NOUN
+zu	ADP
+Hauf	NOUN
+!	PUNCT
+
+
+--	PUNCT
+Bringt	VERB
+schnell	ADP
+das	DET
+Korn	NOUN
+zu	ADP
+Hauf	NOUN
+!	PUNCT
+
+
+--	PUNCT
+Halli	VERB
+,	PUNCT
+Hallo	VERB
+,	PUNCT
+Hälli	VERB
+,	PUNCT
+Hallo	VERB
+
+
+Die	PRON
+Arbeit	NOUN
+macht	AUX
+uns	PRON
+frei	VERB
+und	CCONJ
+froh	ADJ
+.	PUNCT
+
+
+--	PUNCT
+Halli	VERB
+,	PUNCT
+Hallo	VERB
+,	PUNCT
+Halli	VERB
+,	PUNCT
+Hallo	VERB
+!	PUNCT
+
+
+--	PUNCT
+Die	PRON
+Arbeit	NOUN
+macht	AUX
+uns	PRON
+froh	ADJ
+.	PUNCT
+
+
+--	PUNCT
+Die	PRON
+schwachen	ADJ
+Mädchen	NOUN
+harken	VERB
+,	PUNCT
+
+
+--	PUNCT
+Es	X
+binden	NOUN
+nur	ADV
+die	PRON
+starken	ADJ
+,	PUNCT
+
+
+--	PUNCT
+:	PUNCT
+Der	DET
+Großknecht	NOUN
+setzet	VERB
+auf	ADP
+:	PUNCT
+.	PUNCT
+
+
+--	PUNCT
+Halli	VERB
+,	PUNCT
+Hallo	NOUN
+ec	VERB
+.	PUNCT
+
+
+--	PUNCT
+Geht	VERB
+es	X
+nach	X
+unserm	ADJ
+Willen	NOUN
+,	PUNCT
+
+
+--	PUNCT
+Woll'n	AUX
+wir	PRON
+die	PRON
+Scheuern	NOUN
+füllen	VERB
+,	PUNCT
+
+
+--	PUNCT
+:	PUNCT
+:	PUNCT
+Bis	CCONJ
+hoch	ADV
+zum	X
+Dach	NOUN
+hinauf	VERB
+.	PUNCT
+:	PUNCT
+:	PUNCT
+
+
+--	PUNCT
+Halli	VERB
+,	PUNCT
+Hallo	NOUN
+ec	VERB
+.	PUNCT
+
+
+--	PUNCT
+Der	DET
+Landmann	NOUN
+baut	VERB
+die	PRON
+Felder	VERB
+,	PUNCT
+
+
+--	PUNCT
+Der	DET
+Städter	NOUN
+schafft	VERB
+die	PRON
+Gelder	VERB
+,	PUNCT
+
+
+--	PUNCT
+:	PUNCT
+So	ADV
+leben	NOUN
+beide	DET
+froh	ADJ
+.	PUNCT
+:	PUNCT
+:	PUNCT
+
+
+--	PUNCT
+Halli	VERB
+,	PUNCT
+Hallo	VERB
+rc	X
+.	PUNCT
+
+
+--	PUNCT
+Der	DET
+Bauer	NOUN
+drischt	VERB
+die	PRON
+Garben	VERB
+,	PUNCT
+
+
+--	PUNCT
+Sonst	VERB
+muß	AUX
+der	DET
+Städter	NOUN
+darben	VERB
+;	PUNCT
+
+
+--	PUNCT
+:	PUNCT
+:	PUNCT
+Drum	ADV
+leh'	VERB
+der	DET
+Bauer	NOUN
+hoch	ADV
+.	PUNCT
+:	PUNCT
+:	PUNCT
+
+
+--	PUNCT
+Halli	VERB
+,	PUNCT
+Hallo	VERB
+rc	X
+.	PUNCT
+
+
+--	PUNCT
+Und	CCONJ
+sind	AUX
+gefüllt	VERB
+die	PRON
+Scheuern	VERB
+,	PUNCT
+
+
+--	PUNCT
+Das	DET
+Erntefest	NOUN
+zu	ADP
+feiern	NOUN
+
+
+--	PUNCT
+"	PUNCT
+.	PUNCT
+Sind	AUX
+wir	PRON
+dann	ADV
+tüchtig	VERB
+da	ADV
+.	PUNCT
+:	PUNCT
+.	PUNCT
+
+
+--	PUNCT
+Halli	VERB
+,	PUNCT
+Hallo	VERB
+rc	X
+.	PUNCT
+
+
+--	PUNCT
+Dann	ADV
+trinken	VERB
+wir	PRON
+und	CCONJ
+singen	VERB
+,	PUNCT
+
+
+--	PUNCT
+Da	ADV
+tanzen	VERB
+wir	PRON
+und	CCONJ
+springen	VERB
+
+
+--	PUNCT
+:	PUNCT
+Und	CCONJ
+küssen	NOUN
+unsern	NOUN
+Schatz	VERB
+.	PUNCT
+:	PUNCT
+,	PUNCT
+:	PUNCT
+
+
+--	PUNCT
+Halli	VERB
+,	PUNCT
+Hallo	VERB
+rc	X
+.	PUNCT
+
+
+--	PUNCT
+Hans	PROPN
+welcher	VERB
+eine	DET
+kleine	ADJ
+Schnapsflasche	NOUN
+bei	X
+sich	PRON
+führt	VERB
+,	PUNCT
+zeitweise	VERB
+verstohlen	ADJ
+daraus	NOUN
+trinkend	VERB
+,	PUNCT
+
+
+--	PUNCT
+hat	AUX
+sich	PRON
+vor	ADP
+Schluß	PROPN
+des	DET
+Gesanges	NOUN
+der	DET
+Grete	NOUN
+genähert	VERB
+und	CCONJ
+vergeblich	VERB
+sie	PRON
+zu	ADP
+küssen	NOUN
+versucht	VERB
+.	PUNCT
+
+
+--	PUNCT
+Jochen	VERB
+steht	VERB
+,	PUNCT
+aufsetzend	VERB
+,	PUNCT
+beim	ADP
+Haufen	NOUN
+.	PUNCT
+Na	ADP
+nu	ADV
+lat't	VERB
+man	PRON
+bald	ADV
+dat	PRON
+olle	ADV
+
+
+Gequar	VERB
+,	PUNCT
+un	CCONJ
+makt	VERB
+dat	PRON
+Ji	PRON
+endlich	ADV
+de	DET
+Schwadd	NOUN
+in	ADP
+Mandeln	NOUN
+kriegt	VERB
+!	PUNCT
+Hans	PROPN
+,	PUNCT
+
+
+--	PUNCT
+lat	VERB
+doch	ADV
+de	DET
+Derns	NOUN
+tofreden	VERB
+.	PUNCT
+Schickt	VERB
+sich	PRON
+dat	DET
+för'n	ADJ
+Grotknecht	NOUN
+Sötholt	VERB
+
+
+to	ADP
+raspeln	NOUN
+bi	ADP
+de	DET
+Arbeit	NOUN
+?	PUNCT
+Wat	PRON
+söln	VERB
+denn	ADV
+de	DET
+Annern	ADJ
+don	NOUN
+?	PUNCT
+Hier	ADV
+help	VERB
+
+
+mi	PRON
+de	DET
+paar	NOUN
+Mandeln	NOUN
+fahrig	VERB
+,	PUNCT
+eh	ADV
+de	DET
+Buer	NOUN
+kümmt	VERB
+,	PUNCT
+nahsten	VERB
+will'n	AUX
+wi	PRON
+
+
+Hans	PROPN
+.	PUNCT
+Nu	ADV
+nu	ADV
+!	PUNCT
+man	ADV
+nich	ADV
+gliek	ADV
+so	ADV
+kratzböstig	VERB
+,	PUNCT
+ick	PRON
+kam	VERB
+all	ADV
+.	PUNCT
+Du	PRON
+
+
+hest	AUX
+dat	PRON
+jo	ADV
+hellschen	ADJ
+hilt	NOUN
+för	VERB
+Dinen	DET
+Buern	NOUN
+,	PUNCT
+wenn't	SCONJ
+son	DET
+Noth	NOUN
+harr	VERB
+,	PUNCT
+künn	AUX
+
+
+de	PRON
+jo	ADV
+sülben	NOUN
+helpen	VERB
+mit	ADP
+sammt	NOUN
+sin	DET
+vörnehmen	NOUN
+jungen	ADJ
+Herrn	NOUN
+,	PUNCT
+de	PRON
+to	ADP
+Hus	NOUN
+
+
+rum	NOUN
+fulenzt	VERB
+.	PUNCT
+Kriegst	VERB
+woll	ADV
+en	DET
+Markstück	NOUN
+mehr	ADV
+de	DET
+Woch	NOUN
+,	PUNCT
+dat	SCONJ
+Du	PRON
+mi	PRON
+
+
+kuntroleren	NOUN
+sast	AUX
+,	PUNCT
+wat	PRON
+?	PUNCT
+Orer	NOUN
+steckt	VERB
+Di	PRON
+Greten	VERB
+in	ADP
+de	DET
+Näs	NOUN
+?	PUNCT
+de	PRON
+nimmt	VERB
+Di	PRON
+
+
+doch	ADV
+nich	ADV
+.	PUNCT
+Nich	ADV
+Greten	VERB
+?	PUNCT
+
+
+--	PUNCT
+Grete	NOUN
+eifrig	VERB
+.	PUNCT
+Na	ADP
+Di	PRON
+doch	ADV
+erst	ADV
+recht	ADV
+nich	ADV
+,	PUNCT
+Du	PRON
+olle	ADV
+Dämelsack	VERB
+!	PUNCT
+
+
+--	PUNCT
+Up	ADP
+Di	PRON
+harr'k	VERB
+just	ADV
+noch	ADV
+luert	VERB
+,	PUNCT
+kümmst	VERB
+mi	PRON
+noch	ADV
+ens	ADV
+,	PUNCT
+denn	ADV
+nehm'k	VERB
+den	DET
+
+
+Harkenstel	VERB
+.	PUNCT
+Alle	PRON
+lachen	VERB
+.	PUNCT
+
+
+--	PUNCT
+Jochen	VERB
+.	PUNCT
+Recht	ADV
+so	ADV
+Greten	VERB
+,	PUNCT
+wisch	VERB
+em	PRON
+düchtig	ADJ
+.	PUNCT
+Seine	X
+Uhr	NOUN
+ziehend	VERB
+.	PUNCT
+Na	ADP
+
+
+nu	ADV
+samt	VERB
+man	ADV
+,	PUNCT
+'t	PRON
+is	AUX
+wahrhaftig	VERB
+all	ADV
+Vespertied	NOUN
+.	PUNCT
+Hinausrufend	NOUN
+Crischan	VERB
+,	PUNCT
+
+
+--	PUNCT
+bring	VERB
+de	DET
+Tabel	NOUN
+un	CCONJ
+mein	X
+Kittel	NOUN
+mit	ADP
+,	PUNCT
+will'n	AUX
+vespern	VERB
+!	PUNCT
+Hörst	VERB
+Du	PRON
+?	PUNCT
+
+
+--	PUNCT
+Rufe	VERB
+;	PUNCT
+Bespern	VERB
+!	PUNCT
+Bespern	VERB
+!	PUNCT
+
+
+--	PUNCT
+Die	PRON
+Vorigen	VERB
+.	PUNCT
+
+
+--	PUNCT
+Crischan	VERB
+mit	ADP
+Jochens	NOUN
+Kittel	VERB
+,	PUNCT
+Knechte	VERB
+und	CCONJ
+Mädchen	NOUN
+mit	ADP
+Taschen	NOUN
+und	CCONJ
+Körben	NOUN
+rtc	VERB
+.	PUNCT
+
+
+--	PUNCT
+treten	VERB
+auf	ADP
+.	PUNCT
+Alle	PRON
+lagern	VERB
+sich	PRON
+,	PUNCT
+Eßwaaren	NOUN
+hervorkramend	VERB
+.	PUNCT
+
+
+--	PUNCT
+Hans	PROPN
+aus	ADP
+einem	DET
+großen	ADJ
+Kruge	NOUN
+,	PUNCT
+der	PRON
+die	PRON
+Runde	VERB
+macht	NOUN
+,	PUNCT
+dem	PRON
+Jochen	VERB
+zutrinkend	VERB
+.	PUNCT
+Prost	VERB
+
+
+Jochen	VERB
+!	PUNCT
+Willn	VERB
+uns	PRON
+wedder	ADV
+verdragen	VERB
+.	PUNCT
+
+
+--	PUNCT
+Jochen	VERB
+hat	AUX
+seinen	ADJ
+Kittel	NOUN
+übergezogen	VERB
+.	PUNCT
+Prost	VERB
+Hans	PROPN
+!	PUNCT
+Wie	PRON
+hebb'n	AUX
+uns	PRON
+jo	ADV
+
+
+noch	ADV
+nich	ADV
+vertörnt	VERB
+.	PUNCT
+Dem	DET
+Michel	NOUN
+wieder	ADV
+zutrinkend	VERB
+,	PUNCT
+der	PRON
+in	ADP
+gleicher	NOUN
+Weise	VERB
+den	DET
+Krug	NOUN
+,	PUNCT
+auch	X
+den	DET
+
+
+Mädchen	NOUN
+zutrinkend	VERB
+,	PUNCT
+weiter	ADV
+giebt	VERB
+.	PUNCT
+Prost	VERB
+Michel	PROPN
+!	PUNCT
+
+
+--	PUNCT
+Hans	PROPN
+.	PUNCT
+Dunner	PROPN
+un	CCONJ
+Düvel	VERB
+,	PUNCT
+wo	SCONJ
+schmeckt	VERB
+de	DET
+Schnaps	NOUN
+hüt	ADV
+wedder	ADV
+
+
+schlecht	ADV
+.	PUNCT
+Kratzt	VERB
+nich	ADV
+en	DET
+Beten	ADJ
+,	PUNCT
+den	PRON
+hebb'n	AUX
+s'	VERB
+gehörig	NOUN
+döpt	VERB
+,	PUNCT
+de	PRON
+is	AUX
+jo	ADV
+as	CCONJ
+
+
+dat	DET
+reine	ADJ
+Water	NOUN
+;	PUNCT
+wat	PRON
+meinst	VERB
+Du	PRON
+,	PUNCT
+Jochen	VERB
+,	PUNCT
+schmeckt	VERB
+he	PRON
+Di	PRON
+?	PUNCT
+
+
+--	PUNCT
+Jochen	VERB
+.	PUNCT
+En	DET
+Beten	ADJ
+flau	NOUN
+is	AUX
+he	PRON
+,	PUNCT
+öwerst	VERB
+ick	PRON
+mag	AUX
+em	PRON
+uck	VERB
+nich	ADV
+so	ADV
+
+
+scharp	ADJ
+,	PUNCT
+un	CCONJ
+Du	PRON
+mußt	AUX
+doch	ADV
+uck	ADJ
+bedenken	NOUN
+,	PUNCT
+dat	PRON
+de	DET
+Frunslüd	NOUN
+uck	VERB
+von	ADP
+drinken	VERB
+
+
+möten	VERB
+,	PUNCT
+de	DET
+warn	NOUN
+uns	PRON
+sůnst	VERB
+jo	ADV
+blau	ADJ
+.	PUNCT
+
+
+--	PUNCT
+Haus	PROPN
+lacht	VERB
+.	PUNCT
+Na	ADP
+davon	ADV
+nich	ADV
+.	PUNCT
+Du	PRON
+bist	AUX
+doch	ADV
+uck	VERB
+en	DET
+Kerl	NOUN
+as	CCONJ
+son	DET
+
+
+olles	NOUN
+Wiev	VERB
+;	PUNCT
+mi	PRON
+dücht	VERB
+,	PUNCT
+de	DET
+Schnaps	NOUN
+is	AUX
+uck	VERB
+noch	ADV
+för	VERB
+uns'	DET
+Frunslüd	NOUN
+to	ADP
+
+
+schwach	ADJ
+,	PUNCT
+wat	PRON
+seggst	VERB
+Du	PRON
+Greten	VERB
+?	PUNCT
+
+
+--	PUNCT
+Grete	VERB
+.	PUNCT
+Ick	PRON
+segg	VERB
+dat	DET
+Du'n	NOUN
+oll	ADJ
+Suptäk	NOUN
+bist	AUX
+.	PUNCT
+Mi	PRON
+is	AUX
+de	DET
+Brann	NOUN
+
+
+--	PUNCT
+wien	PROPN
+vel	ADV
+to	ADP
+stark	ADJ
+,	PUNCT
+en	DET
+Schluck	NOUN
+recht	ADV
+gooden	ADJ
+Caffee	NOUN
+wär	AUX
+mi	PRON
+leever	VERB
+.	PUNCT
+
+
+--	PUNCT
+Hans	PROPN
+.	PUNCT
+Caffee	VERB
+?	PUNCT
+ja	INTJ
+dat	PRON
+glöv	VERB
+ick	PRON
+sacht	ADV
+;	PUNCT
+Di	PRON
+wär	AUX
+dat	PRON
+immer	ADV
+all	ADV
+
+
+gefährlich	NOUN
+fien	ADJ
+ant	NOUN
+Liev	VERB
+;	PUNCT
+Du	PRON
+wist	AUX
+woll	ADV
+mol	VERB
+en	DET
+Doctor	NOUN
+frien	VERB
+?	PUNCT
+Kieck	VERB
+
+
+Lieschen	NOUN
+doch	ADV
+mal	ADV
+an	ADP
+,	PUNCT
+de	PRON
+nimmt	VERB
+en	DET
+annern	ADJ
+Zug	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Liese	VERB
+.	PUNCT
+Je	ADV
+ick	PRON
+hebb	AUX
+uck	ADJ
+Döst	NOUN
+.	PUNCT
+Oevrigens	NOUN
+verbidd	VERB
+ick	PRON
+mi	PRON
+dat	DET
+
+
+Uemdöpen	VERB
+en	DET
+beting	NOUN
+von	ADP
+Di	PRON
+Hans	PROPN
+,	PUNCT
+ick	PRON
+heet	VERB
+Liesing	NOUN
+un	CCONJ
+nich	ADV
+Lieschen	VERB
+.	PUNCT
+
+
+--	PUNCT
+Lieschen	NOUN
+hitt	VERB
+den	DET
+Herrn	NOUN
+sin	DET
+Riedperd	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Hans	PROPN
+.	PUNCT
+Na	ADP
+"	PUNCT
+Liesing	VERB
+"	PUNCT
+dat	PRON
+is	AUX
+mekelbörgsch	VERB
+,	PUNCT
+un	CCONJ
+wie	PRON
+sind	AUX
+hier	ADV
+in	ADP
+
+
+Michel	NOUN
+.	PUNCT
+Ach	VERB
+wat	PRON
+,	PUNCT
+striedt	VERB
+Ju	PRON
+doch	ADV
+nich	ADV
+immer	ADV
+,	PUNCT
+leverst	VERB
+soll	AUX
+uns	PRON
+
+
+Liesing	VERB
+en	PRON
+von	ADP
+er	DET
+mekelbörgschen	ADJ
+Leeder	NOUN
+singen	VERB
+;	PUNCT
+dat	DET
+klingt	NOUN
+so	ADV
+schier	ADV
+,	PUNCT
+as	CCONJ
+
+
+wenn	SCONJ
+de	DET
+Köster	NOUN
+beiern	VERB
+deit	AUX
+.	PUNCT
+
+
+--	PUNCT
+Liese	VERB
+.	PUNCT
+Ach	INTJ
+nee	NOUN
+,	PUNCT
+min	DET
+Höhning	NOUN
+!	PUNCT
+ick	PRON
+sing	VERB
+nich	ADV
+up	ADP
+Commando	NOUN
+,	PUNCT
+un	CCONJ
+
+
+sied	NOUN
+de	DET
+Herr	NOUN
+min	DET
+Schwester	NOUN
+Hauning	VERB
+wegjagt	NOUN
+hett	AUX
+,	PUNCT
+sing	VERB
+ick	PRON
+Ju	PRON
+
+
+janiks	NOUN
+mehr	ADV
+.	PUNCT
+
+
+--	PUNCT
+Hans	PROPN
+.	PUNCT
+Je	ADV
+,	PUNCT
+mit	ADP
+de	PRON
+wär	AUX
+dat	DET
+uck	ADJ
+Tied	NOUN
+;	PUNCT
+de	PRON
+hett	AUX
+uns	PRON
+Eten	VERB
+kakt	VERB
+,	PUNCT
+
+
+--	PUNCT
+echt	NOUN
+mekelbörgsch	VERB
+,	PUNCT
+keen	DET
+Hund	NOUN
+künn	AUX
+dat	DET
+verdauen	NOUN
+;	PUNCT
+un	CCONJ
+Brod	NOUN
+hett	AUX
+se	PRON
+doch	ADV
+
+
+backt	VERB
+,	PUNCT
+so	ADV
+schwart	ADJ
+as	CCONJ
+Rautz	NOUN
+in'n	ADP
+Schornsteen	NOUN
+.	PUNCT
+Harr	VERB
+dat	PRON
+noch	ADV
+länger	ADV
+
+
+durt	VERB
+,	PUNCT
+wär	AUX
+ick	PRON
+verhungert	VERB
+.	PUNCT
+
+
+--	PUNCT
+Liese	VERB
+.	PUNCT
+Je	ADV
+,	PUNCT
+Du	PRON
+bist	AUX
+uck	VERB
+man	PRON
+Schuld	VERB
+,	PUNCT
+Du	PRON
+wetst	VERB
+jo	ADV
+immer	ADV
+wat	PRON
+.	PUNCT
+
+
+--	PUNCT
+Is	AUX
+dat	PRON
+Eten	VERB
+nu	ADV
+denn	ADV
+beter	ADJ
+?	PUNCT
+De	DET
+oll	ADJ
+Susing	NOUN
+brugt	VERB
+ok	ADV
+wat	PRON
+Schiers	VERB
+
+
+torecht	ADV
+.	PUNCT
+De	PRON
+kann	AUX
+jo	ADV
+nich	ADV
+mehr	ADV
+kieken	VERB
+.	PUNCT
+Hüt	ADV
+morg'n	VERB
+wull	AUX
+se	PRON
+mi	PRON
+recht	ADV
+
+
+wat	PRON
+to	ADP
+Gooden	ADJ
+don	NOUN
+,	PUNCT
+un	CCONJ
+mi	PRON
+den	DET
+Caffee	ADJ
+söt	NOUN
+maken	VERB
+,	PUNCT
+ratsch	VERB
+,	PUNCT
+schmitt	VERB
+se	PRON
+mi	PRON
+
+
+en	DET
+Hand	NOUN
+vull	ADV
+Solt	VERB
+statt	ADP
+Zucker	NOUN
+mang	ADP
+.	PUNCT
+
+
+--	PUNCT
+Michel	PROPN
+.	PUNCT
+Je	ADV
+de	DET
+Ollsch	NOUN
+is	AUX
+so	ADV
+verleevt	VERB
+,	PUNCT
+se	PRON
+ward	AUX
+an	ADP
+eren	DET
+Schatz	NOUN
+hebb'n	AUX
+
+
+dacht	VERB
+.	PUNCT
+Wie	PRON
+krieg'n	VERB
+dis	ADJ
+Dag	NOUN
+en	DET
+anner	ADJ
+Käksch	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Grete	VERB
+.	PUNCT
+Wer	PRON
+is	AUX
+denn	ADV
+woll	ADV
+er	DET
+Schatz	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Liese	VERB
+.	PUNCT
+Dat	PRON
+ward	AUX
+doch	ADV
+Michel	NOUN
+sind	AUX
+.	PUNCT
+Alle	PRON
+lachen	VERB
+.	PUNCT
+
+
+--	PUNCT
+Michel	PROPN
+.	PUNCT
+Na	ADP
+ick	PRON
+Dank	ADV
+för	ADJ
+Suschen	NOUN
+,	PUNCT
+min	DET
+Großmutter	NOUN
+künn	AUX
+se	PRON
+
+
+eher	ADV
+wesen	AUX
+.	PUNCT
+-	PUNCT
+Oeverst	NOUN
+Derns	VERB
+,	PUNCT
+nu	ADV
+singt	VERB
+en	DET
+Beten	ADJ
+.	PUNCT
+Greten	VERB
+,	PUNCT
+wenn	SCONJ
+
+
+Liesing	NOUN
+nich	ADV
+will	AUX
+,	PUNCT
+denn	ADV
+mußt	AUX
+Du	PRON
+ranner	ADV
+.	PUNCT
+Du	PRON
+kannst	AUX
+jo	ADV
+uck	VERB
+up	ADP
+Platt	NOUN
+
+
+--	PUNCT
+dütsch	ADJ
+singen	NOUN
+;	PUNCT
+dat	PRON
+hör	VERB
+ick	PRON
+jo	ADV
+to	ADP
+gern	ADV
+,	PUNCT
+de	PRON
+olle	ADV
+hochdütsche	ADJ
+Kram	NOUN
+geht	VERB
+lang	ADV
+
+
+nich	ADV
+so	ADV
+to	ADP
+Harten	NOUN
+.	PUNCT
+Sing	VERB
+min	DET
+Dern	NOUN
+,	PUNCT
+ick	PRON
+gev	VERB
+Di	PRON
+uck	VERB
+en	DET
+Schmatz	NOUN
+up	ADP
+
+
+beide	DET
+Backen	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Grete	VERB
+.	PUNCT
+Ick	PRON
+war	AUX
+Di'n	ADJ
+Ohrfeig	NOUN
+geb'n	VERB
+up	ADP
+beide	DET
+Backen	NOUN
+.	PUNCT
+Schlägt	VERB
+
+
+ihn	PRON
+auf	ADP
+die	PRON
+Wange	VERB
+.	PUNCT
+Leever	NOUN
+do	VERB
+ick't	PRON
+ümsünst	ADV
+.	PUNCT
+Gelächter	VERB
+.	PUNCT
+
+
+--	PUNCT
+Michel	PROPN
+sich	PRON
+die	PRON
+Backe	NOUN
+reibend	VERB
+,	PUNCT
+zu	ADP
+Liefe	NOUN
+.	PUNCT
+Dunner	PROPN
+Düvel	VERB
+,	PUNCT
+de	PRON
+schleit	VERB
+en	DET
+goode	ADJ
+
+
+Handschrift	VERB
+,	PUNCT
+dat	PRON
+wär	AUX
+glupsch	VERB
+.	PUNCT
+Kiek	VERB
+mal	ADV
+Liesing	VERB
+,	PUNCT
+is	AUX
+de	DET
+Back	NOUN
+nich	ADV
+rod	VERB
+
+
+un	CCONJ
+dick	ADV
+?	PUNCT
+
+
+--	PUNCT
+Liese	VERB
+.	PUNCT
+Arme	ADJ
+Jung	NOUN
+,	PUNCT
+Du	PRON
+warst	VERB
+en	DET
+schewen	ADJ
+Kopp	NOUN
+kriegen	VERB
+;	PUNCT
+ick	PRON
+war	AUX
+
+
+die	PRON
+fix	ADV
+en	DET
+Plaster	NOUN
+leggen	VERB
+up	ADP
+de	DET
+anner	ADJ
+Sied	NOUN
+.	PUNCT
+Schlägt	VERB
+ihn	PRON
+auf	ADP
+die	PRON
+andere	NOUN
+Wange	VERB
+;	PUNCT
+
+
+--	PUNCT
+Alle	PRON
+lachen	VERB
+.	PUNCT
+
+
+--	PUNCT
+Michel	PROPN
+.	PUNCT
+Dunner	PROPN
+Düvel	VERB
+,	PUNCT
+de	DET
+versteht't	NOUN
+noch	ADV
+beter	ADJ
+.	PUNCT
+Sich	PRON
+die	PRON
+Wange	NOUN
+haltend	VERB
+.	PUNCT
+
+
+--	PUNCT
+Na	ADP
+tövt	NOUN
+man	ADV
+,	PUNCT
+up	ADP
+de	DET
+Austköst	NOUN
+danz	VERB
+ick	PRON
+nich	ADV
+en	DET
+Schritt	NOUN
+mit	ADP
+Ju	PRON
+.	PUNCT
+
+
+--	PUNCT
+Jochen	VERB
+.	PUNCT
+Na	ADP
+Greten	NOUN
+,	PUNCT
+nu	ADV
+sing	VERB
+uns	PRON
+fir	VERB
+en	DET
+Strämel	NOUN
+,	PUNCT
+denn	ADV
+gat	VERB
+wi	PRON
+
+
+wedder	ADV
+an	ADP
+de	DET
+Arbeit	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Grete	VERB
+.	PUNCT
+Na	ADP
+denn	ADV
+möt	VERB
+ick	PRON
+woll	ADV
+.	PUNCT
+Eingt	VERB
+:	PUNCT
+
+
+--	PUNCT
+No	VERB
+.	PUNCT
+.	PUNCT
+Lied	VERB
+.	PUNCT
+
+
+--	PUNCT
+Ick	PRON
+sall	AUX
+Ju	PRON
+wat	PRON
+sing'n	VERB
+
+
+Von	ADP
+Freud	NOUN
+und	CCONJ
+von	ADP
+Lust	NOUN
+,	PUNCT
+
+
+--	PUNCT
+Un	CCONJ
+doch	ADV
+will	AUX
+mi	PRON
+spring'n	VERB
+
+
+Dat	DET
+Hart	ADJ
+in	ADP
+de	DET
+Brust	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Min	DET
+Hart	ADJ
+is	AUX
+so	ADV
+krank	ADJ
+,	PUNCT
+
+
+--	PUNCT
+Min	DET
+Hart	ADJ
+is	AUX
+so	ADV
+schwer	ADJ
+.	PUNCT
+
+
+--	PUNCT
+Ick	PRON
+möcht	VERB
+woll	ADV
+wat	PRON
+sing'n	VERB
+
+
+Un	CCONJ
+kann	AUX
+doch	ADV
+nicht	ADV
+mehr	ADV
+.	PUNCT
+
+
+--	PUNCT
+Ick	PRON
+wünsch	VERB
+mi	PRON
+en'n	NOUN
+Schatz	VERB
+,	PUNCT
+
+
+--	PUNCT
+So	ADV
+tru	VERB
+un	CCONJ
+so	ADV
+good	ADJ
+,	PUNCT
+
+
+--	PUNCT
+Just	ADV
+as	CCONJ
+ick	PRON
+em	PRON
+sehn	VERB
+,	PUNCT
+
+
+--	PUNCT
+So	ADV
+frisch	ADV
+un	CCONJ
+so	ADV
+roth	ADJ
+.	PUNCT
+
+
+--	PUNCT
+Min	DET
+Schatz	NOUN
+is	AUX
+so	ADV
+frisch	ADV
+,	PUNCT
+
+
+--	PUNCT
+Min	DET
+Schatz	NOUN
+is	AUX
+so	ADV
+roth	ADJ
+,	PUNCT
+
+
+--	PUNCT
+Min	DET
+Schatz	NOUN
+is	AUX
+min	DET
+Leb'n	NOUN
+,	PUNCT
+
+
+--	PUNCT
+Un	CCONJ
+doch	ADV
+för	VERB
+mi	PRON
+dood	ADV
+.	PUNCT
+
+
+--	PUNCT
+Rufe	VERB
+:	PUNCT
+Ach	VERB
+wo	SCONJ
+schön	ADV
+!	PUNCT
+Grete	NOUN
+weinend	VERB
+ab	X
+nach	X
+rechts	ADV
+.	PUNCT
+
+
+--	PUNCT
+Vorige	VERB
+ohne	SCONJ
+Grete	VERB
+.	PUNCT
+
+
+--	PUNCT
+Jochen	VERB
+.	PUNCT
+Na	ADP
+nu	ADV
+!	PUNCT
+Wat	PRON
+is	AUX
+denn	ADV
+dat	PRON
+,	PUNCT
+Greten	NOUN
+weent	VERB
+ja	ADJ
+woll	ADV
+?	PUNCT
+
+
+--	PUNCT
+Liese	VERB
+.	PUNCT
+Dat	PRON
+is	AUX
+niks	NOUN
+Niegs	VERB
+,	PUNCT
+wenn	SCONJ
+se	PRON
+singt	VERB
+,	PUNCT
+denn	ADV
+weent	VERB
+se	PRON
+immer	ADV
+.	PUNCT
+
+
+--	PUNCT
+Hans	PROPN
+.	PUNCT
+Je	ADV
+se	PRON
+mag	AUX
+woll	ADV
+Ursak-hebben	VERB
+;	PUNCT
+ick	PRON
+glöv	VERB
+,	PUNCT
+de	PRON
+hett	AUX
+unsen	DET
+
+
+jungen	ADJ
+Herren	NOUN
+to	ADP
+deep	ADJ
+in	ADP
+de	DET
+düstern	NOUN
+Ogen	NOUN
+keeken	VERB
+.	PUNCT
+
+
+--	PUNCT
+Jochen	VERB
+.	PUNCT
+Dunner	PROPN
+un	CCONJ
+de	DET
+Düwel	NOUN
+!	PUNCT
+Kiekst	VERB
+Du	PRON
+Kater	VERB
+ut	ADP
+de	DET
+Luk	NOUN
+?	PUNCT
+
+
+--	PUNCT
+Dorüm	VERB
+is	AUX
+de	DET
+Dern	NOUN
+uck	VERB
+all	ADV
+sied	NOUN
+vierthein	VERB
+Dagen	NOUN
+so	ADV
+upsternatsch	VERB
+to	ADP
+mi	PRON
+.	PUNCT
+
+
+--	PUNCT
+Na	ADP
+töy	NOUN
+!	PUNCT
+
+
+--	PUNCT
+Hans	PROPN
+.	PUNCT
+Na	ADP
+segg	VERB
+mal	ADV
+Jochen	VERB
+,	PUNCT
+is	AUX
+dat	PRON
+nich	ADV
+'ne	DET
+Schand	NOUN
+,	PUNCT
+wi	PRON
+möten	VERB
+
+
+uns	PRON
+hier	ADV
+quälen	VERB
+,	PUNCT
+un	CCONJ
+de	DET
+junge	ADJ
+Herr	NOUN
+,	PUNCT
+de	DET
+grote	ADJ
+Bengel	NOUN
+liggt	VERB
+to	ADP
+Hus	NOUN
+up	ADP
+
+
+de	DET
+fule	ADJ
+Sied	NOUN
+noch	ADV
+to	ADP
+jitzt	ADV
+in'n	ADP
+Aust	NOUN
+,	PUNCT
+wo	SCONJ
+wi	PRON
+nich	ADV
+Mannschaften	ADJ
+nooch	NOUN
+-	PUNCT
+--	PUNCT
+Jochen	VERB
+unterbrechend	VERB
+.	PUNCT
+Still	ADV
+,	PUNCT
+mi	PRON
+dücht	VERB
+,	PUNCT
+ick	PRON
+hörte	VERB
+scheeten	VERB
+,	PUNCT
+de	DET
+Herr	NOUN
+
+
+ward	AUX
+kamen	VERB
+.	PUNCT
+Wat	PRON
+helpt	VERB
+all	ADV
+dat	DET
+Reden	NOUN
+,	PUNCT
+wenn	SCONJ
+de	DET
+Schoh	NOUN
+nich	ADV
+passen	VERB
+.	PUNCT
+
+
+--	PUNCT
+Flink	ADV
+an	ADP
+de	DET
+Arbeit	NOUN
+,	PUNCT
+de	DET
+Tied	NOUN
+is	AUX
+um	ADP
+.	PUNCT
+Rufe	VERB
+:	PUNCT
+An	ADP
+de	DET
+Arbeit	NOUN
+!	PUNCT
+de	DET
+Herr	NOUN
+de	PRON
+kümmt	VERB
+.	PUNCT
+
+
+--	PUNCT
+Alle	PRON
+rüsten	VERB
+und	CCONJ
+gehen	VERB
+ebenfalls	PROPN
+nach	X
+rechts	ADV
+ab	X
+,	PUNCT
+folgende	NOUN
+Strophe	VERB
+des	DET
+ersten	ADJ
+Liedes	NOUN
+singend	VERB
+:	PUNCT
+
+
+--	PUNCT
+Gestärkt	VERB
+sind	AUX
+neu	VERB
+die	PRON
+Glieder	VERB
+,	PUNCT
+
+
+--	PUNCT
+Jetzt	ADV
+an	ADP
+die	PRON
+Arbeit	NOUN
+wieder	ADV
+
+
+Mit	ADP
+frischer	ADJ
+Kraft	NOUN
+und	CCONJ
+Lust	NOUN
+.	PUNCT
+:	PUNCT
+.	PUNCT
+
+
+--	PUNCT
+Halli	VERB
+,	PUNCT
+Hallo	VERB
+rc	X
+.	PUNCT
+
+
+--	PUNCT
+Alle	PRON
+ab	X
+.	PUNCT
+
+
+--	PUNCT
+Hans	PROPN
+welcher	NOUN
+zurückkehrt	VERB
+,	PUNCT
+nimmt	VERB
+den	DET
+Krug	NOUN
+,	PUNCT
+trinkt	NOUN
+tüchtig	VERB
+,	PUNCT
+läßt	VERB
+ihn	PRON
+dann	ADV
+bei	X
+den	PRON
+auf	ADP
+
+
+--	PUNCT
+gestellten	VERB
+Garben	NOUN
+stehen	VERB
+und	CCONJ
+geht	VERB
+wieder	ADV
+langsam	ADV
+rechts	ADV
+ab	X
+.	PUNCT
+-	PUNCT
+Während	VERB
+nun	ADV
+der	DET
+Gesang	NOUN
+in	ADP
+der	DET
+
+
+Ferne	NOUN
+verhallt	VERB
+und	CCONJ
+auch	X
+die	PRON
+Musit	VERB
+die	PRON
+letzten	ADJ
+Tacte	NOUN
+spielt	VERB
+,	PUNCT
+tritt	NOUN
+Barko	VERB
+auf	ADP
+.	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+.	PUNCT
+Hans	PROPN
+.	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+mit	ADP
+Flinte	NOUN
+von	ADP
+links	ADV
+,	PUNCT
+Hans	PROPN
+zurückrufend	VERB
+.	PUNCT
+Hans	PROPN
+,	PUNCT
+Hans	PROPN
+!	PUNCT
+
+
+--	PUNCT
+Hans	PROPN
+angetrunken	NOUN
+kommt	VERB
+vor	ADP
+.	PUNCT
+Hier	ADV
+bin	AUX
+ick	PRON
+Herr	NOUN
+,	PUNCT
+wat	PRON
+sall	AUX
+ick	PRON
+?	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+.	PUNCT
+Ick	PRON
+glöv	VERB
+,	PUNCT
+dat	DET
+Weder	NOUN
+ward	AUX
+sich	PRON
+hollen	VERB
+.	PUNCT
+Makt	VERB
+,	PUNCT
+dat	SCONJ
+Ji	PRON
+
+
+den	DET
+Roggen	NOUN
+hüt	ADV
+noch	ADV
+inkriegt	VERB
+;	PUNCT
+wi	PRON
+möten	VERB
+morgen	ADV
+an	ADP
+den	DET
+Waiten	NOUN
+gahn	VERB
+,	PUNCT
+
+
+--	PUNCT
+dat	PRON
+is	AUX
+de	DET
+höchste	ADJ
+Tied	NOUN
+mit	ADP
+em	PRON
+,	PUNCT
+he	PRON
+is	AUX
+up	ADP
+Stell'n	VERB
+all	ADV
+överriep	VERB
+.	PUNCT
+Stellt	VERB
+die	PRON
+
+
+Flinte	NOUN
+an	ADP
+einen	DET
+Baum	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Hans	PROPN
+.	PUNCT
+Je	ADV
+Herr	NOUN
+,	PUNCT
+wo	SCONJ
+sall	AUX
+dat	DET
+möglich	NOUN
+sind	AUX
+?	PUNCT
+Wi	PRON
+krieg'n	VERB
+doch	ADV
+hüt	ADV
+
+
+nich	ADV
+mehr	ADV
+den	DET
+Roggen	NOUN
+in	ADP
+de	DET
+Schün'n	NOUN
+,	PUNCT
+dat	PRON
+is	AUX
+denn	ADV
+doch	ADV
+to	ADP
+vel	ADV
+;	PUNCT
+dood	ADV
+
+
+arbeiden	NOUN
+kann'n	VERB
+sich	PRON
+doch	ADV
+uck	VERB
+nich	ADV
+grad	VERB
+.	PUNCT
+Je	ADV
+,	PUNCT
+wenn'n	VERB
+noch	ADV
+orndlich	ADJ
+wat	PRON
+
+
+to	ADP
+drinken	NOUN
+harr	VERB
+!	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+.	PUNCT
+Dood	ADV
+arbeiden	VERB
+?	PUNCT
+Wat	PRON
+dröhnst	VERB
+Du	PRON
+da	ADV
+,	PUNCT
+glövst	VERB
+Du	PRON
+,	PUNCT
+ick	PRON
+
+
+künn	AUX
+mi	PRON
+nich	ADV
+bereken	VERB
+,	PUNCT
+wat	PRON
+Ji	PRON
+hüt	ADV
+noch	ADV
+schaffen	ADJ
+könt	NOUN
+?	PUNCT
+Hebb	AUX
+ick	PRON
+all	ADV
+
+
+mal	ADV
+to	ADP
+vel	ADV
+von	ADP
+Ju	PRON
+verlangt	VERB
+?	PUNCT
+-	PUNCT
+Dat	DET
+beten	ADJ
+Korn	NOUN
+is	AUX
+doch	ADV
+bi	ADP
+gooden	ADJ
+
+
+Willen	NOUN
+för	VERB
+all	ADV
+de	DET
+Lüd	NOUN
+man	ADV
+Spälerie	VERB
+.	PUNCT
+Doch	ADV
+wo	SCONJ
+Du	PRON
+rut	ADV
+wist	VERB
+,	PUNCT
+dat	PRON
+weet	VERB
+
+
+ick	PRON
+woll	ADV
+;	PUNCT
+Du	PRON
+meinst	VERB
+ick	PRON
+süll	AUX
+noch	ADV
+erst	ADV
+en	DET
+Faß	NOUN
+vull	ADV
+Brannwien	NOUN
+schicken	VERB
+,	PUNCT
+
+
+--	PUNCT
+damit	ADV
+de	DET
+Meisten	ADJ
+sich	PRON
+erst	ADV
+besupen	VERB
+,	PUNCT
+un	CCONJ
+denn	ADV
+erst	ADV
+recht	ADV
+niks	ADJ
+don	NOUN
+.	PUNCT
+Dat	PRON
+
+
+geht	VERB
+nich	ADV
+los	ADV
+,	PUNCT
+min	DET
+Söhn	NOUN
+.	PUNCT
+Mi	PRON
+dücht	VERB
+,	PUNCT
+Du	PRON
+hest	AUX
+hüt	ADV
+uck	VERB
+all	ADV
+nooch	VERB
+.	PUNCT
+Ick	PRON
+
+
+glöv	VERB
+,	PUNCT
+Du	PRON
+bist	AUX
+jetzt	ADV
+up	ADP
+den	DET
+besten	NOUN
+Weg	ADV
+den	DET
+Drunk	NOUN
+Di	PRON
+antowennen	VERB
+.	PUNCT
+
+
+--	PUNCT
+Wenn	SCONJ
+ick	PRON
+dat	DET
+mark	NOUN
+,	PUNCT
+denn	ADV
+is't	AUX
+vörbi	VERB
+mit	ADP
+uns	PRON
+;	PUNCT
+min	DET
+Grotknecht	NOUN
+darf	AUX
+nich	ADV
+
+
+supen	VERB
+,	PUNCT
+dat	PRON
+lied	VERB
+ick	PRON
+nich	ADV
+.	PUNCT
+Verstehst	VERB
+mi	PRON
+woll	ADV
+?	PUNCT
+
+
+--	PUNCT
+Hans	PROPN
+.	PUNCT
+Wem	PRON
+seggt	VERB
+all	ADV
+dat	SCONJ
+ick	PRON
+supen	NOUN
+do	VERB
+?	PUNCT
+Oeverst	VERB
+in'n	ADP
+Aust	NOUN
+
+
+gehört	VERB
+en	DET
+dücht'gen	ADJ
+Schluck	NOUN
+,	PUNCT
+dat	PRON
+is	AUX
+bi	ADP
+jeden	DET
+Buern	NOUN
+Mood	VERB
+;	PUNCT
+doch	ADV
+uns'	DET
+
+
+oll	ADJ
+Tügs	NOUN
+,	PUNCT
+dat	PRON
+is	AUX
+as	CCONJ
+Water	NOUN
+,	PUNCT
+dat	PRON
+paßt	VERB
+mi	PRON
+lang	ADV
+nich	ADV
+mehr	ADV
+,	PUNCT
+un	CCONJ
+wennt	VERB
+
+
+nich	ADV
+anners	ADV
+ward	AUX
+,	PUNCT
+denn	ADV
+gah	VERB
+ick	PRON
+af	ADP
+.	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+.	PUNCT
+Wat	PRON
+wust	VERB
+Du	PRON
+don	VERB
+?	PUNCT
+Du	PRON
+Worm	NOUN
+,	PUNCT
+den	PRON
+ick	PRON
+halv	VERB
+ver	ADP
+
+
+--	PUNCT
+hungert	VERB
+up	ADP
+de	DET
+Landstrat	NOUN
+funn	VERB
+,	PUNCT
+un	CCONJ
+rein	ADV
+ut	ADP
+Mitleed	NOUN
+in	ADP
+min	DET
+Hus	NOUN
+hebb	AUX
+
+
+nahm'n	VERB
+.	PUNCT
+Du	PRON
+wust	VERB
+mi	PRON
+hier	ADV
+en	DET
+Schippstohl	NOUN
+setten	VERB
+?	PUNCT
+Jitzt	ADV
+in'n	ADP
+Aust	NOUN
+,	PUNCT
+wo	SCONJ
+
+
+mi	PRON
+de	DET
+Lüd	NOUN
+so	ADV
+knapp	ADV
+.	PUNCT
+Is	AUX
+dat	PRON
+de	DET
+Dank	NOUN
+,	PUNCT
+Du	PRON
+Lümmel	VERB
+,	PUNCT
+för	VERB
+all	ADV
+dat	DET
+Goods	NOUN
+,	PUNCT
+
+
+--	PUNCT
+wat	PRON
+ick	PRON
+an	ADP
+Di	PRON
+un	CCONJ
+Dine	VERB
+Mutter	NOUN
+dahn	AUX
+?	PUNCT
+Erhebt	VERB
+drohend	ADJ
+seinen	NOUN
+Stock	VERB
+.	PUNCT
+Gliek	ADV
+
+
+an	ADP
+de	DET
+Arbeit	NOUN
+,	PUNCT
+marsch	PROPN
+!	PUNCT
+!	PUNCT
+
+
+--	PUNCT
+Hans	PROPN
+jetzt	ADV
+schon	ADV
+sehr	ADV
+betrunken	VERB
+.	PUNCT
+Wat	PRON
+,	PUNCT
+Ii	PRON
+will'n	AUX
+mi	PRON
+schlagen	VERB
+?	PUNCT
+Ick	PRON
+
+
+bräk	NOUN
+Ju'n	VERB
+Hals	NOUN
+!	PUNCT
+Ergreift	VERB
+die	PRON
+Flinte	VERB
+.	PUNCT
+Nu	ADV
+kumm	VERB
+mi	PRON
+man	ADV
+to	ADP
+nah	ADJ
+,	PUNCT
+ick	PRON
+
+
+scheet	VERB
+Di	PRON
+dood	ADV
+,	PUNCT
+wi'n	VERB
+dullen	ADJ
+Hund	NOUN
+.	PUNCT
+Dat	PRON
+ganz	ADV
+oll	ADJ
+Buervolk	NOUN
+is	AUX
+uck	ADJ
+niks	NOUN
+
+
+Bäters	NOUN
+werth	ADV
+.	PUNCT
+Wi	PRON
+möten	VERB
+uns	PRON
+quälen	VERB
+,	PUNCT
+Dagut	VERB
+,	PUNCT
+Dagin	VERB
+,	PUNCT
+för	NOUN
+niks	VERB
+,	PUNCT
+un	CCONJ
+Ji	PRON
+
+
+liggt	VERB
+up	ADP
+de	DET
+Sied	NOUN
+un	CCONJ
+fulenzt	NOUN
+in	ADP
+de	DET
+Wedd	NOUN
+mit	ADP
+Jugen	NOUN
+vörnehm'n	VERB
+jungen	ADJ
+
+
+Barko	VERB
+.	PUNCT
+Lümmel	VERB
+,	PUNCT
+dat	PRON
+kannst	AUX
+Du	PRON
+mi	PRON
+beeden	VERB
+!	PUNCT
+Du	PRON
+?	PUNCT
+!	PUNCT
+.	PUNCT
+Versap'ne	VERB
+
+
+Hund	NOUN
+,	PUNCT
+ick	PRON
+schlag	NOUN
+Di'n	VERB
+Brägen	NOUN
+in	ADP
+,	PUNCT
+gehst	VERB
+Du	PRON
+nich	ADV
+fortsten	VERB
+an	ADP
+Din	DET
+Arbeit	NOUN
+!	PUNCT
+
+
+--	PUNCT
+Hans	PROPN
+legt	VERB
+auf	ADP
+Barko	NOUN
+an	ADP
+.	PUNCT
+Trügg	NOUN
+segg	VERB
+ick	PRON
+!	PUNCT
+Noch	ADV
+enen	DET
+Schritt	NOUN
+,	PUNCT
+denn	ADV
+
+
+hest	AUX
+Du	PRON
+de	DET
+Ladung	ADJ
+Schroot	NOUN
+in	ADP
+de	DET
+Ogen	NOUN
+.	PUNCT
+Versprekst	VERB
+Du	PRON
+nich	ADV
+mi	PRON
+duvvelt	VERB
+
+
+Lohn	NOUN
+to	ADP
+geben	VERB
+,	PUNCT
+un	CCONJ
+Brannwien	VERB
+uns	PRON
+herut	ADV
+to	ADP
+schicken	VERB
+
+
+Vorige	VERB
+.	PUNCT
+Fritz	PROPN
+.	PUNCT
+Später	NOUN
+Grete	VERB
+.	PUNCT
+
+
+--	PUNCT
+Fritz	PROPN
+reisefertig	VERB
+,	PUNCT
+ist	AUX
+bei	X
+den	DET
+letzten	ADJ
+Worten	NOUN
+schnell	NOUN
+aufgetreten	VERB
+.	PUNCT
+Um	ADP
+Gotteswillen	INTJ
+!	PUNCT
+
+
+--	PUNCT
+Was	AUX
+geht	VERB
+hier	ADV
+vor	ADP
+?	PUNCT
+Ha	VERB
+,	PUNCT
+der	DET
+saub're	NOUN
+Hans	PROPN
+!	PUNCT
+Hallunke	NOUN
+läßt	VERB
+Du	PRON
+Deine	VERB
+
+
+Maske	NOUN
+fallen	VERB
+?	PUNCT
+Her	ADV
+mit	ADP
+der	DET
+Flinte	NOUN
+.	PUNCT
+Entreißt	VERB
+sie	PRON
+ihm	VERB
+und	CCONJ
+sucht	NOUN
+mit	ADP
+der	DET
+Nechten	NOUN
+
+
+den	DET
+Haus	PROPN
+zu	ADP
+halten	VERB
+,	PUNCT
+während	VERB
+er	PRON
+mit	ADP
+der	DET
+Linken	NOUN
+die	PRON
+Flinte	VERB
+von	ADP
+sich	PRON
+streckt	VERB
+.	PUNCT
+
+
+--	PUNCT
+Grete	NOUN
+herbeistürzend	VERB
+.	PUNCT
+Hans	PROPN
+,	PUNCT
+Hans	PROPN
+!	PUNCT
+Wat	PRON
+mökst	VERB
+Du	PRON
+hier	ADV
+,	PUNCT
+bist	AUX
+Du	PRON
+
+
+denn	ADV
+verrückt	ADJ
+worr'n	NOUN
+?	PUNCT
+
+
+--	PUNCT
+Fritz	PROPN
+.	PUNCT
+Mädchen	NOUN
+nimm	VERB
+die	PRON
+Flinte	VERB
+!	PUNCT
+
+
+--	PUNCT
+Grete	NOUN
+nimmt	VERB
+die	PRON
+Flinte	VERB
+,	PUNCT
+selbige	VERB
+sofort	ADV
+auf	ADP
+Haus	PROPN
+anlegend	VERB
+,	PUNCT
+welcher	VERB
+schwer	ADJ
+mit	ADP
+Fritz	PROPN
+ringt	VERB
+.	PUNCT
+
+
+--	PUNCT
+Hans	PROPN
+lat	VERB
+von	ADP
+den	DET
+jungen	ADJ
+Herrn	NOUN
+af	ADP
+,	PUNCT
+orer	VERB
+bi	ADP
+Gott	NOUN
+in'n	ADP
+Himmel	NOUN
+,	PUNCT
+ick	PRON
+
+
+scheet	VERB
+Di	PRON
+dood	ADV
+.	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+.	PUNCT
+Mäken	NOUN
+scheet	VERB
+nich	ADV
+!	PUNCT
+Her	ADV
+mit	ADP
+de	DET
+Flint	NOUN
+.	PUNCT
+Nimmt	VERB
+die	PRON
+Flinte	VERB
+
+
+--	PUNCT
+De	DET
+söln	NOUN
+er	DET
+Sak	NOUN
+alleen	ADV
+utmaken	VERB
+,	PUNCT
+ick	PRON
+will	AUX
+doch	ADV
+sehn	VERB
+
+
+Fritz	PROPN
+hat	AUX
+Hans	PROPN
+geworfen	VERB
+,	PUNCT
+welcher	VERB
+einen	X
+Augenblick	VERB
+wie	PRON
+besinnungslos	NOUN
+liegt	VERB
+.	PUNCT
+Da	ADV
+liege	VERB
+
+
+Hund	NOUN
+und	CCONJ
+wage	VERB
+es	X
+nicht	ADV
+mehr	ADV
+,	PUNCT
+den	DET
+Vater	NOUN
+anzurühren	VERB
+.	PUNCT
+Zu	ADP
+Varko	NOUN
+:	PUNCT
+Was	AUX
+
+
+wollte	NOUN
+denn	ADV
+der	DET
+Wicht	NOUN
+von	ADP
+Euch	VERB
+?	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+.	PUNCT
+He	PRON
+is	AUX
+besapen	VERB
+,	PUNCT
+dat	PRON
+is	AUX
+Allens	ADV
+.	PUNCT
+Reicht	VERB
+Fritz	PROPN
+die	PRON
+Hand	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Fritz	PROPN
+.	PUNCT
+Gott	NOUN
+,	PUNCT
+sei	VERB
+Dank	NOUN
+,	PUNCT
+ich	PRON
+seh'	VERB
+Euch	PRON
+unverletzt	VERB
+,	PUNCT
+ich	PRON
+kam	VERB
+zur	ADP
+rechten	ADJ
+
+
+Zeit	NOUN
+.	PUNCT
+Auf	ADP
+Hans	PROPN
+deutend	VERB
+.	PUNCT
+Ich	PRON
+werde	AUX
+ihm	PRON
+doch	ADV
+Nichts	ADV
+zerbrochen	VERB
+haben	AUX
+?	PUNCT
+
+
+--	PUNCT
+Barko	NOUN
+lacht	VERB
+.	PUNCT
+Wes	NOUN
+unbesorgt	VERB
+,	PUNCT
+de	PRON
+is	AUX
+von	ADP
+Stahl	NOUN
+un	CCONJ
+Isen	VERB
+;	PUNCT
+he	PRON
+is	AUX
+
+
+man	ADV
+so	ADV
+besapen	VERB
+,	PUNCT
+dat	SCONJ
+he	PRON
+nich	ADV
+upstahn	VERB
+kann	AUX
+,	PUNCT
+sünst	ADV
+wär	AUX
+Di't	VERB
+schlecht	ADV
+be	VERB
+
+
+--	PUNCT
+Grete	VERB
+zu	ADP
+Haus	PROPN
+gewendet	VERB
+.	PUNCT
+Oll	ADJ
+Farken	NOUN
+,	PUNCT
+wist	AUX
+gliek	ADV
+up	ADP
+!	PUNCT
+
+
+--	PUNCT
+Hans	PROPN
+.	PUNCT
+Gah	VERB
+mi	PRON
+ut	ADP
+de	DET
+Ogen	NOUN
+!	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+zu	ADP
+Grete	NOUN
+.	PUNCT
+Hal	VERB
+mi	PRON
+doch	ADV
+mal	ADV
+de	DET
+Pietsch	NOUN
+von	ADP
+Wagen	NOUN
+,	PUNCT
+ick	PRON
+war	AUX
+
+
+em	PRON
+an	ADP
+de	DET
+Arbeit	NOUN
+bringen	VERB
+.	PUNCT
+Grete	VERB
+ab	X
+nach	X
+rechts	ADV
+.	PUNCT
+
+
+--	PUNCT
+Hans	PROPN
+söhnt	VERB
+.	PUNCT
+Ick	PRON
+kann	AUX
+nich	ADV
+Herr	NOUN
+,	PUNCT
+ick	PRON
+bin	AUX
+besapen	VERB
+,	PUNCT
+nehmt	VERB
+mit	ADP
+
+
+nich	ADV
+övel	VERB
+,	PUNCT
+wat	PRON
+deit'n	VERB
+nich	ADV
+in'n	ADP
+Drunk	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+.	PUNCT
+Na	ADP
+wenn't	SCONJ
+man	PRON
+insühst	VERB
+,	PUNCT
+denn	ADV
+geht't	VERB
+noch	ADV
+.	PUNCT
+Ruft	VERB
+.	PUNCT
+He	PRON
+
+
+Michel	NOUN
+,	PUNCT
+Jochen	VERB
+,	PUNCT
+kamt	VERB
+mal	ADV
+her	ADV
+!	PUNCT
+
+
+--	PUNCT
+Vorige	VERB
+.	PUNCT
+Michel	PROPN
+.	PUNCT
+Jochen	VERB
+treten	VERB
+auf	ADP
+.	PUNCT
+
+
+--	PUNCT
+Jochen	VERB
+.	PUNCT
+Na	ADP
+wat	PRON
+is	AUX
+nu	ADV
+,	PUNCT
+is	AUX
+Hans	PROPN
+all	ADV
+wedder	ADV
+fahrig	VERB
+?	PUNCT
+
+
+--	PUNCT
+Michel	PROPN
+hat	AUX
+den	DET
+Krug	NOUN
+untersucht	VERB
+,	PUNCT
+welcher	NOUN
+leer	VERB
+.	PUNCT
+Dat	PRON
+hebb	AUX
+ick	PRON
+dacht	VERB
+,	PUNCT
+de	DET
+Hans	PROPN
+
+
+Barko	VERB
+.	PUNCT
+Schmiet't	VERB
+dat	DET
+oll	ADJ
+Farken	NOUN
+up'n	ADP
+Wagen	NOUN
+,	PUNCT
+un	CCONJ
+schickt	VERB
+em	PRON
+mit	ADP
+
+
+nah	ADJ
+Hus	NOUN
+,	PUNCT
+dat	SCONJ
+he	PRON
+sich	PRON
+utdusseln	VERB
+kann	AUX
+.	PUNCT
+Denn	ADV
+makt	VERB
+man	PRON
+dat	PRON
+Ji	PRON
+mit	ADP
+den	DET
+
+
+Roggen	NOUN
+,	PUNCT
+wenn't	SCONJ
+möglich	NOUN
+is	AUX
+,	PUNCT
+hüt	ADV
+fahrig	ADJ
+wart	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Jochen	VERB
+.	PUNCT
+I	INTJ
+Herr	NOUN
+,	PUNCT
+dat	PRON
+sall	AUX
+so	ADV
+lang	ADV
+woll	ADV
+nich	ADV
+mehr	ADV
+duern	VERB
+,	PUNCT
+ick	PRON
+
+
+dacht	VERB
+,	PUNCT
+wi	PRON
+wullen	AUX
+hüt	ADV
+noch	ADV
+an	ADP
+den	DET
+Waiten	NOUN
+ran	ADV
+.	PUNCT
+Hans	PROPN
+wull	AUX
+ja	ADJ
+sehn	VERB
+
+
+wo't	SCONJ
+damit	ADV
+wär	AUX
+,	PUNCT
+statt	ADP
+dessen	NOUN
+het	VERB
+he	PRON
+hiez	VERB
+in	ADP
+Brannwien	VERB
+sich	PRON
+besapen	VERB
+.	PUNCT
+
+
+--	PUNCT
+Na	ADP
+denn	ADV
+man	ADV
+los	ADV
+,	PUNCT
+kumm	VERB
+Michel	PROPN
+fat	VERB
+mit	ADP
+an	ADP
+!	PUNCT
+Schleppen	VERB
+mit	ADP
+Haus	PROPN
+ab	X
+.	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+.	PUNCT
+Gott	NOUN
+Du	PRON
+bewohr	VERB
+,	PUNCT
+wo	SCONJ
+is	AUX
+de	DET
+Kerl	NOUN
+besapen	VERB
+.	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+.	PUNCT
+Fritz	PROPN
+.	PUNCT
+
+
+--	PUNCT
+Fritz	PROPN
+.	PUNCT
+Glaubt	VERB
+Ihr	DET
+wirklich	NOUN
+,	PUNCT
+Vater	NOUN
+,	PUNCT
+daß	CCONJ
+der	DET
+Bengel	NOUN
+so	ADV
+betrunken	VERB
+?	PUNCT
+
+
+--	PUNCT
+mich	X
+dünkt	NOUN
+,	PUNCT
+er	PRON
+stellt	VERB
+sich	PRON
+nur	ADV
+so	ADV
+an	ADP
+!	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+.	PUNCT
+Wenn	SCONJ
+he	PRON
+nich	ADV
+dun	VERB
+wär	AUX
+,	PUNCT
+harr	VERB
+he	PRON
+sich	PRON
+nich	ADV
+so	ADV
+vergeten	VERB
+,	PUNCT
+
+
+--	PUNCT
+mi	PRON
+de	DET
+Flint	NOUN
+up	ADP
+dat	DET
+Liv	NOUN
+to	ADP
+hollen	VERB
+;	PUNCT
+he	PRON
+is	AUX
+sünst	ADV
+nich	ADV
+so	ADV
+schlecht	ADV
+.	PUNCT
+Ick	PRON
+
+
+weet	VERB
+nich	ADV
+,	PUNCT
+wat	PRON
+den	DET
+Bengel	NOUN
+in	ADP
+den	DET
+Sinn	NOUN
+is	AUX
+kamen	VERB
+,	PUNCT
+he	PRON
+hett	AUX
+woll	ADV
+annern	ADJ
+
+
+Arger	NOUN
+hat	AUX
+.	PUNCT
+
+
+--	PUNCT
+Fritz	PROPN
+.	PUNCT
+Mein	X
+Gott	NOUN
+!	PUNCT
+Vater	NOUN
+,	PUNCT
+wenn	SCONJ
+er	PRON
+Euch	PRON
+erschossen	NOUN
+hätte	VERB
+.	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+.	PUNCT
+Unsinn	VERB
+!	PUNCT
+He	PRON
+dacht	VERB
+mi	PRON
+blot	NOUN
+in	ADP
+Angst	NOUN
+to	ADP
+setten	VERB
+,	PUNCT
+dat	SCONJ
+ick	PRON
+
+
+em	PRON
+högern	VERB
+Lohn	NOUN
+füll	NOUN
+geben	VERB
+;	PUNCT
+scheien	NOUN
+harr	VERB
+he	PRON
+in'n	ADP
+Leben	NOUN
+nich	ADV
+.	PUNCT
+
+
+--	PUNCT
+Fritz	PROPN
+.	PUNCT
+Kann	AUX
+sein	X
+,	PUNCT
+auch	ADV
+nicht	ADV
+!	PUNCT
+Wie	PRON
+leicht	VERB
+auch	X
+konnte	AUX
+das	DET
+Gewehr	NOUN
+
+
+sich	PRON
+selbst	PRON
+entladen	VERB
+und	CCONJ
+das	DET
+größte	ADJ
+Unglück	NOUN
+hier	ADV
+geschehen	VERB
+.	PUNCT
+Ihr	DET
+werdet	NOUN
+
+
+doch	ADV
+nicht	ADV
+ferner	VERB
+noch	ADV
+den	DET
+Kerl	NOUN
+behalten	VERB
+?	PUNCT
+Ich	PRON
+hätt	VERB
+ihn	PRON
+auf	ADP
+der	DET
+Stelle	NOUN
+
+
+Barko	VERB
+.	PUNCT
+Wo	SCONJ
+denkst	VERB
+Du	PRON
+hen	ADV
+,	PUNCT
+erst	ADV
+recht	ADV
+sall	AUX
+he	PRON
+nu	ADV
+blieben	VERB
+;	PUNCT
+ick	PRON
+
+
+war	AUX
+mi	PRON
+doch	ADV
+nich	ADV
+fürchten	VERB
+.	PUNCT
+Lat	VERB
+em	PRON
+man	ADV
+nüchtern	ADJ
+war'n	NOUN
+,	PUNCT
+denn	ADV
+red	VERB
+ick	PRON
+
+
+dütsch	ADJ
+mit	ADP
+em	PRON
+.	PUNCT
+Ick	PRON
+kenn	VERB
+em	PRON
+to	ADP
+genau	ADV
+,	PUNCT
+wenn	SCONJ
+he	PRON
+erst	ADV
+utdusselt	VERB
+hett	AUX
+,	PUNCT
+
+
+--	PUNCT
+denn	ADV
+bidd't	VERB
+he	PRON
+af	ADP
+,	PUNCT
+un	CCONJ
+is	AUX
+de	DET
+Best	ADJ
+von	ADP
+Altosam'n	NOUN
+.	PUNCT
+Doch	ADV
+dat	PRON
+is	AUX
+mine	DET
+
+
+Saak	VERB
+;	PUNCT
+nu	ADV
+sejg	VERB
+mi	PRON
+,	PUNCT
+wať	VERB
+Du	PRON
+wist	VERB
+;	PUNCT
+wo	SCONJ
+jeht	VERB
+dat	PRON
+to	ADP
+,	PUNCT
+dat	SCONJ
+Du	PRON
+hier	ADV
+twischen	ADP
+
+
+kämst	VERB
+?	PUNCT
+Ick	PRON
+denk	VERB
+Du	PRON
+schriffst	VERB
+de	DET
+Breef	NOUN
+un	CCONJ
+mökst	VERB
+mi	PRON
+de	DET
+Klag	NOUN
+fahrig	VERB
+.	PUNCT
+
+
+--	PUNCT
+Fritz	PROPN
+.	PUNCT
+Ist	AUX
+schon	ADV
+geschehen	VERB
+;	PUNCT
+hier	ADV
+sind	AUX
+die	PRON
+Briefe	VERB
+,	PUNCT
+lieber	X
+Vater	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Giebt	VERB
+sie	PRON
+ihm	VERB
+.	PUNCT
+Ich	PRON
+kam	VERB
+hierher	ADV
+,	PUNCT
+um	ADP
+Abschied	NOUN
+von	ADP
+Euch	PRON
+zu	ADP
+nehmen	VERB
+.	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+.	PUNCT
+So	ADV
+wist	AUX
+Du	PRON
+weg	ADV
+?	PUNCT
+
+
+--	PUNCT
+Fritz	PROPN
+.	PUNCT
+Verzeiht	VERB
+mir	X
+,	PUNCT
+Vater	NOUN
+!	PUNCT
+Gott	NOUN
+weiß	X
+,	PUNCT
+wie	PRON
+gern	ADV
+ich	PRON
+bei	X
+Euch	PRON
+
+
+bliebe	VERB
+;	PUNCT
+doch	ADV
+von	ADP
+Röschen	NOUN
+lassen	VERB
+,	PUNCT
+kann	AUX
+ich	PRON
+nicht	ADV
+.	PUNCT
+Ergreift	VERB
+Barko's	NOUN
+Fand	VERB
+,	PUNCT
+sie	PRON
+
+
+küssend	VERB
+.	PUNCT
+Lebt	VERB
+wohl	ADV
+,	PUNCT
+Ihr	PRON
+seht	VERB
+mich	X
+glücklich	ADJ
+,	PUNCT
+oder	CCONJ
+niemals	NOUN
+wieder	ADV
+.	PUNCT
+Behüt	VERB
+
+
+Euch	PRON
+Gott	NOUN
+!	PUNCT
+Schnell	VERB
+ab	X
+nach	X
+links	ADV
+.	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+.	PUNCT
+Fritz	PROPN
+!	PUNCT
+Fritz	PROPN
+!	PUNCT
+
+
+--	PUNCT
+Der	DET
+Vorhang	NOUN
+fällt	VERB
+.	PUNCT
+
+
+--	PUNCT
+Ende	PROPN
+des	X
+zweiten	ADJ
+Actes	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Dritter	NOUN
+Act	VERB
+.	PUNCT
+
+
+--	PUNCT
+(	PUNCT
+Platz	NOUN
+vor	ADP
+Barko's	NOUN
+Hause	VERB
+.	PUNCT
+Im	ADP
+Hintergrund	NOUN
+das	DET
+Wohnhaus	NOUN
+mit	ADP
+großer	NOUN
+Thür	VERB
+und	CCONJ
+
+
+Fenstern	VERB
+,	PUNCT
+welche	PRON
+zwar	NOUN
+undurchsichtig	VERB
+,	PUNCT
+jedoch	VERB
+von	ADP
+innen	ADJ
+erleuchtet	NOUN
+werden	AUX
+können	AUX
+.	PUNCT
+
+
+--	PUNCT
+Ueber	VERB
+der	DET
+Thür	NOUN
+hängt	VERB
+die	PRON
+vorjährige	NOUN
+Erntekrone	VERB
+.	PUNCT
+-	PUNCT
+Rechts	ADV
+ein	VERB
+,	PUNCT
+sich	PRON
+dem	DET
+Wohn	NOUN
+
+
+--	PUNCT
+hause	NOUN
+anschließender	VERB
+,	PUNCT
+zweistöckiger	NOUN
+Seitenflügel	VERB
+mit	ADP
+kleinerer	NOUN
+Thür	VERB
+,	PUNCT
+welche	PRON
+mehr	ADV
+nach	X
+
+
+dem	DET
+Hintergrunde	NOUN
+zu	ADP
+gelegen	NOUN
+;	PUNCT
+oben	VERB
+mehr	ADV
+nach	X
+dem	DET
+Vordergrunde	NOUN
+ein	DET
+praktisches	NOUN
+
+
+Fenster	NOUN
+.	PUNCT
+Im	ADP
+Vordergrunde	NOUN
+links	ADV
+eine	DET
+größere	NOUN
+Glocke	VERB
+mit	ADP
+Strang	NOUN
+.	PUNCT
+-	PUNCT
+Ferner	VERB
+ein	X
+
+
+Birnbaum	VERB
+,	PUNCT
+vor	ADP
+diesem	DET
+eine	X
+kleine	ADJ
+Bank	NOUN
+und	CCONJ
+ein	DET
+Spinnrad	NOUN
+.	PUNCT
+Auf	ADP
+der	DET
+Banke	NOUN
+liegt	VERB
+
+
+ein	DET
+hellfarbiges	NOUN
+Umschlagetuch	VERB
+.	PUNCT
+Von	ADP
+dem	DET
+Baum	NOUN
+bis	CCONJ
+zum	X
+Seitenflügel	NOUN
+,	PUNCT
+also	ADV
+quer	ADV
+
+
+über	X
+die	PRON
+Bühne	VERB
+,	PUNCT
+ist	AUX
+eine	DET
+starke	ADJ
+Zeugleine	NOUN
+gespannt	VERB
+,	PUNCT
+worauf	VERB
+etwas	ADV
+Wäsche	VERB
+,	PUNCT
+wie	PRON
+
+
+zum	X
+Trocknen	NOUN
+,	PUNCT
+hängt	VERB
+(	PUNCT
+am	PRON
+besten	ADJ
+Strümpfe	NOUN
+und	CCONJ
+Taschentücher	VERB
+)	PUNCT
+.	PUNCT
+Links	ADV
+müssen	AUX
+
+
+--	PUNCT
+scharf	VERB
+markirte	NOUN
+Ausgänge	VERB
+sein	X
+.	PUNCT
+)	PUNCT
+
+
+--	PUNCT
+Nosc	NOUN
+allein	VERB
+,	PUNCT
+in	ADP
+ländlicher	NOUN
+Tracht	VERB
+,	PUNCT
+steht	VERB
+auf	ADP
+einem	DET
+kleinen	ADJ
+Tritt	NOUN
+oder	CCONJ
+Schemel	NOUN
+mit	ADP
+Ab	X
+
+
+--	PUNCT
+nehmen	VERB
+der	DET
+Wäsche	NOUN
+beschäftigt	VERB
+.	PUNCT
+Singt	VERB
+:	PUNCT
+
+
+--	PUNCT
+No	VERB
+.	PUNCT
+.	PUNCT
+Lied	VERB
+.	PUNCT
+
+
+--	PUNCT
+O	VERB
+wie	PRON
+schön	ADJ
+ist's	NOUN
+auf	ADP
+dem	DET
+Lande	NOUN
+;	PUNCT
+
+
+--	PUNCT
+Glaubt's	VERB
+ihr	DET
+Städt'rin'n	NOUN
+sicher	ADV
+mir	X
+:	PUNCT
+
+
+--	PUNCT
+Lange	ADV
+Schleppen	VERB
+am	PRON
+Gewande	VERB
+,	PUNCT
+
+
+--	PUNCT
+Sie	PRON
+beläst'gen	VERB
+uns	PRON
+nicht	ADV
+hier	ADV
+.	PUNCT
+
+
+--	PUNCT
+Leicht	NOUN
+gekleidet	VERB
+,	PUNCT
+um	ADP
+die	PRON
+Wette	VERB
+
+
+Springen	NOUN
+mit	ADP
+dem	DET
+Lämmchen	NOUN
+wir	PRON
+.	PUNCT
+
+
+--	PUNCT
+Nimmer	NOUN
+stört	VERB
+uns	PRON
+Etiquette	VERB
+
+
+Und	CCONJ
+der	DET
+höh're	NOUN
+Blödsinn	VERB
+hier	ADV
+.	PUNCT
+
+
+--	PUNCT
+Singen	VERB
+kann	AUX
+ich	PRON
+hier	ADV
+und	CCONJ
+tanzen	VERB
+;	PUNCT
+
+
+--	PUNCT
+Fürchte	VERB
+kein	DET
+Gered'	NOUN
+der	DET
+Leut'	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Kann	AUX
+mir	X
+selber	ADJ
+Blumen	NOUN
+pflanzen	VERB
+
+
+Und	CCONJ
+sie	PRON
+pflücken	VERB
+,	PUNCT
+wenn's	VERB
+mich	X
+freut	VERB
+.	PUNCT
+
+
+--	PUNCT
+Heiter	NOUN
+jauchz'	VERB
+ich	PRON
+früh	VERB
+am	PRON
+Morgen	ADV
+
+
+Schon	ADV
+im	ADP
+Garten	NOUN
+,	PUNCT
+auf	ADP
+dem	DET
+Feld'	NOUN
+;	PUNCT
+
+
+--	PUNCT
+Kenne	VERB
+weder	NOUN
+Gram	VERB
+noch	ADV
+Sorgen	VERB
+,	PUNCT
+
+
+--	PUNCT
+Brauche	VERB
+weder	NOUN
+Putz	VERB
+noch	ADV
+Geld	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Ja	INTJ
+'s	PRON
+ist	AUX
+herrlich	ADJ
+auf	ADP
+dem	DET
+Lande	NOUN
+,	PUNCT
+
+
+--	PUNCT
+Glaubt's	VERB
+ihr	PRON
+Städter	VERB
+alle	PRON
+mir	X
+;	PUNCT
+
+
+--	PUNCT
+Fesseln	VERB
+Euch	PRON
+nicht	ADV
+stärk're	ADJ
+Bande	NOUN
+,	PUNCT
+
+
+--	PUNCT
+Eilt	NOUN
+hinaus	VERB
+,	PUNCT
+und	CCONJ
+kommt	VERB
+zu	ADP
+mir	X
+.	PUNCT
+
+
+--	PUNCT
+Ist	AUX
+herunter	NOUN
+gestiegen	VERB
+.	PUNCT
+
+
+--	PUNCT
+Ach	INTJ
+ja	INTJ
+,	PUNCT
+es	X
+ist	AUX
+schön	ADV
+hier	ADV
+,	PUNCT
+sehr	ADV
+schön	ADJ
+ist	AUX
+es	X
+!	PUNCT
+Aber	CCONJ
+daß	X
+der	DET
+böse	ADJ
+
+
+Fritz	PROPN
+nicht	ADV
+heute	ADV
+schon	ADV
+zum	X
+Erntefest	NOUN
+gekommen	VERB
+,	PUNCT
+das	PRON
+ist	AUX
+schlecht	ADV
+,	PUNCT
+grund	NOUN
+
+
+--	PUNCT
+schlecht	ADV
+von	ADP
+ihm	X
+.	PUNCT
+Wie	PRON
+gern	ADV
+wäre	VERB
+ich	PRON
+mit	ADP
+ihm	X
+aufs	ADJ
+Vorwerk	NOUN
+gegangen	VERB
+,	PUNCT
+
+
+--	PUNCT
+da	ADV
+ist	AUX
+ein	DET
+Jubel	NOUN
+!	PUNCT
+Da	ADV
+tanzen	VERB
+sie	PRON
+heute	ADV
+schon	ADV
+.	PUNCT
+Die	PRON
+große	VERB
+Pauke	NOUN
+ist	AUX
+
+
+mitunter	NOUN
+bis	CCONJ
+hierher	ADV
+zu	ADP
+hören	VERB
+.	PUNCT
+Ach	INTJ
+,	PUNCT
+und	CCONJ
+Vater	NOUN
+Barko	VERB
+hat	AUX
+auch	X
+müssen	AUX
+
+
+tanzen	VERB
+,	PUNCT
+zweimal	VERB
+mit	ADP
+der	DET
+Liese	NOUN
+.	PUNCT
+Ha	VERB
+,	PUNCT
+ha	VERB
+,	PUNCT
+ha	VERB
+,	PUNCT
+das	PRON
+wird	X
+ihm	X
+sauer	NOUN
+geworden	VERB
+
+
+sein	X
+!	PUNCT
+Das	PRON
+hätt'	VERB
+ich	PRON
+sehen	VERB
+mögen	VERB
+.	PUNCT
+Aber	CCONJ
+wo	SCONJ
+er	PRON
+nur	ADV
+bleibt	VERB
+?	PUNCT
+Die	PRON
+Sonne	DET
+
+
+geht	VERB
+schon	ADV
+unter	X
+und	CCONJ
+ich	PRON
+wollte	VERB
+heute	ADV
+recht	ADV
+früh	VERB
+zu	ADP
+Bette	NOUN
+gehen	VERB
+,	PUNCT
+denn	ADV
+
+
+morgen	ADV
+früh	VERB
+,	PUNCT
+sehr	ADV
+früh	VERB
+,	PUNCT
+kommt	VERB
+ja	ADJ
+mein	X
+Schatz	NOUN
+,	PUNCT
+mein	X
+guter	NOUN
+Fritz	PROPN
+,	PUNCT
+und	CCONJ
+
+
+dann	ADV
+wird	X
+hier	ADV
+getanzt	VERB
+und	CCONJ
+Erntefest	NOUN
+gefeiert	VERB
+.	PUNCT
+Ach	INTJ
+Gott	NOUN
+,	PUNCT
+wie	PRON
+ich	PRON
+mich	X
+
+
+freue	VERB
+.	PUNCT
+Sucht	VERB
+im	ADP
+Bufentuch	NOUN
+.	PUNCT
+Wo	SCONJ
+hab	AUX
+ich	PRON
+nur	ADV
+den	DET
+Brief	NOUN
+,	PUNCT
+ich	PRON
+muß	AUX
+ihn	PRON
+immer	ADV
+
+
+wieder	ADV
+lesen	VERB
+,	PUNCT
+hier	ADV
+!	PUNCT
+ziest	VERB
+:	PUNCT
+Mein	X
+herzig	ADJ
+süßes	NOUN
+Schätzchen	VERB
+!	PUNCT
+Unterbricht	VERB
+sich	PRON
+,	PUNCT
+sprechend	VERB
+:	PUNCT
+
+
+--	PUNCT
+Ach	INTJ
+Gott	NOUN
+,	PUNCT
+wie	PRON
+das	PRON
+so	ADV
+reizend	ADJ
+klingt	NOUN
+!	PUNCT
+sien	AUX
+:	PUNCT
+Die	PRON
+frohe	NOUN
+Nachricht	VERB
+,	PUNCT
+daß	X
+mein	X
+
+
+Glück	NOUN
+den	DET
+Vater	NOUN
+günstiger	NOUN
+gestimmt	VERB
+,	PUNCT
+hat	AUX
+mich	X
+,	PUNCT
+wie	PRON
+Du	PRON
+wohl	ADV
+denken	VERB
+
+
+kannst	AUX
+,	PUNCT
+noch	ADV
+mehr	ADV
+,	PUNCT
+wie	PRON
+die	PRON
+Prämiirung	VERB
+meines	ADJ
+Bildes	NOUN
+gefreut	VERB
+;	PUNCT
+ich	PRON
+werde	AUX
+
+
+nicht	ADV
+versäumen	VERB
+,	PUNCT
+den	DET
+günstigen	ADJ
+Zeitpunkt	NOUN
+wahrzunehmen	VERB
+,	PUNCT
+und	CCONJ
+zum	X
+Ernte	NOUN
+
+
+--	PUNCT
+fest	ADV
+erscheinen	VERB
+,	PUNCT
+doch	ADV
+komme	VERB
+ich	PRON
+erst	ADV
+am	PRON
+zweiten	ADJ
+Tage	X
+Eures	NOUN
+Festes	VERB
+,	PUNCT
+es	X
+
+
+ist	AUX
+nicht	ADV
+eher	ADV
+möglich	VERB
+.	PUNCT
+Bis	CCONJ
+B	NOUN
+.	PUNCT
+.	PUNCT
+.	PUNCT
+benutze	VERB
+ich	PRON
+die	PRON
+Post	NOUN
+,	PUNCT
+von	ADP
+dort	ADV
+komme	VERB
+
+
+ich	PRON
+per	NOUN
+pedes	VERB
+;	PUNCT
+ich	PRON
+kann	AUX
+mir	X
+den	DET
+Spaziergang	NOUN
+durch	X
+den	DET
+Wald	NOUN
+doch	ADV
+
+
+nicht	ADV
+versagen	VERB
+.	PUNCT
+Am	PRON
+zehnten	NOUN
+früh	VERB
+mit	ADP
+Sonnenaufgang	NOUN
+bin	AUX
+ich	PRON
+bei	X
+Dir	X
+,	PUNCT
+
+
+--	PUNCT
+mein	X
+Herz	NOUN
+,	PUNCT
+und	CCONJ
+hoffe	VERB
+,	PUNCT
+daß	CCONJ
+dann	ADV
+auch	ADV
+die	PRON
+Sonne	DET
+unsers	NOUN
+Glückes	VERB
+endlich	ADV
+
+
+uns	PRON
+erscheinen	VERB
+werde	AUX
+.	PUNCT
+Doch	ADV
+nun	ADV
+merk	VERB
+auf	ADP
+,	PUNCT
+mein	X
+süßer	NOUN
+Schatz	VERB
+,	PUNCT
+ich	PRON
+habe	X
+
+
+noch	ADV
+eine	DET
+recht	NOUN
+frohe	VERB
+Nachricht	NOUN
+für	ADP
+Dich	PRON
+in	ADP
+potto	NOUN
+:	PUNCT
+Denk'	VERB
+Dir	X
+,	PUNCT
+der	DET
+Lord	NOUN
+
+
+hat	AUX
+sein	X
+Gebot	NOUN
+verdoppelt	VERB
+,	PUNCT
+und	CCONJ
+Hbe	VERB
+ich	PRON
+ihm	PRON
+nun	ADV
+das	DET
+Bild	NOUN
+ohne	SCONJ
+Zögern	VERB
+
+
+auch	X
+verkauft	NOUN
+;	PUNCT
+die	PRON
+Summe	VERB
+dürfte	NOUN
+hinreichen	VERB
+,	PUNCT
+uns	PRON
+eine	X
+,	PUNCT
+wenn	SCONJ
+auch	ADV
+nur	ADV
+
+
+bescheid'ne	NOUN
+Häuslichkeit	VERB
+zu	ADP
+gründen	NOUN
+,	PUNCT
+falls	VERB
+es	X
+uns	PRON
+nicht	ADV
+gelingen	ADJ
+sollte	NOUN
+,	PUNCT
+
+
+--	PUNCT
+beim	ADP
+Vater	NOUN
+Wohnung	NOUN
+zu	ADP
+erhalten	NOUN
+.	PUNCT
+Nun	ADV
+lebe	VERB
+wohl	ADV
+,	PUNCT
+mein	X
+kleiner	NOUN
+Schelm	VERB
+;	PUNCT
+
+
+--	PUNCT
+ich	PRON
+zähle	VERB
+schon	ADV
+die	PRON
+Stunden	VERB
+bis	CCONJ
+Dich	PRON
+umarmen	VERB
+kann	AUX
+
+
+Dein	DET
+ewig	ADJ
+treuer	NOUN
+Fritz	PROPN
+
+
+Den	DET
+Brief	NOUN
+küssend	VERB
+,	PUNCT
+spricht	VERB
+:	PUNCT
+Ach	INTJ
+Gott	NOUN
+,	PUNCT
+der	DET
+gute	NOUN
+Fritz	PROPN
+!	PUNCT
+Wie	PRON
+ich	PRON
+mich	X
+freue	NOUN
+,	PUNCT
+ihn	X
+
+
+endlich	ADV
+wiederzusehen	VERB
+.	PUNCT
+Aber	CCONJ
+,	PUNCT
+aber	CCONJ
+!	PUNCT
+Die	PRON
+Sonne	DET
+unseres	ADJ
+Glückes	NOUN
+dürfte	VERB
+,	PUNCT
+
+
+--	PUNCT
+fürcht'	VERB
+ich	PRON
+,	PUNCT
+noch	ADV
+viele	ADJ
+trübe	NOUN
+Wolken	VERB
+zu	ADP
+durchbrechen	NOUN
+haben	AUX
+.	PUNCT
+Wie	PRON
+betend	VERB
+:	PUNCT
+
+
+--	PUNCT
+Ach	INTJ
+lieber	NOUN
+,	PUNCT
+guter	VERB
+Gott	NOUN
+!	PUNCT
+jetzt	ADV
+steh'	VERB
+uns	PRON
+gnädig	ADJ
+bei	X
+,	PUNCT
+daß	X
+Sohn	X
+und	CCONJ
+Vater	NOUN
+
+
+endlich	ADV
+sich	PRON
+versöhnen	VERB
+.	PUNCT
+Sie	PRON
+sind	AUX
+ja	ADJ
+beide	DET
+gut	NOUN
+,	PUNCT
+so	ADV
+herzensgut	VERB
+.	PUNCT
+Den	DET
+Brief	NOUN
+
+
+aus	ADP
+Herz	NOUN
+brückend	VERB
+und	CCONJ
+dann	ADV
+verbergend	VERB
+.	PUNCT
+Aber	CCONJ
+Du	PRON
+,	PUNCT
+mein	X
+theurer	NOUN
+Fritz	PROPN
+,	PUNCT
+bist	AUX
+doch	ADV
+
+
+der	DET
+allerbeste	NOUN
+.	PUNCT
+Ist	AUX
+vorher	VERB
+mit	ADP
+der	DET
+Wäsche	NOUN
+fertig	ADV
+geworden	VERB
+,	PUNCT
+setzt	VERB
+sich	PRON
+nun	ADV
+zum	X
+Spinurad	NOUN
+.	PUNCT
+Es	X
+
+
+dämmert	NOUN
+schon	ADV
+,	PUNCT
+und	CCONJ
+noch	ADV
+immer	ADV
+kommt	VERB
+Vater	NOUN
+Barko	VERB
+nicht	ADV
+.	PUNCT
+Fast	ADV
+
+
+ängstige	VERB
+ich	PRON
+mich	X
+.	PUNCT
+
+
+--	PUNCT
+Rosa	VERB
+.	PUNCT
+Hans	PROPN
+.	PUNCT
+
+
+--	PUNCT
+Hans	PROPN
+schleicht	VERB
+sich	PRON
+,	PUNCT
+von	ADP
+links	ADV
+kommend	VERB
+,	PUNCT
+hinter	VERB
+den	DET
+Baum	NOUN
+und	CCONJ
+lauscht	VERB
+.	PUNCT
+
+
+--	PUNCT
+Rosa	VERB
+weiter	ADV
+sprechend	VERB
+:	PUNCT
+Doch	ADV
+nein	PROPN
+,	PUNCT
+jetzt	ADV
+fällt	VERB
+mir's	NOUN
+ein	VERB
+,	PUNCT
+er	PRON
+hat	AUX
+mir	X
+ja	ADJ
+
+
+heute	X
+einen	X
+Hasen	NOUN
+versprochen	VERB
+;	PUNCT
+o	ADP
+weh	NOUN
+,	PUNCT
+da	ADV
+bleibt	VERB
+er	PRON
+sicher	ADV
+sehr	ADV
+lange	ADJ
+aus	ADP
+,	PUNCT
+
+
+--	PUNCT
+nun	ADV
+hetzt	VERB
+er	PRON
+selbst	PRON
+sich	PRON
+wieder	ADV
+ab	X
+,	PUNCT
+nur	ADV
+um	ADP
+mir	X
+sein	X
+Wort	PROPN
+zu	ADP
+halten	VERB
+.	PUNCT
+
+
+--	PUNCT
+Der	DET
+gute	NOUN
+,	PUNCT
+alte	VERB
+Mann	NOUN
+,	PUNCT
+wie	PRON
+wird	X
+er	PRON
+doch	ADV
+verkannt	VERB
+;	PUNCT
+hart	ADV
+,	PUNCT
+finster	VERB
+und	CCONJ
+
+
+grausam	NOUN
+soll	AUX
+er	PRON
+sein	X
+?	PUNCT
+Ha	VERB
+,	PUNCT
+ha	VERB
+,	PUNCT
+ha	VERB
+!	PUNCT
+weich	VERB
+wie	PRON
+Wachs	VERB
+ist	AUX
+sein	X
+Herz	NOUN
+,	PUNCT
+der	DET
+
+
+stellt	VERB
+sich	PRON
+nur	ADV
+so	ADV
+an	ADP
+.	PUNCT
+(	PUNCT
+Es	X
+beginnt	NOUN
+zu	ADP
+dunkeln	NOUN
+.	PUNCT
+)	PUNCT
+Freilich	NOUN
+strenge	VERB
+ist	AUX
+er	PRON
+,	PUNCT
+sehr	ADV
+
+
+strenge	VERB
+;	PUNCT
+aber	CCONJ
+das	PRON
+muß	AUX
+er	DET
+ja	ADJ
+auch	X
+sein	X
+,	PUNCT
+wenn	SCONJ
+er	PRON
+so	ADV
+viele	ADJ
+Leute	NOUN
+und	CCONJ
+die	PRON
+
+
+Wirthschaft	NOUN
+in	ADP
+Ordnung	NOUN
+halten	VERB
+soll	AUX
+;	PUNCT
+und	CCONJ
+er	PRON
+hält	VERB
+sie	PRON
+in	ADP
+Ordnung	NOUN
+und	CCONJ
+
+
+ist	AUX
+stolz	NOUN
+darauf	VERB
+.	PUNCT
+Ja	ADJ
+streng	ADJ
+und	CCONJ
+stolz	NOUN
+ist	AUX
+er	PRON
+,	PUNCT
+schrecklich	ADJ
+stolz	NOUN
+auf	ADP
+seinen	NOUN
+
+
+Stand	NOUN
+,	PUNCT
+das	PRON
+ist	AUX
+sein	X
+einziger	ADJ
+Fehler	NOUN
+.	PUNCT
+Aber	CCONJ
+lieber	NOUN
+Gott	NOUN
+,	PUNCT
+ein	X
+jeder	DET
+Mensch	NOUN
+
+
+hat	AUX
+Fehler	NOUN
+,	PUNCT
+wir	PRON
+sind	AUX
+ja	ADJ
+alle	ADJ
+keine	X
+Engel	NOUN
+!	PUNCT
+
+
+--	PUNCT
+Hans	PROPN
+halblaut	VERB
+.	PUNCT
+Doch	ADV
+,	PUNCT
+doch	ADV
+!	PUNCT
+Du	PRON
+bist'n	VERB
+Engel	NOUN
+.	PUNCT
+Du	PRON
+alleen	ADV
+.	PUNCT
+
+
+--	PUNCT
+Rosa	VERB
+erschreckt	NOUN
+aufspringend	VERB
+,	PUNCT
+das	DET
+Spinnrad	NOUN
+bei	X
+Seite	NOUN
+schiebend	VERB
+.	PUNCT
+Was	AUX
+war	AUX
+das	PRON
+?	PUNCT
+
+
+--	PUNCT
+Erblickt	VERB
+Haus	PROPN
+.	PUNCT
+Dacht'	VERB
+ichs	NOUN
+doch	ADV
+,	PUNCT
+der	DET
+Hans	PROPN
+!	PUNCT
+Platt	NOUN
+sprechend	VERB
+:	PUNCT
+Wat	PRON
+sall	AUX
+dat	PRON
+heeten	VERB
+
+
+Hans	PROPN
+?	PUNCT
+ick	PRON
+war	AUX
+den	DET
+Herrn	NOUN
+dat	DET
+klagen	NOUN
+,	PUNCT
+wenn	SCONJ
+Ji	PRON
+mi	PRON
+immer	ADV
+na	ADP
+slieken	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Ick	PRON
+hebb	AUX
+mi	PRON
+so	ADV
+verfiert	VERB
+,	PUNCT
+mi	PRON
+zittern	VERB
+alle	PRON
+Glieder	VERB
+;	PUNCT
+ick	PRON
+denk	VERB
+Ji	PRON
+sind	AUX
+up't	ADP
+
+
+Vörwark	VERB
+,	PUNCT
+danzen	VERB
+.	PUNCT
+
+
+--	PUNCT
+Hans	PROPN
+.	PUNCT
+Ick	PRON
+danzen	VERB
+?	PUNCT
+Nee	VERB
+ick	PRON
+hebb	AUX
+keen	DET
+Dänzerin	NOUN
+.	PUNCT
+Nehmt	VERB
+mit	ADP
+
+
+nich	ADV
+äwel	VERB
+,	PUNCT
+Jungfer	NOUN
+Marten	VERB
+,	PUNCT
+ick	PRON
+kann	AUX
+enmal	VERB
+nich	ADV
+anners	ADV
+,	PUNCT
+ick	PRON
+bin	AUX
+krank	ADJ
+,	PUNCT
+
+
+--	PUNCT
+sehr	ADV
+krank	ADJ
+.	PUNCT
+
+
+--	PUNCT
+Rosa	VERB
+.	PUNCT
+Na	ADP
+denn	ADV
+gat	VERB
+doch	ADV
+na'n	ADP
+Docter	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Da	ADV
+bin	AUX
+ick	PRON
+just	ADV
+.	PUNCT
+
+
+--	PUNCT
+Ii	PRON
+könt	VERB
+mi	PRON
+helpen	VERB
+Jumfer	NOUN
+,	PUNCT
+Ji	PRON
+alleen	ADV
+.	PUNCT
+Min	DET
+Krankheit	NOUN
+
+
+zeigt	NOUN
+auf	ADP
+sein	DET
+Herz	NOUN
+
+
+sitt	NOUN
+mi	PRON
+hier	ADV
+,	PUNCT
+da	ADV
+helpt	VERB
+keen	DET
+Docter	NOUN
+to	ADP
+.	PUNCT
+
+
+--	PUNCT
+Rosa	VERB
+.	PUNCT
+Gat	VERB
+Juge	ADJ
+Weeg	NOUN
+,	PUNCT
+Hans	PROPN
+!	PUNCT
+ick	PRON
+hebb	AUX
+Ju	PRON
+oft	ADV
+nooch	NOUN
+seggt	VERB
+,	PUNCT
+dat	PRON
+
+
+ick	PRON
+sowat	VERB
+nich	ADV
+hören	VERB
+mag	AUX
+.	PUNCT
+Will	AUX
+gehen	VERB
+,	PUNCT
+Haus	PROPN
+vertritt	VERB
+ihr	PRON
+den	PRON
+Weg	ADV
+.	PUNCT
+
+
+--	PUNCT
+Hans	PROPN
+.	PUNCT
+Worüm	ADV
+nich	ADV
+Jumfer	NOUN
+,	PUNCT
+ick	PRON
+bin	AUX
+Ju	PRON
+doch	ADV
+so	ADV
+good	ADJ
+,	PUNCT
+so	ADV
+
+
+hartensgood	VERB
+,	PUNCT
+hört	VERB
+mi	PRON
+doch	ADV
+an	ADP
+,	PUNCT
+hebbt	VERB
+Ji	PRON
+denn	ADV
+ja	ADJ
+keen	DET
+Hart	ADJ
+in	ADP
+Inge	NOUN
+
+
+Brust	NOUN
+.	PUNCT
+(	PUNCT
+Es	X
+dunkelt	NOUN
+mehr	ADV
+und	CCONJ
+mehr	ADV
+.	PUNCT
+)	PUNCT
+
+
+--	PUNCT
+Rosa	VERB
+.	PUNCT
+Hans	PROPN
+lat't	VERB
+mi	PRON
+gan	VERB
+!	PUNCT
+Ick	PRON
+bidd	VERB
+Ju	PRON
+nu	ADV
+in	ADP
+Goodem	NOUN
+,	PUNCT
+ick	PRON
+
+
+will	AUX
+niks	NOUN
+hör'n	VERB
+,	PUNCT
+ick	PRON
+ängst	VERB
+mi	PRON
+blot	NOUN
+vör	ADP
+Ju	PRON
+.	PUNCT
+
+
+--	PUNCT
+Hans	PROPN
+.	PUNCT
+Ach	INTJ
+Jumfer	NOUN
+gevt	VERB
+m	NOUN
+doch	ADV
+de	DET
+Hand	NOUN
+,	PUNCT
+en	DET
+enzig	NOUN
+Mal	ADV
+will	AUX
+
+
+Rosa	VERB
+.	PUNCT
+Hans	PROPN
+lat't	VERB
+mi	PRON
+gan	VERB
+,	PUNCT
+ick	PRON
+treck	VERB
+de	DET
+Etenklok	NOUN
+un	CCONJ
+kling	VERB
+de	DET
+Lüd	NOUN
+
+
+to	ADP
+hoop	NOUN
+.	PUNCT
+Greift	VERB
+zum	X
+Glockenstrang	NOUN
+.	PUNCT
+Ji	PRON
+rüken	VERB
+jo	ADV
+na	ADP
+Schnaps	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Hans	PROPN
+ergreift	VERB
+schnell	ADP
+ihre	DET
+Hand	NOUN
+,	PUNCT
+sie	PRON
+verhindernd	VERB
+,	PUNCT
+die	PRON
+Glocke	VERB
+zu	ADP
+ziehen	NOUN
+.	PUNCT
+Jungfer	NOUN
+gevt	VERB
+
+
+mi	PRON
+en	DET
+enzgen	NOUN
+-	PUNCT
+--	PUNCT
+will	AUX
+sie	PRON
+küssen	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Rosa	VERB
+Haus	PROPN
+mit	ADP
+Kraft	NOUN
+zurückstoßend	VERB
+.	PUNCT
+Gat	VERB
+Schuft	NOUN
+!	PUNCT
+Ii	PRON
+sind	AUX
+besapen	VERB
+,	PUNCT
+ein	X
+
+
+schuell	VERB
+ins	X
+Haus	PROPN
+,	PUNCT
+die	PRON
+Thür	VERB
+hörbar	NOUN
+verriegelnd	VERB
+.	PUNCT
+
+
+--	PUNCT
+Haus	PROPN
+allein	VERB
+.	PUNCT
+
+
+--	PUNCT
+Haus	PROPN
+wüthend	ADV
+.	PUNCT
+Schuft	NOUN
+?	PUNCT
+en	DET
+Schuft	NOUN
+bin	AUX
+ick	PRON
+?	PUNCT
+versucht	VERB
+die	PRON
+Thür	VERB
+zu	ADP
+öffnen	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Na	ADP
+töv	NOUN
+!	PUNCT
+verriegelt	VERB
+?	PUNCT
+schön	ADV
+!	PUNCT
+Töv	VERB
+man	ADV
+,	PUNCT
+Du	PRON
+stolze	NOUN
+Dern	VERB
+,	PUNCT
+dat	PRON
+warr	VERB
+ick	PRON
+Di	PRON
+
+
+gedenken	VERB
+.	PUNCT
+Din	DET
+Hochmood	NOUN
+kümmt	VERB
+vör'n	ADJ
+Fall	NOUN
+.	PUNCT
+Di	PRON
+krieg	VERB
+ick	PRON
+doch	ADV
+,	PUNCT
+verlat	VERB
+
+
+Di	PRON
+drup	ADV
+,	PUNCT
+un	CCONJ
+wenn	SCONJ
+ick	PRON
+Di	PRON
+mit	ADP
+Gewalt	NOUN
+süll	AUX
+Nachts	ADV
+ut	ADP
+Din	DET
+Stuv	NOUN
+,	PUNCT
+rut	ADV
+
+
+halen	VERB
+.	PUNCT
+Min	DET
+sast	AUX
+Du	PRON
+warrn	VERB
+,	PUNCT
+un	CCONJ
+wenn't	SCONJ
+min	DET
+Leven	NOUN
+kost	VERB
+.	PUNCT
+Ha	VERB
+,	PUNCT
+ha	VERB
+,	PUNCT
+ha	VERB
+!	PUNCT
+
+
+--	PUNCT
+De	DET
+Stadtplant	NOUN
+denkt	VERB
+,	PUNCT
+se	PRON
+is	AUX
+to	ADP
+schad	ADJ
+förn	NOUN
+Buren	VERB
+.	PUNCT
+ab	X
+nach	X
+links	ADV
+.	PUNCT
+
+
+--	PUNCT
+Rosc	VERB
+aus	ADP
+dem	DET
+Fenster	NOUN
+sehend	VERB
+.	PUNCT
+
+
+--	PUNCT
+Er	PRON
+ist	AUX
+gegangen	VERB
+,	PUNCT
+Gott	NOUN
+sei	VERB
+Dank	NOUN
+!	PUNCT
+Vielleicht	VERB
+
+
+kommt	VERB
+Vater	NOUN
+Barko	VERB
+bald	ADV
+.	PUNCT
+O	ADP
+Gott	NOUN
+,	PUNCT
+wie	PRON
+fürcht	VERB
+ich	PRON
+mich	X
+!	PUNCT
+schließt	VERB
+das	DET
+Feuster	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Frau	PROPN
+Seelbach	VERB
+.	PUNCT
+
+
+--	PUNCT
+Frau	PROPN
+Seelbach	VERB
+von	ADP
+links	ADV
+,	PUNCT
+allein	VERB
+.	PUNCT
+Es	X
+ist	AUX
+noch	ADV
+finsterer	ADJ
+geworden	NOUN
+.	PUNCT
+Kein	DET
+
+
+Mensch	NOUN
+zu	ADP
+sehen	VERB
+,	PUNCT
+der	DET
+ganze	ADJ
+Hof	NOUN
+wie	PRON
+ausgestorben	VERB
+,	PUNCT
+es	X
+können	AUX
+doch	ADV
+nicht	ADV
+
+
+Alle	PRON
+auf	ADP
+dem	DET
+Vorwerk	NOUN
+sein	X
+?	PUNCT
+geht	VERB
+zur	ADP
+Thür	NOUN
+,	PUNCT
+versucht	VERB
+zu	ADP
+öffnen	NOUN
+.	PUNCT
+Zu	ADP
+?	PUNCT
+Hmn	VERB
+,	PUNCT
+hm	VERB
+.	PUNCT
+
+
+--	PUNCT
+Geht	VERB
+zur	ADP
+Thür	NOUN
+des	DET
+Seitenflügels	NOUN
+.	PUNCT
+Auch	X
+zu	X
+!	PUNCT
+Wo	SCONJ
+mag	AUX
+denn	ADV
+Röschen	VERB
+sein	X
+?	PUNCT
+
+
+--	PUNCT
+Sich	PRON
+umsehend	VERB
+.	PUNCT
+Ah	NOUN
+sieh	VERB
+da	ADV
+,	PUNCT
+ihr	DET
+Spinnrad	NOUN
+und	CCONJ
+ihr	DET
+Tuch	NOUN
+,	PUNCT
+nun	ADV
+,	PUNCT
+dann	ADV
+ist	AUX
+sie	PRON
+
+
+sicher	ADV
+auch	ADV
+nicht	ADV
+weit	VERB
+.	PUNCT
+Ich	PRON
+werde	AUX
+hier	ADV
+ein	DET
+wenig	ADJ
+warten	NOUN
+,	PUNCT
+dies	DET
+Plätzchen	NOUN
+
+
+ist	AUX
+so	ADV
+schön	ADJ
+und	CCONJ
+ich	PRON
+bin	AUX
+müde	VERB
+von	ADP
+dem	DET
+kleinen	ADJ
+Marsch	NOUN
+.	PUNCT
+Ich	PRON
+möcht	VERB
+doch	ADV
+
+
+gerne	NOUN
+wissen	VERB
+,	PUNCT
+ob	SCONJ
+Röschen	ADV
+schon	ADV
+Zeit	NOUN
+gefunden	VERB
+,	PUNCT
+den	DET
+Brief	NOUN
+zu	ADP
+lesen	VERB
+,	PUNCT
+den	DET
+
+
+ich	PRON
+ihr	PRON
+heute	ADV
+mitgebracht	VERB
+,	PUNCT
+ach	VERB
+und	CCONJ
+so	ADV
+neugierig	VERB
+bin	AUX
+ich	PRON
+doch	ADV
+,	PUNCT
+vielleicht	VERB
+
+
+erzählt	VERB
+mir	X
+Röschen	NOUN
+,	PUNCT
+was	AUX
+ihr	DET
+Schatz	NOUN
+geschrieben	X
+hat	AUX
+,	PUNCT
+ich	PRON
+denke	VERB
+mir	X
+,	PUNCT
+er	PRON
+
+
+wird	X
+wohl	ADV
+morgen	ADV
+zum	X
+Erntefeste	NOUN
+kommen	VERB
+wollen	AUX
+.	PUNCT
+Ach	INTJ
+Gott	NOUN
+,	PUNCT
+wie	PRON
+wird	X
+
+
+sich	PRON
+Röschen	NOUN
+freuen	VERB
+,	PUNCT
+wenn	SCONJ
+sie	PRON
+ihn	PRON
+wiedersieht	VERB
+.	PUNCT
+Zwei	VERB
+Jahre	PROPN
+wollten	VERB
+sie	PRON
+
+
+nur	ADV
+warten	VERB
+und	CCONJ
+nun	NOUN
+sind	AUX
+doch	ADV
+schon	ADV
+drei	NOUN
+vergangen	VERB
+,	PUNCT
+daß	CCONJ
+sie	PRON
+sich	PRON
+nicht	ADV
+
+
+gesehen	NOUN
+haben	AUX
+.	PUNCT
+Ja	INTJ
+,	PUNCT
+ja	INTJ
+!	PUNCT
+so	ADV
+schnell	ADJ
+geht's	NOUN
+immer	ADV
+nicht	ADV
+,	PUNCT
+und	CCONJ
+Gott	NOUN
+mag	AUX
+
+
+wissen	VERB
+,	PUNCT
+ob's	VERB
+nun	ADV
+Hochzeit	ADJ
+giebt	NOUN
+.	PUNCT
+Dem	DET
+alten	NOUN
+Brummbär	VERB
+ist	AUX
+nicht	ADV
+viel	X
+
+
+zu	ADP
+trauen	NOUN
+.	PUNCT
+Was	AUX
+wird	X
+der	PRON
+zu	ADP
+der	DET
+Liebschaft	NOUN
+sagen	X
+?	PUNCT
+Zumal	VERB
+wenn	SCONJ
+er	PRON
+
+
+erfährt	VERB
+,	PUNCT
+daß	X
+Röschen	NOUN
+nur	ADV
+um	ADP
+Fritzens	ADJ
+willen	NOUN
+von	ADP
+uns	PRON
+hier	ADV
+eingeschmuggelt	VERB
+
+
+ist	AUX
+.	PUNCT
+Ei	VERB
+,	PUNCT
+eis	VERB
+ich	PRON
+fürchte	VERB
+ohne	SCONJ
+Sturm	ADJ
+geht's	NOUN
+doch	ADV
+nicht	ADV
+ab	X
+.	PUNCT
+Röschen	VERB
+
+
+meinte	NOUN
+zwar	VERB
+,	PUNCT
+sie	PRON
+könnte	VERB
+sich	PRON
+den	DET
+Alten	NOUN
+um	ADP
+den	DET
+Finger	NOUN
+wickeln	VERB
+und	CCONJ
+es	X
+
+
+wär'	AUX
+ihm	PRON
+schon	ADV
+lange	ADJ
+leid	NOUN
+,	PUNCT
+daß	CCONJ
+er	PRON
+den	DET
+einzigen	NOUN
+Sohn	X
+so	ADV
+hart	ADJ
+behandelt	NOUN
+;	PUNCT
+
+
+--	PUNCT
+aber	CCONJ
+,	PUNCT
+aber	CCONJ
+,	PUNCT
+alte	VERB
+Leute	PROPN
+sind	AUX
+immer	ADV
+wunderlich	VERB
+,	PUNCT
+gähnt	VERB
+na	ADP
+,	PUNCT
+na	ADP
+,	PUNCT
+er	PRON
+kann	AUX
+sie	PRON
+
+
+doch	ADV
+nicht	ADV
+fressen	VERB
+,	PUNCT
+man	PRON
+wird	X
+ja	ADJ
+sehen	VERB
+gähnt	VERB
+.	PUNCT
+Ach	INTJ
+Gott	NOUN
+,	PUNCT
+es	X
+wird	X
+schon	ADV
+
+
+finster	VERB
+,	PUNCT
+ich	PRON
+werde	AUX
+wohl	ADV
+bei	X
+Röschen	NOUN
+wieder	ADV
+übernachten	VERB
+müssen	AUX
+,	PUNCT
+wenn	SCONJ
+sie	PRON
+
+
+nur	ADV
+käme	VERB
+,	PUNCT
+ich	PRON
+bin	AUX
+recht	ADV
+müde	VERB
+,	PUNCT
+gähnt	VERB
+wieder	ADV
+recht	ADV
+müde	VERB
+-	PUNCT
+--	PUNCT
+schläft	VERB
+ein	X
+
+
+leise	NOUN
+im	ADP
+Schlaf	NOUN
+sprechend	VERB
+.	PUNCT
+
+
+--	PUNCT
+Frau	PROPN
+Seelbach	VERB
+.	PUNCT
+Rosa	VERB
+.	PUNCT
+
+
+--	PUNCT
+Rosd	NOUN
+kommt	VERB
+aus	ADP
+dem	DET
+Hause	NOUN
+,	PUNCT
+nimmt	VERB
+,	PUNCT
+ohne	SCONJ
+die	PRON
+Seelbach	VERB
+zu	ADP
+bemerken	NOUN
+,	PUNCT
+den	DET
+vorher	NOUN
+bepackten	VERB
+
+
+Wäschkorb	NOUN
+und	CCONJ
+geht	VERB
+damit	ADV
+in	ADP
+den	DET
+Seitenflügel	NOUN
+,	PUNCT
+zu	ADP
+welchem	VERB
+sie	PRON
+den	DET
+Schlüssel	NOUN
+hat	AUX
+,	PUNCT
+den	PRON
+sie	PRON
+wieder	ADV
+abzieht	VERB
+,	PUNCT
+
+
+--	PUNCT
+dann	ADV
+gleich	ADV
+darauf	ADJ
+oben	NOUN
+aus	ADP
+dem	DET
+geöffneten	ADJ
+Fenster	NOUN
+zurück	X
+sprechend	NOUN
+:	PUNCT
+Ja	INTJ
+,	PUNCT
+ja	INTJ
+!	PUNCT
+Suschen	VERB
+,	PUNCT
+dat	PRON
+
+
+is	AUX
+he	PRON
+,	PUNCT
+ick	PRON
+kann	AUX
+em	PRON
+dütlich	ADJ
+sehen	VERB
+,	PUNCT
+da	ADV
+bögt	VERB
+he	PRON
+eben	ADV
+üm	ADP
+den	DET
+See	NOUN
+,	PUNCT
+nu	ADV
+sett	ADP
+
+
+man	ADV
+flink	ADV
+Theewater	VERB
+up	ADP
+,	PUNCT
+ick	PRON
+war	AUX
+em	PRON
+en	DET
+Enn	NOUN
+entgegen	ADP
+gan	NOUN
+,	PUNCT
+öwerst	NOUN
+kiek	VERB
+
+
+uck	NOUN
+jo	ADV
+na't	ADP
+Fleesch	NOUN
+,	PUNCT
+lat't	VERB
+nich	ADV
+anbrennen	VERB
+.	PUNCT
+Wo	SCONJ
+hebb	AUX
+ick	PRON
+man	ADV
+min	DET
+Dook	NOUN
+?	PUNCT
+
+
+--	PUNCT
+Ja	ADJ
+so	ADV
+,	PUNCT
+de	PRON
+liggt	VERB
+ja	ADJ
+unnen	ADV
+.	PUNCT
+Kommt	VERB
+schneu	NOUN
+herunter	VERB
+,	PUNCT
+ihr	DET
+Tuch	NOUN
+zu	ADP
+nehmen	VERB
+.	PUNCT
+(	PUNCT
+Während	VERB
+
+
+dieser	X
+und	CCONJ
+der	DET
+folgenden	NOUN
+Sceue	VERB
+hat	AUX
+die	PRON
+Dunkelheit	VERB
+ihren	ADJ
+Höhepunkt	NOUN
+erreicht	VERB
+,	PUNCT
+später	VERB
+
+
+schwacher	ADJ
+Mondschein	NOUN
+.	PUNCT
+)	PUNCT
+Rosa	NOUN
+weitersprechend	VERB
+:	PUNCT
+Da	ADV
+liegt	VERB
+mein	X
+Tuch	NOUN
+hört	VERB
+Schnarchen	NOUN
+
+
+Mein	X
+Gott	NOUN
+,	PUNCT
+hier	ADV
+schläft	VERB
+ja	ADJ
+Jemand	NOUN
+!	PUNCT
+Wer	PRON
+kann	AUX
+das	PRON
+sein	X
+?	PUNCT
+Eine	X
+Frau	PROPN
+?	PUNCT
+
+
+--	PUNCT
+ihr	PRON
+ins	X
+Gesicht	NOUN
+sehend	VERB
+Himmel	NOUN
+,	PUNCT
+Frau	PROPN
+Seelbach	VERB
+!	PUNCT
+Sie	PRON
+hat	AUX
+mich	X
+hier	ADV
+erwartet	VERB
+.	PUNCT
+
+
+--	PUNCT
+Ob	SCONJ
+ich	PRON
+sie	PRON
+wecke	VERB
+?	PUNCT
+Nein	PROPN
+,	PUNCT
+die	PRON
+alte	VERB
+Frau	PROPN
+ist	AUX
+sicher	ADJ
+müde	NOUN
+von	ADP
+dem	DET
+Gange	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Sie	PRON
+schläft	VERB
+so	ADV
+fest	ADV
+.	PUNCT
+Ich	PRON
+werde	AUX
+ihr	PRON
+erst	ADV
+eine	DET
+Tasse	ADJ
+Thee	NOUN
+besorgen	VERB
+.	PUNCT
+Aber	CCONJ
+
+
+erst	ADV
+will	AUX
+ich	PRON
+sie	PRON
+doch	ADV
+bedecken	VERB
+,	PUNCT
+sie	PRON
+möchte	VERB
+sich	PRON
+erkälten	VERB
+;	PUNCT
+hier	ADV
+mit	ADP
+dem	DET
+Tuch	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Deckt	VERB
+sie	PRON
+zu	ADP
+,	PUNCT
+so	ADV
+daß	X
+der	DET
+Kopf	NOUN
+frei	NOUN
+bleibt	VERB
+Nun	ADV
+schnell	VERB
+erst	ADV
+Thee	VERB
+,	PUNCT
+so	ADV
+lange	ADJ
+mögt	NOUN
+Ihr	DET
+
+
+noch	ADV
+schlummern	VERB
+.	PUNCT
+Im	ADP
+Gehen	VERB
+:	PUNCT
+Ach	INTJ
+Gott	NOUN
+,	PUNCT
+wie	PRON
+finster	VERB
+ist	AUX
+es	X
+schon	ADV
+geworden	VERB
+.	PUNCT
+
+
+--	PUNCT
+Schnell	VERB
+ab	X
+in	ADP
+den	DET
+Seitenflügel	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Frau	PROPN
+Seelbach	VERB
+.	PUNCT
+Hans	PROPN
+.	PUNCT
+
+
+--	PUNCT
+Hans	PROPN
+von	ADP
+links	ADV
+kommend	VERB
+,	PUNCT
+für	ADP
+sich	PRON
+:	PUNCT
+Ick	PRON
+hebb	AUX
+nich	ADV
+Ruh	VERB
+,	PUNCT
+noch	ADV
+Rast	VERB
+,	PUNCT
+ick	PRON
+
+
+weet	VERB
+nich	ADV
+wat	PRON
+mi	PRON
+fehlt	VERB
+,	PUNCT
+ick	PRON
+künn	AUX
+mi	PRON
+Fagen	VERB
+mit	ADP
+de	DET
+ganze	ADJ
+Welt	NOUN
+!	PUNCT
+Die	PRON
+
+
+Seelbach	NOUN
+erblickend	VERB
+und	CCONJ
+sie	PRON
+für	ADP
+Rosa	NOUN
+haltend	VERB
+.	PUNCT
+Na	ADP
+nu	ADV
+!	PUNCT
+da	ADV
+is	AUX
+se	PRON
+ja	ADJ
+;	PUNCT
+se	PRON
+schlöppt	VERB
+?	PUNCT
+wat	PRON
+
+
+is	AUX
+denn	ADV
+dat	PRON
+?	PUNCT
+-	PUNCT
+Ach	VERB
+de	DET
+verstellt	NOUN
+sich	PRON
+woll	ADV
+,	PUNCT
+se	PRON
+ward	AUX
+doch	ADV
+hier	ADV
+nich	ADV
+schlapen	VERB
+?	PUNCT
+
+
+--	PUNCT
+Ruft	NOUN
+halblaut	VERB
+:	PUNCT
+Jumfer	NOUN
+Marten	VERB
+!	PUNCT
+Jumfer	NOUN
+Marten	VERB
+!	PUNCT
+Herr	NOUN
+Gott	NOUN
+,	PUNCT
+se	PRON
+schlöppt	VERB
+
+
+ganz	ADV
+fast	ADV
+.	PUNCT
+Harr	VERB
+ick	PRON
+dat	PRON
+wüßt	VERB
+,	PUNCT
+denn	ADV
+harr	VERB
+ick	PRON
+lang	ADV
+de	DET
+Schimmel	NOUN
+all	ADV
+förn	VERB
+
+
+Wagen	NOUN
+,	PUNCT
+un	CCONJ
+denn	ADV
+heidi	VERB
+mit	ADP
+ehr	NOUN
+.	PUNCT
+Doch	ADV
+nee	VERB
+,	PUNCT
+dat	DET
+gaht	NOUN
+ja	ADJ
+nich	ADV
+,	PUNCT
+de	DET
+Oll	ADJ
+
+
+kann	AUX
+jeden	DET
+Ogenblick	NOUN
+to	ADP
+Hus	NOUN
+kamen	VERB
+.	PUNCT
+Herr	NOUN
+Gott	NOUN
+,	PUNCT
+dit	PRON
+süll	AUX
+blot	NOUN
+en	DET
+par	NOUN
+
+
+Stunden	NOUN
+späder	ADV
+sind	AUX
+.	PUNCT
+Wat	PRON
+mak	VERB
+ick	PRON
+blot	NOUN
+?	PUNCT
+Sich	PRON
+den	DET
+Mund	NOUN
+wischend	VERB
+Na	ADP
+töv	NOUN
+,	PUNCT
+
+
+--	PUNCT
+tum	ADP
+wenigsten	NOUN
+will	AUX
+ick	PRON
+een	DET
+Schmatz	NOUN
+riskiren	VERB
+,	PUNCT
+un	CCONJ
+wakt	VERB
+se	PRON
+up	ADP
+,	PUNCT
+na	ADP
+denn	ADV
+
+
+man	ADV
+to	ADP
+,	PUNCT
+wat	PRON
+will	AUX
+se	PRON
+mi	PRON
+?	PUNCT
+Küßt	VERB
+die	PRON
+Alte	VERB
+,	PUNCT
+welche	PRON
+erwacht	VERB
+und	CCONJ
+aufkreischt	VERB
+,	PUNCT
+Hans	PROPN
+am	PRON
+Aermel	VERB
+
+
+festhaltend	VERB
+.	PUNCT
+Haus	PROPN
+:	PUNCT
+Schock	NOUN
+Düvel	VERB
+,	PUNCT
+wer	PRON
+is	AUX
+dat	PRON
+?	PUNCT
+dat	PRON
+is	AUX
+ja	ADJ
+Röse	NOUN
+nich	ADV
+!	PUNCT
+
+
+--	PUNCT
+Frau	PROPN
+Seelbach	VERB
+.	PUNCT
+Mein	X
+Gott	NOUN
+,	PUNCT
+ich	PRON
+habe	X
+wohl	ADV
+geschlafen	VERB
+,	PUNCT
+wo	SCONJ
+bin	AUX
+
+
+ich	PRON
+denn	ADV
+,	PUNCT
+wer	PRON
+küßt	VERB
+mich	X
+hier	ADV
+?	PUNCT
+Pfui	VERB
+,	PUNCT
+junger	VERB
+Mann	NOUN
+!	PUNCT
+Das	PRON
+ist	AUX
+ja	ADJ
+
+
+schändlich	VERB
+,	PUNCT
+mich	X
+hier	ADV
+zu	ADP
+überfallen	NOUN
+,	PUNCT
+sucht	VERB
+Euch	PRON
+doch	ADV
+junge	ADJ
+Mädchen	NOUN
+,	PUNCT
+wenn	SCONJ
+
+
+Ihr	DET
+küssen	NOUN
+wollt	VERB
+.	PUNCT
+
+
+--	PUNCT
+Hans	PROPN
+.	PUNCT
+Na	ADP
+hebbt	VERB
+Ju	PRON
+man	ADV
+nich	ADV
+dull	ADJ
+,	PUNCT
+ick	PRON
+kann	AUX
+da	ADV
+uck	ADJ
+niks	NOUN
+för	VERB
+,	PUNCT
+
+
+--	PUNCT
+de	DET
+Breef	NOUN
+is	AUX
+an	ADP
+'ne	DET
+falsche	NOUN
+Adreß	VERB
+geraden	ADJ
+,	PUNCT
+lachend	VERB
+,	PUNCT
+nehmt't	VERB
+man	ADV
+ja	ADJ
+nich	ADV
+
+
+övel	VERB
+,	PUNCT
+ick	PRON
+dacht	VERB
+dat	PRON
+wär	AUX
+min	DET
+Brut	NOUN
+,	PUNCT
+Se	PRON
+hebben	AUX
+jo	ADV
+ehren	VERB
+Dook	NOUN
+uck	VERB
+üm	ADP
+.	PUNCT
+
+
+--	PUNCT
+Fr	VERB
+.	PUNCT
+Seelbach	NOUN
+erstaunt	VERB
+.	PUNCT
+Dies	DET
+Tuch	NOUN
+?	PUNCT
+wer	PRON
+ist	AUX
+denn	ADV
+Eure	VERB
+Braut	PROPN
+?	PUNCT
+
+
+--	PUNCT
+Hans	PROPN
+.	PUNCT
+Woto	VERB
+will'n	AUX
+Ii	PRON
+dat	PRON
+weeten	VERB
+?	PUNCT
+Min	DET
+Brut	NOUN
+is	AUX
+unse	DET
+Wirth-	NOUN
+
+
+Fr	VERB
+.	PUNCT
+Seelbach	VERB
+bei	X
+Seite	NOUN
+.	PUNCT
+Wie	PRON
+,	PUNCT
+Röschen	VERB
+,	PUNCT
+das	PRON
+ist	AUX
+doch	ADV
+nicht	ADV
+möglich	VERB
+.	PUNCT
+
+
+--	PUNCT
+Wie	PRON
+heißt	VERB
+die	PRON
+denn	ADV
+?	PUNCT
+
+
+--	PUNCT
+Hans	PROPN
+.	PUNCT
+Na	ADP
+wat	PRON
+Ji	PRON
+nieglich	VERB
+sind	AUX
+:	PUNCT
+Röse	VERB
+Marten	NOUN
+hitt	VERB
+s'	VERB
+,	PUNCT
+wat	PRON
+hebben	AUX
+
+
+Ji	PRON
+davon	ADV
+?	PUNCT
+
+
+--	PUNCT
+Fr	VERB
+.	PUNCT
+Seelbach	VERB
+.	PUNCT
+Wie	PRON
+Rosa	NOUN
+Marten	VERB
+?	PUNCT
+mein	X
+Gott	NOUN
+,	PUNCT
+das	PRON
+ist	AUX
+nicht	ADV
+
+
+möglich	VERB
+,	PUNCT
+Rosa	NOUN
+Marten	VERB
+,	PUNCT
+das	PRON
+ist	AUX
+wirklich	ADJ
+Eure	NOUN
+Braut	PROPN
+?	PUNCT
+
+
+--	PUNCT
+Hans	PROPN
+grob	VERB
+.	PUNCT
+Na	ADP
+fragt	NOUN
+un	CCONJ
+fragt	VERB
+!	PUNCT
+Wo	SCONJ
+oft	ADV
+sall	AUX
+ick	PRON
+Ju't	NOUN
+seggen	VERB
+,	PUNCT
+se	PRON
+
+
+is	AUX
+min	DET
+Brut	NOUN
+un	CCONJ
+nu	ADV
+is't	AUX
+good	ADV
+.	PUNCT
+Denkt	VERB
+Ji	PRON
+ick	PRON
+sall	AUX
+mi	PRON
+noch	ADV
+in	ADP
+Ju	PRON
+ver	ADP
+
+
+--	PUNCT
+leeven	VERB
+?	PUNCT
+Dat	PRON
+fehlt	VERB
+mi	PRON
+noch	ADV
+.	PUNCT
+Adjüs	VERB
+.	PUNCT
+Lachend	VERB
+ab	X
+nach	X
+links	ADV
+.	PUNCT
+
+
+--	PUNCT
+Frau	PROPN
+Seelbach	VERB
+.	PUNCT
+
+
+--	PUNCT
+Fr	VERB
+.	PUNCT
+Seelbach	NOUN
+allein	VERB
+,	PUNCT
+legt	VERB
+das	DET
+Tuch	NOUN
+über	X
+die	PRON
+Lehne	VERB
+der	DET
+Bank	NOUN
+.	PUNCT
+Mein	X
+Gott	NOUN
+,	PUNCT
+
+
+--	PUNCT
+wie	PRON
+ist	AUX
+das	PRON
+denn	ADV
+nur	ADV
+möglich	VERB
+?	PUNCT
+Die	PRON
+falsche	NOUN
+Schlange	VERB
+,	PUNCT
+wer	PRON
+hätte	VERB
+das	PRON
+
+
+gedacht	VERB
+.	PUNCT
+Nun	ADV
+will	AUX
+ich	PRON
+sie	PRON
+auch	X
+garnicht	NOUN
+mehr	ADV
+sehen	VERB
+.	PUNCT
+Die	PRON
+Heuchlerin	VERB
+!	PUNCT
+
+
+--	PUNCT
+Mein	X
+Gott	NOUN
+,	PUNCT
+mein	X
+Gott	NOUN
+,	PUNCT
+im	ADP
+Abgehen	NOUN
+,	PUNCT
+der	DET
+arme	ADJ
+,	PUNCT
+arme	ADJ
+Fritz	PROPN
+.	PUNCT
+Ab	X
+nach	X
+links	ADV
+.	PUNCT
+
+
+--	PUNCT
+Rosa	NOUN
+allein	VERB
+mit	ADP
+Thee	NOUN
+,	PUNCT
+aus	ADP
+dem	DET
+Seitenflügel	NOUN
+.	PUNCT
+So	ADV
+,	PUNCT
+Mutter	NOUN
+Seelbach	VERB
+,	PUNCT
+das	PRON
+soll	AUX
+
+
+Euch	PRON
+bekommen	VERB
+.	PUNCT
+Nun	ADV
+wacht	VERB
+nur	ADV
+auf	ADP
+,	PUNCT
+Frau	PROPN
+Seelbach	VERB
+!	PUNCT
+Wacht	VERB
+doch	ADV
+auf	ADP
+!	PUNCT
+
+
+--	PUNCT
+Gott	NOUN
+schläft	VERB
+die	PRON
+fest	ADV
+.	PUNCT
+Frau	PROPN
+Seelbach	VERB
+!	PUNCT
+Fühlt	VERB
+im	ADP
+Finstern	NOUN
+nach	X
+ihr	ADJ
+und	CCONJ
+findet	VERB
+das	PRON
+
+
+lere	NOUN
+Tuch	VERB
+.	PUNCT
+Mein	X
+Himmel	NOUN
+sie	PRON
+ist	AUX
+fort	ADV
+,	PUNCT
+wo	SCONJ
+kann	AUX
+sie	PRON
+nur	ADV
+geblieben	VERB
+sein	X
+,	PUNCT
+
+
+--	PUNCT
+ruft	NOUN
+laut	VERB
+:	PUNCT
+Frau	PROPN
+Seelbach	VERB
+!	PUNCT
+!	PUNCT
+Nein	PROPN
+,	PUNCT
+dies	DET
+begreife	NOUN
+ich	PRON
+nicht	ADV
+,	PUNCT
+ich	PRON
+fürchte	VERB
+mich	X
+
+
+fast	ADV
+,	PUNCT
+es	X
+ist	AUX
+so	ADV
+finster	VERB
+.	PUNCT
+nuft	VERB
+:	PUNCT
+Suschen	VERB
+,	PUNCT
+Suschen	VERB
+!	PUNCT
+stell	NOUN
+doch	ADV
+Licht	ADV
+an't	ADP
+
+
+Fenster	NOUN
+!	PUNCT
+Stimme	PROPN
+hinter	VERB
+der	DET
+Scene	NOUN
+:	PUNCT
+gliek	ADV
+,	PUNCT
+gliek	ADV
+,	PUNCT
+Jumfer	NOUN
+Marten	VERB
+.	PUNCT
+Es	X
+erscheint	NOUN
+
+
+Licht	ADV
+am	PRON
+Fenster	NOUN
+,	PUNCT
+die	PRON
+Bühne	VERB
+wird	X
+hell	ADJ
+.	PUNCT
+weitersprechend	VERB
+:	PUNCT
+Da	ADV
+liegt	VERB
+mein	X
+Tuch	NOUN
+,	PUNCT
+
+
+--	PUNCT
+und	CCONJ
+Mutter	NOUN
+Seelbach	VERB
+ist	AUX
+verschwunden	VERB
+.	PUNCT
+Wie	PRON
+soll	AUX
+ich	PRON
+das	PRON
+nur	ADV
+verstehen	VERB
+?	PUNCT
+
+
+--	PUNCT
+habe	X
+ich	PRON
+geträumt	VERB
+,	PUNCT
+oder	CCONJ
+hat	AUX
+mich	X
+ein	X
+böser	ADJ
+Spuk	NOUN
+geneckt	VERB
+?	PUNCT
+brr	VERB
+!	PUNCT
+ich	PRON
+
+
+ängstige	VERB
+mich	X
+,	PUNCT
+wenn	SCONJ
+doch	ADV
+nur	ADV
+Vater	NOUN
+Barko	NOUN
+käme	VERB
+.	PUNCT
+
+
+--	PUNCT
+Rosa	VERB
+.	PUNCT
+Später	NOUN
+Barko	VERB
+.	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+noch	ADV
+in	ADP
+der	DET
+Coulisse	NOUN
+,	PUNCT
+zurücksprechend	VERB
+:	PUNCT
+I	INTJ
+schlut	NOUN
+man	ADV
+Alles	PRON
+to	ADP
+un	CCONJ
+
+
+gah	VERB
+hen	ADV
+na	ADP
+danzen	VERB
+,	PUNCT
+uns	PRON
+ward	AUX
+hier	ADV
+niks	ADJ
+passeren	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Rosa	VERB
+.	PUNCT
+Gott	NOUN
+sei	VERB
+Dank	NOUN
+,	PUNCT
+da	ADV
+ist	AUX
+er	PRON
+.	PUNCT
+Geht	VERB
+,	PUNCT
+immer	ADV
+noch	ADV
+die	PRON
+Tasse	NOUN
+haltend	VERB
+,	PUNCT
+ihm	X
+
+
+Barko	ADJ
+tritt	NOUN
+jetzt	ADV
+auf	ADP
+,	PUNCT
+hat	AUX
+Flinte	VERB
+,	PUNCT
+Jagdtasche	VERB
+und	CCONJ
+einen	X
+Hasen	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Rosa	VERB
+.	PUNCT
+Willkommen	VERB
+Vatter	NOUN
+Barko	VERB
+!	PUNCT
+Gott	NOUN
+in'n	ADP
+Himmel	NOUN
+,	PUNCT
+denkt	VERB
+
+
+Ju	PRON
+blot	NOUN
+
+
+Barko	NOUN
+unterbrechend	VERB
+,	PUNCT
+Rosa	VERB
+die	PRON
+Hand	NOUN
+reichend	VERB
+.	PUNCT
+Gun	VERB
+Abend	NOUN
+,	PUNCT
+Kind	NOUN
+!	PUNCT
+Heiter	VERB
+
+
+--	PUNCT
+Hier	ADV
+kiek	VERB
+mal	ADV
+her	ADV
+,	PUNCT
+hier	ADV
+bring	VERB
+ick	PRON
+Di	PRON
+,	PUNCT
+wat	PRON
+ick	PRON
+verspraken	VERB
+hebb	AUX
+;	PUNCT
+auf	ADP
+den	DET
+
+
+Hasen	NOUN
+deutend	VERB
+.	PUNCT
+Nich	ADV
+wahr	ADV
+,	PUNCT
+en	DET
+strammen	ADJ
+Burschen	NOUN
+?	PUNCT
+Doch	ADV
+wat	PRON
+is	AUX
+dat	PRON
+?	PUNCT
+
+
+--	PUNCT
+Du	PRON
+kümmst	VERB
+mi	PRON
+all	ADV
+mit	ADP
+Thee	NOUN
+entgegen	ADP
+,	PUNCT
+na	ADP
+dat	PRON
+is	AUX
+schön	ADV
+,	PUNCT
+min	DET
+Kind	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Denn	ADV
+giv	VERB
+man	PRON
+her	ADV
+,	PUNCT
+nimmt	VERB
+die	PRON
+Tasse	VERB
+,	PUNCT
+setzt	VERB
+sich	PRON
+auf	ADP
+die	PRON
+Bank	NOUN
+.	PUNCT
+Ick	PRON
+hebb	AUX
+uck	ADJ
+Döst	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Du	PRON
+bist	AUX
+en	DET
+düchtig	ADJ
+Köksch	NOUN
+,	PUNCT
+Du	PRON
+wetst	VERB
+doch	ADV
+immer	ADV
+wat	PRON
+en	DET
+ollen	ADJ
+
+
+Menschen	NOUN
+hört	VERB
+.	PUNCT
+Trinkt	VERB
+.	PUNCT
+
+
+--	PUNCT
+Rosa	VERB
+.	PUNCT
+Ach	INTJ
+Vatter	NOUN
+Barko	VERB
+,	PUNCT
+hört	VERB
+blot	NOUN
+an	ADP
+,	PUNCT
+ick	PRON
+hebb	AUX
+en	DET
+Angst	NOUN
+
+
+Barko	NOUN
+läßt	VERB
+sie	PRON
+nicht	ADV
+zu	ADP
+Worte	NOUN
+kommen	VERB
+.	PUNCT
+Uem	PROPN
+mi	PRON
+?	PUNCT
+dat	PRON
+hebb	AUX
+ick	PRON
+mi	PRON
+woll	ADV
+
+
+dacht	VERB
+,	PUNCT
+Du	PRON
+goodes	VERB
+Kind	NOUN
+,	PUNCT
+streicht	VERB
+ihr	PRON
+die	PRON
+Wangen	VERB
+,	PUNCT
+ja	INTJ
+'t	PRON
+is	AUX
+en	DET
+Beten	ADJ
+späd	ADJ
+hüt	ADV
+
+
+öwerst	VERB
+ick	PRON
+kann	AUX
+nich	ADV
+daför	VERB
+,	PUNCT
+ick	PRON
+müßt	AUX
+doch	ADV
+absolut	ADV
+denn	ADV
+Hasen	VERB
+
+
+ick	PRON
+harr'n	VERB
+Di	PRON
+ja	ADJ
+verspraken	VERB
+.	PUNCT
+
+
+--	PUNCT
+Rosa	VERB
+.	PUNCT
+Ach	INTJ
+Gott	NOUN
+!	PUNCT
+min	DET
+besten	ADJ
+Dank	NOUN
+,	PUNCT
+Vatter	NOUN
+Barko	VERB
+,	PUNCT
+öwerst	VERB
+ick	PRON
+
+
+Barko	VERB
+.	PUNCT
+I	INTJ
+,	PUNCT
+lat	VERB
+man	ADV
+leeves	ADJ
+Kind	NOUN
+,	PUNCT
+ick	PRON
+weet	VERB
+Du	PRON
+meinst	VERB
+dat	DET
+good	ADJ
+,	PUNCT
+
+
+--	PUNCT
+Du	PRON
+bist	AUX
+en	DET
+prächtig	ADJ
+Dern	NOUN
+,	PUNCT
+da	ADV
+,	PUNCT
+hal	VERB
+man	PRON
+fix	ADV
+noch	ADV
+en	DET
+Tass'	NOUN
+Thee	VERB
+,	PUNCT
+de	DET
+
+
+schmeckt	VERB
+ja	ADJ
+rein	NOUN
+to	ADP
+schön	ADJ
+.	PUNCT
+
+
+--	PUNCT
+Rosa	VERB
+.	PUNCT
+Dat	PRON
+freut	VERB
+mi	PRON
+,	PUNCT
+Vatter	NOUN
+Barko	VERB
+,	PUNCT
+wenn	SCONJ
+he	PRON
+Ju	PRON
+schmeckt	VERB
+,	PUNCT
+doch	ADV
+
+
+in	ADP
+de	DET
+grote	ADJ
+Stuv	NOUN
+is	AUX
+upgedeckt	VERB
+,	PUNCT
+willen	AUX
+Ii	PRON
+nich	ADV
+rinner	ADV
+gan	VERB
+?	PUNCT
+Dat	PRON
+ward	AUX
+
+
+all	ADV
+köhl	VERB
+hier	ADV
+buten	ADV
+.	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+.	PUNCT
+I	INTJ
+,	PUNCT
+nee	VERB
+,	PUNCT
+min	DET
+Kind	NOUN
+,	PUNCT
+de	DET
+Luft	NOUN
+is	AUX
+prächtig	ADJ
+,	PUNCT
+mi	PRON
+is	AUX
+ganz	ADV
+warm	ADJ
+,	PUNCT
+
+
+--	PUNCT
+bring	VERB
+man	PRON
+noch	ADV
+en	DET
+Tass'	NOUN
+Thee	VERB
+hierher	ADV
+,	PUNCT
+ick	PRON
+hebb	AUX
+all	ADV
+da	ADV
+up't	ADP
+Vörwark	NOUN
+
+
+eten	VERB
+,	PUNCT
+ick	PRON
+mag	AUX
+nich	ADV
+mehr	ADV
+.	PUNCT
+
+
+--	PUNCT
+Rosa	VERB
+die	PRON
+Tasse	VERB
+und	CCONJ
+den	DET
+Hafen	NOUN
+nehmend	VERB
+.	PUNCT
+Gliek	ADV
+,	PUNCT
+gliek	ADV
+,	PUNCT
+en	DET
+Ogenblick	NOUN
+denn	ADV
+
+
+bin	AUX
+ick	PRON
+wedder	ADV
+hier	ADV
+.	PUNCT
+
+
+--	PUNCT
+Barko	NOUN
+allein	VERB
+.	PUNCT
+
+
+--	PUNCT
+Barko	NOUN
+reibt	VERB
+sich	PRON
+die	PRON
+Hände	PROPN
+,	PUNCT
+heiter	VERB
+.	PUNCT
+En	PRON
+ganz	ADV
+captales	ADJ
+Mäken	NOUN
+,	PUNCT
+se	PRON
+süht	VERB
+
+
+mi	PRON
+immer	ADV
+all	ADV
+von	ADP
+de	DET
+Ogen	NOUN
+af	ADP
+wat	PRON
+ick	PRON
+woll	ADV
+wünschen	VERB
+mag	AUX
+.	PUNCT
+Wenn	SCONJ
+Hans	PROPN
+
+
+de	DET
+kriegt	NOUN
+,	PUNCT
+denn	ADV
+kann	AUX
+he	PRON
+sich	PRON
+woll	ADV
+freuen	VERB
+,	PUNCT
+son	DET
+Wirthin'n	NOUN
+gifft	VERB
+nich	ADV
+vel	ADV
+,	PUNCT
+
+
+--	PUNCT
+dat	PRON
+geht	VERB
+mit	ADP
+ehr	NOUN
+dat	DET
+spält	NOUN
+man	ADV
+so	ADV
+,	PUNCT
+un	CCONJ
+wat	PRON
+se	PRON
+anfött	VERB
+dat	PRON
+hett	AUX
+Schick	VERB
+;	PUNCT
+
+
+--	PUNCT
+man	PRON
+müßt	AUX
+fast	ADV
+mein'n	VERB
+,	PUNCT
+se	PRON
+harr	VERB
+all	ADV
+dörtig	ADJ
+Jahr	NOUN
+son	DET
+Wirthschaft	NOUN
+föhrt	VERB
+,	PUNCT
+
+
+--	PUNCT
+so	ADV
+pünktlich	VERB
+un	CCONJ
+adrett	NOUN
+geht	VERB
+Alles	PRON
+mit	ADP
+ehr	NOUN
+to	ADP
+un	CCONJ
+dabi	ADV
+is	AUX
+se	PRON
+noch	ADV
+so	ADV
+jung	NOUN
+,	PUNCT
+
+
+--	PUNCT
+un	CCONJ
+is	AUX
+'ne	DET
+Städterin	NOUN
+,	PUNCT
+dat	DET
+harrk	NOUN
+in'n	ADP
+Leben	NOUN
+doch	ADV
+nich	ADV
+dacht	VERB
+,	PUNCT
+dat	PRON
+so	ADV
+wat	PRON
+
+
+möglich	NOUN
+wär	AUX
+.	PUNCT
+För	VERB
+Hans	PROPN
+,	PUNCT
+da	ADV
+is	AUX
+de	DET
+Dern	NOUN
+mi	PRON
+würklich	ADV
+doch	ADV
+to	ADP
+schad	NOUN
+;	PUNCT
+mi	PRON
+
+
+dücht	VERB
+de	DET
+Bengel	NOUN
+de	PRON
+is	AUX
+doch	ADV
+niks	VERB
+werth	ADV
+,	PUNCT
+ick	PRON
+bin	AUX
+all	ADV
+lang	ADV
+nich	ADV
+mehr	ADV
+mit	ADP
+
+
+em	PRON
+tofreden	VERB
+,	PUNCT
+harr	VERB
+ick	PRON
+sin	DET
+Mutter	NOUN
+dat	PRON
+nich	ADV
+up'n	ADP
+Dood	ADJ
+verspraken	VERB
+,	PUNCT
+för	VERB
+
+
+em	PRON
+to	ADP
+sorgen	NOUN
+,	PUNCT
+denn	ADV
+wär	AUX
+he	PRON
+doch	ADV
+woll	ADV
+nich	ADV
+mehr	ADV
+hier	ADV
+;	PUNCT
+ick	PRON
+weet	VERB
+nich	ADV
+,	PUNCT
+wo	SCONJ
+
+
+se	PRON
+up	ADP
+den	DET
+Bengel	NOUN
+kamen	VERB
+kann	AUX
+.	PUNCT
+Schad	VERB
+,	PUNCT
+schad	VERB
+!	PUNCT
+Dat	PRON
+wär	AUX
+en	DET
+Fru	NOUN
+för	VERB
+
+
+minen	DET
+Fritzen	NOUN
+west	AUX
+,	PUNCT
+da	ADV
+harr	VERB
+ick	PRON
+glick	VERB
+min	DET
+Jawoord	NOUN
+geben	VERB
+.	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+.	PUNCT
+Rosa	VERB
+.	PUNCT
+
+
+--	PUNCT
+Rosa	NOUN
+kommt	VERB
+mit	ADP
+Thee	NOUN
+und	CCONJ
+Kuchen	VERB
+.	PUNCT
+Hier	ADV
+Vatter	ADJ
+Barko	NOUN
+is	AUX
+noch	ADV
+Thee	VERB
+,	PUNCT
+
+
+--	PUNCT
+ick	PRON
+will	AUX
+nu	ADV
+Suschen	VERB
+man	ADV
+Geschirr	ADJ
+afwaschen	NOUN
+helpen	VERB
+,	PUNCT
+sünst	ADV
+krabbelt	VERB
+de	DET
+
+
+de	DET
+ganze	ADJ
+Nacht	NOUN
+noch	ADV
+rüm	ADV
+.	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+die	PRON
+Tasse	NOUN
+nehmend	VERB
+.	PUNCT
+Niks	VERB
+da	ADV
+,	PUNCT
+hier	ADV
+sett	ADP
+Di	PRON
+her	ADV
+bi	ADP
+mi	PRON
+,	PUNCT
+Suschen	VERB
+
+
+kann	AUX
+sich	PRON
+spooden	VERB
+,	PUNCT
+jeder	DET
+mut	NOUN
+don	VERB
+wat	PRON
+em	PRON
+tokümmt	VERB
+,	PUNCT
+Du	PRON
+hest	AUX
+Di	PRON
+hüt	ADV
+
+
+nooch	NOUN
+quält	VERB
+,	PUNCT
+nu	ADV
+kumm	ADV
+man	ADV
+her	ADV
+,	PUNCT
+ick	PRON
+will	AUX
+Di	PRON
+erst	ADV
+man	ADV
+noch	ADV
+wat	PRON
+fragen	VERB
+.	PUNCT
+
+
+--	PUNCT
+Rosa	NOUN
+setzt	VERB
+sich	PRON
+neben	ADP
+Barko	NOUN
+.	PUNCT
+Barkoweiter	VERB
+:	PUNCT
+Un	CCONJ
+denn	ADV
+gehst	VERB
+Du	PRON
+to	ADP
+Bedd	NOUN
+,	PUNCT
+min	DET
+Kind	NOUN
+,	PUNCT
+
+
+--	PUNCT
+denn	ADV
+morgen	ADV
+geht	VERB
+dat	DET
+tiedig	NOUN
+ruter	ADV
+.	PUNCT
+Klock	VERB
+fiefen	NOUN
+treck	VERB
+ick	PRON
+hier	ADV
+de	DET
+Klock	NOUN
+,	PUNCT
+
+
+--	PUNCT
+dat	PRON
+is't	AUX
+Signal	VERB
+,	PUNCT
+denn	ADV
+komm'n	VERB
+de	DET
+Lüd	NOUN
+von't	ADP
+Vörwark	NOUN
+anmascheert	VERB
+mit	ADP
+
+
+vulle	NOUN
+Musik	VERB
+,	PUNCT
+un	CCONJ
+bring'n	VERB
+de	DET
+Kron	NOUN
+hierher	ADV
+,	PUNCT
+denn	ADV
+söln	VERB
+sich	PRON
+de	DET
+Muskanten	NOUN
+
+
+bet	ADP
+Klock	NOUN
+nägen	VERB
+ungefähr	ADV
+verpuhsten	VERB
+,	PUNCT
+un	CCONJ
+denn	ADV
+ward	AUX
+hier	ADV
+gedanzt	VERB
+un	CCONJ
+
+
+Austköst	NOUN
+fiert	VERB
+,	PUNCT
+dat	PRON
+sall'n	ADP
+Leben	NOUN
+warrn	VERB
+!	PUNCT
+Wat	PRON
+seggst	VERB
+?	PUNCT
+ick	PRON
+hev	VERB
+hüt	ADV
+uck	VERB
+all	ADV
+
+
+danzt	VERB
+,	PUNCT
+ha	VERB
+ha	NOUN
+ha	VERB
+!	PUNCT
+
+
+--	PUNCT
+Rosa	NOUN
+lachend	VERB
+:	PUNCT
+ick	PRON
+hevt	VERB
+all	ADV
+hört	VERB
+,	PUNCT
+oll	ADJ
+Suschen	NOUN
+hett	AUX
+mi't	NOUN
+seggt	VERB
+,	PUNCT
+se	PRON
+hett	AUX
+
+
+Ju	PRON
+danzen	VERB
+sehn	VERB
+mit	ADP
+Liesing	NOUN
+,	PUNCT
+as	CCONJ
+se	PRON
+dat	DET
+Bier	NOUN
+hüt	ADV
+henbröcht	VERB
+hett	AUX
+.	PUNCT
+
+
+--	PUNCT
+Barko	NOUN
+lachend	VERB
+:	PUNCT
+Ja	ADJ
+Lieschen	NOUN
+is	AUX
+ne	DET
+dulle	ADJ
+Dern	NOUN
+,	PUNCT
+se	PRON
+harr	VERB
+mi	PRON
+gliek	ADV
+
+
+bin	AUX
+Wickel	VERB
+.	PUNCT
+Nu	ADV
+segg	VERB
+mi	PRON
+öwerst	VERB
+,	PUNCT
+wat	PRON
+is	AUX
+dat	PRON
+mit	ADP
+Di	PRON
+?	PUNCT
+ick	PRON
+dacht	VERB
+Du	PRON
+
+
+würdst	NOUN
+doch	ADV
+uck	VERB
+mal	ADV
+danzen	VERB
+,	PUNCT
+un	CCONJ
+dabi	ADV
+bist	AUX
+Du	PRON
+garnich	VERB
+dröben	NOUN
+west	AUX
+.	PUNCT
+
+
+--	PUNCT
+Rosa	VERB
+.	PUNCT
+Je	ADV
+ick	PRON
+künn	AUX
+Suschen	VERB
+doch	ADV
+nich	ADV
+hier	ADV
+so	ADV
+ganz	ADV
+alleen	ADV
+rümm	VERB
+
+
+--	PUNCT
+wirthschaften	NOUN
+laten	VERB
+,	PUNCT
+un	CCONJ
+wem	PRON
+wardt	VERB
+denn	ADV
+mit	ADP
+mi	PRON
+uck	NOUN
+danzen	VERB
+?	PUNCT
+ick	PRON
+hebb	AUX
+
+
+ja	ADJ
+keenen	DET
+Dänzer	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+.	PUNCT
+So	ADV
+!	PUNCT
+hest	AUX
+Du	PRON
+Di	PRON
+denn	ADV
+mit	ADP
+Hans	PROPN
+vertörnt	VERB
+?	PUNCT
+De	PRON
+wär	AUX
+
+
+jo	ADV
+uck	VERB
+nich	ADV
+da	ADV
+,	PUNCT
+drüm	ADV
+wunner	NOUN
+ick	PRON
+mi	PRON
+uck	VERB
+,	PUNCT
+dat	SCONJ
+he	PRON
+hier	ADV
+up'n	ADP
+Hof	NOUN
+rümm	VERB
+
+
+--	PUNCT
+krabbelt	VERB
+.	PUNCT
+Droht	NOUN
+scherzend	VERB
+mit	ADP
+dem	DET
+Finger	NOUN
+.	PUNCT
+Du	PRON
+,	PUNCT
+dat	PRON
+kümmt	VERB
+mi	PRON
+nich	ADV
+richtig	ADJ
+
+
+mit	ADP
+Ju	PRON
+Beiden	ADJ
+vör	ADP
+!	PUNCT
+
+
+--	PUNCT
+Rosa	VERB
+.	PUNCT
+Woso	VERB
+denn	ADV
+,	PUNCT
+Vatter	NOUN
+Barko	VERB
+,	PUNCT
+mit	ADP
+Hans	PROPN
+danz	VERB
+ick	PRON
+in'n	ADP
+
+
+Leben	NOUN
+nich	ADV
+,	PUNCT
+dat	PRON
+wär	AUX
+nu	ADV
+doch	ADV
+de	DET
+Allerletzte	NOUN
+,	PUNCT
+so	ADV
+gern	ADV
+ick	PRON
+danzen	VERB
+mag	AUX
+.	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+.	PUNCT
+Na	ADP
+na	ADP
+!	PUNCT
+na	ADP
+na	ADP
+!	PUNCT
+Du	PRON
+Schelm	VERB
+,	PUNCT
+ick	PRON
+sall	AUX
+dat	PRON
+woll	ADV
+nich	ADV
+
+
+weeten	VERB
+,	PUNCT
+dat	SCONJ
+Hans	PROPN
+Din	DET
+Brutmann	NOUN
+is	AUX
+.	PUNCT
+
+
+--	PUNCT
+Rosa	NOUN
+aufspringend	VERB
+:	PUNCT
+Hans	PROPN
+?	PUNCT
+Hans	PROPN
+sall	AUX
+min	DET
+Brutmann	NOUN
+sind	AUX
+,	PUNCT
+de	DET
+Suput	NOUN
+?	PUNCT
+
+
+--	PUNCT
+Vatter	NOUN
+Barko	VERB
+Ji	PRON
+will'n	AUX
+woll	ADV
+mit	ADP
+mi	PRON
+spaßen	VERB
+,	PUNCT
+eher	ADV
+gah	VERB
+ick	PRON
+in	ADP
+dat	DET
+deepste	NOUN
+
+
+Water	NOUN
+,	PUNCT
+eh'r	VERB
+ick	PRON
+den	DET
+Lümmel	NOUN
+nehm	VERB
+.	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+.	PUNCT
+Is	AUX
+dat	PRON
+Din	DET
+Ernst	NOUN
+min	DET
+Kind	NOUN
+?	PUNCT
+segg	VERB
+mi	PRON
+de	DET
+Wahrheit	NOUN
+,	PUNCT
+
+
+--	PUNCT
+Du	PRON
+wetst	VERB
+,	PUNCT
+ick	PRON
+mein	X
+dat	DET
+good	ADJ
+mi	PRON
+Di	PRON
+.	PUNCT
+
+
+--	PUNCT
+Rosa	NOUN
+eifrig	VERB
+:	PUNCT
+Gewiß	ADV
+is	AUX
+dat	PRON
+min	DET
+Ernst	NOUN
+,	PUNCT
+Gott	NOUN
+weet	VERB
+,	PUNCT
+dat	SCONJ
+ick	PRON
+de	DET
+
+
+Wahrheit	NOUN
+red	VERB
+.	PUNCT
+Weinend	VERB
+.	PUNCT
+Ach	INTJ
+Vatter	NOUN
+Barko	VERB
+,	PUNCT
+wo	SCONJ
+kön	VERB
+Ji	PRON
+sowat	VERB
+von	ADP
+mi	PRON
+
+
+glöven	VERB
+,	PUNCT
+wo	SCONJ
+würd	AUX
+ick	PRON
+woll	ADV
+son	DET
+Bengel	NOUN
+nehm'n	VERB
+,	PUNCT
+de	PRON
+minen	DET
+tweeten	NOUN
+Vatter	VERB
+
+
+all	ADV
+mit	ADP
+de	DET
+Flint	NOUN
+to	ADP
+Liev	NOUN
+is	AUX
+gan	VERB
+.	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+.	PUNCT
+Still	ADV
+!	PUNCT
+still	ADV
+min	DET
+Kind	NOUN
+,	PUNCT
+red	NOUN
+nich	ADV
+davon	ADV
+,	PUNCT
+dat	PRON
+is	AUX
+vergeben	VERB
+
+
+un	CCONJ
+vergeten	VERB
+.	PUNCT
+Ick	PRON
+glöv	VERB
+Di	PRON
+ja	ADJ
+,	PUNCT
+nu	ADV
+ween	VERB
+man	PRON
+nich	ADV
+,	PUNCT
+mi	PRON
+deit't	VERB
+all	ADV
+leed	ADV
+,	PUNCT
+
+
+--	PUNCT
+dat	SCONJ
+ick	PRON
+Di	PRON
+fragt	VERB
+,	PUNCT
+dat	PRON
+harrk	VERB
+mi	PRON
+so	ADV
+all	ADV
+denken	VERB
+künt	VERB
+;	PUNCT
+ick	PRON
+weet	VERB
+man	PRON
+nich	ADV
+,	PUNCT
+
+
+--	PUNCT
+wo	SCONJ
+Hans	PROPN
+denn	ADV
+dato	ADV
+kümmt	VERB
+,	PUNCT
+sowat	VERB
+to	ADP
+reden	VERB
+;	PUNCT
+Fru	NOUN
+Seelbach	VERB
+,	PUNCT
+de	PRON
+ick	PRON
+eben	ADV
+
+
+drapen	VERB
+,	PUNCT
+hett't	VERB
+mi	PRON
+vör	ADP
+ganz	ADV
+gewiß	ADV
+vertellt	VERB
+,	PUNCT
+se	PRON
+säd	VERB
+:	PUNCT
+Hans	PROPN
+harrt	VERB
+ehr	PRON
+sülben	VERB
+
+
+seggt	VERB
+,	PUNCT
+Du	PRON
+wärst	VERB
+sien	DET
+Brut	NOUN
+;	PUNCT
+un	CCONJ
+ick	PRON
+süll	AUX
+Di	PRON
+man	ADV
+seggen	VERB
+,	PUNCT
+se	PRON
+würd	AUX
+hier	ADV
+
+
+nich	ADV
+mehr	ADV
+kam'n	VERB
+,	PUNCT
+du	PRON
+würdst	VERB
+woll	ADV
+weeten	VERB
+worüm	ADV
+.	PUNCT
+Ick	PRON
+wüßt	VERB
+nich	ADV
+,	PUNCT
+wo	SCONJ
+
+
+se	PRON
+dat	PRON
+woll	ADV
+meint	VERB
+,	PUNCT
+un	CCONJ
+wull	AUX
+uck	VERB
+nich	ADV
+lang	ADV
+fragen	VERB
+;	PUNCT
+se	PRON
+kann	AUX
+woll	ADV
+unsen	DET
+
+
+Hans	PROPN
+nich	ADV
+lieden	VERB
+?	PUNCT
+
+
+--	PUNCT
+Rosa	VERB
+.	PUNCT
+Dat	PRON
+hett	AUX
+de	DET
+Lümmel	NOUN
+seggt	VERB
+?	PUNCT
+O	ADP
+Gott	NOUN
+!	PUNCT
+un	CCONJ
+sowat	NOUN
+kann	AUX
+de	DET
+
+
+Seelbach	NOUN
+von	ADP
+mi	PRON
+glöven	VERB
+!	PUNCT
+o	VERB
+,	PUNCT
+nu	ADV
+is	AUX
+mi't	ADJ
+uck	NOUN
+klar	VERB
+,	PUNCT
+worüm	ADV
+se	PRON
+afgan	VERB
+is	AUX
+,	PUNCT
+
+
+--	PUNCT
+ohn	VERB
+lang	ADV
+na	ADP
+mi	PRON
+to	ADP
+fragen	VERB
+.	PUNCT
+Herr	NOUN
+Gott	NOUN
+,	PUNCT
+wenn	SCONJ
+se	PRON
+dat	DET
+Fritzen	NOUN
+nu	ADV
+vertellt	VERB
+!	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+.	PUNCT
+Wat	PRON
+?	PUNCT
+wat	PRON
+seggst	VERB
+Du	PRON
+da	ADV
+von	ADP
+Fritzen	NOUN
+,	PUNCT
+wat	PRON
+meinst	VERB
+Du	PRON
+
+
+för'n	NOUN
+Fritzen	VERB
+,	PUNCT
+hm	VERB
+?	PUNCT
+
+
+--	PUNCT
+Rosa	VERB
+bei	X
+Seite	NOUN
+:	PUNCT
+O	ADP
+Gott	NOUN
+,	PUNCT
+was	AUX
+habe	X
+ich	PRON
+gethan	VERB
+,	PUNCT
+ich	PRON
+bin	AUX
+verrathen	VERB
+.	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+.	PUNCT
+Na	ADP
+wat	PRON
+sall	AUX
+dat	DET
+Getuschel	NOUN
+?	PUNCT
+Darf	AUX
+ick	PRON
+nich	ADV
+weeten	VERB
+wat	PRON
+
+
+för'n	VERB
+Fritz	PROPN
+dat	PRON
+is	AUX
+?	PUNCT
+-	PUNCT
+Na	ADP
+nu	ADV
+boomstill	VERB
+?	PUNCT
+Hör	VERB
+Mäken	NOUN
+,	PUNCT
+ick	PRON
+lat	VERB
+nich	ADV
+mit	ADP
+
+
+mi	PRON
+spaßen	VERB
+,	PUNCT
+rut	ADV
+mit	ADP
+de	DET
+Wahrheit	NOUN
+,	PUNCT
+mi	PRON
+dücht	VERB
+,	PUNCT
+ick	PRON
+rük	VERB
+den	DET
+Braden	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Rosa	VERB
+kniet	NOUN
+nieder	VERB
+,	PUNCT
+spricht	VERB
+hochdeutsch	VERB
+,	PUNCT
+bittend	VERB
+:	PUNCT
+Ach	INTJ
+guter	NOUN
+Vater	NOUN
+Barko	VERB
+,	PUNCT
+seid	VERB
+
+
+nich	ADV
+böse	ADJ
+,	PUNCT
+fragt	VERB
+
+
+Barko	NOUN
+unterbrechend	VERB
+:	PUNCT
+Nanu	VERB
+!	PUNCT
+dar	ADV
+geht	VERB
+ja	ADJ
+hochdütsch	ADJ
+los	ADV
+,	PUNCT
+Du	PRON
+wetst	VERB
+,	PUNCT
+
+
+--	PUNCT
+ick	PRON
+kann	AUX
+dat	PRON
+doch	ADV
+dörchut	VERB
+nich	ADV
+lieden	VERB
+.	PUNCT
+Stah	VERB
+up	ADP
+,	PUNCT
+min	DET
+Kind	NOUN
+,	PUNCT
+ick	PRON
+will	AUX
+
+
+niks	NOUN
+wieder	ADV
+weeten	VERB
+,	PUNCT
+mi	PRON
+dücht	VERB
+,	PUNCT
+ick	PRON
+weet	VERB
+genoog	VERB
+.	PUNCT
+Blot	NOUN
+segg	VERB
+mi	PRON
+noch	ADV
+dat	DET
+
+
+Een	PRON
+:	PUNCT
+Kann	AUX
+ick	PRON
+mi	PRON
+drup	ADV
+verlaten	VERB
+,	PUNCT
+dat	SCONJ
+Hans	PROPN
+keen	DET
+Recht	NOUN
+hett	AUX
+,	PUNCT
+Di	PRON
+sine	DET
+
+
+Brut	NOUN
+to	ADP
+nennen	VERB
+?	PUNCT
+
+
+--	PUNCT
+Rosa	NOUN
+eisrig	VERB
+:	PUNCT
+Wahrhaftig	VERB
+nich	ADV
+,	PUNCT
+Gott	NOUN
+weet	VERB
+,	PUNCT
+dat	SCONJ
+ick	PRON
+de	DET
+Wahrheit	NOUN
+red	VERB
+.	PUNCT
+
+
+--	PUNCT
+Hans	PROPN
+is	AUX
+mi	PRON
+so	ADV
+verhaßt	VERB
+,	PUNCT
+dat	DET
+ickt	NOUN
+nich	ADV
+seggen	VERB
+kann	AUX
+.	PUNCT
+
+
+--	PUNCT
+Vorige	VERB
+.	PUNCT
+Hans	PROPN
+.	PUNCT
+
+
+--	PUNCT
+Hans	PROPN
+tritt	NOUN
+auf	ADP
+,	PUNCT
+stellt	VERB
+sich	PRON
+lauschend	VERB
+hinter	ADP
+den	DET
+Baum	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Barko	NOUN
+beruhigend	VERB
+.	PUNCT
+Na	ADP
+denn	ADV
+is't	AUX
+good	ADV
+,	PUNCT
+min	DET
+Dern	NOUN
+,	PUNCT
+ick	PRON
+will	AUX
+nich	ADV
+
+
+wieder	ADV
+fragen	VERB
+,	PUNCT
+dat	DET
+Anner	ADJ
+ward	AUX
+sich	PRON
+morgen	ADV
+find'n	VERB
+.	PUNCT
+Hans	PROPN
+sall	AUX
+mi	PRON
+
+
+ut'n	ADP
+Hus	NOUN
+!	PUNCT
+Doch	ADV
+nu	ADV
+schlap	VERB
+Du	PRON
+,	PUNCT
+min	DET
+Kind	NOUN
+,	PUNCT
+gah	VERB
+flink	ADV
+to	ADP
+Bedd	NOUN
+,	PUNCT
+hörst	VERB
+
+
+Du	PRON
+!	PUNCT
+Ween	VERB
+nich	ADV
+,	PUNCT
+so	ADV
+lang	ADV
+oll	ADJ
+Barko	NOUN
+levt	VERB
+brukst	NOUN
+nich	ADV
+to	ADP
+weenen	NOUN
+,	PUNCT
+Du	PRON
+bist	AUX
+
+
+min	DET
+leewe	ADJ
+söte	NOUN
+Dern	VERB
+.	PUNCT
+
+
+--	PUNCT
+Rosa	NOUN
+stürmisch	VERB
+seine	X
+Hand	NOUN
+ergreifend	VERB
+.	PUNCT
+Dank	NOUN
+!	PUNCT
+dusend	NUM
+Dank	NOUN
+Vatter	NOUN
+Barko	VERB
+!	PUNCT
+
+
+--	PUNCT
+schlapt	NOUN
+söt	VERB
+.	PUNCT
+Nimmt	VERB
+ihr	DET
+Spinurad	NOUN
+sowie	VERB
+die	PRON
+Tasse	VERB
+und	CCONJ
+geht	VERB
+schnell	PROPN
+ab	X
+durch	X
+die	PRON
+Thüre	VERB
+des	X
+
+
+Seitenflügels	VERB
+,	PUNCT
+welche	PRON
+sie	PRON
+hörbar	NOUN
+verriegelt	VERB
+.	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+.	PUNCT
+Hans	PROPN
+.	PUNCT
+
+
+--	PUNCT
+Hans	PROPN
+hinter	VERB
+dem	DET
+Baum	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+.	PUNCT
+Hm	VERB
+,	PUNCT
+hm	VERB
+,	PUNCT
+süll	AUX
+miné	ADJ
+Ahnung	NOUN
+mi	PRON
+nich	ADV
+dreegen	VERB
+?	PUNCT
+Mit	ADP
+Be	NOUN
+
+
+--	PUNCT
+tonung	VERB
+:	PUNCT
+"	PUNCT
+Du	PRON
+kennst	VERB
+sie	PRON
+schon	ADV
+und	CCONJ
+bist	AUX
+mit	ADP
+ihr	DET
+zufrieden	NOUN
+"	PUNCT
+-	PUNCT
+schreev	VERB
+
+
+Fritz	PROPN
+in	ADP
+sinen	DET
+Breef	NOUN
+,	PUNCT
+wat	PRON
+süll	AUX
+dat	PRON
+anners	ADV
+heeten	VERB
+.	PUNCT
+O	VERB
+!	PUNCT
+nu	ADV
+is	AUX
+mi	PRON
+Manches	VERB
+
+
+klaar	VERB
+;	PUNCT
+ick	PRON
+möt	VERB
+mi	PRON
+doch	ADV
+den	DET
+Breef	NOUN
+noch	ADV
+ruter	ADV
+kramen	VERB
+.	PUNCT
+Geht	VERB
+in	ADP
+das	DET
+Wohnhaus	NOUN
+.	PUNCT
+
+
+--	PUNCT
+(	PUNCT
+Gleich	ADV
+darauf	NOUN
+erhellen	VERB
+sich	PRON
+die	PRON
+Fenster	NOUN
+rechts	ADV
+auf	ADP
+einen	DET
+Augenblick	NOUN
+,	PUNCT
+später	VERB
+
+
+links	ADV
+,	PUNCT
+ebenfalls	VERB
+nur	ADV
+auf	ADP
+kurze	ADJ
+Zeit	NOUN
+,	PUNCT
+während	VERB
+das	DET
+obere	ADJ
+Fenster	NOUN
+des	DET
+Seitenflügels	NOUN
+
+
+fast	ADV
+bis	CCONJ
+zum	X
+Schluß	PROPN
+erleuchtet	NOUN
+bleibt	VERB
+.	PUNCT
+)	PUNCT
+
+
+--	PUNCT
+Hans	PROPN
+allein	VERB
+.	PUNCT
+
+
+--	PUNCT
+Haus	PROPN
+kommt	VERB
+hervor	ADV
+.	PUNCT
+Na	ADP
+nu	ADV
+ward't	VERB
+Dag	NOUN
+!	PUNCT
+Se	PRON
+is	AUX
+sin	DET
+leeve	NOUN
+söte	VERB
+
+
+Dern	VERB
+?	PUNCT
+ha	VERB
+ha	NOUN
+ha	VERB
+!	PUNCT
+De	PRON
+olle	ADV
+Grieskopp	VERB
+will	AUX
+noch	ADV
+frieg'n	VERB
+,	PUNCT
+un	CCONJ
+noch	ADV
+dato	ADV
+
+
+son	DET
+junges	ADJ
+Ding	NOUN
+.	PUNCT
+Ha	VERB
+ha	NOUN
+ha	VERB
+!	PUNCT
+nee	VERB
+,	PUNCT
+dit	PRON
+ward	AUX
+immer	ADV
+netter	VERB
+.	PUNCT
+Na	ADP
+tövt	NOUN
+
+
+man	ADV
+,	PUNCT
+ick	PRON
+bin	AUX
+uck	VERB
+noch	ADV
+da	ADV
+,	PUNCT
+den	DET
+Brie	NOUN
+will	AUX
+ick	PRON
+Ju	PRON
+woll	ADV
+versolten	VERB
+.	PUNCT
+Nee	VERB
+
+
+is't	AUX
+de	DET
+Möglichkeit	NOUN
+,	PUNCT
+son	DET
+junge	ADJ
+hübsche	NOUN
+Dern	VERB
+,	PUNCT
+will	AUX
+sich	PRON
+den	DET
+ollen	ADJ
+Stacker	NOUN
+
+
+frieg'n	VERB
+.	PUNCT
+Töv	VERB
+Du	PRON
+hochnäsig	VERB
+Ding	NOUN
+,	PUNCT
+die	PRON
+steckt	VERB
+de	DET
+Angerhof	NOUN
+man	ADV
+in	ADP
+de	DET
+
+
+Näs	NOUN
+,	PUNCT
+un	CCONJ
+darüm	ADV
+bist	AUX
+Du	PRON
+so	ADV
+bigäng	VERB
+bi'n	ADP
+Ollen	ADJ
+,	PUNCT
+un	CCONJ
+wist	VERB
+von	ADP
+mi	PRON
+niks	VERB
+
+
+weeten	VERB
+.	PUNCT
+O	ADP
+töv	NOUN
+man	ADV
+,	PUNCT
+töy	VERB
+!	PUNCT
+
+
+--	PUNCT
+Lauscht	VERB
+am	PRON
+linken	VERB
+Fenster	NOUN
+.	PUNCT
+De	DET
+Oll	ADJ
+geht	VERB
+nu	ADV
+
+
+to	ADP
+Bedd	NOUN
+,	PUNCT
+na	ADP
+schön	ADJ
+,	PUNCT
+dröm	VERB
+man	PRON
+noch	ADV
+ens	ADV
+von	ADP
+Dinen	DET
+söten	ADJ
+Schatz	NOUN
+.	PUNCT
+Morg'u	VERB
+
+
+früh	VERB
+denn	ADV
+hett	AUX
+uns	PRON
+Koh	NOUN
+ganz	ADV
+anner	ADJ
+Hörn	NOUN
+.	PUNCT
+Din	DET
+Schimmels	NOUN
+loopen	AUX
+
+
+good	ADJ
+,	PUNCT
+wenn	SCONJ
+Du	PRON
+Di	PRON
+morgen	ADV
+früh	VERB
+de	DET
+Ogen	NOUN
+rivst	VERB
+,	PUNCT
+bin	AUX
+ick	PRON
+mit	ADP
+Dinen	DET
+
+
+söten	ADJ
+Engel	NOUN
+öwer	VERB
+Barg	NOUN
+und	CCONJ
+Feld	NOUN
+,	PUNCT
+denn	ADV
+fläut	VERB
+uns	PRON
+nah	ADJ
+.	PUNCT
+-	PUNCT
+(	PUNCT
+Das	DET
+Licht	NOUN
+
+
+im	ADP
+Wohnhause	NOUN
+erlischt	VERB
+.	PUNCT
+)	PUNCT
+So	ADV
+de	PRON
+is	AUX
+rin	ADV
+in't	ADP
+Nest	NOUN
+,	PUNCT
+doch	ADV
+baben	ADV
+brennt	VERB
+noch	ADV
+
+
+Licht	NOUN
+.	PUNCT
+-	PUNCT
+Na	ADP
+ick	PRON
+hebb	AUX
+uck	VERB
+noch	ADV
+Tied	NOUN
+,	PUNCT
+de	DET
+Schimmels	NOUN
+sind	AUX
+uck	VERB
+noch	ADV
+nich	ADV
+
+
+satt	VERB
+,	PUNCT
+de	DET
+söln	NOUN
+sich	PRON
+to	ADP
+de	DET
+Tour	NOUN
+tum	ADP
+letzten	ADJ
+mal	NOUN
+hier	ADV
+orndlich	ADJ
+stärken	NOUN
+,	PUNCT
+ick	PRON
+
+
+war	AUX
+mi	PRON
+erst	ADV
+man	ADV
+noch	ADV
+en'n	ADJ
+Sack	NOUN
+vull	ADV
+Haber	ADJ
+haln	NOUN
+.	PUNCT
+Links	ADV
+ab	X
+.	PUNCT
+
+
+--	PUNCT
+Rosc	NOUN
+allein	VERB
+,	PUNCT
+erscheint	VERB
+am	PRON
+Fenster	NOUN
+ihres	VERB
+Zimmers	ADJ
+oben	NOUN
+im	ADP
+Seitenflügel	NOUN
+,	PUNCT
+blickt	VERB
+in	ADP
+die	PRON
+Nacht	NOUN
+
+
+hinaus	VERB
+.	PUNCT
+Wie	PRON
+still	ADV
+und	CCONJ
+dunkel	NOUN
+ist	AUX
+die	PRON
+Nacht	NOUN
+;	PUNCT
+was	AUX
+mag	AUX
+sie	PRON
+wohl	ADV
+in	ADP
+ihrem	DET
+
+
+Schooße	NOUN
+für	ADP
+mich	X
+bergen	NOUN
+?	PUNCT
+O	ADP
+möchte	NOUN
+es	X
+doch	ADV
+tagen	NOUN
+bald	ADV
+.	PUNCT
+Mir	X
+ist	AUX
+so	ADV
+
+
+weh	NOUN
+,	PUNCT
+so	ADV
+bang	VERB
+um's	ADJ
+Herz	NOUN
+und	CCONJ
+doch	ADV
+könnt'	VERB
+wieder	ADV
+laut	VERB
+ich	PRON
+jubeln	VERB
+,	PUNCT
+denn	ADV
+
+
+welch'	VERB
+ein	DET
+Glück	NOUN
+kann	AUX
+mir	X
+der	DET
+Morgen	NOUN
+bringen	VERB
+.	PUNCT
+
+
+--	PUNCT
+In	ADP
+wenig	DET
+Stunden	NOUN
+,	PUNCT
+
+
+--	PUNCT
+will	AUX
+es	X
+Gott	NOUN
+,	PUNCT
+kann	AUX
+Fritz	PROPN
+schon	ADV
+bei	X
+mir	X
+sein	X
+.	PUNCT
+Hilf	VERB
+Himmel	NOUN
+dann	ADV
+das	DET
+
+
+Herz	NOUN
+des	X
+Vaters	VERB
+uns	PRON
+bezwingen	VERB
+.	PUNCT
+Tritt	VERB
+ein	X
+wenig	ADJ
+zurück	X
+,	PUNCT
+setzt	VERB
+sich	PRON
+,	PUNCT
+ein	DET
+Buch	NOUN
+nehmend	VERB
+
+
+an	ADP
+den	DET
+Tisch	NOUN
+und	CCONJ
+singt	VERB
+:	PUNCT
+
+
+--	PUNCT
+No	VERB
+.	PUNCT
+.	PUNCT
+Eixkage	VERB
+.	PUNCT
+
+
+--	PUNCT
+Eingehüllt	VERB
+im	ADP
+feierlichen	NOUN
+Dunkel	VERB
+
+
+Sind	AUX
+die	PRON
+Wege	NOUN
+,	PUNCT
+Gott	NOUN
+,	PUNCT
+die	PRON
+Du	PRON
+uns	PRON
+führst	VERB
+,	PUNCT
+
+
+--	PUNCT
+Kein	DET
+Verstand	NOUN
+erforscht	VERB
+,	PUNCT
+nach	X
+welchen	X
+
+
+Du	PRON
+die	PRON
+Deinen	VERB
+wunderbar	NOUN
+regierst	VERB
+.	PUNCT
+
+
+--	PUNCT
+Selbst	PRON
+der	DET
+fromme	NOUN
+,	PUNCT
+tugendhafte	NOUN
+Weise	VERB
+
+
+Dringet	NOUN
+nicht	ADV
+in	ADP
+diese	DET
+Tiefe	NOUN
+ein	VERB
+;	PUNCT
+
+
+--	PUNCT
+Vieles	VERB
+,	PUNCT
+was	AUX
+er	PRON
+um	ADP
+sich	PRON
+her	ADV
+erblicket	VERB
+,	PUNCT
+
+
+--	PUNCT
+Wird	X
+ihm	X
+dunkel	NOUN
+,	PUNCT
+unerklärbar	VERB
+sein	X
+.	PUNCT
+
+
+--	PUNCT
+Scheint	X
+es	X
+gleich	X
+,	PUNCT
+als	CCONJ
+müßte	VERB
+ich	PRON
+versinken	VERB
+
+
+In	ADP
+dem	DET
+harten	NOUN
+Kampf	VERB
+und	CCONJ
+Prüfungsstand	VERB
+,	PUNCT
+
+
+--	PUNCT
+Läßt	VERB
+Du	PRON
+Vater	NOUN
+mich	X
+doch	ADV
+nicht	ADV
+ertrinken	VERB
+
+
+Und	CCONJ
+hältst	VERB
+mich	X
+mit	ADP
+Deiner	NOUN
+starken	ADJ
+Hand	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Laß	X
+mich	X
+nimmer	NOUN
+in	ADP
+Versuchung	NOUN
+fallen	VERB
+,	PUNCT
+
+
+--	PUNCT
+Rüste	VERB
+mich	X
+mit	ADP
+Muth	NOUN
+und	CCONJ
+Heiterkeit	VERB
+,	PUNCT
+
+
+--	PUNCT
+Laß	X
+mich	X
+froh	ADJ
+durch's	NOUN
+Erdenleben	NOUN
+wallen	VERB
+,	PUNCT
+
+
+--	PUNCT
+Bis	CCONJ
+ich	PRON
+schaue	VERB
+Deine	DET
+Herrlichkeit	NOUN
+.	PUNCT
+
+
+--	PUNCT
+O	VERB
+,	PUNCT
+verzeihe	VERB
+Vater	NOUN
+,	PUNCT
+wenn	SCONJ
+wir	PRON
+Schwachen	ADJ
+
+
+Deine	DET
+weise	NOUN
+Güte	VERB
+nicht	ADV
+versteh'n	VERB
+,	PUNCT
+
+
+--	PUNCT
+Und	CCONJ
+mit	ADP
+matten	NOUN
+und	CCONJ
+beschränkten	NOUN
+Blicken	VERB
+
+
+Nur	ADV
+das	DET
+Harte	ADJ
+nicht	ADV
+das	DET
+Gute	NOUN
+seh'n	VERB
+:	PUNCT
+
+
+--	PUNCT
+Dort	ADV
+erst	ADV
+werden	AUX
+uns're	ADJ
+Blicke	NOUN
+freier	VERB
+,	PUNCT
+
+
+--	PUNCT
+Heller	NOUN
+Morgen	ADV
+steigt	VERB
+aus	ADP
+dunkler	ADJ
+Nacht	NOUN
+;	PUNCT
+
+
+--	PUNCT
+Freudig	NOUN
+dankend	VERB
+werden	AUX
+wir	PRON
+dann	ADV
+jauchzen	VERB
+:	PUNCT
+
+
+--	PUNCT
+Vater	NOUN
+Du	PRON
+hast	AUX
+Alles	PRON
+wohl	ADV
+gemacht	VERB
+.	PUNCT
+
+
+--	PUNCT
+Schläft	VERB
+am	PRON
+Tisch	VERB
+ein	X
+,	PUNCT
+das	DET
+Feuster	NOUN
+bleibt	VERB
+geöffnet	VERB
+.	PUNCT
+
+
+--	PUNCT
+(	PUNCT
+Matter	NOUN
+Mondschein	VERB
+und	CCONJ
+das	DET
+Licht	NOUN
+am	PRON
+Feuster	VERB
+oben	NOUN
+beleuchten	VERB
+die	PRON
+Bühne	VERB
+.	PUNCT
+)	PUNCT
+
+
+--	PUNCT
+Hans	PROPN
+allein	VERB
+.	PUNCT
+De	DET
+Schimmel	ADJ
+wären	NOUN
+satt	VERB
+,	PUNCT
+nu	ADV
+künn	AUX
+de	DET
+Fahrt	NOUN
+los	ADV
+gan	VERB
+.	PUNCT
+
+
+--	PUNCT
+Horcht	VERB
+an	ADP
+Barko's	ADJ
+Fenster	NOUN
+.	PUNCT
+De	DET
+Oll	ADJ
+de	DET
+schnarcht	NOUN
+,	PUNCT
+dat	SCONJ
+sich	PRON
+de	DET
+Balken	NOUN
+bögen	VERB
+,	PUNCT
+de	DET
+
+
+hört	VERB
+niks	NOUN
+mehr	ADV
+,	PUNCT
+doch	ADV
+Jumfer	NOUN
+Marten	VERB
+hett	AUX
+noch	ADV
+Licht	ADV
+,	PUNCT
+de	PRON
+is	AUX
+woll	ADV
+von	ADP
+de	DET
+
+
+Leevserklärung	NOUN
+noch	ADV
+to	ADP
+upgeregt	NOUN
+,	PUNCT
+dat	SCONJ
+se	PRON
+nich	ADV
+schlapen	VERB
+kann	AUX
+.	PUNCT
+Versucht	NOUN
+leise	VERB
+die	PRON
+
+
+Thür	VERB
+des	DET
+Seitenflügels	NOUN
+zu	ADP
+öffnen	NOUN
+.	PUNCT
+De	DET
+Döhr	NOUN
+is	AUX
+togeriegelt	VERB
+,	PUNCT
+na	ADP
+daför	NOUN
+weet	VERB
+wi	PRON
+
+
+Nath	VERB
+,	PUNCT
+dat	DET
+Finster	NOUN
+steht	VERB
+ja	ADJ
+apen	NOUN
+,	PUNCT
+da	ADV
+stieg	VERB
+ick	PRON
+ganz	ADV
+sacht	ADV
+rin	ADV
+,	PUNCT
+un	CCONJ
+riegel	VERB
+
+
+mi	PRON
+denn	ADV
+up	ADP
+;	PUNCT
+de	DET
+Dern	NOUN
+steck	VERB
+ick	PRON
+min	DET
+Taschendook	NOUN
+in'n	ADP
+Mund	NOUN
+,	PUNCT
+dat	DET
+s'	NOUN
+nich	ADV
+
+
+Allarm	NOUN
+kann	AUX
+schlagen	VERB
+,	PUNCT
+un	CCONJ
+denn	ADV
+gehst	VERB
+Du	PRON
+heidi	VERB
+mit	ADP
+Hans	PROPN
+,	PUNCT
+min	DET
+Schatz	NOUN
+;	PUNCT
+
+
+--	PUNCT
+Du	PRON
+sast	AUX
+mi	PRON
+woll	ADV
+pareer'n	VERB
+,	PUNCT
+wenn	SCONJ
+ick	PRON
+Di	PRON
+man	ADV
+erst	ADV
+hebb	AUX
+,	PUNCT
+wo	SCONJ
+ick	PRON
+Di	PRON
+hen	ADV
+
+
+--	PUNCT
+bring'n	VERB
+will	AUX
+.	PUNCT
+Horcht	VERB
+erst	ADV
+wieder	ADV
+an	ADP
+Barko's	NOUN
+Thür	VERB
+,	PUNCT
+dann	ADV
+nach	X
+oben	NOUN
+schauend	VERB
+.	PUNCT
+Dat	DET
+Licht	NOUN
+
+
+brennt	NOUN
+immer	ADV
+noch	ADV
+,	PUNCT
+se	PRON
+kann	AUX
+doch	ADV
+nich	ADV
+mehr	ADV
+waken	VERB
+,	PUNCT
+ick	PRON
+möt	VERB
+doch	ADV
+enmal	VERB
+
+
+sehen	VERB
+.	PUNCT
+Steigt	VERB
+auf	ADP
+den	DET
+Baum	NOUN
+und	CCONJ
+sieht	NOUN
+von	ADP
+dort	ADV
+in's	ADJ
+Fenster	NOUN
+.	PUNCT
+Dat	PRON
+hebb'ck	VERB
+mi	PRON
+dacht	VERB
+,	PUNCT
+
+
+--	PUNCT
+da	ADV
+sitt	NOUN
+s'	VERB
+mit	ADP
+ehr	DET
+Gesangbook	NOUN
+noch	ADV
+an'n	ADP
+Disch	NOUN
+,	PUNCT
+un	CCONJ
+is	AUX
+recht	ADV
+schön	ADJ
+inschlapen	NOUN
+,	PUNCT
+
+
+--	PUNCT
+as	CCONJ
+dat	PRON
+schient	VERB
+.	PUNCT
+Jitzt	ADV
+spann	VERB
+ick	PRON
+an	ADP
+.	PUNCT
+Klettert	NOUN
+herunter	VERB
+,	PUNCT
+der	DET
+unterste	ADJ
+Zweig	NOUN
+bricht	VERB
+mit	ADP
+
+
+großem	NOUN
+Geräusch	VERB
+ab	X
+,	PUNCT
+Haus	PROPN
+hält	VERB
+sich	PRON
+mit	ADP
+den	DET
+Händen	NOUN
+oben	VERB
+und	CCONJ
+hängt	VERB
+frei	NOUN
+in	ADP
+der	DET
+Luft	NOUN
+.	PUNCT
+Dunner	PROPN
+
+
+--	PUNCT
+wetter	VERB
+,	PUNCT
+wat	PRON
+is	AUX
+dat	PRON
+?	PUNCT
+hett	AUX
+denn	ADV
+de	DET
+Düwel	NOUN
+hüt	ADV
+sin	DET
+Spill	NOUN
+!	PUNCT
+
+
+--	PUNCT
+Hans	PROPN
+.	PUNCT
+Barko	VERB
+.	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+mit	ADP
+Nachtmütze	NOUN
+sieht	VERB
+aus	ADP
+dem	DET
+Fenster	NOUN
+.	PUNCT
+Wat	PRON
+wär	AUX
+denn	ADV
+dat	DET
+för'n	NOUN
+
+
+Krach	VERB
+,	PUNCT
+wem	PRON
+is	AUX
+denn	ADV
+da	ADV
+?	PUNCT
+Hans	PROPN
+Du	PRON
+?	PUNCT
+wist	AUX
+Du	PRON
+Di	PRON
+uphäng'n	VERB
+da	ADV
+;	PUNCT
+wat	PRON
+
+
+sall	AUX
+denn	ADV
+dat	PRON
+bedüden	VERB
+?	PUNCT
+Ick	PRON
+denk	VERB
+,	PUNCT
+Du	PRON
+bist	AUX
+up't	ADP
+Vörwark	NOUN
+danzen	VERB
+,	PUNCT
+wat	PRON
+
+
+mökst	VERB
+Du	PRON
+denn	ADV
+da	ADV
+up	ADP
+den	DET
+Boom	NOUN
+?	PUNCT
+
+
+--	PUNCT
+Hans	PROPN
+.	PUNCT
+O	ADP
+Herr	NOUN
+,	PUNCT
+niks	VERB
+!	PUNCT
+garniks	VERB
+,	PUNCT
+ick	PRON
+harr	VERB
+son	DET
+Döst	NOUN
+,	PUNCT
+ick	PRON
+wull	AUX
+mi	PRON
+
+
+hier	ADV
+man	ADV
+en	DET
+Paar	NOUN
+Beren	NOUN
+plücken	VERB
+.	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+.	PUNCT
+Na	ADP
+nu	ADV
+,	PUNCT
+midden	ADV
+in	ADP
+de	DET
+Nacht	NOUN
+?	PUNCT
+schämst	VERB
+Du	PRON
+Di	PRON
+nich	ADV
+,	PUNCT
+de	DET
+
+
+Beren	NOUN
+sind	AUX
+ja	ADJ
+noch	ADV
+nich	ADV
+mal	ADV
+ganz	ADV
+riep	VERB
+,	PUNCT
+Du	PRON
+Läketähn	VERB
+.	PUNCT
+Legg	AUX
+Di	PRON
+in't	ADP
+
+
+Nest	NOUN
+,	PUNCT
+wi	PRON
+warrn	VERB
+uns	PRON
+morgen	ADV
+spräken	VERB
+.	PUNCT
+Schlägt	VERB
+das	DET
+Feuster	NOUN
+zu	ADP
+.	PUNCT
+
+
+--	PUNCT
+Hans	PROPN
+läßt	VERB
+sich	PRON
+an	ADP
+der	DET
+Zeugleine	NOUN
+vom	ADP
+Baume	NOUN
+herunter	VERB
+.	PUNCT
+Nee	VERB
+dat	PRON
+ward	AUX
+woll	ADV
+
+
+niks	NOUN
+warrn	VERB
+,	PUNCT
+morg'n	VERB
+bin	AUX
+'ck	VERB
+nich	ADV
+mehr	ADV
+to	ADP
+spräken	VERB
+,	PUNCT
+Du	PRON
+olle	ADV
+Grieskopp	VERB
+Du	PRON
+.	PUNCT
+
+
+--	PUNCT
+Verdammte	NOUN
+Streich	VERB
+,	PUNCT
+jitzt	ADV
+möt	VERB
+ick	PRON
+loch	NOUN
+noch	ADV
+töben	VERB
+,	PUNCT
+bet	ADP
+he	PRON
+wedder	ADV
+schlöppt	VERB
+.	PUNCT
+
+
+--	PUNCT
+Nach	X
+oben	NOUN
+sehend	VERB
+.	PUNCT
+Dat	DET
+Frölen	NOUN
+is	AUX
+woll	ADV
+ja	ADJ
+nich	ADV
+munter	ADJ
+word'n	NOUN
+,	PUNCT
+súnst	NOUN
+harr	VERB
+
+
+se	PRON
+sich	PRON
+woll	ADV
+mellt	VERB
+.	PUNCT
+Pflückt	VERB
+von	ADP
+dem	DET
+Zweig	NOUN
+einige	VERB
+Früchte	NOUN
+und	CCONJ
+steckt	VERB
+sie	PRON
+ein	VERB
+.	PUNCT
+Nu	ADV
+kann	AUX
+
+
+ick	PRON
+Ber'n	VERB
+statt	ADP
+Rosen	NOUN
+plücken	VERB
+.	PUNCT
+Man	ADV
+hört	VERB
+aus	ADP
+der	DET
+Ferne	NOUN
+einen	X
+Hahn	NOUN
+krähen	VERB
+.	PUNCT
+Ver	ADP
+
+
+--	PUNCT
+dammt	VERB
+,	PUNCT
+de	DET
+Hahn	NOUN
+kreit	VERB
+all	ADV
+,	PUNCT
+ick	PRON
+kann	AUX
+nich	ADV
+länger	ADV
+töven	VERB
+,	PUNCT
+dat	PRON
+ward	AUX
+gliek	ADV
+
+
+Dag	NOUN
+.	PUNCT
+Wirft	VERB
+den	DET
+Zweig	NOUN
+bei	X
+Seite	NOUN
+.	PUNCT
+Jitzt	ADV
+spann	VERB
+ick	PRON
+an	ADP
+un	CCONJ
+hol	VERB
+de	DET
+Lerrer	NOUN
+her	ADV
+,	PUNCT
+
+
+--	PUNCT
+in	ADP
+de	DET
+Tied	NOUN
+ward	AUX
+de	DET
+Oll'	NOUN
+woll	ADV
+wedder	ADV
+schlapen	VERB
+.	PUNCT
+Ab	X
+nach	X
+Uinks	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Fritz	PROPN
+allein	VERB
+.	PUNCT
+
+
+--	PUNCT
+Fritz	PROPN
+im	ADP
+Reise-Anzuge	NOUN
+,	PUNCT
+von	ADP
+links	ADV
+kommend	VERB
+,	PUNCT
+singt	VERB
+:	PUNCT
+
+
+--	PUNCT
+No	VERB
+.	PUNCT
+.	PUNCT
+Einläge	VERB
+.	PUNCT
+
+
+--	PUNCT
+Wie	PRON
+ruhet	VERB
+die	PRON
+stille	ADJ
+Natur	NOUN
+!	PUNCT
+
+
+--	PUNCT
+Heimathliche	VERB
+friedliche	NOUN
+Flur	VERB
+
+
+Verschleiert	VERB
+der	DET
+Thau	NOUN
+;	PUNCT
+
+
+--	PUNCT
+Des	X
+Schlummers	ADJ
+balsamisches	NOUN
+Weh'n	VERB
+
+
+Durchhauchet	VERB
+die	PRON
+Thäler	VERB
+und	CCONJ
+Höh'n	VERB
+
+
+Im	ADP
+schweigenden	NOUN
+Gau	VERB
+.	PUNCT
+
+
+--	PUNCT
+Dir	PRON
+bring'	VERB
+,	PUNCT
+mit	ADP
+melodischem	NOUN
+Klang	VERB
+,	PUNCT
+
+
+--	PUNCT
+Ich	PRON
+Liebchen	VERB
+den	DET
+Morgen-Gesang	NOUN
+,	PUNCT
+
+
+--	PUNCT
+So	ADV
+Wonne	VERB
+,	PUNCT
+wie	PRON
+Pein	VERB
+.	PUNCT
+
+
+--	PUNCT
+Was	AUX
+glüht	VERB
+mir	X
+im	ADP
+Herzen	NOUN
+,	PUNCT
+vertraut	VERB
+
+
+So	ADV
+gern	ADV
+ich	PRON
+Dir	VERB
+;	PUNCT
+liebliche	VERB
+Braut	PROPN
+,	PUNCT
+
+
+--	PUNCT
+O	PROPN
+werde	AUX
+bald	ADV
+mein	X
+.	PUNCT
+
+
+--	PUNCT
+Frisch	ADV
+athmen	VERB
+die	PRON
+Lüfke	VERB
+und	CCONJ
+wehn	VERB
+
+
+Des	DET
+Nebels	ADJ
+verhüllende	NOUN
+Seen	VERB
+
+
+Zur	ADP
+Erde	NOUN
+hinab	VERB
+.	PUNCT
+
+
+--	PUNCT
+Und	CCONJ
+was	AUX
+sie	PRON
+verhüllet	VERB
+,	PUNCT
+entstrebt	VERB
+,	PUNCT
+
+
+--	PUNCT
+Vom	ADP
+röthlichen	ADJ
+Schimmer	NOUN
+umwebt	VERB
+,	PUNCT
+
+
+--	PUNCT
+Dem	DET
+wolkigen	NOUN
+Grab	VERB
+.	PUNCT
+
+
+--	PUNCT
+Es	X
+klatscht	NOUN
+mit	ADP
+den	DET
+Flügeln	NOUN
+und	CCONJ
+bläht	VERB
+
+
+Sich	PRON
+stolz	VERB
+schon	ADV
+im	ADP
+Hofe	NOUN
+und	CCONJ
+kräht	VERB
+
+
+Ermunternd	VERB
+der	DET
+Hahn	NOUN
+:	PUNCT
+
+
+--	PUNCT
+"	PUNCT
+Auf	ADP
+,	PUNCT
+Schläfer	VERB
+!	PUNCT
+ihr	DET
+Schläfer	NOUN
+,	PUNCT
+erwacht	VERB
+!	PUNCT
+
+
+--	PUNCT
+"	PUNCT
+Dahin	VERB
+ist	AUX
+die	PRON
+träumende	VERB
+Nacht	NOUN
+,	PUNCT
+
+
+--	PUNCT
+"	PUNCT
+Der	DET
+Morgen	NOUN
+bricht	VERB
+an	ADP
+.	PUNCT
+"	PUNCT
+
+
+--	PUNCT
+Wie	PRON
+wird	X
+mir	X
+die	PRON
+Seele	VERB
+so	ADV
+frei	VERB
+!	PUNCT
+
+
+--	PUNCT
+Wie	PRON
+fluthet	VERB
+das	DET
+Leben	NOUN
+so	ADV
+neu	VERB
+
+
+Mir	X
+tief	NOUN
+in	ADP
+der	DET
+Brustt	NOUN
+
+
+Es	X
+feiert	NOUN
+und	CCONJ
+danket	NOUN
+und	CCONJ
+preis't	VERB
+,	PUNCT
+
+
+--	PUNCT
+Vereint	VERB
+mit	ADP
+dem	DET
+Liebchen	NOUN
+,	PUNCT
+mein	X
+Geist	NOUN
+
+
+In	ADP
+seliger	NOUN
+Lust	VERB
+.	PUNCT
+
+
+--	PUNCT
+Spricht	VERB
+:	PUNCT
+Ich	PRON
+komme	VERB
+noch	ADV
+zu	ADP
+früh	VERB
+,	PUNCT
+der	DET
+Postillon	NOUN
+hat	AUX
+gut	NOUN
+gefahren	VERB
+,	PUNCT
+was	AUX
+
+
+nun	NOUN
+?	PUNCT
+Unmöglich	VERB
+kann	AUX
+ich	PRON
+jetzt	ADV
+schon	ADV
+stören	VERB
+;	PUNCT
+Spazieren	NOUN
+gehn	VERB
+,	PUNCT
+dazu	VERB
+bin	AUX
+
+
+ich	PRON
+zu	ADP
+müde	NOUN
+.	PUNCT
+Zieht	VERB
+seine	X
+uhr	NOUN
+.	PUNCT
+Erst	ADV
+halb	ADJ
+vier	NOUN
+,	PUNCT
+hm	VERB
+.	PUNCT
+"	PUNCT
+O	ADP
+Röschen	NOUN
+!	PUNCT
+wenn	SCONJ
+Du	PRON
+
+
+wüßtest	VERB
+-	PUNCT
+doch	ADV
+still	ADV
+,	PUNCT
+ich	PRON
+darf	AUX
+mich	X
+ja	ADJ
+noch	ADV
+nicht	ADV
+verrathen	VERB
+.	PUNCT
+Aber	CCONJ
+was	AUX
+
+
+beginn'	VERB
+ich	PRON
+nur	ADV
+.	PUNCT
+Ei	NOUN
+was	AUX
+,	PUNCT
+ich	PRON
+werde	AUX
+den	DET
+Sonnen-Aufgang	NOUN
+hier	ADV
+erwarten	VERB
+;	PUNCT
+
+
+--	PUNCT
+die	PRON
+Luft	NOUN
+ist	AUX
+nicht	ADV
+zu	ADP
+kühl	NOUN
+und	CCONJ
+übrigens	NOUN
+schützt	VERB
+vor	ADP
+Erkältung	NOUN
+mich	X
+mein	X
+
+
+Plaid	VERB
+.	PUNCT
+Auf	ADP
+die	PRON
+Bank	NOUN
+deutend	VERB
+.	PUNCT
+Da	ADV
+ist	AUX
+ja	ADJ
+Röschen's	NOUN
+Lieblingsplatz	VERB
+,	PUNCT
+wovon	ADV
+sie	PRON
+
+
+mir	X
+geschrieben	X
+,	PUNCT
+den	PRON
+werde	AUX
+ich	PRON
+einstweilen	NOUN
+annectiren	VERB
+.	PUNCT
+Setzt	VERB
+sich	PRON
+,	PUNCT
+im	ADP
+Begrisf	NOUN
+eine	X
+
+
+Eigarre	NOUN
+anzuzünden	VERB
+:	PUNCT
+Horch	VERB
+!	PUNCT
+Pferdegetrappel	VERB
+,	PUNCT
+was	AUX
+ist	AUX
+das	PRON
+!	PUNCT
+In	ADP
+die	PRON
+Coulisse	NOUN
+blickend	VERB
+:	PUNCT
+
+
+--	PUNCT
+Ein	DET
+Wagen	NOUN
+wird	X
+bespannt	NOUN
+,	PUNCT
+so	ADV
+früh	VERB
+,	PUNCT
+was	AUX
+hat	AUX
+das	PRON
+zu	ADP
+bedeuten	NOUN
+?	PUNCT
+-	PUNCT
+Zür	VERB
+
+
+Arbeit	NOUN
+auf	ADP
+dem	DET
+Felde	NOUN
+ist's	VERB
+doch	ADV
+noch	ADV
+zu	ADP
+finster	NOUN
+,	PUNCT
+auch	X
+ist	AUX
+ja	ADJ
+heute	ADV
+
+
+Erntefest	VERB
+.	PUNCT
+Vielleicht	NOUN
+verreist	VERB
+der	DET
+Vater	NOUN
+;	PUNCT
+doch	ADV
+heute	ADV
+?	PUNCT
+Nein	PROPN
+,	PUNCT
+das	PRON
+thut	VERB
+er	PRON
+
+
+nicht	ADV
+-	PUNCT
+--	PUNCT
+auch	X
+müßte	NOUN
+dann	ADV
+schon	ADV
+Licht	ADV
+und	CCONJ
+Leben	NOUN
+hier	ADV
+im	ADP
+Hause	NOUN
+sein	X
+.	PUNCT
+
+
+--	PUNCT
+Horch	VERB
+!	PUNCT
+Schritte	VERB
+,	PUNCT
+man	ADV
+kommt	VERB
+hierher	ADV
+,	PUNCT
+ei	VERB
+,	PUNCT
+da	ADV
+will	AUX
+ich	PRON
+doch	ADV
+sehen	VERB
+.	PUNCT
+
+
+--	PUNCT
+Setzt	VERB
+sich	PRON
+auf	ADP
+die	PRON
+Bank	NOUN
+,	PUNCT
+so	ADV
+daß	X
+der	DET
+Baumstamm	NOUN
+ihn	X
+verdeckt	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Fritz	PROPN
+.	PUNCT
+Hans	PROPN
+.	PUNCT
+
+
+--	PUNCT
+Hans	PROPN
+mit	ADP
+einer	DET
+Leiter	NOUN
+.	PUNCT
+So	ADV
+min	DET
+Schatz	NOUN
+,	PUNCT
+nu	ADV
+is't	AUX
+de	DET
+höchste	ADJ
+Tied	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Setzt	VERB
+die	PRON
+Leiter	VERB
+an	ADP
+Rosa's	ADJ
+Fenster	NOUN
+,	PUNCT
+steigt	VERB
+leise	NOUN
+hinein	VERB
+.	PUNCT
+
+
+--	PUNCT
+Fritz	PROPN
+.	PUNCT
+Ei	VERB
+,	PUNCT
+ei	VERB
+!	PUNCT
+was	AUX
+wird	X
+denn	ADV
+das	PRON
+?	PUNCT
+der	DET
+Hans	PROPN
+hat	AUX
+wohl	ADV
+ein	X
+
+
+Liebchen	VERB
+,	PUNCT
+das	PRON
+wird	X
+ja	ADJ
+intressant	NOUN
+.	PUNCT
+Greift	VERB
+nach	X
+dem	DET
+Glockenstrang	NOUN
+.	PUNCT
+Fast	ADV
+möcht'	VERB
+ich	PRON
+
+
+ihm	X
+den	DET
+Spaß	NOUN
+verderben	VERB
+und	CCONJ
+die	PRON
+Glocke	NOUN
+ziehen	VERB
+,	PUNCT
+ein	X
+kleiner	ADJ
+Schreck	NOUN
+dürfte	VERB
+
+
+ihm	PRON
+nicht	ADV
+schaden	PROPN
+.	PUNCT
+Hält	NOUN
+unschlüssig	VERB
+den	DET
+Strang	NOUN
+.	PUNCT
+Das	DET
+Licht	NOUN
+oben	VERB
+hat	AUX
+Haus	PROPN
+fortgenommen	VERB
+.	PUNCT
+
+
+--	PUNCT
+Vorige	VERB
+.	PUNCT
+Rosa	VERB
+.	PUNCT
+Später	NOUN
+Barko	VERB
+.	PUNCT
+
+
+--	PUNCT
+Rosa	NOUN
+hinter	VERB
+der	DET
+Scene	NOUN
+,	PUNCT
+schreit	VERB
+auf	ADP
+:	PUNCT
+Wer	PRON
+ist	AUX
+denn	ADV
+hier	ADV
+?	PUNCT
+ein	DET
+Dieb	NOUN
+!	PUNCT
+!	PUNCT
+Vater	NOUN
+
+
+Barko	VERB
+!	PUNCT
+zu	ADP
+Hilfe	NOUN
+!	PUNCT
+zu	ADP
+Hilfe	NOUN
+!	PUNCT
+Vater	NOUN
+Barko	VERB
+!	PUNCT
+
+
+--	PUNCT
+Fritz	PROPN
+.	PUNCT
+Mein	X
+Gott	NOUN
+,	PUNCT
+das	PRON
+muß	AUX
+doch	ADV
+Nöschen's	VERB
+Stimme	PROPN
+sein	X
+;	PUNCT
+der	DET
+
+
+Schuft	NOUN
+will	AUX
+sie	PRON
+entführen	VERB
+!	PUNCT
+Röschen	VERB
+ich	PRON
+komme	VERB
+!	PUNCT
+!	PUNCT
+Schleudert	VERB
+den	DET
+Strang	NOUN
+von	ADP
+
+
+sich	PRON
+,	PUNCT
+so	ADV
+daß	X
+die	PRON
+Glocke	VERB
+von	ADP
+der	DET
+Erschütterung	NOUN
+ein	DET
+Paar	NOUN
+mal	ADV
+anschlägt	VERB
+,	PUNCT
+stürmt	NOUN
+gleichzeitig	VERB
+die	PRON
+Leiter	VERB
+
+
+hinan	VERB
+dem	DET
+Haus	PROPN
+nach	X
+durch	X
+das	DET
+Fenster	NOUN
+,	PUNCT
+rufend	VERB
+:	PUNCT
+Hallunke	VERB
+,	PUNCT
+was	AUX
+beginnst	VERB
+Du	PRON
+hier	ADV
+?	PUNCT
+
+
+--	PUNCT
+Rosa's	NOUN
+Stimme	VERB
+.	PUNCT
+Fritz	PROPN
+Du	PRON
+?	PUNCT
+O	ADP
+Gott	NOUN
+sei	VERB
+Dank	NOUN
+!	PUNCT
+Dich	PRON
+schickt	VERB
+
+
+der	DET
+Himmel	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Hans	PROPN
+Von	ADP
+innen	VERB
+.	PUNCT
+Verdammt	VERB
+!	PUNCT
+Rüttelt	NOUN
+unten	VERB
+von	ADP
+innen	ADJ
+an	ADP
+der	DET
+Thür	NOUN
+,	PUNCT
+bis	CCONJ
+sie	PRON
+
+
+auffliegt	NOUN
+und	CCONJ
+stürzt	NOUN
+hinaus	VERB
+.	PUNCT
+In	ADP
+demselben	ADJ
+Augenblick	NOUN
+kommt	VERB
+Barko	NOUN
+aus	ADP
+dem	DET
+Hause	NOUN
+,	PUNCT
+Beide	DET
+rennen	NOUN
+
+
+aneinander	NOUN
+und	CCONJ
+stürzen	VERB
+,	PUNCT
+Hans	PROPN
+springt	VERB
+über	X
+Karko	NOUN
+hinweg	VERB
+und	CCONJ
+entflieht	VERB
+.	PUNCT
+
+
+--	PUNCT
+Fritz	PROPN
+innen	VERB
+.	PUNCT
+Halt	VERB
+ihn	X
+!	PUNCT
+Hattet	VERB
+den	DET
+Dieb	NOUN
+,	PUNCT
+er	PRON
+will	AUX
+mit	ADP
+dem	DET
+Fuhrwerk	NOUN
+
+
+fort	ADV
+;	PUNCT
+ihm	X
+nach	X
+Vater	NOUN
+!	PUNCT
+Kommt	VERB
+aus	ADP
+dem	DET
+Seitenflügel	NOUN
+und	CCONJ
+eilt	NOUN
+mit	ADP
+Barko	NOUN
+ab	X
+,	PUNCT
+dem	DET
+
+
+Hans	PROPN
+nach	X
+.	PUNCT
+
+
+--	PUNCT
+Rosa	NOUN
+allein	VERB
+.	PUNCT
+
+
+--	PUNCT
+Rosa	NOUN
+kommt	VERB
+noch	ADV
+völlig	ADV
+wie	PRON
+vorher	NOUN
+gekleidet	VERB
+,	PUNCT
+jedoch	VERB
+mit	ADP
+aufgelöstem	ADJ
+Haar	NOUN
+ebenfalls	VERB
+aus	ADP
+
+
+dem	DET
+Seitenflügel	NOUN
+,	PUNCT
+sofort	ADV
+nach	X
+der	DET
+Glocke	NOUN
+stürzend	VERB
+und	CCONJ
+läutend	VERB
+,	PUNCT
+bis	CCONJ
+man	ADV
+plötzlich	ADJ
+aus	ADP
+der	DET
+Ferne	NOUN
+
+
+einen	X
+dumpfen	ADJ
+Kanonenschlag	NOUN
+hört	VERB
+.	PUNCT
+
+
+--	PUNCT
+Ah	VERB
+jetzt	ADV
+wird	X
+der	DET
+Festzug	NOUN
+von	ADP
+dem	PRON
+Vor	ADP
+
+
+--	PUNCT
+werk	NOUN
+kommen	VERB
+,	PUNCT
+die	PRON
+Schnitter	NOUN
+haben	AUX
+das	DET
+Läuten	NOUN
+ganz	ADV
+falsch	ADJ
+gedeutet	NOUN
+,	PUNCT
+nun	ADV
+
+
+auch	X
+gut	X
+,	PUNCT
+will	AUX
+der	DET
+Schurke	NOUN
+entfliehen	VERB
+,	PUNCT
+so	ADV
+läuft	VERB
+er	PRON
+ihnen	ADP
+grade	NOUN
+in	ADP
+die	PRON
+
+
+Arme	ADJ
+.	PUNCT
+Ah	VERB
+Vater	NOUN
+Barko	VERB
+!	PUNCT
+Geht	VERB
+Barko	NOUN
+und	CCONJ
+Fritz	PROPN
+entgegen	ADP
+.	PUNCT
+
+
+--	PUNCT
+Rosa	VERB
+.	PUNCT
+Barko	VERB
+.	PUNCT
+Später	VERB
+Fritz	PROPN
+.	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+.	PUNCT
+(	PUNCT
+Es	X
+beginnt	NOUN
+zu	ADP
+tagen	NOUN
+.	PUNCT
+)	PUNCT
+Min	DET
+armes	ADJ
+Kind	NOUN
+!	PUNCT
+Hest	AUX
+Di	PRON
+woll	ADV
+
+
+schön	ADJ
+verfiert	NOUN
+?	PUNCT
+Na	ADP
+lat	VERB
+man	PRON
+sind	AUX
+,	PUNCT
+de	DET
+Lümmel	NOUN
+is	AUX
+nu	ADV
+weg	ADV
+,	PUNCT
+un	CCONJ
+ward	AUX
+uck	VERB
+
+
+woll	ADV
+nich	ADV
+wedder	ADV
+kamen	VERB
+,	PUNCT
+un	CCONJ
+kümmt	VERB
+he	PRON
+mi	PRON
+,	PUNCT
+häng	VERB
+ick	PRON
+em	PRON
+up	ADP
+,	PUNCT
+de	DET
+Bengel	NOUN
+
+
+is	AUX
+niks	ADJ
+Bäters	NOUN
+werth	ADV
+.	PUNCT
+Harr	VERB
+ick	PRON
+dat	DET
+ahnen	NOUN
+künt	VERB
+.	PUNCT
+
+
+--	PUNCT
+Fritz	PROPN
+.	PUNCT
+Das	DET
+Fuhrwerk	NOUN
+ist	AUX
+in	ADP
+Sicherheit	NOUN
+,	PUNCT
+doch	ADV
+von	ADP
+dem	DET
+Hans	PROPN
+ist	AUX
+
+
+jede	DET
+Spur	NOUN
+verschwunden	VERB
+.	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+.	PUNCT
+Lat	VERB
+em	PRON
+tum	ADP
+Düwel	NOUN
+gan	VERB
+,	PUNCT
+ick	PRON
+mag	AUX
+emn	VERB
+nich	ADV
+mehr	ADV
+sehen	VERB
+.	PUNCT
+
+
+--	PUNCT
+Doch	ADV
+wo	SCONJ
+kümmst	VERB
+Du	PRON
+hierher	ADV
+?	PUNCT
+Erklär	VERB
+mi	PRON
+doch	ADV
+-	PUNCT
+--	PUNCT
+Fritz	PROPN
+heiter	VERB
+und	CCONJ
+eifrig	VERB
+.	PUNCT
+Mich	X
+hat	AUX
+ein	DET
+Gott	NOUN
+gesandt	VERB
+,	PUNCT
+den	DET
+Engel	NOUN
+hier	ADV
+zu	ADP
+
+
+Barko	NOUN
+lächelnd	VERB
+.	PUNCT
+So	ADV
+?	PUNCT
+dat	PRON
+hev	VERB
+ick	PRON
+uck	VERB
+noch	ADV
+nich	ADV
+wüßt	VERB
+,	PUNCT
+dat	DET
+Gott	NOUN
+Di	PRON
+
+
+brukt	VERB
+,	PUNCT
+sin	DET
+Engel	NOUN
+to	ADP
+behöden	NOUN
+,	PUNCT
+woher	ADV
+kennst	VERB
+Du	PRON
+denn	ADV
+dissen	DET
+Engel	NOUN
+hier	ADV
+,	PUNCT
+he	PRON
+?	PUNCT
+
+
+--	PUNCT
+Fritz	PROPN
+Barko's	VERB
+Hand	NOUN
+ergreifend	VERB
+,	PUNCT
+Rosa	VERB
+an	ADP
+sich	PRON
+ziehend	VERB
+.	PUNCT
+Vergieb	VERB
+mir	X
+,	PUNCT
+lieber	X
+Vater	NOUN
+,	PUNCT
+
+
+--	PUNCT
+Röschen	VERB
+ist	AUX
+ja	ADJ
+längst	ADV
+schon	ADV
+meine	DET
+Braut	NOUN
+und	CCONJ
+eben	ADV
+jene	ADJ
+Städterin	NOUN
+,	PUNCT
+die	PRON
+
+
+Du	PRON
+durchaus	VERB
+nicht	ADV
+sehen	VERB
+wolltest	VERB
+,	PUNCT
+ich	PRON
+brachte	VERB
+sie	PRON
+hierher	ADV
+,	PUNCT
+damit	ADV
+Du	PRON
+sie	PRON
+
+
+näher	ADJ
+möchtest	NOUN
+kennen	VERB
+lernen	VERB
+,	PUNCT
+und	CCONJ
+hoffe	NOUN
+nun	ADV
+,	PUNCT
+daß	CCONJ
+Du	PRON
+Dich	PRON
+überzeugt	VERB
+,	PUNCT
+
+
+--	PUNCT
+einen	X
+Engel	PROPN
+mir	X
+der	DET
+Himmel	NOUN
+hat	AUX
+beschieden	VERB
+.	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+.	PUNCT
+So	ADV
+,	PUNCT
+kiekt	VERB
+mal	ADV
+an	ADP
+,	PUNCT
+also	ADV
+Comedg	NOUN
+hebbt	VERB
+Ji	PRON
+mit	ADP
+mi	PRON
+spält	VERB
+.	PUNCT
+
+
+--	PUNCT
+Fritz	PROPN
+zugleich	VERB
+kuicend	NOUN
+mit	ADP
+Rosa	NOUN
+.	PUNCT
+Verzeihung	VERB
+,	PUNCT
+lieber	X
+guter	ADJ
+Vater	NOUN
+,	PUNCT
+uns	PRON
+
+
+blieb	VERB
+kein	DET
+ander	ADJ
+Mittel	NOUN
+übrig	VERB
+.	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+.	PUNCT
+Na	ADP
+nu	ADV
+is't	AUX
+nooch	VERB
+,	PUNCT
+nu	ADV
+staht	VERB
+mån	ADV
+up	ADP
+,	PUNCT
+den	DET
+Braden	NOUN
+hev	VERB
+
+
+ick	PRON
+raken	VERB
+,	PUNCT
+ick	PRON
+wüßt	VERB
+all	ADV
+lang	ADV
+Bescheed	VERB
+,	PUNCT
+un	CCONJ
+is	AUX
+uck	VERB
+Alles	PRON
+na	ADP
+minen	DET
+Wunsch	NOUN
+,	PUNCT
+
+
+--	PUNCT
+de	DET
+Dern	NOUN
+is	AUX
+good	ADV
+,	PUNCT
+de	PRON
+kannst	AUX
+du't	PRON
+blot	NOUN
+verdanken	VERB
+dat	PRON
+ick	PRON
+die	PRON
+de	DET
+Comedg	NOUN
+
+
+nich	ADV
+anners	ADV
+utbetahl	VERB
+;	PUNCT
+nu	ADV
+staht	VERB
+man	ADV
+up	ADP
+!	PUNCT
+
+
+--	PUNCT
+Rosa	VERB
+.	PUNCT
+Nicht	ADV
+eher	ADV
+,	PUNCT
+Vater	NOUN
+Barko	VERB
+,	PUNCT
+bis	CCONJ
+Ihr	DET
+unsern	ADJ
+Bund	NOUN
+gefegnet	VERB
+.	PUNCT
+
+
+--	PUNCT
+(	PUNCT
+Man	ADV
+hört	VERB
+aus	ADP
+der	DET
+Ferne	NOUN
+näher	VERB
+kommende	NOUN
+Musik	VERB
+)	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+.	PUNCT
+Na	ADP
+gevt	VERB
+Ju	PRON
+man	ADV
+de	DET
+Hand	NOUN
+,	PUNCT
+den	DET
+Segen	NOUN
+mag	AUX
+uns	PRON
+Herrgott	NOUN
+
+
+geben	VERB
+.	PUNCT
+Staht	VERB
+up	ADP
+,	PUNCT
+ick	PRON
+kann	AUX
+dat	DET
+Kneen	ADJ
+nch	NOUN
+lieden	VERB
+,	PUNCT
+zu	ADP
+Nosa	NOUN
+:	PUNCT
+kumm	ADV
+her	ADV
+min	DET
+
+
+Kind	NOUN
+,	PUNCT
+hier	ADV
+is	AUX
+Din	DET
+Platz	NOUN
+.	PUNCT
+Zieht	VERB
+sie	PRON
+an	ADP
+sich	PRON
+,	PUNCT
+ihr	PRON
+die	PRON
+Stirne	NOUN
+küssend	VERB
+.	PUNCT
+Du	PRON
+bist	AUX
+en	DET
+
+
+goode	ADJ
+Wirthin	NOUN
+,	PUNCT
+ick	PRON
+denk	VERB
+min	DET
+Angerhof	NOUN
+de	PRON
+kümmt	VERB
+in	ADP
+goode	ADJ
+Hän'n	NOUN
+,	PUNCT
+zu	ADP
+Fritz	PROPN
+:	PUNCT
+
+
+--	PUNCT
+Ii	PRON
+blieben	VERB
+hier	ADV
+,	PUNCT
+ick	PRON
+treck	VERB
+nat	NOUN
+Vörwark	VERB
+rut	ADV
+.	PUNCT
+Doch	ADV
+nu	ADV
+noch	ADV
+ent	VERB
+:	PUNCT
+Leevt	VERB
+
+
+Ju	PRON
+un	CCONJ
+küßt	VERB
+Ju	PRON
+up	ADP
+hochdütsch	ADJ
+ümmerto	ADV
+,	PUNCT
+so	ADV
+vel	ADV
+Ji	PRON
+willen	AUX
+,	PUNCT
+doch	ADV
+mit	ADP
+mi	PRON
+
+
+möt	VERB
+Ii	PRON
+plattdütsch	ADJ
+reden	NOUN
+,	PUNCT
+sünst	ADV
+bin	AUX
+ick	PRON
+nich	ADV
+för	VERB
+Ju	PRON
+to	ADP
+spräken	VERB
+.	PUNCT
+
+
+--	PUNCT
+Rosa	VERB
+.	PUNCT
+Fritz	PROPN
+.	PUNCT
+Umarmen	VERB
+stürmisch	ADJ
+gleichzeitig	NOUN
+Barko	VERB
+.	PUNCT
+(	PUNCT
+Die	PRON
+Musik	VERB
+ertönt	NOUN
+näher	VERB
+,	PUNCT
+
+
+--	PUNCT
+es	X
+wird	X
+Tag	NOUN
+.	PUNCT
+)	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+.	PUNCT
+Na	ADP
+drückt	VERB
+mi	PRON
+man	ADV
+nich	ADV
+dood	ADJ
+,	PUNCT
+'t	PRON
+is	AUX
+all	ADV
+a	VERB
+good	ADV
+,	PUNCT
+nu	ADV
+lat't	VERB
+
+
+mi	PRON
+man	ADV
+tofreden	VERB
+.	PUNCT
+Hört	VERB
+de	DET
+Musik	NOUN
+,	PUNCT
+de	DET
+kam'n	NOUN
+vont	VERB
+Vörwark	NOUN
+all	ADV
+,	PUNCT
+ha	VERB
+,	PUNCT
+ha	VERB
+,	PUNCT
+ha	VERB
+!	PUNCT
+
+
+--	PUNCT
+De	PRON
+hebb'n	AUX
+dat	DET
+Klockenlüden	NOUN
+för	VERB
+min	DET
+Signal	NOUN
+utdüdt	VERB
+.	PUNCT
+Nu	ADV
+makt	VERB
+Ju	PRON
+man	ADV
+
+
+parat	VERB
+,	PUNCT
+hüt	ADV
+gifft	VERB
+en	PRON
+dubbelt	ADV
+Fest	ADV
+,	PUNCT
+Austköst	VERB
+un	CCONJ
+Ju	PRON
+Verlobung	VERB
+.	PUNCT
+(	PUNCT
+Hurrah	INTJ
+
+
+--	PUNCT
+Rufe	NOUN
+hinter	VERB
+der	DET
+Sceue	NOUN
+.	PUNCT
+)	PUNCT
+Se	PRON
+kamen	VERB
+all	ADV
+.	PUNCT
+Herrgott	NOUN
+ick	PRON
+hebb	AUX
+jo	ADV
+noch	ADV
+keen	DET
+
+
+Stäwel	NOUN
+an	ADP
+,	PUNCT
+ick	PRON
+möt	VERB
+doch	ADV
+-	PUNCT
+--	PUNCT
+schnell	VERB
+ab	X
+ins	X
+Haus	PROPN
+.	PUNCT
+
+
+--	PUNCT
+Nosa	VERB
+,	PUNCT
+Fritz	PROPN
+
+
+Fritz	PROPN
+.	PUNCT
+Dem	DET
+Himmel	NOUN
+sei	VERB
+Dank	NOUN
+,	PUNCT
+es	X
+ist	AUX
+gelungen	VERB
+!	PUNCT
+O	ADP
+Röschen	NOUN
+,	PUNCT
+
+
+--	PUNCT
+umarmt	VERB
+sie	PRON
+ich	PRON
+hätte	VERB
+es	X
+nicht	ADV
+gegläubt	VERB
+,	PUNCT
+wie	PRON
+soll	AUX
+ich	PRON
+Dir	PRON
+danken	VERB
+,	PUNCT
+Du	PRON
+liebes	VERB
+,	PUNCT
+
+
+--	PUNCT
+herziges	NOUN
+Mädchen	VERB
+,	PUNCT
+der	DET
+Vater	NOUN
+ist	AUX
+wie	PRON
+umgewandelt	VERB
+.	PUNCT
+O	ADP
+welch	NOUN
+unendlich	VERB
+
+
+Rosa	VERB
+.	PUNCT
+Mein	X
+lieber	X
+,	PUNCT
+guter	VERB
+Fritz	PROPN
+,	PUNCT
+doch	ADV
+zu	ADP
+Erklärungen	NOUN
+ist	AUX
+jetzt	ADV
+
+
+keine	X
+Zeit	PROPN
+,	PUNCT
+der	DET
+Festzug	NOUN
+naht	VERB
+,	PUNCT
+mein	X
+Gott	NOUN
+,	PUNCT
+ich	PRON
+muß	AUX
+mein	X
+Haar	NOUN
+erst	ADV
+ordnen	VERB
+.	PUNCT
+
+
+--	PUNCT
+Fritz	PROPN
+.	PUNCT
+O	PROPN
+nicht	ADV
+doch	ADV
+,	PUNCT
+liebes	VERB
+Kind	NOUN
+,	PUNCT
+Du	PRON
+siehst	VERB
+so	ADV
+reizend	VERB
+aus	ADP
+,	PUNCT
+laß	AUX
+
+
+mich	X
+mit	ADP
+diesen	ADJ
+Locken	NOUN
+spielen	VERB
+,	PUNCT
+sie	PRON
+kleiden	VERB
+Dich	PRON
+so	ADV
+allerliebst	VERB
+,	PUNCT
+Du	PRON
+solltest	VERB
+
+
+sie	PRON
+immer	ADV
+so	ADV
+tragen	VERB
+,	PUNCT
+wie	PRON
+herrlich	ADJ
+wird	X
+Dir	X
+doch	ADV
+der	DET
+Brautkranz	NOUN
+stehen	VERB
+.	PUNCT
+
+
+--	PUNCT
+Rosa	VERB
+in	ADP
+die	PRON
+Coulisse	NOUN
+blickend	VERB
+.	PUNCT
+Sieh	VERB
+!	PUNCT
+sieh	VERB
+!	PUNCT
+Dort	ADV
+kommt	VERB
+die	PRON
+Krone	VERB
+!	PUNCT
+
+
+--	PUNCT
+Platz	NOUN
+,	PUNCT
+Platz	NOUN
+!	PUNCT
+Zieht	VERB
+ihn	PRON
+mit	ADP
+sich	PRON
+in	ADP
+die	PRON
+Nähe	VERB
+des	DET
+Baumes	NOUN
+,	PUNCT
+wo	SCONJ
+sie	PRON
+den	DET
+Festzug	NOUN
+übersehen	VERB
+können	AUX
+.	PUNCT
+
+
+--	PUNCT
+Vorige	VERB
+.	PUNCT
+Jochen	VERB
+.	PUNCT
+Michel	PROPN
+.	PUNCT
+Grete	VERB
+.	PUNCT
+Liese	VERB
+.	PUNCT
+Musikanten	VERB
+.	PUNCT
+
+
+--	PUNCT
+Knechte	VERB
+und	CCONJ
+Mädchen	VERB
+.	PUNCT
+Später	NOUN
+Barko	VERB
+.	PUNCT
+
+
+--	PUNCT
+Unter	X
+Hurrah	INTJ
+und	CCONJ
+Hochrufen	NOUN
+marschirt	VERB
+der	DET
+Festzug	NOUN
+auf	ADP
+,	PUNCT
+die	PRON
+Musikanten	NOUN
+vorauf	VERB
+.	PUNCT
+Dann	ADV
+Jochen	VERB
+mit	ADP
+der	DET
+,	PUNCT
+
+
+--	PUNCT
+aus	ADP
+Aehren	NOUN
+,	PUNCT
+Blumen	VERB
+und	CCONJ
+bunten	NOUN
+Bändern	VERB
+herstegellten	NOUN
+Erntekrone	VERB
+,	PUNCT
+welche	PRON
+er	PRON
+auf	ADP
+einer	DET
+ebenfalls	NOUN
+bunt	VERB
+
+
+bebänderten	ADJ
+Heugabel	NOUN
+trägt	VERB
+,	PUNCT
+ihm	X
+zur	ADJ
+Seite	NOUN
+Grete	VERB
+,	PUNCT
+eine	DET
+verzierte	NOUN
+Harke	VERB
+tragend	NOUN
+mit	ADP
+einer	DET
+Guirlande	NOUN
+,	PUNCT
+
+
+--	PUNCT
+deren	NOUN
+Enden	VERB
+zusammen	ADP
+gebunden	NOUN
+,	PUNCT
+so	ADV
+daß	X
+dieselbe	PROPN
+einen	X
+großen	ADJ
+Kranz	NOUN
+bildet	VERB
+;	PUNCT
+Knechte	VERB
+und	CCONJ
+Mädchen	NOUN
+folgen	VERB
+,	PUNCT
+
+
+--	PUNCT
+alle	PRON
+mit	ADP
+verzierten	NOUN
+Sicheln	VERB
+,	PUNCT
+Heugabeln	VERB
+und	CCONJ
+Rechen	NOUN
+versehen	VERB
+.	PUNCT
+Nachdem	VERB
+der	DET
+Zug	NOUN
+einen	X
+-	PUNCT
+nach	X
+dem	DET
+
+
+Zuschauerraum	NOUN
+etwas	ADV
+geöffneten	VERB
+-	PUNCT
+Halbkreis	VERB
+vor	ADP
+dem	DET
+Hause	NOUN
+gebildet	VERB
+,	PUNCT
+dem	PRON
+sich	PRON
+Fritz	PROPN
+und	CCONJ
+Rosa	NOUN
+ange	VERB
+
+
+--	PUNCT
+schlossen	VERB
+,	PUNCT
+nimmt	VERB
+Michel	PROPN
+die	PRON
+alte	VERB
+,	PUNCT
+über	X
+der	DET
+Hausthür	NOUN
+befindliche	VERB
+Erntekrone	NOUN
+herunter	VERB
+,	PUNCT
+Jochen	VERB
+hängt	VERB
+sofort	ADV
+
+
+die	PRON
+neue	VERB
+Krone	NOUN
+auf	ADP
+und	CCONJ
+gebietet	NOUN
+dann	ADV
+den	DET
+Musikern	NOUN
+Schweigen	VERB
+.	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+jetzt	ADV
+aus	ADP
+dem	DET
+Hause	NOUN
+tretend	VERB
+.	PUNCT
+Willkommen	VERB
+Kinner	NOUN
+!	PUNCT
+
+
+--	PUNCT
+Jochen	VERB
+.	PUNCT
+Uns'	DET
+Husherr	NOUN
+,	PUNCT
+Vatter	NOUN
+Barko	VERB
+,	PUNCT
+sall	AUX
+leben	NOUN
+hoch	ADV
+!	PUNCT
+Vivat	VERB
+hoch	ADV
+!	PUNCT
+
+
+--	PUNCT
+Chor	VERB
+.	PUNCT
+Hoch	ADV
+!	PUNCT
+hoch	ADV
+!	PUNCT
+hoch	ADV
+Tusch	VERB
+.	PUNCT
+
+
+--	PUNCT
+Grete	NOUN
+nähert	VERB
+sich	PRON
+Barko	VERB
+mit	ADP
+der	DET
+Kranz	NOUN
+,	PUNCT
+folgende	VERB
+Strophen	NOUN
+declamirend	VERB
+:	PUNCT
+
+
+--	PUNCT
+"	PUNCT
+Die	PRON
+Scheuern	VERB
+find	ADJ
+voll	NOUN
+Garben	VERB
+,	PUNCT
+
+
+--	PUNCT
+"	PUNCT
+Die	PRON
+Pflug	VERB
+und	CCONJ
+Sens'	NOUN
+erwarben	VERB
+,	PUNCT
+
+
+--	PUNCT
+"	PUNCT
+Gott	NOUN
+lohnte	VERB
+unsern	NOUN
+Fleiß	VERB
+.	PUNCT
+
+
+--	PUNCT
+"	PUNCT
+Wir	PRON
+bringen	VERB
+nun	ADV
+im	ADP
+Festgesang	NOUN
+
+
+--	PUNCT
+"	PUNCT
+Den	DET
+Erntekranz	NOUN
+mit	ADP
+Sensenklang	NOUN
+
+
+--	PUNCT
+"	PUNCT
+Und	CCONJ
+trocknen	ADJ
+unsern	NOUN
+Schweiß	VERB
+.	PUNCT
+
+
+--	PUNCT
+"	PUNCT
+Dem	DET
+Hausherrn-Glück	NOUN
+und	CCONJ
+Segen	NOUN
+
+
+Barko	NOUN
+unterbrechend	VERB
+:	PUNCT
+Hollt	VERB
+,	PUNCT
+stopp	VERB
+!	PUNCT
+Kinner	NOUN
+,	PUNCT
+doht	VERB
+mi	PRON
+den	DET
+enzigen	NOUN
+
+
+Gefallen	VERB
+un	CCONJ
+verschont	VERB
+mi	PRON
+mit	ADP
+Jugen	ADJ
+hochdütschen	NOUN
+Kram	VERB
+,	PUNCT
+dat	PRON
+is	AUX
+doch	ADV
+
+
+good	ADJ
+gemeint	NOUN
+.	PUNCT
+Erlauvt	VERB
+mi	PRON
+,	PUNCT
+dat	SCONJ
+ick	PRON
+Ju	PRON
+erst	ADV
+'ne	DET
+lütte	ADJ
+Red	NOUN
+up	ADP
+mine	DET
+Art	NOUN
+
+
+darf	AUX
+hollen	VERB
+.	PUNCT
+Paßt	VERB
+up	ADP
+un	CCONJ
+hört	VERB
+to	ADP
+:	PUNCT
+Ehri	VERB
+,	PUNCT
+unsen	DET
+Herrgott	NOUN
+to	ADP
+Ehren	NOUN
+,	PUNCT
+
+
+--	PUNCT
+dat	DET
+hütige	NOUN
+Fest	ADV
+beginnen	VERB
+,	PUNCT
+möt	VERB
+ick	PRON
+Ju	PRON
+seggen	VERB
+,	PUNCT
+dat	SCONJ
+ick	PRON
+gistern	ADV
+den	DET
+letzten	ADJ
+
+
+Dag	NOUN
+Herr	NOUN
+up	ADP
+den	DET
+Angerhof	NOUN
+west	AUX
+bin	AUX
+.	PUNCT
+
+
+--	PUNCT
+Alle	PRON
+.	PUNCT
+Wat	PRON
+?	PUNCT
+Wat	PRON
+seggt	VERB
+he	PRON
+?	PUNCT
+
+
+--	PUNCT
+Barko	VERB
+.	PUNCT
+Ruhig	ADV
+da	ADV
+!	PUNCT
+latt	VERB
+mi	PRON
+útreden	VERB
+.	PUNCT
+Von	ADP
+hüt	ADV
+an	ADP
+hett	AUX
+min	DET
+
+
+Steefsöhn	VERB
+,	PUNCT
+Fritz	PROPN
+Kaiser	NOUN
+,	PUNCT
+hier	ADV
+as	CCONJ
+Herr	NOUN
+von	ADP
+den	DET
+Angerhof	NOUN
+to	ADP
+kum	NOUN
+
+
+--	PUNCT
+mandern	VERB
+.	PUNCT
+Alles	PRON
+wat	PRON
+ick	PRON
+noch	ADV
+von	ADP
+Ju	PRON
+beanspruch	VERB
+,	PUNCT
+is	AUX
+,	PUNCT
+dat	SCONJ
+Ji	PRON
+minen	DET
+
+
+Fritz	PROPN
+eben	ADV
+so	ADV
+tru	VERB
+un	CCONJ
+flietig	ADJ
+in	ADP
+allen	ADJ
+Sbistahn	NOUN
+mögt	VERB
+,	PUNCT
+as	CCONJ
+Ji	PRON
+bi	ADP
+mi	PRON
+
+
+dat	PRON
+dahn	AUX
+hebbt	VERB
+,	PUNCT
+woför	VERB
+ick	PRON
+Ju	PRON
+hiermit	ADV
+minen	DET
+Dank	NOUN
+utspräk	VERB
+.	PUNCT
+Noch	ADV
+ens	ADV
+:	PUNCT
+
+
+--	PUNCT
+Ii	PRON
+möt	VERB
+uck	NOUN
+weeten	VERB
+,	PUNCT
+dat	SCONJ
+Ji	PRON
+nu	ADV
+bald	ADV
+wedder	ADV
+ene	DET
+junge	ADJ
+schmucke	NOUN
+Fru	NOUN
+
+
+up'n	ADP
+Angerhof	ADJ
+begrüßen	NOUN
+könt	VERB
+,	PUNCT
+wi	PRON
+warren	VERB
+hüt	ADV
+en	PRON
+dubbelt	ADV
+Fest	ADV
+fiern	VERB
+,	PUNCT
+
+
+--	PUNCT
+denn	ADV
+de	DET
+jung	NOUN
+Herr	NOUN
+ward	AUX
+sich	PRON
+up	ADP
+minen	DET
+Wunsch	NOUN
+noch	ADV
+hüt	ADV
+mit	ADP
+uns	PRON
+
+
+Jumfer	NOUN
+Marten	VERB
+hier	ADV
+verloven	VERB
+.	PUNCT
+Nimmt	VERB
+Rosa	PROPN
+bei	X
+der	DET
+Hand	NOUN
+und	CCONJ
+führt	VERB
+sie	PRON
+zu	ADP
+Fritz	PROPN
+
+
+Kamt	NOUN
+her	ADV
+,	PUNCT
+Kinner	NOUN
+,	PUNCT
+un	CCONJ
+nehmt	VERB
+mine	DET
+Stell	NOUN
+jitzt	ADV
+in	ADP
+.	PUNCT
+Führt	VERB
+Beide	PRON
+in	ADP
+den	DET
+Kreis	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Uns'	DET
+Herrgott	NOUN
+gev	VERB
+Ju	PRON
+Glück	NOUN
+un	CCONJ
+Segenl	NOUN
+Sol-un	VERB
+nu	ADV
+,	PUNCT
+Greten	VERB
+,	PUNCT
+will'n	AUX
+
+
+wvi	VERB
+Dinen	DET
+Kranz	NOUN
+hüt	ADV
+mal	ADV
+ens	ADV
+up	ADP
+ananwenden	NOUN
+,	PUNCT
+kumm	ADV
+her	ADV
+un	CCONJ
+
+
+help	VERB
+!	PUNCT
+Beide	DET
+bekränzen	NOUN
+das	DET
+Paar	NOUN
+,	PUNCT
+auch	X
+Liese	NOUN
+springt	VERB
+herbei	NOUN
+und	CCONJ
+hilft	VERB
+.	PUNCT
+
+
+--	PUNCT
+Jochen	VERB
+.	PUNCT
+Hurrah	INTJ
+dat	DET
+Brutpaar	NOUN
+sall	AUX
+leven	VERB
+!	PUNCT
+Vivat	VERB
+hoch	ADV
+!	PUNCT
+
+
+--	PUNCT
+Chor	VERB
+.	PUNCT
+Hoch	ADV
+!	PUNCT
+hoch	ADV
+!	PUNCT
+Tisch	VERB
+.	PUNCT
+
+
+--	PUNCT
+Von	ADP
+dem	DET
+Tusch	NOUN
+geht	VERB
+die	PRON
+Musik	VERB
+zu	ADP
+de	DET
+.	PUNCT
+Melodie	VERB
+"	PUNCT
+Wir	PRON
+minden	VERB
+Dir	PRON
+den	DET
+Jungfern-Kranz	NOUN
+"	PUNCT
+über	X
+.	PUNCT
+
+
+--	PUNCT
+Schlußgruppe	VERB
+mit	ADP
+Tanz	NOUN
+.	PUNCT
+
+
+--	PUNCT
+Der	DET
+Vorhang	NOUN
+fällt	VERB
+.	PUNCT
+
+
+--	PUNCT
+Das	PRON
+Recht	ADV
+der	DET
+öffentlichen	NOUN
+Ar	VERB
+,	PUNCT
+
+
+--	PUNCT
+vom	ADP
+Verfasser	NOUN
+,	PUNCT
+E	PROPN
+.	PUNCT
+Keller	PROPN
+in	ADP
+Pyritz	NOUN
+,	PUNCT
+
+
+
+

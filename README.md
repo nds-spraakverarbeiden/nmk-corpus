@@ -93,6 +93,5 @@ Note that Lemmatizer v0.3 does not perform disambiguation. This is to be accompl
 
 ## TODO
 
-- migrate `upos/` scripts
 - document `editor/` and refinement cycles
 - add documentation on North Markian and Low German
