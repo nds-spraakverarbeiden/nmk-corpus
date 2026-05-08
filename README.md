@@ -1,7 +1,7 @@
 # Building a Corpus of North Markian and Central Pomeranian (NMK Corpus)
 
 > **DO NOT EDIT DIRECTLY**
-> - This is the public release repository for the NMK corpus. For internal development, please checkout [our private repository](https://github.com/acoli-repo/nmk-corpus) and run `make update_release` *in that repository* to update any data here.
+> - This is the public release repository for the NMK corpus. For internal development, please checkout [our private repository](https://github.com/acoli-repo/nmk-corpus) and run `make push_release` *in that repository* to update any data here.
 > - Note that not all build scripts have been migrated yet.
 > - If you like to contribute, or want to get access to the original build scripts, please get in touch with [@chiarcos](https://github.com/chiarcos) and/or the [Chair of Applied Computational Linguistics at the University of Augsburg, Germany](https://www.uni-augsburg.de/en/fakultaet/philhist/professuren/Applied-Computational-Linguistics/).
 
