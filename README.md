@@ -8,7 +8,7 @@
 
 This repository provides a corpus of North Markian and Central Pomeranian (German _Nordmärkisch-Mittelpommersches Korpus_, NMK), consisting of copyright-free literary works to represent the primary regions and varieties of the dialect. 
 
-**The corpus can also be browsed an queried online under [https://corpora.philhist.uni-augsburg.de](https://corpora.philhist.uni-augsburg.de/teitok/nmk/).**
+**The corpus can also be browsed and queried online under [https://corpora.philhist.uni-augsburg.de](https://corpora.philhist.uni-augsburg.de/teitok/nmk/).**
 
 North Markian is a dialect of Low German spoken in the federal states of Sachsen-Anhalt, Brandenburg and Mecklenburg-Vorpommern in Germany. For modern Mecklenburg-Vorpommern and the historical region of Hither Pomerania in modern Poland, the dialect is referred to as _Central Pomeranian_, but differences between North Markian proper and Central Pomeranian are marginal. In modern Poland, the dialect is extict, in Germany, it is severely threatened.
 
