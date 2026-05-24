@@ -1,0 +1,2868 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="id_bornemann-1810" xml:lang="nds">
+	<teiHeader>
+	    <fileDesc>
+	      <titleStmt>
+	        <title fldid="title">Plattdeutsche Gedichte</title>
+	        <author fldid="author">Johann Wilhelm Jakob Bornemann</author>
+	        <respStmt>
+	          <resp n="transcription" fldid="transcription">Transkribus Print M1</resp>
+	          <resp n="revision" fldid="revision">n/a</resp>
+	          <resp n="normalization" fldid="normalization">n/a</resp>
+	          <resp n="tagging" fldid="tagging">Christian Chiarcos, University of Augsburg, Germany</resp>
+	        </respStmt>
+	        <!--funder fldid="funder"></funder-->
+	      </titleStmt>
+	      <sourceDesc>
+	        <biblStruct>
+	          <monogr> 
+	            <author fldid="monauthor">Johann Wilhelm Jakob Bornemann</author>
+	            <title fldid="montitle">Plattdeutsche Gedichte</title>
+	            <edition fldid="monedition">1. Auflage</edition>
+	            <imprint>
+	              <publisher fldid="monpublisher">Georg Decker</publisher>
+	              <pubPlace fldid="monplace">Berlin</pubPlace>
+	              <date fldid="mondate">1810</date>
+	            </imprint>
+	          </monogr>
+	        </biblStruct>
+	      </sourceDesc>
+	    </fileDesc>
+	    <profileDesc> 
+	      <particDesc> 
+	        <listPerson> 
+	          <person id="wilhelm-bornemann">
+	            <name fldid="personname">Johann Wilhelm Jakob Bornemann</name>
+	            <birth fldid="birth" when="1766">
+	              <placeName fldid="birthplace" geo="52.5270 11.3871">Gardelegen</placeName>
+	              <date fldid="birthdate">1766-02-02</date>
+	            </birth>
+	            <death when="1851">
+	              <placeName geo="52.5200 13.4050">Berlin</placeName>
+	              <date>1851-05-25</date>
+	            </death>
+	            <langKnowledge>
+	              <langKnown n="first" tag="deu"/>
+	              <langKnown n="native" tag="nds"/>
+	            </langKnowledge>
+	            <sex fldid="sex" type="m"/>
+	            <age fldid="age">44</age>
+	            <occupation fldid="personoccupation">General-Lotteriedirektor</occupation>
+	            <residence fldid="personresidence">Berlin</residence>
+	            <nationality fldid="nationality" key="DE"/>
+	          </person>
+	        </listPerson>
+	      </particDesc>
+	      <langUsage>
+	        <language fldid="textlang" ident="nds" dir="ltr"/>
+	      </langUsage>
+	      <textDesc>
+	        <channel fldid="textchannel" mode="written"/>
+	        <domain fldid="textdomain">poetry</domain>
+	      </textDesc>
+	    </profileDesc>
+	    <encodingDesc>
+	      <projectDesc id="NMK">
+	        <title fldid="Nordm&#228;rkisch-Mittelpommersches Korpus (NMK)"/>
+	        <leader fldid="projectleader">Christian Chiarcos</leader>
+	        <desc fldid="projectdesc">Aufbau eines Korpus zur Dokumentation des Nordm&#228;rkischen sowie des nah verwandten Mittelpommerschen in Sachsen-Anhalt, Brandenburg, Vorpommern und dem heutigen Polen.
+	        Chiarcos, C. (2026). Towards the Morphological Annotation of North Markian (Low German). In Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026) (pp. 11699&#8211;11714). European Language Resources Association (ELRA). https://doi.org/10.63317/54xnswqy73gs.
+	        </desc>
+	      </projectDesc>
+	      <editorialDecl fldid="editorialdecl">
+	        Automatische OCR des Textteiles ohne manuelles Postprocessing. Automatisiertes POS Tagging.
+	      </editorialDecl>
+	    </encodingDesc>
+	  </teiHeader>
+	
+	<text>
+		<body>
+				<pb facs="../img/bornemann-1810/0001.jpg"/>
+				Schreiben aus jener Welt<lb/>
+				an<lb/>
+				den Herausgeber.<lb/>
+				(Statt der Vorrede.)<lb/>
+				Dott Lowf! nu heb ick utgerung!<lb/>
+				De Doot satt lang mie up de Tung;<lb/>
+				He schmeckt abscheulich galsterig —<lb/>
+				To'm Fingerlaͤkken is et nich.<lb/>
+				Is't Runnerschluken åberstoahn,<lb/>
+				Un Seel un Liev von aͤnner goahn —<lb/>
+				Ganz sot werd enen denn to Moth,<lb/>
+				Man fohlt so licht sick, so comod.<lb/>
+				A2<lb/>
+				<pb facs="../img/bornemann-1810/0002.jpg"/>
+				4 —<lb/>
+				Von Hoͤll un Paredies heb ick<lb/>
+				Noch nischt bet duͤssen Ogenblick<lb/>
+				Wat man up Erden doavon hört,<lb/>
+				An Oort un Stell allhier versport.<lb/>
+				Et brukt ok all de Anstalt nich,<lb/>
+				Denn de Gerechten sunnern sich<lb/>
+				In jenne Welt von sülwsten schons,<lb/>
+				Von Schelmen, Röbern un Cujons.<lb/>
+				Up Erden is et pur daͤt Geld,<lb/>
+				Wat Goot un Schlecht, in Fruͤndschaft hoͤlt:<lb/>
+				He fakkelt åͤber nich de Doot,<lb/>
+				Un moakt erst jeden noakt un bloot.<lb/>
+				Denn nimmt he de Gewissen vor<lb/>
+				Un schaͤrpt se up mit Sand un Theer<lb/>
+				So krigt he bald dät Schelmenpack<lb/>
+				So week un schlapp as wie en Sack.<lb/>
+				Dåt Herz im Liewe deit mie weh<lb/>
+				Wenn ick daͤt Kroop hier jensiets seh,<lb/>
+				Wie't enzeln sich herruͤmmer schlikt,<lb/>
+				Un vor den kleinsten Jung'n verstickt.<lb/>
+				<pb facs="../img/bornemann-1810/0003.jpg"/>
+				5 —<lb/>
+				Noch mehr is dåt as Höllen Quoal!<lb/>
+				Sick suͤlwsten truut dåt Pack nich moal,<lb/>
+				Vor sienen Schatten wiß un woahr<lb/>
+				Krazt ener eben ut so goar.<lb/>
+				To hunnert Dusend joagen jizt<lb/>
+				Doa enen ruͤm, dåt't miåͤn so sprizt.<lb/>
+				Dåt mütt en grooter Süͤnner sin —<lb/>
+				Gott lowf! daͤt ick so wat nich bin!<lb/>
+				Genog davon: en aͤnnermoal<lb/>
+				Schriev ick die mehr von duͤsse Quoal:<lb/>
+				Vor huͤt' språͤk ick Gevaddersmann<lb/>
+				Noch uͤm en' Fruͤndschafts Deenst die an.<lb/>
+				Du werst en Kasten bie mie fin'n,<lb/>
+				Doa liggen Brew' un Schriften drin,<lb/>
+				De Verse sok die doavon ut,<lb/>
+				Un gif se in den Druck herrut.<lb/>
+				Wer suͤnst den Schnuppen ruken will,<lb/>
+				De finn't doarinn so månche Pill,<lb/>
+				Un weer't ok maͤn fieffinger Witz,<lb/>
+				De dript am schaͤrpsten up de Mütz.<lb/>
+				A 3<lb/>
+				<pb facs="../img/bornemann-1810/0004.jpg"/>
+				—<lb/>
+				6 —<lb/>
+				Un leet sick ok keen Hundsvott rohr'n —<lb/>
+				I dåt is ok to estemeer'n<lb/>
+				Wenn miene Vers' den Groam verschlin'gn,<lb/>
+				Un duͤchtig moal to'm Lachen twing'n.<lb/>
+				Daͤt Lachen is't, wat in de Welt<lb/>
+				De Minschen glatt un stief erholt.<lb/>
+				Daͤt Lachen is, daͤt Lachen blift<lb/>
+				Dåt beste Krankheits Gegengift.<lb/>
+				Bet Oabends spåd von Morgens fröh,<lb/>
+				Ploagt sick en Minsch mit Sorg un Möh;<lb/>
+				Un daͤt noagt an den Lewenssaft.<lb/>
+				Steit mit den Doot in Bröderschaft.<lb/>
+				Keen Veeh kann lachen so as wie,<lb/>
+				Druͤm is't ok Sorg un Kummerfrie:<lb/>
+				Daͤt Lachen sall bie uns corgeer'n<lb/>
+				Wat Groam un Aergerniß verstör'n.<lb/>
+				Finnt sick to'm Lachen Tiet un Stunn,<lb/>
+				So lacht frisch los, ut Herzens Grunn.<lb/>
+				To bald maͤn nimmt 'ne Hiobs Post,<lb/>
+				Eh wie't verseh'n, uns in de Kost.<lb/>
+				<pb facs="../img/bornemann-1810/0005.jpg"/>
+				—<lb/>
+				Doch waͤdder up de Schrift to koam,<lb/>
+				Gif alles rut in Gottes Noam,<lb/>
+				Dåͤt schlechtste erst vor allen Ding'n,<lb/>
+				Sunst blift to lezt de Schoofel ling'n.<lb/>
+				Wat maͤn de Luͤd uͤmsuͤnst verehrt,<lb/>
+				Daͤt werd sien Doag nich estemeert:<lb/>
+				Drüm loat die, wer de Schrift will hoal'n,<lb/>
+				Wat recht un billig ist, betoal'n.<lb/>
+				Den govden Roath nimm an von mie,<lb/>
+				Bie Liew un Lewen Fruͤnd loat die<lb/>
+				Mit kenen Bökerhaͤndler in,<lb/>
+				Du häͤst den Aerger, - he den G'winn.<lb/>
+				Nimmst du twee Recensenten an,<lb/>
+				So köft dat Book sick jedermann;<lb/>
+				De ene, mütt et hoch verehr'n<lb/>
+				De ånner, boßig drup schåndeer'n.<lb/>
+				Et werd en oller Kullerhoahn<lb/>
+				Up mien Gehoͤft heruͤm noch goahn,<lb/>
+				Den kaͤhl maͤn af, un schick en denn<lb/>
+				Den ersten Recensenten hen.<lb/>
+				A4.<lb/>
+				<pb facs="../img/bornemann-1810/0006.jpg"/>
+				— 8 —<lb/>
+				Daͤt Beest ist frielich taͤg un sarp —<lb/>
+				Nu — Recensenten bieten scharp.<lb/>
+				Vor Möh un Arbeit weer de Hoahn —<lb/>
+				Dåt schriev am - he werd die verstoahn.<lb/>
+				Den aͤnnern, schickst du pur de Schrift,<lb/>
+				Un sprikst von Recensenten Gift,<lb/>
+				Un druͤkst die suͤnst noch von dat Book<lb/>
+				Recht patzig ut un aͤberklook.<lb/>
+				Un doamit weer mien Testement<lb/>
+				Von Breev und Schriften ok vullen't;<lb/>
+				Jizt kennst Du mienen lezten Will'n,<lb/>
+				Den magst du truͤlich nu erfuͤll'n.<lb/>
+				.<lb/>
+				1..<lb/>
+				<pb facs="../img/bornemann-1810/0007.jpg"/>
+				— 9 —<lb/>
+				Polterabends =Rede.<lb/>
+				Mit grooter Angst un Herzensschloan<lb/>
+				Süht mie dåt Brutpaar vor sick stoahn;<lb/>
+				Ut tweerley will't mie nich in,<lb/>
+				Daͤt ick hier ock wer willkoam sin.<lb/>
+				Vdr't erst: ick seg' et dütsch un frie,<lb/>
+				*<lb/>
+				Is so vål vornehm Toakel hie,<lb/>
+				Un son Volk stött all Ogenblick<lb/>
+				De Hoffoarths Düwel in't Genick.<lb/>
+				Vdr't anner: is et Bru'k un Sitt,<lb/>
+				Dåt mån to'm Polteroabend mütt<lb/>
+				Mit Brut un Brütgam hoaseleer'n,<lb/>
+				Un Faxen un Dummtuͤg verkehr'n.<lb/>
+				Doch as ick bin — son'n ollen Mann<lb/>
+				Stoahn Narrenspussen nich mehr an:<lb/>
+				Wo kreeg en Bu'r bie Peer un Plog<lb/>
+				Ok doato woll Verstand genog.<lb/>
+				A 5<lb/>
+				<pb facs="../img/bornemann-1810/0008.jpg"/>
+				10 —<lb/>
+				I nu, kann ick nich hoaseleer'n,<lb/>
+				So will ick doch wat groateleer'n;<lb/>
+				Sön Wunsch is jo ganz Kostenfrie,<lb/>
+				De Teinte nich, denkt wat derbie.<lb/>
+				Ick aͤberst, wat ick wuͤnschen doh,<lb/>
+				Det meen' ick ok im Innern so!<lb/>
+				Gewiß, mien Herz is fürig glu,<lb/>
+				Wenn ick jizt spräk: Gott segne Ju!<lb/>
+				De ene segt: „de Ehstand is<lb/>
+				„En Ebenbild von't Paredies.<lb/>
+				De aͤnner sprikt: „ick schenk en die!<lb/>
+				„He is 'ne Hollenquoal vor mie."<lb/>
+				Ick heb den Ehstand ok in't Hus,<lb/>
+				Un bin en oller Praktikus;<lb/>
+				Sall't Himmel oder Höll gliek sehn,<lb/>
+				Glöwt mie, dåt liegt an uns alleen.<lb/>
+				Sökt man dat Gluck nich buten zu,<lb/>
+				Hier Innen, mütt de Seelen ruh,<lb/>
+				Hier Innen, mütt de Freden woah'n,<lb/>
+				Un Mann un Fru, muͤtt sick verstoah'n.<lb/>
+				<pb facs="../img/bornemann-1810/0009.jpg"/>
+				— 11 —<lb/>
+				Wenn't Ehlüd' åberst doahen breng'n,<lb/>
+				Daͤt se sick alles scheef utleng'n,<lb/>
+				Sick jeden Quark upmutzen dohn —<lb/>
+				Denn is't de Holl up Erden schon.<lb/>
+				Goar vål kunn ick noch davon seg'n,<lb/>
+				Un ut dåt Herz, an't Herz to leg'n:<lb/>
+				Doch dåt is Morgen Presters Sach,<lb/>
+				Dem ick in't Amt nich griepen mag.<lb/>
+				En Woort måͤn noch: mag noch so schon<lb/>
+				As Morgenroth de Rose blöh'n,<lb/>
+				An Blatt un Stångel sitten drum,<lb/>
+				Doch hoageldick de Stacheln ruͤm.<lb/>
+				Un moaken Jou de Stacheln moal<lb/>
+				En bittchen allto dulle Quoal,<lb/>
+				Hier breng' ick — Kinnerkens, kiekt her!<lb/>
+				Kaptoale Droppen to doavär *).<lb/>
+				Suͤh! miene Fru håͤt doch moal recht!<lb/>
+				De haͤt mie kloar vor ut gesegt:<lb/>
+				*) Eine Flasche Doppel=Kümmel.<lb/>
+				<pb facs="../img/bornemann-1810/0010.jpg"/>
+				— 12 —<lb/>
+				„Krigst Voader du de Droppen rut,<lb/>
+				„De Bru't lacht die ganz heilig ut.<lb/>
+				Se tog un musselte dabie<lb/>
+				So heemlich an de Toabel mie:<lb/>
+				Vielicht prakzeerte se wat rin,<lb/>
+				Wat båter paßt noa ären Sinn.<lb/>
+				I joa! — So loat ick't mie paßeer'n!<lb/>
+				Dåt sind ganz änn're Bakkenbär'n!<lb/>
+				Mie'n Fru höt sünst den Witz nich dick -<lb/>
+				Doch hier moakt se en Meisterstuͤck.<lb/>
+				Den Kranz hier *) - nehm Se von mie an:<lb/>
+				Un düsse — paßt vor'n jungen Mann;<lb/>
+				Wat nu de Krånz bedüden soll'n,<lb/>
+				Dät will ick kort vor Ogen stell'n.<lb/>
+				So wie de Myrren immer grön,<lb/>
+				Sall Junfer Brut år Glück ok blöhn!<lb/>
+				De Myrrn, so schmuklos, zoart un mild,<lb/>
+				Sind aller stillen Tugend Bild.<lb/>
+				*) Beym Oeffnen des Kobers und Herausnehmen<lb/>
+				eines Myrthen= und Eichen=Kranzes.<lb/>
+				<pb facs="../img/bornemann-1810/0011.jpg"/>
+				— 13 —<lb/>
+				Mit Kraft un Hochsinn angedoahn —<lb/>
+				So sall en Mann dörch't Lewen goahn;<lb/>
+				Nich Storm, nich Blitz, nich Wäder schü'n,<lb/>
+				Fest, as en Eikboom sall he sin.<lb/>
+				Denn werd de Eh en Segenswerk,<lb/>
+				Wenn in den Mann de Kraft un Stärk,<lb/>
+				Un in de Fru de Sanftmoth woahnt -<lb/>
+				So is dem Glück de Weg geboahnt.<lb/>
+				Nu Gott mit Ju! Mien Sach heb ick<lb/>
+				Vullbracht, mie dücht nicht oahn Geschick.<lb/>
+				Gewt mie den Afschieds Handschlag nu:<lb/>
+				Noch ens spräk ik: Gott segne Ju!<lb/>
+				<pb facs="../img/bornemann-1810/0012.jpg"/>
+				— 14 —<lb/>
+				Hochzeits=Rede.<lb/>
+				bey<lb/>
+				der Vermählung eines Amtmanns mit einer<lb/>
+				städtischen Braut.<lb/>
+				Help Gott! Herr Brüdgam, Junfer Brut!<lb/>
+				Leg't mie et nich vor ungoot ut,<lb/>
+				Wenn ick — en Bu'r mån so to seng'n,<lb/>
+				Ok mienen Salm will vor ju breng'n.<lb/>
+				Doch will ick nich pur Groateleer'n,<lb/>
+				Nå, ok de Brut wat informeer'n,<lb/>
+				Sunst weet se, kummt se bie uns rut,<lb/>
+				Von Kieks von Koaks nich, Junfer Brut.<lb/>
+				So vål doh ick to vorders kund:<lb/>
+				Se krigt en Mann — dät is keen Hund:<lb/>
+				So schmuck as he von Buten is,<lb/>
+				Is he ok Innen, woahr un wiß.<lb/>
+				Was he ok sünst en Springintfeld<lb/>
+				Dåt Lowf gift åm de ganze Welt,<lb/>
+				Dåt he, wat Herz. un Kopp andript,<lb/>
+				Vor kenen in den Winkel kruͤpt.<lb/>
+				<pb facs="../img/bornemann-1810/0013.jpg"/>
+				— 15<lb/>
+				Un år — sach jeder Buersmann<lb/>
+				Et gliek biem ersten Willkoam an,<lb/>
+				Dåt luter Goodes in år sitt,<lb/>
+				Un ar keen Hochmoths Duͤwel ritt.<lb/>
+				Ut beide blaue Ogen suht<lb/>
+				Aer glunsternd rut en broav Gemüth,<lb/>
+				Druͤm wakkelt allen uns de Stert,<lb/>
+				Dåt se just unse Amtsfru werd.<lb/>
+				Von Brüden sprikt sünst jeder schlecht,<lb/>
+				Doa is nicht duͤt, nich daͤt dran recht:<lb/>
+				Aer will — drüm mütt et goot woll stoahn<lb/>
+				Keen Gottlos Muul up't Lädder goahn.<lb/>
+				Verwunnern soll mie doch de Kroam,<lb/>
+				Wie't år as Amtsfru vor werd koam?<lb/>
+				Glöwt se't weer Spoaß mån up den Lann<lb/>
+				Blitz! da kummt se schön uns an.<lb/>
+				Ganz froh Klock dree, muͤtt se upstoahn,<lb/>
+				Un fix noa'n Stall, to't Melken goah'n.<lb/>
+				Nich daͤt se sulwsten melken deit,<lb/>
+				Nå — dåt et hüͤbsch noa'n rechten geit.<lb/>
+				<pb facs="../img/bornemann-1810/0014.jpg"/>
+				— 16 —<lb/>
+				Sulwst Hand anleggen — i dat sall<lb/>
+				Se nich, — wenn se mån åberall<lb/>
+				Håt up dåt Volk en wachsoam Og',<lb/>
+				Mehr brukt et nich - dåt is genog.<lb/>
+				Wenn't nich Spektoakel gewen sall,<lb/>
+				Schick se den Mann nich in den Stall.<lb/>
+				Man håt — Gelegenheit moakt Deew —<lb/>
+				Ok woll en Melkermäken leew.<lb/>
+				Un von dåt Melken löpt se denn<lb/>
+				Geschwinne noa de Küche hen;<lb/>
+				Doa werd en Fröhstücks Brey gekoakt,<lb/>
+				Un Anstallt up den Middag moakt.<lb/>
+				Wenn Klokke Tein sick hören lett,<lb/>
+				Drögt se den Kaffe åm vor't Bett,<lb/>
+				Un segt: „schlopst du noch - zapperlot!<lb/>
+				„Woak up! hier is dien Kaffe Pott.<lb/>
+				Denn puß't se'n saͤchtken in de Hoͤh,<lb/>
+				Stoppt am en Piepken to'm Kaffee.<lb/>
+				Jä — reck se nich den Hals so lang,<lb/>
+				So is't bie Amtslüd dorch de Bank.<lb/>
+				So<lb/>
+				<pb facs="../img/bornemann-1810/0015.jpg"/>
+				17 —<lb/>
+				So ligt he bet Klok dree bald hen,<lb/>
+				Oahn sick to röhr'n noch umtowenn'n,<lb/>
+				Un unnerdeß droͤgt se den Disch<lb/>
+				Vull Kooken, Broaden, Wien un Fisch.<lb/>
+				Dát růkt àm to doch goar to sot —<lb/>
+				Un so moakt he sick up de Föt:<lb/>
+				He wörgt heraf so vål he kann,<lb/>
+				Un fängt sien Middoags Schläpken an.<lb/>
+				To Sommers Tiet stellt se sick denn<lb/>
+				Mit enen Strohwisch bie åm hen,<lb/>
+				Un köhlt åm doamit af, un kehrt,<lb/>
+				Dåt åm dåt Flegentüg nich schårt.<lb/>
+				Besök kümmt nu to Woag' un Peer<lb/>
+				Doa langt se fix de Koarten her,<lb/>
+				Un bet de Sunn de Nacht verjdgt,<lb/>
+				Werd Trumpf gespålt und drup gezecht.<lb/>
+				Kort, mit veer Woorten stell ick är<lb/>
+				Dåt ganze Amtmanns Lewen vor:<lb/>
+				He schlöpt, he spålt, he fritt, he supt -<lb/>
+				Bet åm de Doot den Hals to knipt.<lb/>
+				<pb facs="../img/bornemann-1810/0016.jpg"/>
+				18<lb/>
+				Se meint: wo sall dåt Geld herkvam?<lb/>
+				I, wat moakt se sick doch vor Groam!<lb/>
+				Bie düre Tiet, hem in de Welt<lb/>
+				De Amtlud just dåt meiste Geld.<lb/>
+				geruen sall et år<lb/>
+				Ick segg' —<lb/>
+				Sien Doag nich, folgt se miene Lehre,<lb/>
+				Un soter werd år Ehestand<lb/>
+				Denn sin as Runkel=Zukkerkant.<lb/>
+				Die Bauernhochzeit.<lb/>
+				Juchhay Hochtiet!<lb/>
+				Hochtiet is hut!<lb/>
+				Kiekt de schmukke Brut moal an,<lb/>
+				Un den drallen Brüͤdgamsmann,<lb/>
+				Wie se sick so herzig schnütern<lb/>
+				Un mit Fuͤer Ogen kluͤtern!<lb/>
+				<pb facs="../img/bornemann-1810/0017.jpg"/>
+				- 19 —<lb/>
+				Schnuͤtert, klüͤtert frisch drup in,<lb/>
+				Brutlud mütten hitzig sin.<lb/>
+				Juchhay! Juchhaidideldey!<lb/>
+				Juchhay!<lb/>
+				Juchhay Hochtiet! rc.<lb/>
+				Hei! wie de Trumpeten schall'n,<lb/>
+				Un de Pulver Büssen knall'n,<lb/>
+				Alle Klokken trekt de Köster,<lb/>
+				Ingesegnet håt de Prester<lb/>
+				Hans un Greten bie de Tru<lb/>
+				Hans un Gret sin Mann un Fru.<lb/>
+				Juchhay rc. rc.<lb/>
+				Juchhay Hochtiet! rc.<lb/>
+				Schlag! doa breng'n se schons herbie<lb/>
+				Den kaptoalen Herse Brie.<lb/>
+				Stief mit Sandel äberzukkert,<lb/>
+				Dåt dåt Herz im Liewe pukkert;<lb/>
+				Ut de Muler pieperlings<lb/>
+				Lopt dåt Woater rechts un links.<lb/>
+				Juchhay rc. rc.<lb/>
+				B 2<lb/>
+				<pb facs="../img/bornemann-1810/0018.jpg"/>
+				—<lb/>
+				20 —<lb/>
+				Juchhay Hochtiet! rc.<lb/>
+				Klümpe mehr as Füsten dick,<lb/>
+				Up den Mann en Twintig Stück;<lb/>
+				Bakkenbåren, Schwienebroaden,<lb/>
+				Fleesch mit sure Bröh gesoaden,<lb/>
+				Kookenwerk werd upgepakt,<lb/>
+				Dåt de Toafel piept un knakt.<lb/>
+				Juchhay rc. rc.<lb/>
+				Juchhay Hochtiet! rc.<lb/>
+				Beer un Brännwien rund ümher<lb/>
+				Ligt in Tunnen an de Eer.<lb/>
+				Wo de Kröge låddig werren,<lb/>
+				Brukt et goar keen Muul upsperren;<lb/>
+				Mit den Dekkel mån geklappt,<lb/>
+				Frisch werd wådder vull getappt.<lb/>
+				Juchhay rc. rc.<lb/>
+				Juchhay Hochtiet! rc.<lb/>
+				Vör dåt Fråten Napp an Napp<lb/>
+				Is to sehn dåt Dischdook knapp!<lb/>
+				Wer kann woll in eenen Moagen<lb/>
+				<pb facs="../img/bornemann-1810/0019.jpg"/>
+				— 21 —<lb/>
+				All de Hochtiets Goaben schloagen!<lb/>
+				Doch wenn wie gemöthlich kau'n,<lb/>
+				Lett sick schons wat rinner schnau'n.<lb/>
+				Juchhay rc. rc.<lb/>
+				Juchhay Hochtiet! rc.<lb/>
+				Hört doch de Brutmutter an,<lb/>
+				Se will sick entschullgen man,<lb/>
+				Dåt de groote Botter Floaden<lb/>
+				Nich to Dank år is geroaden;<lb/>
+				Weer de Bårm wat Nutze drinn,<lb/>
+				Aeber handhoch muͤßt he sin.<lb/>
+				Juchhay rc. rc.<lb/>
+				Juchhay Hochtiet! rc.<lb/>
+				Wat sick nich verdellgen lett,<lb/>
+				Nehm' wie vor de Krabben met.<lb/>
+				Ganze Runken von dåt Beste<lb/>
+				Drögt de Prester sick to Neste,<lb/>
+				Veertein Doag håt he to Hus<lb/>
+				Dran genog mit Mann un Mus.<lb/>
+				Juchhay rc. rc.<lb/>
+				B 3<lb/>
+				<pb facs="../img/bornemann-1810/0020.jpg"/>
+				22 —<lb/>
+				Juchhay Hochtiet! rc.<lb/>
+				Mit den Baß un Viegelin<lb/>
+				Stell'n sick de Muskanten in.<lb/>
+				Platz gemoakt! nu will'n wie danzen,<lb/>
+				Un de Deerens rüm kuranzen,<lb/>
+				Heissa! hopsa! sall et goahn,<lb/>
+				Dåt de Rökke åberschloan.<lb/>
+				Juchhay rc. rc.<lb/>
+				Juchhay Hochtiet! rc.<lb/>
+				Alle Hoagel, Schultens Knecht,<lb/>
+				De versteit dat Stuͤ'rsche recht!<lb/>
+				An den Achter mit den Hakken<lb/>
+				Knallt he dåt de Buchsen knakken!<lb/>
+				Anneliese mütt hüt ran,<lb/>
+				Dåt se kuum noch piegen kann.<lb/>
+				Juchhay rc. rc.<lb/>
+				Juchhay Hochtiet! rc.<lb/>
+				Blix! de Nacht is all verrun'n,<lb/>
+				Upgoahn deit de lewe Sunn!<lb/>
+				Nochmoal duͤchtig solln jie stoten,<lb/>
+				<pb facs="../img/bornemann-1810/0021.jpg"/>
+				— 23 —<lb/>
+				Spolluͤd in de Lermtrumpeten,<lb/>
+				Afgedanzt werd nu de Kranz,<lb/>
+				Spålt uns den Grootvoader Danz!<lb/>
+				Juchhay rc. rc.<lb/>
+				Juchhay Hochtiet!<lb/>
+				Hochtiet is huͤt!<lb/>
+				Nu pakt ju to'm Huse rut,<lb/>
+				Denn to Bedde mütt de Brut,<lb/>
+				Un de Bruͤdgam drift un prachert,<lb/>
+				Dåt dåt Herz åm måͤn so jachert.<lb/>
+				Enen Schluck gewt schwinn noch her,<lb/>
+				Up en lustig Kindelbeer.<lb/>
+				Juchhay! Juchhaydideldey!<lb/>
+				Juchhay!<lb/>
+				—<lb/>
+				<pb facs="../img/bornemann-1810/0022.jpg"/>
+				— 24 —<lb/>
+				Das Kindelbier.<lb/>
+				Alle.<lb/>
+				Juch! Gewadders Lüd!<lb/>
+				Kindelbeer is hüt!<lb/>
+				Juchhe Kindelbeer!<lb/>
+				Kindelbeer Juchhe!<lb/>
+				Einer.<lb/>
+				Still, Gewaddern, still!<lb/>
+				De Herr Paster will<lb/>
+				Jizt den lütge Jungen dopen;<lb/>
+				Christen Sinn åm in to knöpen:<lb/>
+				Hans — håt he to'm Noam<lb/>
+				In de Dôp bekoam!<lb/>
+				Alle.<lb/>
+				Hans håt he to'm Noam<lb/>
+				In de Dôp bekoam!<lb/>
+				Juchhe Kindelbeer!<lb/>
+				Kindelbeer Juchhe!<lb/>
+				<pb facs="../img/bornemann-1810/0023.jpg"/>
+				— 25 —<lb/>
+				Einer.<lb/>
+				Mit den Büdel ran,<lb/>
+				't Oppern geit nu an:<lb/>
+				Seht moal wat de Köster giepert,<lb/>
+				Dåt dåt Og im Kopp åm siepert,<lb/>
+				Wenn dåt blanke Geld<lb/>
+				Plump in't Bekken fällt.<lb/>
+				Alle.<lb/>
+				Wenn dåt blanke Geld<lb/>
+				Plump in't Bekken fällt.<lb/>
+				Juchhe Kindelbeer!<lb/>
+				Kindelbeer Juchhe!<lb/>
+				Einer.<lb/>
+				In de Windeln mütt<lb/>
+				Iizt noa Bruk un Sitt<lb/>
+				Jeder sienen Patzen staken,<lb/>
+				Un doabie den Segen spräken,<lb/>
+				Is dåt afgedoahn,<lb/>
+				Denn kann't lustig goahn.<lb/>
+				B 5<lb/>
+				<pb facs="../img/bornemann-1810/0024.jpg"/>
+				— 26 —<lb/>
+				Alle.<lb/>
+				Dät was afgedoahn,<lb/>
+				Nu sall't lustig goahn.<lb/>
+				Juchhe Kindelbeer!<lb/>
+				Kindelbeer Juchhe!<lb/>
+				Einer.<lb/>
+				Kinddps Vaader lang<lb/>
+				Uns de Wenzel Stang<lb/>
+				Wer bie Disch wat rechts will schaffen,<lb/>
+				Mütt vörher en Piepken paffen,<lb/>
+				Dät moakt Tåne scharp,<lb/>
+				Un den Moagen sarp.<lb/>
+				Alle.<lb/>
+				Dät moakt Tåne scharp,<lb/>
+				Un den Moagen sarp.<lb/>
+				Juchhe Kindelbeer!<lb/>
+				Kindelbeer Juchhe!<lb/>
+				Einer.<lb/>
+				Koamt Gewadders Lüd,<lb/>
+				Hoch is't Middags Tiet!<lb/>
+				<pb facs="../img/bornemann-1810/0025.jpg"/>
+				— 27 —<lb/>
+				Alle Pött un Schötteln dampen,<lb/>
+				Runner will'n wie't orndlich stampen,<lb/>
+				Doch erst schnapst moal rum,<lb/>
+				Denn werd kenen schlimm.<lb/>
+				Alle.<lb/>
+				Schnaps her! Schnaps herum!<lb/>
+				Uns werd jizt all schlimm.<lb/>
+				Juchhe Kindelbeer!<lb/>
+				Kindelbeer Juchhe!<lb/>
+				Einer.<lb/>
+				Unse Herr Pastor<lb/>
+				Is all dräber her<lb/>
+				He werd sick den Poapen Knoaken<lb/>
+				Ok to moager just nich moaken —<lb/>
+				Schlag, he deilt dåt Kalf<lb/>
+				Mit uns half um half.<lb/>
+				Alle.<lb/>
+				Schlag, he deilt dåt Kalf<lb/>
+				Mit uns half uͤm half!<lb/>
+				<pb facs="../img/bornemann-1810/0026.jpg"/>
+				— 28 —<lb/>
+				Juchhe Kindelbeer!<lb/>
+				Kindelbeer Juchhe!<lb/>
+				Einer.<lb/>
+				Taschen morderlich<lb/>
+				Hölt de Köster sich!<lb/>
+				Gliek den ganzen Schwienebroaden<lb/>
+				Håt he rips, raps, ingeloaden,<lb/>
+				Hinnerher guͤtt he<lb/>
+				Eben noch de Bröh.<lb/>
+				Alle.<lb/>
+				Hinnerher guͤtt he<lb/>
+				Eben noch de Bröh.<lb/>
+				Juchhe Kindelbeer!<lb/>
+				Kindelbeer Juchhe!<lb/>
+				Einer.<lb/>
+				Suldan! putsch weg fasch!<lb/>
+				Krieg en bie de Tasch!<lb/>
+				Seht den Köster doch hantheren,<lb/>
+				Sick den Köter aftowehren.<lb/>
+				<pb facs="../img/bornemann-1810/0027.jpg"/>
+				9 —<lb/>
+				Suldan pakt nich schlecht<lb/>
+				Recht so, Suldan, recht!<lb/>
+				Alle.<lb/>
+				Suldan pakt nich schlecht —<lb/>
+				Recht. so, Suldan, recht!<lb/>
+				Juchhe Kindelbeer!<lb/>
+				Kindelbeer Juchhe!<lb/>
+				Einer.<lb/>
+				Vadder Schult, Herr Je!<lb/>
+				Ganz alleen will he<lb/>
+				Hüte sick de Görgel börsten,<lb/>
+				Un wie sitten hier un dörsten,<lb/>
+				Dåt weer woll to dull,<lb/>
+				Rüm goahn mütt de Pull!<lb/>
+				Alle.<lb/>
+				Dåt weer woll to dull,<lb/>
+				Rüm goahn mütt de Pull!<lb/>
+				Juchhe Kindelbeer!<lb/>
+				Kindelbeer Juchhee!<lb/>
+				<pb facs="../img/bornemann-1810/0028.jpg"/>
+				— 30 —<lb/>
+				Einer.<lb/>
+				Krabben vor de Där<lb/>
+				Lungern hen un her.<lb/>
+				Kindöps Mutter, loat de Gåren<lb/>
+				Doch en Trog vull Erftstull'n schmären!<lb/>
+				Olt un Jung mütt schon<lb/>
+				Hüt to Good sick dohn.<lb/>
+				Alle.<lb/>
+				Olt un Jung mütt schon<lb/>
+				Hüt to Good sick dohn.<lb/>
+				Juchhe Kindelbeer!<lb/>
+				Kindelbeer Juchhe!<lb/>
+				Einer.<lb/>
+				Důsse Napp vull hie,<lb/>
+				Michel is vor die¬<lb/>
+				Du kannst de Gerichter taͤlen,<lb/>
+				Nich en Herings Schwanz mutt fehlen!<lb/>
+				t'Is von Allen wat —<lb/>
+				Fritt die moal recht satt!<lb/>
+				<pb facs="../img/bornemann-1810/0029.jpg"/>
+				— 31 —<lb/>
+				Alle.<lb/>
+				Js von Allen wat —<lb/>
+				Fritt die moal recht satt.<lb/>
+				Juchhe Kindelbeer!<lb/>
+				Kindelbeer Juchhe!<lb/>
+				Einer.<lb/>
+				Dåt håt uns geschmekt,<lb/>
+				Nu mån afgedekt!<lb/>
+				Proste Moaltiet! jie Gewaddern,<lb/>
+				Twischen will'n wie bittchen schnaddern<lb/>
+				Denn schmekt Vesper Brodt<lb/>
+				Ok noch wådder goot.<lb/>
+				Alle.<lb/>
+				Denn schmekt Vesper Brodt<lb/>
+				Ok noch wådder goot.<lb/>
+				Juchhe Kindelbeer<lb/>
+				Kindelbeer Juchhe!<lb/>
+				<pb facs="../img/bornemann-1810/0030.jpg"/>
+				— 32 —<lb/>
+				Der Thurm zu Babel.<lb/>
+				Nich lang was erst de Sündfloth west,<lb/>
+				Månch afgespölter Sündenrest<lb/>
+				Schwumm stellenwies noch schweffel grön,<lb/>
+				Up Oart wie Entflott antosehn.<lb/>
+				Da fung ok schons im ganzen Lann<lb/>
+				Von vörn dät Lunger=Lewen an;<lb/>
+				En Minsch nich af von Unducht lett,<lb/>
+				De Thorm to Boabel lehrt uns dåt.<lb/>
+				Vergäten was all' Angst un Noth,<lb/>
+				As Voader Noah knap den Foot<lb/>
+				Upt Dröge setten kunn in't Gras<lb/>
+				Un ut den müff'gen Kasten was.<lb/>
+				Vom Danzplatz kener kamm herun,<lb/>
+				Doch School un Kerken läddig stun'n;<lb/>
+				De Fru gung links, den Koatersteg,<lb/>
+				De Mann rechts af, den Kattenweg.<lb/>
+				De<lb/>
+				<pb facs="../img/bornemann-1810/0031.jpg"/>
+				33 —<lb/>
+				De Bu'r den Eddelmann beschuppt;<lb/>
+				De Eddelmann den Buern ruppt;<lb/>
+				De Boͤrger pfiffig beide schnellt;<lb/>
+				Dåt Trachten was män pur noa Geld.<lb/>
+				Dåt Sünnregister to vullen'n,<lb/>
+				Wör ick am jüngsten Dag nich en'n;<lb/>
+				Verdütschen will ick män itzund,<lb/>
+				Woher de Unducht all entstund.<lb/>
+				De Welt is groot: dät Volk was klein;<lb/>
+				Dåt Land leet alles üppig deihn.<lb/>
+				Noch hüt is davon uns bekannt,<lb/>
+				Dät Sprüchwort von Schlaraffen Land.<lb/>
+				Un håt en Minsch keen Sorg' keen Noth,<lb/>
+				Denn prikkelt glick de Aebermoth:<lb/>
+				So mütt de Brodtkorf immer hang'n,<lb/>
+				Dåt he mit Möh män rin kann lang'n.<lb/>
+				Vör allen utgeloaten goar<lb/>
+				De König súlwst to Boabel woar;<lb/>
+				Sien'n Noam hät uns de Schrift verschwäg'n,<lb/>
+				Do is ok goar nischt dran geläg'n.<lb/>
+				<pb facs="../img/bornemann-1810/0032.jpg"/>
+				54 —<lb/>
+				Wenn mancher Noam doch nimmermehr<lb/>
+				Gelangt to Ohr un Ogen weer,<lb/>
+				Weer ok mänk Ding denn nich geschehn,<lb/>
+				Mänch Unheil ok weer nich ersehn.<lb/>
+				De König hoch in Aebermoth<lb/>
+				In sienem Sinn dåt Woort beschloot:<lb/>
+				Ick will en' Thorm to Boabel bu'n,<lb/>
+				De sall de Wulken äberschu'n.<lb/>
+				Dåt mie allenig as Regent<lb/>
+				Hoch up de Thorm de Welt erkennt;<lb/>
+				Dåt ick de Eer kann åbersehn,<lb/>
+				Oahn mienen Will'n nischt derf geschehn.<lb/>
+				In Boabel alles Klein un Groot<lb/>
+				Mußt buen nu noa sien Gebot.<lb/>
+				Doch von dät Wöhl'n in Steen<lb/>
+				un Schutt<lb/>
+				Gung'n se to Dusenden kaputt.<lb/>
+				En Upgebot von Breet un wiet<lb/>
+				Kamm bald ok an de Noabarslüd;<lb/>
+				Se mußten sick mit Schüpp un Kell'n<lb/>
+				Un Brodt un Geld to'r Arbeit stell'n.<lb/>
+				<pb facs="../img/bornemann-1810/0033.jpg"/>
+				35 —<lb/>
+				Denn, Daglohn leet he nich passeer'n,<lb/>
+				En jeder mußt' sich sülwst ernähr'n,<lb/>
+				Un brak sick ener Hals un Been,<lb/>
+				Doa word nich moal na uͤmgesehn.<lb/>
+				Doa reep dåt Volk in siener Noth:<lb/>
+				Is keen Erbarmen mehr, o Gott!<lb/>
+				Lenk uns dien Gnoaden Angesicht,<lb/>
+				Nich ewiglich sie dien Gericht.<lb/>
+				De lewe Gott hernådder kamm<lb/>
+				Den Thorm in Ogenschien sick namm,<lb/>
+				He pröfte Herzen un Gemüth,<lb/>
+				Un fund noch nicht de rechte Tiet.<lb/>
+				Un dåglich mehrte sick de Noth,<lb/>
+				Un däglich Königs Aebermoth;<lb/>
+				Bet an de Wulken was hen ut<lb/>
+				De Riesenthorm nu all gebu't.<lb/>
+				As endlich kamm de rechte Tiet,<lb/>
+				Doa schloog, as't kener sick versüht,<lb/>
+				En harter Steen vom Thorm heraf —<lb/>
+				De König siene Seel upgaf.<lb/>
+				C 2<lb/>
+				<pb facs="../img/bornemann-1810/0034.jpg"/>
+				36 —<lb/>
+				Woll hunnert Meister bie den Bu<lb/>
+				Togliek woll'n kummenderen nu:<lb/>
+				Keen Minsch noch sülwgen Dag wust mehr,<lb/>
+				Wer Küch= wer Keller=Meister weer.<lb/>
+				Un kener Order woll pareer'n,<lb/>
+				Un kener woll den ånnern hör'n.<lb/>
+				As har sick Woort un Sproak verkehrt,<lb/>
+				Sön kruser Wirrwar word verföhrt.<lb/>
+				Cunfuser stündlich gung et her,<lb/>
+				Denn de Gewaltge was nich mehr,<lb/>
+				De mån alleen mit starker Hand<lb/>
+				Mucht stramm erholl'n dät Entrachtsband.<lb/>
+				Bald alles bunt gung åber Egg,<lb/>
+				De Arbeitslüde lepen weg,<lb/>
+				Un stoahn bleew sülwst de Thorm sogoar<lb/>
+				Nich moal so wiet he fertig woar.<lb/>
+				Denn wer en Werkstück twingen kunn,<lb/>
+				De trekt et ok vom Thorm herun:<lb/>
+				Darüm is lang nich Block noch Steen<lb/>
+				Vom Thorm to Boabel mehr to sehn.<lb/>
+				<pb facs="../img/bornemann-1810/0035.jpg"/>
+				— 37 -<lb/>
+				De Thorm to Boabel åberall<lb/>
+				Uns dåt Exempel stellen sall:<lb/>
+				Vermitt en Misch sick alltowiet,<lb/>
+				Gott kümmt un lenkt to siener Tiet.<lb/>
+				Lob des sauren Kohls.<lb/>
+				De seelge Blomauer to Wien<lb/>
+				Woll noch wat Fründschaft mit mie sien,<lb/>
+				Un schrew bie sienen Lewens End<lb/>
+				In sienen Schulden=Testement.<lb/>
+				„Ick heb dåt Eselsveh besung'n,<lb/>
+				„Den Ehrenkranz üm'n Nachtstohl schlung'n:<lb/>
+				„Den suren Kohl, — vermoak ick die,<lb/>
+				„Sing Vedder åm sien Lowf vor mie.<lb/>
+				Geschehen mütt, wat up den Doot<lb/>
+				En Minsch verlangt, sünst deit't nich goot:<lb/>
+				Un so will'n wie in allen Ehr'n<lb/>
+				Den suren Kohl de Bicht verhdr'n.<lb/>
+				C 3<lb/>
+				<pb facs="../img/bornemann-1810/0036.jpg"/>
+				—<lb/>
+				38<lb/>
+				De Witte=Kohl is von Natur<lb/>
+				An sick ok nich en bittchen su'r.<lb/>
+				Nå, wat uns' Herrgott waßen leet,<lb/>
+				Was ok noch immer frisch un sot.<lb/>
+				De Minsch umkoatert de Natur<lb/>
+				Un moakt den soten Kohl erst su'r;<lb/>
+				Weer'n wie mån noch in't Paredies,<lb/>
+				Wie leten't bliewen ganz gewiß.<lb/>
+				Seit Oadam von den Appel fratt,<lb/>
+				Sind de Kaldunen bet an't Gatt<lb/>
+				In åre Wirthschaft ok verstört,<lb/>
+				Un kene Piep Tobak mehr werth.<lb/>
+				Månch moal verdau'n wie in'n Gallopp —<lb/>
+				Un månch moal steit et as en Propp.<lb/>
+				Biem ersten dohn de Erften wohl,<lb/>
+				Biem aͤnnern helpt de sure Kohl.<lb/>
+				Drüm sind de Erften, wie't gehört,<lb/>
+				Mit suren Kohl goot dorch meng'leert:<lb/>
+				I denn verdau'n se sick so sacht,<lb/>
+				„Dåt en'n dåt Herz im Liewe lacht.<lb/>
+				<pb facs="../img/bornemann-1810/0037.jpg"/>
+				39 —<lb/>
+				De Erftgeschmack, vor mienen Part,<lb/>
+				Is immer doch wat geil un hart:<lb/>
+				Kümmt åberst surer Kohl derto -<lb/>
+				Pots Blix! denn rutschen se mån so.<lb/>
+				Un wat schmekt nich vor sick alleen<lb/>
+				Sön Napp vull Suerkohl so schön<lb/>
+				Mit Broatworst, Speck un Ribbespär'n,<lb/>
+				So fritt en sülwst de Düwel går'n.<lb/>
+				Et was moal in Westphälschen Lann<lb/>
+				In Ungnoad fall'n en Eddelmann<lb/>
+				Herdörch mußt doa de König goahn —<lb/>
+				Wat håt de Eddelmann gedoahn?<lb/>
+				He koakte suren Kohl geschwinn,<lb/>
+				Un broadete broav Bollen drin;<lb/>
+				De König reep: „loat still uns holl'n,<lb/>
+				„Ick ru'k hier Suerkohl mit Boll'n!"<lb/>
+				Un he steeg af: up't Dischgedeck<lb/>
+				Stund all de sure Kohl mit Speck.<lb/>
+				Un herzhaft att he gliek drup in,<lb/>
+				Un så Adje! — mit gnädgen Sinn.<lb/>
+				C 4<lb/>
+				<pb facs="../img/bornemann-1810/0038.jpg"/>
+				40 —<lb/>
+				Ok goar is vor den leidgen Doot<lb/>
+				De sure Kohl towielen goot;<lb/>
+				Ick will von Hunnertdusenden<lb/>
+				Vör hüt måͤn een Exempel nen'n.<lb/>
+				Et putzte moal en Grofschmedsknecht,<lb/>
+				De lag an't hitzge Fieber schlecht,<lb/>
+				En Napp vull Su'rkohl von den Disch,<lb/>
+				Un stund gesund up — as en Fisch.<lb/>
+				En Schnieder woll dåt ok probeer'n¬<lb/>
+				Mußt åber sulwgen Dag krepeer'n.<lb/>
+				Denn wat sick paßt vor'n Grofschmedsknecht,<lb/>
+				Is justment nich vor’n Schnieder recht.<lb/>
+				Dåt Su'rkohl immer frisch sich hölt,<lb/>
+				Dåt is't, wat mie vor all'n gefällt;<lb/>
+				Denn jed' Butik un Loaden Där<lb/>
+				Schrift frischen Suerkohl uns vor.<lb/>
+				En Wunner is dåt um so mehr,<lb/>
+				Oft müfft de Su'rkohl dorch de Dör,<lb/>
+				Dåt't enen schier den Hals to drükt,<lb/>
+				Un orndlich in de Näse zwikt.<lb/>
+				<pb facs="../img/bornemann-1810/0039.jpg"/>
+				41 —<lb/>
+				So sall geehrt denn hoch un wiet<lb/>
+				De sure Kohl sin alle Tiet!<lb/>
+				Man eens — dåt will'n wie nich probeer'n,<lb/>
+				Vom Doot — uns damit to cureer'n.<lb/>
+				Sodom und Gomorra.<lb/>
+				Hier, nimm dat Spervectiv moal vor,<lb/>
+				Un kiek herunner noa de Eer!<lb/>
+				Mehr båter links dreih dåt Gesicht,<lb/>
+				Wo Sodom un Gomorra ligt.<lb/>
+				Schau moal de lange Toafel an,<lb/>
+				Wie se doa sitten Mann an Mann:<lb/>
+				Dåt is en Fråten un Gedrink,<lb/>
+				Rezursche — nennen se dåt Ding.<lb/>
+				To Hus alleen hukt Fru un Kind;<lb/>
+				Wat moakt de Fru? —<lb/>
+				„i nu se spinnt:<lb/>
+				Du meinst woll Wulle? -<lb/>
+				joa män nich,<lb/>
+				Se spinnt Lievschaften an vor sich.<lb/>
+				<pb facs="../img/bornemann-1810/0040.jpg"/>
+				42 —<lb/>
+				To'm Spoaß loat de Gesellschaft moal<lb/>
+				Uns bitchen mustern in den Soal.<lb/>
+				Schlag! wat stoahn Wienputelgen doa!<lb/>
+				Nu dåt betoal'n finn’t sick hernoah.<lb/>
+				Den Amtmann, de so roasend fritt,<lb/>
+				Den brachten se as Gast sick mit;<lb/>
+				He is hier up den Wullmarcht west,<lb/>
+				Un hät en grusoam Geld gelöst.<lb/>
+				Håt he dát Liev nu vullgestoppt,<lb/>
+				Denn werd de Büͤdel åm gekloppt.<lb/>
+				De lezte Gröschen mütt herut<lb/>
+				Ehr werd mit Trumpfut nicht geruht.<lb/>
+				De Blaurock, åm to rechter Hand,<lb/>
+				Håt bie dåt Geldamt sienen Stand.<lb/>
+				Wat de in Rienwien hüt versüppt<lb/>
+				Dåt is biem Schmelten afgedrippt.<lb/>
+				De Koopmann lett den Loaden stoah'n,<lb/>
+				Denkt — Throan un Dook werd doch woll goahn.<lb/>
+				Wovdr, to'm Henker! toal ick denn<lb/>
+				Dät Lohn den Loadenschwengel hen.<lb/>
+				<pb facs="../img/bornemann-1810/0041.jpg"/>
+				— 43 —<lb/>
+				I frielich geit druͤm doch de Woar,<lb/>
+				Dåt werd so recht det Söndoags klaar<lb/>
+				Wo Musche Schmu to Pere sitt,<lb/>
+				Un groot un breet spatzeeren ritt.<lb/>
+				De Advokoat — dåt ging woll noch,<lb/>
+				De muͤcht schlampampen - weet ich doch,<lb/>
+				Dåt he so lang he fritt un süppt,<lb/>
+				Dåt Recht nich in de Näse knipt.<lb/>
+				En Pachter woll — dåt loat die seng'n,<lb/>
+				Den Roathmann hier en' Rehbuck breng'n.<lb/>
+				Plumps! schmeet he'n von de Treppenflur,<lb/>
+				Doch stund Madoam all up de Lu'r.<lb/>
+				Un fung so von den Treppen Schupp<lb/>
+				Fix in de Schört den Pachter up,<lb/>
+				Un excoseerte ären Mann,<lb/>
+				Un namm mit Dank den Rehbuck an.<lb/>
+				Bewoahr! wat kann de Dokter schling'n!<lb/>
+				Tweehunnert könn'n in Sterb'n ling'n,<lb/>
+				Stoppt he sick erst dat Bakkenfell,<lb/>
+				Denn haͤt de Doot gewunnen Spoll.<lb/>
+				<pb facs="../img/bornemann-1810/0042.jpg"/>
+				—<lb/>
+				44 —<lb/>
+				Wat doch woll de Aptheker met<lb/>
+				Em tuschelt, un geheim anstdtt?<lb/>
+				Gesundheit drinken is dät nich<lb/>
+				So wat deit jeder öffentlich.<lb/>
+				Se hem vielicht in fule Stun'n<lb/>
+				Ganz niee Pillen sick erfun'n:<lb/>
+				En Kranker mukt nu frisch probeer'n,<lb/>
+				Of se doot oder g'sund coreer'n.<lb/>
+				In'n roden Kroagen an de Wand,<lb/>
+				Dåt is en Krieges Lieverant.<lb/>
+				He håt en schön Stück Geld gewun'n,<lb/>
+				Doch wie gewunnen, so zerrun'n.<lb/>
+				De mit dåt drall friesirte Haar,<lb/>
+				Was Bessenbinner noch vor'n Joahr;<lb/>
+				Doch to gering heel he den Stand,<lb/>
+				Jizt is he Bessen=Faberkant.<lb/>
+				De Mu'r un Timmerlüd, wo sich<lb/>
+				De Titil paßt, de will'n en nich.<lb/>
+				Un de kün'n doch jizt allen En'n<lb/>
+				Sick Hüser=Faberkanten nenn'n.<lb/>
+				<pb facs="../img/bornemann-1810/0043.jpg"/>
+				— 45 —<lb/>
+				Süppt nich de Förster as en Beest?<lb/>
+				Daͤt weerd doch ut den Deenst nich lös't?<lb/>
+				Wo von he hüt noch tårt, dåt Fett<lb/>
+				Bracht åm de groote Windbrook met.<lb/>
+				De rothnäsige Schwartkopp mütt<lb/>
+				Wat sing'n, un doavor itt he mit.<lb/>
+				He schuddert sich bie jeden Drunk —<lb/>
+				Sien Medok is so su'r as jung.<lb/>
+				Jizt rüsten se sick to'm Gesang,<lb/>
+				Derwiel will'n wie de Stroat entlang<lb/>
+				Moal seh’n un hdr’n, wat doa passeert,<lb/>
+				To Peer sitt, kutscht, un ruͤm spatzeert.<lb/>
+				Sühst du woll den Trabant von Wief<lb/>
+				Mit Pietsch un Brill un Spervectiv,<lb/>
+				Hoch up den Kutscherbuck prampeer'n,<lb/>
+				Un åren Mann Kassoaten föhr'n?<lb/>
+				To sammen dukt sick as en Ball<lb/>
+				De Mann bie jeden Pietschenknall;<lb/>
+				Dåt mütt he dohn, ár to’m Respect,<lb/>
+				Sünst werd am gliek eens mit verreckt.<lb/>
+				<pb facs="../img/bornemann-1810/0044.jpg"/>
+				— 46 —<lb/>
+				Nå länger geit de Trödel nich,<lb/>
+				To arg is't wat dåt Wiebertüg<lb/>
+				Vör unflåtsch grooten Stoat bedrift<lb/>
+				Un hoch up mit de Nåse schnüͤft.<lb/>
+				Weer't Goldprokoat un Dammast noch,<lb/>
+				Wie't Groot= un Urgrootmutter droog —<lb/>
+				Nå pure Flidderfladdern sind't<lb/>
+				Un Klunkern noa den Modenwind.<lb/>
+				Knap du'rt de Spoaß veer Wochen lang,<lb/>
+				Plautz! ligt son Plunner unner Bank.<lb/>
+				„Mann!" heet et denn, „de Mod' is ut,<lb/>
+				„Rück wådder mit den Büdel rut."<lb/>
+				Den Putz verstoahn se as den Dus,<lb/>
+				Doch wie de Fru geschickt dät Hus,<lb/>
+				Un Küch un Keller sall regeer'n -<lb/>
+				Prost — da will kene wat von hör’n.<lb/>
+				Schau moal! wie de Pandur von Deern,<lb/>
+				Den Schimmel doa — lett mandw'reer'n;<lb/>
+				Man schwör, wenn’t kene Frolen weer,<lb/>
+				Se stammte von en Roßkamm her.<lb/>
+				<pb facs="../img/bornemann-1810/0045.jpg"/>
+				— 47 —<lb/>
+				Un nu kiek de Kledoage an,<lb/>
+				Of dåt den Wind woll affholl'n kann!<lb/>
+				Wat is dåt Enn von son Geschlamp?<lb/>
+				Gliek noa de Hochtiet, Kramp up Kramp.<lb/>
+				En Junggesell von Vörbedacht<lb/>
+				Krüzt vor det Frie'n sick Dag un Nacht;<lb/>
+				Drüm nimmt de olle Junfern=Stand<lb/>
+				Wie Unkrut jizt ok åberhand.<lb/>
+				All åberall, verkehrter Sinn,<lb/>
+				Keen Saft, keen Kraft, keen Marks is drinn,<lb/>
+				Ehrliche Lüd bestoah'n mit Spott,<lb/>
+				Dät Geld alleen — dåt is år Gott.<lb/>
+				Wer up den Buͤdel håͤt den Knoop,<lb/>
+				Krigt alles vorfotsch weg to koop.<lb/>
+				Stünn Rad un Galgen ok derbie<lb/>
+				Se koͤpen sick ok doavon frie.<lb/>
+				Wer ånners denkt - ach Gnoade Gott,<lb/>
+				Werd Winkel ut un in gestott!<lb/>
+				Keen Minsch will mit åm hem to dohn,<lb/>
+				Un Hungerpoten sind sien Lohn.<lb/>
+				<pb facs="../img/bornemann-1810/0046.jpg"/>
+				— 48 —<lb/>
+				Wo Tucht un Ordnung unnergoahn,<lb/>
+				Doa kann nich Stadt un Land bestoahn.<lb/>
+				De Kroog geit, as dåt Sprichwoort sprickt,<lb/>
+				So lang to Woater, bet he brikt.<lb/>
+				In Sodom un Gomorra drin<lb/>
+				Was mån een Mann vull froamen Sinn,<lb/>
+				Ganz eenzig in dåt Sünden=Nest,<lb/>
+				Sien Noam is Meister Lott gewest.<lb/>
+				As he sick ens bie Oabendtiet<lb/>
+				So eben noa dåt Bett um süht,<lb/>
+				Doa koam'n bie åm in aller Nacht<lb/>
+				Twee Mannslüd an, ganz still un sacht.<lb/>
+				Hör Meister Lott, so spräken se,<lb/>
+				Schloag moal de Ogen in de Höh.<lb/>
+				De Himmel is so schwart as Theer,<lb/>
+				Dåt geit hüt åber Sodom her.<lb/>
+				Se driebent hier wat all'to dull,<lb/>
+				Dät Sündenmoat is äbervull,<lb/>
+				De Blitz werd Schlag up Schlag drin schloan,<lb/>
+				Un Mann un Muus werd unnergoahn.<lb/>
+				Nimm<lb/>
+				<pb facs="../img/bornemann-1810/0047.jpg"/>
+				— 49 —<lb/>
+				Nimm diene Fru un Döchter denn,<lb/>
+				Un loat uns lopen wat wie könn'n.<lb/>
+				Hier is noa Advokoaten Red,<lb/>
+				Perrickel Moor, wer sick verspäd't.<lb/>
+				Se schnörten åren Bünnel bald,<lb/>
+				Un knap tom Doar henut, doa knallt<lb/>
+				Ok all dät Dunnerwåder los,<lb/>
+				En utgeloatner Stormwind blos.<lb/>
+				Un noch keen Voaderunser lang<lb/>
+				Woar Blitz un Dunner recht in Gang,<lb/>
+				Doa stund an allen Ekken ok<lb/>
+				De ganze Stadt in Brand un Schmook.<lb/>
+				Fru Lotten freut dåt ganz unflätsch<lb/>
+				Un alle tein Schritt was se ståtsch<lb/>
+				Un keek sick um, besunners as<lb/>
+				De Kerk in vulle Flammen was.<lb/>
+				Denn de Herr Supperdent har moal<lb/>
+				Se afgekanzelt ganz fatoal.<lb/>
+				Doa dacht se jizt: sühst du Patron!<lb/>
+				Doa vär krigst du hüt dienen Lohn.<lb/>
+				<pb facs="../img/bornemann-1810/0048.jpg"/>
+				— 50 —<lb/>
+				Doa Lott en framer Herre is<lb/>
+				So was åm dåt en Aergerniß,<lb/>
+				Un as se noch moal dreev sö'n Spott,<lb/>
+				So gaf he år ’en Ribbenstott.<lb/>
+				Se dacht, dåt weer de Blitz, un feel<lb/>
+				To Bodden gliek mit Liev un Seel.<lb/>
+				Un ehr se sick bedüden leet,<lb/>
+				Was se all kolt, von Kopp to Föt.<lb/>
+				Nu har man doamoals dät Verföhr'n,<lb/>
+				De Dooden intobalsoameer'n,<lb/>
+				Dåt mån se moal as Medezien<lb/>
+				Noch in d'Aptek verköpen künn.<lb/>
+				Wo åber is in alle Welt<lb/>
+				Woll Specerie upt friee Feld:<lb/>
+				Keen Hof, keen Hus lag an de Straat,<lb/>
+				Doch endlich fund sick hier ock Roath.<lb/>
+				Vdr't Wildbrett stund nich wiet in't Holt<lb/>
+				En Trog Salpeter, Lehm un Solt.<lb/>
+				Wie jizt noch Bruck is un Maneer<lb/>
+				Upt' Königliche Jagdreveer.<lb/>
+				<pb facs="../img/bornemann-1810/0049.jpg"/>
+				— 51 —<lb/>
+				Doamit nich Reh un Hirsche soll'n<lb/>
+				Up oadelichen Grund sick stell'n;<lb/>
+				Wat Jägerslüd afgünstig sin<lb/>
+				Dät bill't sick goar keen Minsch nich in.<lb/>
+				Glick ingesollten hem se nu<lb/>
+				In düssen Trog de dood'ge Fru.<lb/>
+				Un davon kummt de Schnickschnack her<lb/>
+				Dåt se to'r Soltsul worden weer.<lb/>
+				D 2<lb/>
+				<pb facs="../img/bornemann-1810/0050.jpg"/>
+				52 —<lb/>
+				Isaaks Opfer.<lb/>
+				(Unser Bauersmann sah in einer schwäbischen Dorfkirche<lb/>
+				ein Gemälde, Isaaks Opfer darstellend. Um das<lb/>
+				Opfer=Verbot bildlich mit zu bezeichnen, ließ der<lb/>
+				Maler den alten„ Abraham mit einer Pistole nach<lb/>
+				Isaak zielen, von oben herab aber bewässerte ein<lb/>
+				Engel das Pulver auf der Pfanne. Dies ist der<lb/>
+				Gegenstand der nachfolgenden Erzählung. A. d. H.)<lb/>
+				Mie fällt, so oft ick lustig bin<lb/>
+				Allbott en putzig Stücksken in,<lb/>
+				Dåt mie moal ens vör woahr un wiß<lb/>
+				To Uhlendörp bejegnet is.<lb/>
+				Ick sach doa an de Kerkenwand<lb/>
+				En Bild, dåt was bemoalt schermant;<lb/>
+				Vål Biller hew ick sehn, von all'n<lb/>
+				Håt mie noch keen's so goot gefall'n.<lb/>
+				Den Köster, de vörbie just ging,<lb/>
+				Frog ick: wat is det hier vor'n Ding?<lb/>
+				„En Bild!" — Doamit was't afgedoahn,<lb/>
+				Un leet mie as Hansnarren stoahn.<lb/>
+				<pb facs="../img/bornemann-1810/0051.jpg"/>
+				53 —<lb/>
+				Nu woar ick klöger üm keen Hoar<lb/>
+				As wie de Koh bie't niee Doar.<lb/>
+				Wat ick ok keek, von Vör’n un Hinn’n,<lb/>
+				En Sinn was nich herut to finn'n.<lb/>
+				En bald halfwaß'ner Bengel lag<lb/>
+				Up enen Hupen Holt, un sach<lb/>
+				So plinsig ut, as weer åm just<lb/>
+				De Bottersemmel weggemus't.<lb/>
+				En oller Mann, mit griesen Boart,<lb/>
+				Ganz in't Gesicht herüm behoart,<lb/>
+				Lag vör den Jung'n in Anschlag schon,<lb/>
+				As woll he'n gliek dootscheten dohn.<lb/>
+				Un högger nup was noch en Mann,<lb/>
+				De har twee gåle Flüttchen an:<lb/>
+				De dreihte ganz curjos dät Blatt<lb/>
+				Un moakte Pann un Pulwer natt.<lb/>
+				Iizt word ick immer hitzger drup<lb/>
+				Un socht den Köster wäͤdder up.<lb/>
+				Verdütsch he, sprack ick, — mie dåt Bild,<lb/>
+				Se is mit Dubbelten gefüllt.<lb/>
+				D 3<lb/>
+				<pb facs="../img/bornemann-1810/0052.jpg"/>
+				— 54 —<lb/>
+				Un gaf åm nu de Brännwiens=Pull,<lb/>
+				Zwoars bet to'm Proppen was se vull,<lb/>
+				Alleen, he soop so glupsch drup in,<lb/>
+				Ok nich en Droͤpken leet he drin.<lb/>
+				Nu kreeg he Lust, nu fung he an:<lb/>
+				To rechten hier, de olle Mann,<lb/>
+				Dåt is de Voåder Abraham,<lb/>
+				De sienen Soahn to oppern kamm.<lb/>
+				Un de hier ut dåt Wulkenbett<lb/>
+				Sien Woater sachtken loopen lett,<lb/>
+				Dåt is de Engel Goabriel,<lb/>
+				Den leewen Gott sien Oltgesell.<lb/>
+				Un hier mit de Husoaren Jack<lb/>
+				Up't Holt, is Musche Iseak,<lb/>
+				Den ollen Abraham sien Soahn,<lb/>
+				De sall nu werden afgedoahn.<lb/>
+				Uns' Herrgott, de vår dusend Joahr<lb/>
+				Ok månchmoal wat driehoarig woar,<lb/>
+				Gaf aͤm dåt Ding so unnern Foot<lb/>
+				Un sä: moak moal den Isa'k doot.<lb/>
+				<pb facs="../img/bornemann-1810/0053.jpg"/>
+				— 55 —<lb/>
+				Just as he sienen lewen Soahn<lb/>
+				Nu eben woll up't Lådder goahn,<lb/>
+				Un noa dät Herz von Postpapier<lb/>
+				All zielte mit den Puffer hier:<lb/>
+				Doa hurra! kamm in vull'n Gallopp<lb/>
+				En Engel äber Hals un Kopp,<lb/>
+				Un reep: loat sin du oller Klaas,<lb/>
+				Versteist du denn goar keenen Spaaß!<lb/>
+				Den Zickenbuck, de bie die liegt,<lb/>
+				Den pust moal ut dåt Lewenslicht,<lb/>
+				Dåt gift doch noch, du blinner This,<lb/>
+				En Broaden, de to åten is.<lb/>
+				Nu plegten unse Vorfoahr woll,<lb/>
+				Wenn en Gemål wat spräken soll,<lb/>
+				Sön Bild den Hals wiet up to sperr'n,<lb/>
+				Un so den Spruch herut to terr'n.<lb/>
+				Dåt Ding kamm unsen Herrn Pastor<lb/>
+				En bittchen ehrenrohrig vär,<lb/>
+				Wenn sonne Engels Woorte dåhn<lb/>
+				Herut stoahn, als Elephanten Tän.<lb/>
+				D 4<lb/>
+				<pb facs="../img/bornemann-1810/0054.jpg"/>
+				— 56 —<lb/>
+				Nu gung de Red, dät in Berlin<lb/>
+				En Utbund soll von Moaler sin,<lb/>
+				Vörnut, wenn ene Altoar Där<lb/>
+				Mit Biller antostrieken weer.<lb/>
+				Oltmeister Rode was sien Noam,<lb/>
+				De mußt nu bie uns ruter koam,<lb/>
+				Un unse Paster äberlä<lb/>
+				Mit åm dåt Ding sick hen un hä.<lb/>
+				Wiel't up Gemeende Kosten ging,<lb/>
+				So tog sick bittchen lang dåt Ding:<lb/>
+				Erst bie de lezte Piep Toback<lb/>
+				Oltmeister Rode allso sprack:<lb/>
+				„Hört Schult un Schöppen! weet jie wat:<lb/>
+				„Ick moale ju dåt Altoarblatt<lb/>
+				„As wenn de Voader Abraham<lb/>
+				„To'm Schlachten sick en Puffer namm.<lb/>
+				Un kiek, wo důtlich un wo jot<lb/>
+				He so beteikt dåt Schlacht Verboot.<lb/>
+				De Engel stroahlt åm up de Pann —<lb/>
+				Nu loat 'en scheeten — wenn he kann.<lb/>
+				<pb facs="../img/bornemann-1810/0055.jpg"/>
+				— 57 —<lb/>
+				Esau und Jakob.<lb/>
+				Wat ens en Hoaken werden sall<lb/>
+				Dåt krümmt sick schons bie Tieden:<lb/>
+				So heet dät Sprichwoort åberall,<lb/>
+				Un keener mag't bestrieden.<lb/>
+				En klein Exempel up to stell'n<lb/>
+				Will ick en Muulvull hier vertelln'<lb/>
+				Von Esau un von Joakob.<lb/>
+				Knapp dät män in Rebekka's Schoot<lb/>
+				De Kinner bitchen wuchsen,<lb/>
+				Dorft Esau ok mit Hand un Foot<lb/>
+				Nich roͤhren sick noch mucksen.<lb/>
+				Denn Joakob stoot gliek los up Moord,<lb/>
+				Dåt Esau ganz bie de Geboort<lb/>
+				Mit Bloot was unnerlopen.<lb/>
+				D 5<lb/>
+				<pb facs="../img/bornemann-1810/0056.jpg"/>
+				— 58 —<lb/>
+				As nu de Stunn heranner was<lb/>
+				Sick in de Welt to scheeren,<lb/>
+				Dacht Joakob: Esau mag den Paß<lb/>
+				En bitchen voͤrprobeeren.<lb/>
+				Un listig pakt he Esau's Been<lb/>
+				Un leet also ant Licht sick tehn,<lb/>
+				Un lachte as en Kobbold.<lb/>
+				So håt in Mutterliewe schon<lb/>
+				Herr Joakob Kundschaft geben,<lb/>
+				Wat ens de Welt an den Patron<lb/>
+				Vdr Künste wor erleben.<lb/>
+				Un Esau gift sich gliek to Koop<lb/>
+				Hier as en duͤtschen Degenknoop<lb/>
+				Oahn Falsch in Woort un Werken.<lb/>
+				Herr Esau word en Akkersmann:<lb/>
+				De Felder to bebauen<lb/>
+				Schafft he sick Peer un Woagen an,<lb/>
+				Un herrlich an to schauen<lb/>
+				Stund up dåt Land all sien Getreid<lb/>
+				Un lustig grönte Wisch un Weid<lb/>
+				Von Seegen schwoar beloaden.<lb/>
+				<pb facs="../img/bornemann-1810/0057.jpg"/>
+				59 -<lb/>
+				Un wenn de Arbeit was vullbracht,<lb/>
+				So namm he Flint' un Ranzen<lb/>
+				Un ging en bitchen up de Jagd<lb/>
+				De Hoasen to kuranzen.<lb/>
+				Denn sien Herzvoader<lb/>
+				Isa'k att<lb/>
+				Sick goar to gårn in Wildbrett satt,<lb/>
+				Vornut in Hoasenbroaden.<lb/>
+				Un up den Oabend plegten se<lb/>
+				En Piepken voll to schmöken,<lb/>
+				Un ut de Kriegs Historie<lb/>
+				De Loågen rut to söken.<lb/>
+				De Zeitungen — et was 'ne Lust,<lb/>
+				Wat Esau de to mustern wußt<lb/>
+				Un putzig uttoleggen.<lb/>
+				Herr Joakob, as en froamer Mann,<lb/>
+				Bleew hinnern Kacheloawen;<lb/>
+				Am gung nich Land nich König an,<lb/>
+				Kunn he män schinn'n un schoaben.<lb/>
+				Den Mantel noa den Wind to teh'n<lb/>
+				Geld intoscharrn, Geld ut to leh'n,<lb/>
+				Dåͤt was noa sienen Schnoabel.<lb/>
+				<pb facs="../img/bornemann-1810/0058.jpg"/>
+				— 60 —<lb/>
+				So woar he noa Rebekkens Sinn<lb/>
+				Ar leewet Mütter Sähnken!<lb/>
+				Dät was Joaköbken vörn un hin'n,<lb/>
+				Keen Håppken un keen Thränken<lb/>
+				Mucht se oahn Joaköbken verteer'n,<lb/>
+				He mußt den Hals mit all'n sick schmeer'n,<lb/>
+				Un Esau, was en Flegel.<lb/>
+				De Erstgeboort von Esau woar<lb/>
+				Drüm goar nich to verknusen:<lb/>
+				Un beide sunnen mänchet Joahr<lb/>
+				Up nischt als Kunkelfusen,<lb/>
+				Dåt Vörrecht moal so met en Pfiff,<lb/>
+				Un hinnerlistge Schelmenkniff<lb/>
+				Am sächtken weg to schwuppern.<lb/>
+				Im Fröhjoahr as de Waldschnepp kamm,<lb/>
+				De Isa'k gårn mucht åten,<lb/>
+				Herr Esau sine Knallbüß namm<lb/>
+				Herzvoadern wat to scheeten;<lb/>
+				He leep den ganzen Dag um her,<lb/>
+				Ok oft genog stund Tiras vor,<lb/>
+				Doch woll de Schnepp nich hollen.<lb/>
+				<pb facs="../img/bornemann-1810/0059.jpg"/>
+				61 —<lb/>
+				Doch håt he up den Oabend spåd<lb/>
+				Twee Stück noch runn geklastert<lb/>
+				Un as he hungrig matt un möd<lb/>
+				Doamit kamm anklabasterst<lb/>
+				Doa stund up Joakobs Dischgedeck<lb/>
+				Met schön dorchwaßnen Ribbenspeck<lb/>
+				En grooter Napp vull Linsen.<lb/>
+				Ach Bröderken! sprak Esaus Mund:<lb/>
+				Loat mie de Linsen pappen!<lb/>
+				Ick bin so hungrig as en Hund,<lb/>
+				Män kuum kann ick noch gappen.<lb/>
+				De Moagen hångt mie in den Rump<lb/>
+				So lang heraf as wie en Strump,<lb/>
+				Ick mütt vår Hunger sterben.<lb/>
+				Keen Bidden hulp, keen goodet Woort,<lb/>
+				Von nischt woll Joakob hdren.<lb/>
+				Un Esau mußt de Erstgeboort<lb/>
+				In Hungersangst cederen.<lb/>
+				Wenn Esau nich en Broder weer,<lb/>
+				Schwor Joakob, künn he nimmermehr,<lb/>
+				Doavor de Linsen loaten.<lb/>
+				<pb facs="../img/bornemann-1810/0060.jpg"/>
+				— 62 —<lb/>
+				Rebekka lachte sick bald doot<lb/>
+				To den verwünschten Schacher,<lb/>
+				Dät Joakobken so klook un goot,<lb/>
+				Um puren Linsen Pracher<lb/>
+				Den Flätz von Esau har balbeert,<lb/>
+				He word de ganze Nacht trakteert<lb/>
+				Met Punsch un Honnigkooken.<lb/>
+				As Isa'k olt was un stockblind,<lb/>
+				Leet he den Esau ropen.<lb/>
+				Du magst, sprack he, mien Soahn, mien Kind,<lb/>
+				Moal up de Jagd hüt lopen,<lb/>
+				En jungen Rehbuck hoal mie in,<lb/>
+				Un richt en an noa mienem Sinn,<lb/>
+				Ick sterb — un will die seegnen.<lb/>
+				Rebekka horcht still an de Där<lb/>
+				Doa kunn se alles hören;<lb/>
+				Geschwinn reep se Joakobken her,<lb/>
+				Un daͤh aͤm instrogeeren:<lb/>
+				Wie he den Esau noch dorch List,<lb/>
+				Mit jungen Zickenbroaden müßt,<lb/>
+				Ok uͤm den Seegen prellen.<lb/>
+				<pb facs="../img/bornemann-1810/0061.jpg"/>
+				- 63 —<lb/>
+				„Herzmutter! nå! dåt doh ick nich!<lb/>
+				De Olle künn't vermerken;<lb/>
+				Herr Gott, he wör mie lästerlich<lb/>
+				Utschell'n un runnerferken.<lb/>
+				Un keem mie Esau åbert Fell,<lb/>
+				Dät is en Knoll von Grofgesell,<lb/>
+				He wör mie schdn klabatschen."<lb/>
+				„Gript Iseak mie an de Hand,<lb/>
+				So bin ick gliek verroaden.<lb/>
+				Ick lehn' up Wesselbreew un Pand,<lb/>
+				Un tell nischt as Dokoaden;<lb/>
+				Drüm miene Hånn sind week un glatt<lb/>
+				Un Esaus Fuust is ruh und<lb/>
+				spatt,<lb/>
+				Un dick vull Arbeitsquesen."<lb/>
+				Rebekka sprak: „Mien Herzens Soahn<lb/>
+				Dåt sind man Quakeleien!<lb/>
+				Wer in de Welt jizt hoch will stoahn,<lb/>
+				Müt Schimp un Schlåg' nich scheuen.<lb/>
+				Kuroasch mien Soahn! — ick stoah die bie,<lb/>
+				Den Schimp, de Schlåg, nehm ick up mie." -<lb/>
+				Un Joakob bracht de Zicken.<lb/>
+				<pb facs="../img/bornemann-1810/0062.jpg"/>
+				— 64 —<lb/>
+				In Essig mußt dät Zickenfleesch<lb/>
+				Erst wild un müffig werren,<lb/>
+				Denn word mit Speck un Botterkreesch<lb/>
+				Flink vår den ollen Herren<lb/>
+				De Lögenbroaden angericht,<lb/>
+				Met sure Gurken Schicht an Schicht,<lb/>
+				Dåt was so Isaks Gusto.<lb/>
+				„Wer bist du?" frog Herr Iseak,<lb/>
+				As Joakob kamm getreden.<lb/>
+				Ganz patzig Musche Joakob sprak:<lb/>
+				„I, håst du denn vergåten,<lb/>
+				„Dåt ick dien erstgeboarner Soahn,<lb/>
+				„Dien Esau, up de Jagd mußt goahn? -<lb/>
+				„Hier breng' ick nu den Broaden."<lb/>
+				Den blinnen Voader Isa'k was<lb/>
+				Dät Ding nich recht begriepig;<lb/>
+				Denn Esau sprack en düchtgen Baß,<lb/>
+				Un Joakobs Stimm was piepig.<lb/>
+				He leet de Hand sick geben nu,<lb/>
+				Alleen de Hand was hart un ruh,<lb/>
+				Dåt Wams rook schier na Pulwer.<lb/>
+				Eo<lb/>
+				<pb facs="../img/bornemann-1810/0063.jpg"/>
+				— 65 —<lb/>
+				So word de olle Iseak<lb/>
+				Von Fru un Kind bedroagen;<lb/>
+				Denn Joakob har sick Esaus Jack<lb/>
+				Un Hoasen angetoagen.<lb/>
+				Met Sand un Schliem von't Zickenfell,<lb/>
+				Har sick de pfiffige Gesell<lb/>
+				De Hånn steenhart geräben.<lb/>
+				Kuum was de Segen weggefischt,<lb/>
+				Un Joakob furt in Gnoaden:<lb/>
+				Doa bracht ok Esau upgedischt<lb/>
+				Den echten Rehbuksbroaden.<lb/>
+				Un Iseak verfärwte sich,<lb/>
+				Un Esau weente bitterlich,<lb/>
+				As he den Schwupper hörte.<lb/>
+				En Jägersmann, gerecht un schlicht,<lb/>
+				Was Ehrlichkeit sien Wandel,<lb/>
+				Sien Leben was noa strenger Pflicht,<lb/>
+				En Handschlag all sien Handel;<lb/>
+				Sien Sinn, vull reiner Broderleew<lb/>
+				Un just sien Broder was sien Deew<lb/>
+				Dåt gung am sehr to Herzen.<lb/>
+				<pb facs="../img/bornemann-1810/0064.jpg"/>
+				66 —<lb/>
+				„O håst du denn, o Voader mien,<lb/>
+				„Häst du man enen Segen!"<lb/>
+				Reep Esau ut dem Herzen sien,<lb/>
+				En Steen mucht sich bewegen.<lb/>
+				Doa word von Mitleed Isa'k warm,<lb/>
+				Un beide feel'n sick in den Arm,<lb/>
+				Un blickten up gen Himmel.<lb/>
+				Un Isa'k sprak: „Ok du mien Soahn<lb/>
+				„Sast Segen fin'n up Erden!<lb/>
+				„Dien Volk werd dörch dät Schwerdt bestahn,<lb/>
+				„Un groot un mächtig werden!<lb/>
+				„Doch föhrst du ok dåt Krieges Schwerdt,<lb/>
+				„Werd doch mit Geld un Geldeswerth<lb/>
+				„Die Joakob unnerkriegen.<lb/>
+				Un wat in hoch prophetschen Sinn<lb/>
+				Hier Isa’k utgesproaken,<lb/>
+				Dript up den hüt'gen Dag noch in,<lb/>
+				Man brukt män uptomoaken<lb/>
+				De Ogen, un vorbaß to sehn,<lb/>
+				Wat in de Welt rüm deit geschen,<lb/>
+				Vom Morgen bet tom Oabend.<lb/>
+				<pb facs="../img/bornemann-1810/0065.jpg"/>
+				— 67 —<lb/>
+				Der Frühling.<lb/>
+				Dåt Land ergrönt all äber all,<lb/>
+				De Luft ward mill und warm!<lb/>
+				Schon kehrt torügg mit hellen Schall<lb/>
+				De bunte Vågel Schwarm.<lb/>
+				So kündigt sick dåt Fröhjoahr an,<lb/>
+				De starre Winter schwinn't,<lb/>
+				Frisch up! Frisch up mit Ploog un Spann<lb/>
+				De Fröhlings Dag beginnt.<lb/>
+				Herbie! herbie! jie Akkerslüd,<lb/>
+				Schon lukker is dat Feld;<lb/>
+				Doa segnet Gott, wo rechter Tiet<lb/>
+				Werd Hoab un Goot bestellt.<lb/>
+				Mit Gottesforcht, streut in dät Land<lb/>
+				De Soat tom Aerndte Dag;<lb/>
+				Ut Gottes Allmachts vuller Hand<lb/>
+				Fällt Dau un Hoagelschlag.<lb/>
+				E 2<lb/>
+				<pb facs="../img/bornemann-1810/0066.jpg"/>
+				— 68 —<lb/>
+				Wat wie versai'n in Sorg un Möh,<lb/>
+				Dät Kören is so klein<lb/>
+				Doch herrlich drift et in de Höh,<lb/>
+				Mit Segen to erfreun.<lb/>
+				So werden wie moal ut den Doot<lb/>
+				In Herrlichkeit un Glanz<lb/>
+				Hervorgoahn ut den Erdenschoot,<lb/>
+				Tom Himmels Aerndte Kranz.<lb/>
+				Der Erndte=Kranz.<lb/>
+				Wie brengen vor gnädige Herrschaft den Kranz<lb/>
+				Von Ahren, de schwuchten und wuchten;<lb/>
+				Met Bännern un Rosen von güldigen Glanz,<lb/>
+				Geschickt von de Mäkens dörchfluchten.<lb/>
+				<pb facs="../img/bornemann-1810/0067.jpg"/>
+				69 —<lb/>
+				Nich licht was de Arbeit, et stund dåt Getreid<lb/>
+				So wählig vull Macht up den Akker<lb/>
+				Doa hem moal de Knechte rechtschaffen gemaiht,<lb/>
+				De Deerens gebunnen so wakker.<lb/>
+				Hüt åber, hut will'n wie to good uns wat dohn,<lb/>
+				Hüt will'n wie den Schweet uns vorsöten;<lb/>
+				Un juchen un danzen un spring'n un hallo'n—<lb/>
+				So sall sick de Morgen uns röden.<lb/>
+				Wo sind de Muskanten? wo is denn dät Beer?<lb/>
+				De Kooken, de Schnaps un de Broaden?<lb/>
+				Wie dörsten un hungern, flink alles hier her,<lb/>
+				Wat huͤt is gekoakt und gesoaden!<lb/>
+				Hier steit he, de Ahrenkranz, herrlich und schön<lb/>
+				Hier will'n wie hüt schmusen un springen!<lb/>
+				Hier sall uns biem Hopser up Hakken un Tön<lb/>
+				De Fiddel, de Trumpeet erklingen.<lb/>
+				Doch eh' wie danzen, eh' wie spring'n,<lb/>
+				Will'n wie to Gott vör allen Ding'n,<lb/>
+				Den Blick erst richten himmelwaͤrts<lb/>
+				Den Herrn to breng'n en dankboar Herz.<lb/>
+				<pb facs="../img/bornemann-1810/0068.jpg"/>
+				— 70 —<lb/>
+				Gott sach von Himmel up uns raf,<lb/>
+				Gott was't, de uns den Segen gaf,<lb/>
+				Wenn wie de Soat in Hoffnung streu'n<lb/>
+				Von Gott den Herrn kummt dåt Gedeih'n<lb/>
+				Gott namm de Soat in Schutz un Hoot,<lb/>
+				Gaf rechter Tiet de Regenflovt,<lb/>
+				Den Sunnenschien, den Perdeltau,<lb/>
+				Froh to erquikken Feld un Au.<lb/>
+				So word de Akker segenschweer,<lb/>
+				So woogte, wie dåt blaue Me¬<lb/>
+				Bewegt von warmer Middagsluft,<lb/>
+				Dät Feld, verbreitend frischen Duft.<lb/>
+				So word uns Hof un Schün gefüllt,<lb/>
+				So förchten wie keen Hungerbild,<lb/>
+				Schütz un bewoahr', gerechter Gott,<lb/>
+				Uns nu vor Brand und Krieges Noth.<lb/>
+				Bald is de Segen doa verstört<lb/>
+				Wo sick de Unfreed wild empört,<lb/>
+				Wo um sick roas't de Füersbrunst —<lb/>
+				Bewoahr uns Herr! mit Gnoad und Gunst.<lb/>
+				<pb facs="../img/bornemann-1810/0069.jpg"/>
+				— 71 —<lb/>
+				Lustig nu tom Danz<lb/>
+				Um den Ahrendkranz!<lb/>
+				Spällüd, dåt de Ohren summen,<lb/>
+				Mütt de olle Baß jizt brummen,<lb/>
+				Lust'ge Meledien<lb/>
+				Sing' de Vigelien<lb/>
+				Knechte, Mäkens, flink!<lb/>
+				Dreiht ju üm den Ring<lb/>
+				Alles, wat in Tucht un Ehren,<lb/>
+				Sall keen Minsch ju hüt verwehren,<lb/>
+				Moakt den suren Schweet<lb/>
+				Hüt ju wådder söt.<lb/>
+				Wer noch röhr'n sick kann,<lb/>
+				Ollen! tredet ran!<lb/>
+				Loat't uns ok en Sprung versöken,<lb/>
+				Denn will'n wie en Piepken schmöken,<lb/>
+				Gott en Danklied sing'n<lb/>
+				Dåt de Stär'n erkling'n!<lb/>
+				E 4<lb/>
+				<pb facs="../img/bornemann-1810/0070.jpg"/>
+				— 72 —<lb/>
+				Gottes Gnoade was't<lb/>
+				De uns Schün' un Tast<lb/>
+				Håt gefüllt mit güldnen Garwen,<lb/>
+				Nümmer lett Gott den verdarwen,<lb/>
+				De aͤm forchten deit<lb/>
+				Un nich Arbeit scheut.<lb/>
+				Wat de Schrift uns heet,<lb/>
+				Arbeit un Gebet: —<lb/>
+				Trülich will'n wie danoah lewen<lb/>
+				Un vor kene Tokunft bewen,<lb/>
+				Gott werd helpend koam —<lb/>
+				Allmacht! is sien Noam.<lb/>
+				<pb facs="../img/bornemann-1810/0071.jpg"/>
+				75 —<lb/>
+				Zum Dröschen.<lb/>
+				*.* * .<lb/>
+				Jie Knechte, jie Mäkens, de Hoahn hät<lb/>
+				gekreiht,<lb/>
+				Woakt up!<lb/>
+				In Morgenroth herrlich de Himmel schon steit,<lb/>
+				Woakt up!<lb/>
+				De Noaberslüd dröschen all rund um uns her,<lb/>
+				Klap, Klip, Klap! erschalt et de Krütz un de Queer!<lb/>
+				Keen rechtschoapner Knecht un keen Mäken,<lb/>
+				Müt jizt in de Federn noch stäken.<lb/>
+				Klap! Klip! Klap!<lb/>
+				Klip! Klop! Klap!<lb/>
+				Jie Knechte, jie Mäkens, de Hoahn hät<lb/>
+				gekreiht,<lb/>
+				Woakt up!<lb/>
+				In Morgenroth herrlich de Himmel schon steit,<lb/>
+				Woakt up!<lb/>
+				Gedeihen leet Gott uns vor allen düt Joahr,<lb/>
+				De Garwen sind lang un von Segen so schwoar,<lb/>
+				De Kören so quik as de Bohnen,<lb/>
+				Dåt sall moal recht schåpeln un lohnen.<lb/>
+				Klap! Klip! Klap!<lb/>
+				Klip! Klop! Klap!<lb/>
+				E 5<lb/>
+				<pb facs="../img/bornemann-1810/0072.jpg"/>
+				— 74 —<lb/>
+				Jie Knechte, jie Mäkens, de Hoahn hät<lb/>
+				gekreiht,<lb/>
+				Woakt up!<lb/>
+				Jn Morgenroth herrlich de Himmel schon steit,<lb/>
+				Woakt up!<lb/>
+				De Grootmutter fegt all den Backoawen blank!<lb/>
+				De Wind blos't so kräftig, de Möll is in Gang!<lb/>
+				Hüt mütt wie nöch moahlen un sakken,<lb/>
+				Dåt niee Brodt morgen to bakken.<lb/>
+				Klap! Klip! Klap!<lb/>
+				Klip! Klop! Klap!<lb/>
+				de Hoahn hät<lb/>
+				Jie Knechte, jie Mäkens,<lb/>
+				gekreiht,<lb/>
+				Woakt up!<lb/>
+				In Morgenroth herrlich de Himmel schon steit,<lb/>
+				Woakt up!<lb/>
+				Wie brengen Gott morgen mit Sang un mit Klang,<lb/>
+				Ut kristlichen Herzen den Arndtefestdank,<lb/>
+				Doa will'n wie den Herren to ehren,<lb/>
+				Bie Middag frisch Brodt ok vertären.<lb/>
+				Klap! Klip! Klap!<lb/>
+				Klip! Klop! Klap!<lb/>
+				<pb facs="../img/bornemann-1810/0073.jpg"/>
+				— 75 —<lb/>
+				Der Luftball.<lb/>
+				—<lb/>
+				(Der kleine Luftball, welchen der Professor Jungius bei<lb/>
+				seiner ersten Luftreise als Wegweiser voraus gehen<lb/>
+				ließ, sank unweit dem Dorfe Tornow. Die Dorf=<lb/>
+				bewohner geriethen über seine Erscheinung in nicht<lb/>
+				geringe Bewegung. Treuherzig erzählt unser Land¬<lb/>
+				mann, im nachstehenden Schreiben, alles was bei<lb/>
+				diesem Vorfall von den Bauersleuten gedacht, ge¬<lb/>
+				sagt und gethan wurde. A. d. H.)<lb/>
+				Bist Du gesund met Fru un Kind,<lb/>
+				So sall et herzlich leew mie sind:<lb/>
+				Wie sind, Gewadder, dorch de Bank<lb/>
+				Frisch up noch alle, Gott sie Dank!<lb/>
+				As gistern, is in unse Nest<lb/>
+				En laͤsterlichen Upstand west;<lb/>
+				Un druͤm, Gewadder, sett ick mie,<lb/>
+				Un schriew huͤt duͤssen Breew an Die.<lb/>
+				Verstoah ick ånners recht de Schrift,<lb/>
+				Dåt et mån enen Düvel gift:<lb/>
+				So schwör ick Die bie Stock un Block,<lb/>
+				De ene piept ut' lezte Lock.<lb/>
+				<pb facs="../img/bornemann-1810/0074.jpg"/>
+				— 76 —<lb/>
+				Of nu de Düvel, drup kummt an,<lb/>
+				Oahn Netz un Moagen lewen kann;<lb/>
+				Denn beidet is an Strick un Stang<lb/>
+				In miene Schündähl upgehang.<lb/>
+				Gewiß is in den Höllenschlund<lb/>
+				Ok rechte schlechte Tiet itzund:<lb/>
+				Im Moagen was keen Krümken Brodt,<lb/>
+				Mån Qualm — un de rook ok nich got.<lb/>
+				As bie uns gistern Noamiddag<lb/>
+				De Seiger an Klock Fiewe lag,<lb/>
+				Doa brüllt de Grotknecht wat he kunn,<lb/>
+				De Kobbolt kummt von Himmel run.<lb/>
+				Ick keek geschwinn to't Fenster nut;<lb/>
+				Doa trekte die de Drachenbrut<lb/>
+				Dåt Dorp entlang, dåt mie vorwoahr<lb/>
+				To Berg stun up den Kop de Haar.<lb/>
+				De Grotknecht un de Kohmoagd fing<lb/>
+				Ut dåt Gesangbok an to sing;<lb/>
+				De Hushoahn kreihte Angst un Weh,<lb/>
+				Heidi! ging Ent' un Höhnerveh.<lb/>
+				<pb facs="../img/bornemann-1810/0075.jpg"/>
+				77 —<lb/>
+				—<lb/>
+				De Hunne blafften vor Gewalt,<lb/>
+				De Katten mauten dot sick bald,<lb/>
+				De Truthoahn kullerte derto —<lb/>
+				Et was en Lårm up Mordio.<lb/>
+				Ik krůzte mie von Kop to Fot,<lb/>
+				Denn mie was ok ganz flau to Moth;<lb/>
+				Un miene Fru hätt'st du solln sehn,<lb/>
+				De sprung in't Bett, met beide Been.<lb/>
+				Knap har de Angst sick wat geldscht,<lb/>
+				Doa kamm mien Ossenjung geprescht<lb/>
+				Un blarrt, as wenn åm bie't Sakkehl<lb/>
+				All mit de Klaun de Kobbolt heel.<lb/>
+				Dree Emmer Woater, wie mie duͤcht,<lb/>
+				Goot ick den Jungen in't Gesicht,<lb/>
+				Dåt bracht åm endlich to Verstan<lb/>
+				Nu fing he to vertellen an:<lb/>
+				„Von Himmel in de Elsen feel<lb/>
+				„En Ding herun, half witt, half gål,<lb/>
+				„Det kann nich sterw'n, nich lewen mehr,<lb/>
+				„Un salt sick rümmer an de Eer.<lb/>
+				<pb facs="../img/bornemann-1810/0076.jpg"/>
+				— 78 —<lb/>
+				As stün dåt Dörp in helle Flamm'n,<lb/>
+				So leep jizt Olt un Jung tosamm'n.<lb/>
+				De proaschten nu so kunterbunt,<lb/>
+				Dåt keens sien eigen Wort verstund.<lb/>
+				En Woagehals von Keerl schlog vär:<lb/>
+				„Koamt! wie will'n hinnern Drachen her!"<lb/>
+				Un nu ging et in vullen Renn'<lb/>
+				Met Knuppeln noa de Elsen hen.<lb/>
+				Ganz heillos in dåt Elsbrok rüm,<lb/>
+				Kabolzte sick dåt Ungethüm.<lb/>
+				Bet an de Ohren glatt henup,<lb/>
+				So sperrten wie de Müler up.<lb/>
+				Packt an! — reep unse Cummenddr<lb/>
+				Un wuptig feel'n wie dråber her.<lb/>
+				Doch, wat vorn Schreck hem wie gekrigt,<lb/>
+				Wie Kalk was jeder in't Gesicht.<lb/>
+				Denn dreemoal gröter woar gewiß<lb/>
+				Dät Unsoal, as en Wullsack is;<lb/>
+				Et leet as wenn't vål Zentner weer,<lb/>
+				Un was knap as en Povist schwer.<lb/>
+				<pb facs="../img/bornemann-1810/0077.jpg"/>
+				— 79 —<lb/>
+				Da word et erst recht oapenbar,<lb/>
+				Dät Soatans Werk in't Spöll hier woar,<lb/>
+				Un wenn de Wind män bittchen blos,<lb/>
+				Gliek woll't ok wådder von uns los.<lb/>
+				Doch, wat moal in de Klaun uns is,<lb/>
+				Dät holl'n wie Bur'n ok stief un wiß;<lb/>
+				Un har uns ener dot geschloan,<lb/>
+				Wie leetent Beest nich wådder goahn.<lb/>
+				De gnäd'ge Frölens keemen jizt<lb/>
+				Ok met den Köster angeflizt.<lb/>
+				De Köster håt verständig recht<lb/>
+				Dåt Unfloath uns nu utgelegt.<lb/>
+				„Dåt düt hier mütt en Moagen sin,<lb/>
+				Dåt sehn jie doch wol blindlings in:<lb/>
+				De Schlunk, dät Netz, wat sünst derto<lb/>
+				Gehört — is alles richtig so."<lb/>
+				„Et krigt de Engel Michael<lb/>
+				Mänchmoal den Soatan bie dåt Fell,<lb/>
+				Un wenn sick de katzbalgen dohn,<lb/>
+				Denn plegt et blodig hertogoahn."<lb/>
+				<pb facs="../img/bornemann-1810/0078.jpg"/>
+				— 80 —<lb/>
+				„Recht heillos håt he in de Luft<lb/>
+				Den Schwarten huͤt moal afgeknufft,<lb/>
+				Håt åm den Moagen utgerät'n,<lb/>
+				Un runner noa de Eer geschmät'n.<lb/>
+				„De Düwel sülwst met dåt Geschling<lb/>
+				Mütt ok wo in de Gegend ling,<lb/>
+				Et werd schons to uns koam de Kunn,<lb/>
+				Dåt se åm ichtswo hem gefun'n."<lb/>
+				Recht har de Köster, denn et gung<lb/>
+				En Damp heruter ut den Schlunk,<lb/>
+				De rook noa Schweffel, Theer un Peck,<lb/>
+				Ganz up de Oart wie Düvelsdreck.<lb/>
+				De gnåͤd'ge Froͤlens schneeden sick<lb/>
+				Von't Netz herun en grootet Stück.<lb/>
+				Se meinten, son Stück Netz wer goot<lb/>
+				To Strümpe noa de nieste Mod.<lb/>
+				De Köster un de Scholjungs fing<lb/>
+				De Litanei nu an to sing;<lb/>
+				Wie stimmten met in den Gesang,<lb/>
+				De Hunne blafften ok dermank.<lb/>
+				So<lb/>
+				<pb facs="../img/bornemann-1810/0079.jpg"/>
+				— 81 —<lb/>
+				So treden wie denn, Mann an Mann,<lb/>
+				De lange Prozeschon nu an;<lb/>
+				Dåt Drachenbeest in unse Mid,<lb/>
+				Ging et to Dörp nu Schritt vor Schritt.<lb/>
+				Up miene Schündåhl hångt et nu,<lb/>
+				Un wist Du Die met Kind un Fru<lb/>
+				Dåt Unsoal moal bie mie besehn,<lb/>
+				So moak recht bald Die up de Been.<lb/>
+				Der Berliner Weihnachts=Markt<lb/>
+				im Jahr 1806.<lb/>
+				Dát kloje Höhner so to seg'n,<lb/>
+				Met unner ok Windeier leg'n,<lb/>
+				Dåt — nich vör ungoot Herr Pastor —<lb/>
+				Schriew he sick bittchen hinnert Ohr.<lb/>
+				De Schrift kann he Sack ut Sack in,<lb/>
+				Sien Preddigen, mag ok noch sin;<lb/>
+				Doch von den Wiehnachtsmarcht versteit<lb/>
+				He ok, Herr Paster! nich en Deut.<lb/>
+				<pb facs="../img/bornemann-1810/0080.jpg"/>
+				82 —<lb/>
+				Weet he noch wat he to mie sprack,<lb/>
+				As ick met den dree Schäpel Sack<lb/>
+				Vull Hasselnåth kamm angekarrt,<lb/>
+				Un he mie ankeek wie vernarrt?<lb/>
+				As wenn't bie mie nich richtig weer,<lb/>
+				So kam't herruter ungefahr,<lb/>
+				Wenn ick so dåcht dät in Berlin<lb/>
+				En blanker Wiehnachtsmarcht soll sin!<lb/>
+				Ick heb mie nich an åm gekehrt<lb/>
+				Un bin in Gottes Noam kutscheert:<lb/>
+				Wer sin fief Sinn biesammen hölt,<lb/>
+				Fritt alle Doag sick dörch de Welt.<lb/>
+				Et sölln, so dacht ick, in Berlin<lb/>
+				De kloge Lüd, jo Schockwies sin,<lb/>
+				De sülwst in allerlei Gefoahr'n<lb/>
+				Keen Tippel hem vom Kopp verloar'n.<lb/>
+				Weer ock mankher so wat passeert,<lb/>
+				Dåt håͤt sick alles recolgeert;<lb/>
+				Drüm werd, so woahr ick ehrlich bin,<lb/>
+				En Wiehnachtsmarcht noa Noten sin.<lb/>
+				<pb facs="../img/bornemann-1810/0081.jpg"/>
+				83 -<lb/>
+				Stief mütten wie de Ohren holl'n,<lb/>
+				Et is genog jo an uns Oll'n,<lb/>
+				Wenn wie vor Sorg un Noth un Groam,<lb/>
+				To kene frohe Stunn jizt koam’.<lb/>
+				Ach nå! de leewe Kinner söll'n<lb/>
+				Wat uns verstört, nich mit entgell'n,<lb/>
+				Dåt mag in Schoppenstådt so sin,<lb/>
+				Se sind vernünftger in Berlin.<lb/>
+				Is denn von't hillge Wiehnachtsfest<lb/>
+				Nich dåt de Grund un Ursprung west,<lb/>
+				Dät unse Heiland to uns kamm,<lb/>
+				Un allet Unheil von uns namn?<lb/>
+				Dåt he gelehrt: dåt wie up Gott<lb/>
+				Soll'n tru'n in alle Drangsoals Noth?<lb/>
+				Dät oahn sie'n Willen in de Welt,<lb/>
+				Keen Hoar sick krummt, keen Sperling fällt?<lb/>
+				Dåt Gottes Arm de Welt regeert<lb/>
+				Dat Schlimste sülwst, to'm Besten föhrt<lb/>
+				An düssen Trost will'n wie uns Oll'n,<lb/>
+				Recht fest to'r Wiehnachtsfeier holl'n.<lb/>
+				F 2<lb/>
+				<pb facs="../img/bornemann-1810/0082.jpg"/>
+				—<lb/>
+				84 —<lb/>
+				De Kinner mögen frisch drup in<lb/>
+				Trumpeten, knarr’n un lustig sin,<lb/>
+				Et mag Kopp un, Kopp äber goahn,<lb/>
+				So håt jo Paulus ok gedoahn.<lb/>
+				Un kön'n wie't åber uns ertwing'n,<lb/>
+				En Stünnken mit herüm to spring'n,<lb/>
+				To lachen moal, — in Gottes Noam!<lb/>
+				Et werd gewiß uns goot bekoam.<lb/>
+				Un sonnen echt vernünft'gen Sinn<lb/>
+				Fund ick, Herr Paster! in Berlin.<lb/>
+				De Wiehnachtsmarcht steit boar un blank<lb/>
+				De ganze brede Stroat entlang.<lb/>
+				De lange Brügg, was miene Stät',<lb/>
+				Un mienen Sack vull Hasselnäth<lb/>
+				Heb ick noch flinker as verhofft,<lb/>
+				In knap twe Doagen reen verkofft.<lb/>
+				En schönet Geld, versteit he mie,<lb/>
+				Mien Fründ, heb ick verdeent doabie;<lb/>
+				De Minsch müt lewen von Gewinnst,<lb/>
+				Keen Hohn krazt in den Meß ümsünst.<lb/>
+				<pb facs="../img/bornemann-1810/0083.jpg"/>
+				85 —<lb/>
+				Dät letzte Schock verkoft ick just<lb/>
+				As Dag un Nacht sick scheiden mußt;<lb/>
+				Hüm — dacht ick nu in mienen Sinn,<lb/>
+				Wist met de Kinner kindlich sin.<lb/>
+				Un up un doal, recht dick un breet,<lb/>
+				Bin ick den Wiehnachtsmarcht spatzeert;<lb/>
+				Doa ligt ock kene Noadelbüß,<lb/>
+				De nich von mie bedgelt is.<lb/>
+				An ene Bood tratt ick heran,<lb/>
+				Doa huckte up den Disch en Mann,<lb/>
+				Dem ene Art Dokoaten Ding<lb/>
+				Maneerlich ut den Blanken hing.<lb/>
+				„Hier! Köp he!" reep son ollet Fell:<lb/>
+				„Dåt kann ick woll," sprack ick, „Mamsell!<lb/>
+				„Mån, dåt ick't doch besehn erst mütt<lb/>
+				„Denn ick bin nich Hans Tapp in d' Grütt.<lb/>
+				Ick weet — wenn Minschen in de Welt,<lb/>
+				Ok sitten bet tom Hals in't Geld,<lb/>
+				Krigt doch en armer Erdenkloß<lb/>
+				Noch kenen roden Heller los.<lb/>
+				F 3<lb/>
+				<pb facs="../img/bornemann-1810/0084.jpg"/>
+				86 —<lb/>
+				Un richtig is't hier so gewest,<lb/>
+				Denn de Dokoaten satt ganz fest;<lb/>
+				Doa heb ick still mie ümgekehrt,<lb/>
+				Ehr mie dåt Wief håt angeföhrt.<lb/>
+				Nu ging ick dörch de Schostergoat,<lb/>
+				So kamm ick in de Bröderstroat;<lb/>
+				Hier heel'n de Kutschen hoageldick,<lb/>
+				Ick tellte äber twintig Stück.<lb/>
+				En Hus, gewaltig lümmeleert,<lb/>
+				Doa sind se klumpwies rin spatzeert:<lb/>
+				Pots Schlag, wat mütten, feel mie in,<lb/>
+				Vör Bücke doa to melken sin!<lb/>
+				Twee Gröschen Beergeld gaf ick dran,<lb/>
+				Rin was ick as en Eddelmann —<lb/>
+				De Lüd sind höflich unerhört,<lb/>
+				Se hem dåt Beergeld mie quiteert.<lb/>
+				Herr Paster, dåt geit ganz to wiet,<lb/>
+				Wat ener doa vor Wunner süht!<lb/>
+				Doa in de Stub', so woahr as Gott!<lb/>
+				Hem sick de Bull'n herümm gestott.<lb/>
+				<pb facs="../img/bornemann-1810/0085.jpg"/>
+				— 87 —<lb/>
+				Söß Bull'n, un fäftein Mann to Peer,<lb/>
+				Toschauer, wie de Sand am Meer<lb/>
+				Trumpeten, Pauken ok derto<lb/>
+				Dåt wimmelt in dåt Lock mån so.<lb/>
+				Denk he nich, dåt ick åm beleeg<lb/>
+				Un åm den Hals vull Facksen schwdg<lb/>
+				Wo in de Stub' de Platz denn woll<lb/>
+				Vör son Specktoackel herkoam soll?<lb/>
+				Dåt loat he siene Sorg nich sin,<lb/>
+				Se helpen sick schons in Berlin:<lb/>
+				De ganze Trödel was üm't Geld,<lb/>
+				Män pur mit Puppen vörgestellt.<lb/>
+				En Keerdel sprung vdr'n Bullen her,<lb/>
+				Un heel en roden Freesrock vär.<lb/>
+				Dät Stücksken was't, wat unner all'n,<lb/>
+				Mie håt recht höllisch goot gefall'n.<lb/>
+				Denn grimmig, ganz vor blind und dull,<lb/>
+				Stott up den Freesrock los de Bull;<lb/>
+				Natürlich, dåt he los drup geit<lb/>
+				Wo he von Mäkens wittern deit.<lb/>
+				F 4<lb/>
+				<pb facs="../img/bornemann-1810/0086.jpg"/>
+				— 88 —<lb/>
+				As jeder endlich sick denn ganz<lb/>
+				Har satt sehn an den Bullendanz,<lb/>
+				Ging't wädder in de Kuttschen rin,<lb/>
+				Un fick fack leep ick hinner drin.<lb/>
+				In d' sülwge Stroat, tor linken Hand,<lb/>
+				Heel'n de Karreten noch moal Stand,<lb/>
+				De Husdåhr håt mie fast verdutzt,<lb/>
+				So herrlich was se upgeputzt.<lb/>
+				Wat heb ick sehn! — Vör Freud un Schmerz<lb/>
+				Kloppt mie noch jitzt mien branborgsch Herz —<lb/>
+				Schwerin — fällt up de Kriegesboahn —<lb/>
+				Schwerin — im Arm de Siegesfoahn!<lb/>
+				En Herr, hochvornehm, sprack mie an:<lb/>
+				„Wat is äm Voader Buersmann?<lb/>
+				„He suht jo so bekümmert ut —<lb/>
+				„Am dring'n de helle Thränen rut?<lb/>
+				Ick sprack, un schlog åm in de Hand:<lb/>
+				„So fållt en Held vör’t Voaderland!<lb/>
+				„Loat he de Thrånen sick män dreng'n,<lb/>
+				„Wat ick hier föhl — lett sick nich seng'n.<lb/>
+				<pb facs="../img/bornemann-1810/0087.jpg"/>
+				— 89 —<lb/>
+				Mien Herz von Schwermoth to befrien,<lb/>
+				Met frohen Lüden, froh to sin,<lb/>
+				Ging ick flink noa de Stube hen,<lb/>
+				Wo. Olt un Jung rum jacherten.<lb/>
+				Hier fund ick Sachen, goar to roar!<lb/>
+				Doch wiel mie bittchen hellig woar<lb/>
+				So keek ick mån vor erst um her,<lb/>
+				Wo so wat antofrischen weer.<lb/>
+				En Appel, roth, as wie en Kreewt,<lb/>
+				Håt den Aptiet noch mehr beleewt.<lb/>
+				Ick frag: — wat soll de Appel gelln?<lb/>
+				„Twölf Gröschen," — Blitz dåt heet ick prell'n!<lb/>
+				So dacht ick still, un toalte denn<lb/>
+				Dåt schöne Geld geduldig hen.<lb/>
+				Vornehme Lüd beschnüffeln man,<lb/>
+				Wat unser ener doch nich kann.<lb/>
+				As ick den Appel woll vertär'n<lb/>
+				Denk ick, de Schlag mütt mie<lb/>
+				gliek röhr’n!<lb/>
+				Wat dåt ver Schelmerie hier was,<lb/>
+				De ganze Appel — woar von Waß.<lb/>
+				F 5<lb/>
+				<pb facs="../img/bornemann-1810/0088.jpg"/>
+				—<lb/>
+				90 —<lb/>
+				En vullet Schock, heb ick wo oft,<lb/>
+				Noch nich acht Gröschen hoch verkoft: —<lb/>
+				So, leider Gott's! — is't in de Welt,<lb/>
+				De Woahrheit darwt — de Schien håt Geld!<lb/>
+				De Kuttschen rumpelten: -- geschwinn<lb/>
+				Ick hinnerlos, dorch dick un dunn;<lb/>
+				Spandauer Stroat henin links af<lb/>
+				Ging't erst in Schrit un denn in Draf.<lb/>
+				Hier woar 'ne Luftfoahrt vorgestellt,<lb/>
+				Wat deit en Minsch nich all' vor't Geld! -<lb/>
+				Dät wör ick just to lezt anfang'n,<lb/>
+				Mie an, un in de Luft to hang'n.<lb/>
+				Ok sach de Luftpatron mie just<lb/>
+				Nich ut, as har he groote Lust<lb/>
+				En Flüschken Moanschien run to hoal'n,<lb/>
+				Of gliek son Quark sick wör betoal'n.<lb/>
+				Ick glöw dät he de Minschen tell't,<lb/>
+				Un denkt: so vål — so weinig Geld. —<lb/>
+				De Meisten klemm'n dorch goode Frün,<lb/>
+				Sick up den Koaterstieg hennin.<lb/>
+				<pb facs="../img/bornemann-1810/0089.jpg"/>
+				91 —<lb/>
+				Un unner åm, da lag un stund<lb/>
+				Dät Volk ümher so kunterbunt,<lb/>
+				As wenn de Sündflothskasten weer<lb/>
+				Doa ümkabolzt in Krütz un Queer.<lb/>
+				As ick nu miener Wege ging,<lb/>
+				Denn endlich kreg ick satt dät Ding<lb/>
+				Heb ick mie noch en orndlich Beest<lb/>
+				Von Näthknacker, vor't Geld gelöst.<lb/>
+				Den Dickkop heb ick erst belacht,<lb/>
+				Un denn in mienen Sinn gedacht:<lb/>
+				„Mücht jeder doch sien Amt vorstoahn<lb/>
+				„So goot wie du, mien Herzens Soahn!<lb/>
+				„Un doch — wat helpt die alle Möh!<lb/>
+				„Knakst du drup los ok späd' un fröh,<lb/>
+				„Män Schoalen bliewen vor die ling'n,<lb/>
+				„De Kären — werd dien Herr verschling'n."<lb/>
+				Herr Paster! weet he wat ick sprak<lb/>
+				As ick dåt Ding in Bussen stack?<lb/>
+				„Mien Bröderken bist du — kumm mit:<lb/>
+				„Ick knack de Nåth — de Amtmann fritt.<lb/>
+				<pb facs="../img/bornemann-1810/0090.jpg"/>
+				— 92 —<lb/>
+				Noch eens, Herr Paster, saͤll't mie in,<lb/>
+				He meinte doch, dät in Berlin<lb/>
+				Sön höllscher Modder liggen müßt,<lb/>
+				Dät kener dörchtoknågen wüßt.<lb/>
+				Erst frielich, was de Quatsch nich schlecht;<lb/>
+				Denn hät de Stadt sick drin gelegt,<lb/>
+				Un wer keen Fohrwerk wußt to fin'n,<lb/>
+				Droog sienen Klump in't Hus hennin.<lb/>
+				De Stroat, de Börgerstieg entlang,<lb/>
+				Is nu wie afgeläckt, so blank.<lb/>
+				De Reudlichkeit is woll sehr goot,<lb/>
+				Denn Klein un Groot — löpt jizt to Foot.<lb/>
+				<pb facs="../img/bornemann-1810/0091.jpg"/>
+				— 93 —<lb/>
+				.<lb/>
+				Bergmanns Todtenfeier.<lb/>
+				(Im Jahr 1807.)<lb/>
+				(Als unser Bauersmann, nach Inhalt der vorigen Er¬<lb/>
+				zählung, auf dem Weihnachts=Markte seine Nüsse<lb/>
+				verkaufte, ward ihm sein vieljähriger treuer Beglei=<lb/>
+				ter, ein Dachshund, Bergmann genannt, wegge¬<lb/>
+				griffen. Er unterrichtet uns hier, welche Dienste<lb/>
+				dies Hündlein ihm geleistet, und der Herausgeber<lb/>
+				muß bekraͤftigen, daß in diesem Hundelob, weder et¬<lb/>
+				was uͤbertrieben, noch aus dem Winde gegriffen ist.)<lb/>
+				Herzvoader! (wo ick goah un sioah<lb/>
+				Ropt jeder up de Stroat mie noah:)<lb/>
+				„Schön' Dank! vor sien Wiehnachtsgedicht;<lb/>
+				„Håt he den Bergmann wädder krigt?"<lb/>
+				Un knap dät ick bin Rede stoah'n<lb/>
+				Gliek koam'n twee, dree noch an to goah'n,<lb/>
+				Erst fang'n se mit den Tekkel an,<lb/>
+				Un denn muͤtt Krieg un Frieden dran.<lb/>
+				<pb facs="../img/bornemann-1810/0092.jpg"/>
+				94 —<lb/>
+				Ick heb to'm Klatschen nich so Tiet<lb/>
+				Un en vor allmoal segg' ick hüt:<lb/>
+				Mien Hund is pritsch, un damit goot,<lb/>
+				Ick bliew dabie — mien Hund is doot.<lb/>
+				Wer weet, wer schons mit sienen Fett<lb/>
+				Den bloodgen Kopp sick ploastern lett!<lb/>
+				Wenn Bergmann noch an Lewen wer,<lb/>
+				Ach Gott, he weer längst wådder her.<lb/>
+				Denn wo ick gung, denn wo ick stund<lb/>
+				Was Bergmann ok, mien trüer Hund,<lb/>
+				Dorch Strom un See, dorch dick un dunn,<lb/>
+				Wußt he de Spoor von mie to fin'n.<lb/>
+				He stund mie in Gefahren bie,<lb/>
+				Was mie in Glück un Unglück trü:<lb/>
+				Wenn ick düt denk, un um mie seh<lb/>
+				Wåt deit mie denn mien Herz so weh!<lb/>
+				Har miene Fru to'm Waschen Lust,<lb/>
+				Glöwt mie, mien oller Bergmann wußt'<lb/>
+				Up twee dree Doage lang vörher,<lb/>
+				Oft regnen oder schnieen wor.<lb/>
+				<pb facs="../img/bornemann-1810/0093.jpg"/>
+				— 95 —<lb/>
+				As wie vdr'n Joahr von Engeland<lb/>
+				Väl Schiffe ging'n noa'n Nordsee Strand,<lb/>
+				Um in de Buchten an to leng'n,<lb/>
+				Un Krieges Volk an't Land to breng'n.<lb/>
+				Mie'n Bergmann dåh up Dag un Stunn<lb/>
+				Mie kund: „Hüt geit de Flott to Grunn."<lb/>
+				Ach Doage spåder ungefähr,<lb/>
+				Kamm denn de Hiobspost ok her.<lb/>
+				Weer Bergmann mie nich wegstibizt,<lb/>
+				Wie tappten nich in Dustern jizt —<lb/>
+				Wenn ick düt denk, un um mie seh,<lb/>
+				Wat deit mie denn mien Herz so weh!<lb/>
+				Ganz driest kunn ick mit Goot un Geld<lb/>
+				De Kinner schikken äber Feld,<lb/>
+				Denn Bergmann leep up Tritt un Schritt,<lb/>
+				As Schutz un sichrer Fohrer mit.<lb/>
+				Bald was he hinnen, bald voran,<lb/>
+				Un was Gefoahr — he stund as Mann;<lb/>
+				Ehr har he sick daͤt Lewen noam,<lb/>
+				As kinnerlos to Hus to koam.<lb/>
+				<pb facs="../img/bornemann-1810/0094.jpg"/>
+				—<lb/>
+				96 —<lb/>
+				Sprack ick, sien Herr: Bergmann kumm her!<lb/>
+				„Hier, legg die vor de Stuben Där<lb/>
+				„Un bet ick wådder bie die bin,<lb/>
+				„Let'st du nich Fründ noch Fiend hennin:<lb/>
+				Getrost kunn ick denn vorbaß goah'n,<lb/>
+				He bleew up sienen Posten stoah’n.<lb/>
+				Nich Speck, nich Stock, nich Hungersnoth,<lb/>
+				Verdreew åm von mien Haab un Goot.<lb/>
+				So lang noch Oaden in åm was,<lb/>
+				Dåt wußt ick, heel he sienen Paß.<lb/>
+				Wenn ick düt denk un um mie seh —<lb/>
+				Wat deit mie denn mien Herz so weh!<lb/>
+				Oft satt he bie mie up de Bank,<lb/>
+				Un so heb ick woll Stundenlang,<lb/>
+				Wat just passeert was in de Welt,<lb/>
+				Ut de Avisen am vertellt.<lb/>
+				Sprak ick von schlechte Minschen denn,<lb/>
+				De åͤren Herrn beschummelten,<lb/>
+				Un nich wat recht un löwlich dåhn —<lb/>
+				Gliek schlog he gnurrig mit de Tän.<lb/>
+				Doch<lb/>
+				<pb facs="../img/bornemann-1810/0095.jpg"/>
+				97 —<lb/>
+				Doch, was de Red von Ehrlichkeit,<lb/>
+				Von trüen Sinn in Freud un Leid,<lb/>
+				Kamm noch von't Voaderland derto —<lb/>
+				Denn flog åm ok de Schwanz mån so.<lb/>
+				Namm åm en Fremder up den Schoot,<lb/>
+				Dåt leet he sick gefall'n to'r Noth;<lb/>
+				Doch immer was noa mien Gesicht<lb/>
+				Sien Oge stief un fest gericht.<lb/>
+				Kreeg ener wat to Naschen rut,<lb/>
+				Denn gliek was alle Fründschaft ut.<lb/>
+				Wups sprung he run, Schwanz mank de Been,<lb/>
+				Un toog dåt Mul' as woll he ween’n.<lb/>
+				He bill'te sick vermuthlich in,<lb/>
+				Dåk mücht wat von Bestäkung sin:<lb/>
+				Wenn ick düt denk un um mie seh —<lb/>
+				Wat deit mie denn mien Herz so weh!<lb/>
+				Un daͤt versteit von suͤlwst sick schon,<lb/>
+				Dåt he ok siene Profeschon<lb/>
+				Profect as Dackshund ut den Grund<lb/>
+				Jn Bou up Voß un Dacks verstund.<lb/>
+				<pb facs="../img/bornemann-1810/0096.jpg"/>
+				— 98 —<lb/>
+				Sön Dacks bitt frielich mörderlich,<lb/>
+				Doch Bergmann kehrte dran sick nich,<lb/>
+				Un gung åm gliek scharp up de Hut<lb/>
+				Un schlog en ut de Schanzen rut.<lb/>
+				Wer halweeg wat von Jagd versteit,<lb/>
+				Un wat son Dacks sick wehren deit,<lb/>
+				De werd woll weeten, dåt so licht<lb/>
+				Keen Hund åm ut de Röhren krigt.<lb/>
+				Un dåt en oft bet in de Nacht<lb/>
+				Mit Hack un Spoad sick afmaracht,<lb/>
+				Un doch am Enn is alle Kunst<lb/>
+				Un Möh un surer Schweet umsunst.<lb/>
+				Jie seh'n woll, dåt mien seelger Hund<lb/>
+				Sien Amt, un noch wat mehr, verstund:<lb/>
+				Wenn ick düt denk un um mie seh —<lb/>
+				Wat deit mie denn mien Herz so weh!<lb/>
+				Versproaken håt uns' Eddelmann<lb/>
+				Up Ehrenwoort — doa holl ick dran:<lb/>
+				He woll huͤt oder morgen schon<lb/>
+				En aͤnnern Bergmann schaffen dohn.<lb/>
+				<pb facs="../img/bornemann-1810/0097.jpg"/>
+				99 —<lb/>
+				He hät twee Tekkels, Mann un Fru,<lb/>
+				Un werd gewiß to Ostern nu<lb/>
+				De beide Tolen cummendeer'n<lb/>
+				En Jungschen mie to prepareer'n.<lb/>
+				Mie dücht, dåt Ding is mån so so —<lb/>
+				Sünst künn de gnäd’ge Herr mie jo<lb/>
+				Sien Woort recht fix intocasseer'n,<lb/>
+				En ollen Köter gliek verehr'n.<lb/>
+				Dåt ganze Ehrenpand geb ick<lb/>
+				Am denn torugg den Ogenblick.<lb/>
+				Mie — ligt et as en doot Kaptoal;<lb/>
+				He — brukt et däglich twintig moal.<lb/>
+				<pb facs="../img/bornemann-1810/0098.jpg"/>
+				— 100 —<lb/>
+				Die Pichelsdorfsche Insel.<lb/>
+				(May 1807.)<lb/>
+				(Mit fast unübersehbaren Lagen von Floß=Bauhölzern,<lb/>
+				ist der Havelstrom bei Pichelsdorf unweit Spandau<lb/>
+				bedeckt. In der vordern Linie dieser Hölzer, war<lb/>
+				seit langen Zeiten eine Lükke, genau in der Größe<lb/>
+				eines Flosses. Die Stelle selbst wurde für grund¬<lb/>
+				los gehalten, und die Fischer nanuten die Untiefe,<lb/>
+				den Sack.<lb/>
+				Unerwartet fand man eines Tages, im Monat<lb/>
+				May 1807, die Lükke mit Erdreich ausgefüllt. In<lb/>
+				der Nähe von Berlin, und eines bei. schönen Tagen<lb/>
+				so besuchten Ortes, wie Pichelsdorf ist, war dies ein<lb/>
+				unermeßlich merkwüͤrdiges Ereigniß. Alles stromte<lb/>
+				hinaus, die Wunder=Insel zu schauen. Die ehrli¬<lb/>
+				chen Pichelsdorfer konnten nicht Speise, nicht Trank,<lb/>
+				nicht Obdach genug schaffen.<lb/>
+				Zwei Pfähle ragten zwar hoch genug aus dem<lb/>
+				Sande hervor, um Zeugniß zu stellen, daß ein ver¬<lb/>
+				senkt gewesenes Floß, und weiter nichts, aus dem<lb/>
+				Grunde wieder auferstanden sey. Aber, wer solche<lb/>
+				gemeine natuͤrliche Idee haͤtte verfechten wollen, er<lb/>
+				wäre gleich ersäuft worden.<lb/>
+				In gelahrten Dissertationen, zwei mal so lang<lb/>
+				und breit, wie die Insel selbst, suchten die Zeitun¬<lb/>
+				gen zu beweisen: die Insel sey durch unte rdisches<lb/>
+				<pb facs="../img/bornemann-1810/0099.jpg"/>
+				— 101 —<lb/>
+				Feuer entstanden, oder, die Wande des so genaun¬<lb/>
+				ten Sacks, wären bei starker Fluth unter Wasser<lb/>
+				eingestürzt, hätten die Untiefe ausgefüllt, und so<lb/>
+				die mirakelvolle Insel bereitet.<lb/>
+				Wie unser Bauersmann darüber urtheilt, das<lb/>
+				wird aus dem Folgenden sich ergeben.<lb/>
+				Handgriepliche Erklärung,<lb/>
+				up wat vor närrische Oart dät Inselding bie Pichels¬<lb/>
+				dörp tom Vörschien kamm.<lb/>
+				Dis an sief Fingern aftotell'n,<lb/>
+				Wenn uns erst de Gelehrten söll'n<lb/>
+				Moal wat verdütschen, dåt gewiß<lb/>
+				Et denn Mathai am lezten is.<lb/>
+				Se hem en Ding: System - mit Noam;<lb/>
+				Dät klingt ganz vornehm — doch de Kroam<lb/>
+				Süht akkeroat mit Hoar un Hut<lb/>
+				Just as en Schoster=Leesten ut.<lb/>
+				Den Leesten klemm'n se mank de Been,<lb/>
+				Un trecken denn, un terr'n un tehn<lb/>
+				Vor dull un vull so lang drup in,<lb/>
+				Bet alles anpaßt ären Sinn.<lb/>
+				G 3<lb/>
+				<pb facs="../img/bornemann-1810/0100.jpg"/>
+				102 —<lb/>
+				Wiel jeder von gelehrter Welt,<lb/>
+				Apart sick sienen Leesten hölt,<lb/>
+				So mütt de wunnerlichste Kroam<lb/>
+				Woll oft genog to Marcht ok koam.<lb/>
+				Un davon hem wie jizt recht schön<lb/>
+				En meisterlich Exempel sehn:<lb/>
+				Wem fållt hier nich von sülwst mit mie<lb/>
+				De Pichelsdörpsche Insel bie.<lb/>
+				Schons dät was putzig antohdr'n,<lb/>
+				As uns de Zeitung woll belehr'n,<lb/>
+				„De Inselgrund weer quabblich dünn,<lb/>
+				stünn."<lb/>
+				„Un dåt keen Busch, keen Bohm drux<lb/>
+				Mit Gunst, jie Herr'n! driew't keen Gespdtt,<lb/>
+				Glöwt nich, wie hem'n vor'n Kopp en Brett,<lb/>
+				Un denken, unnert Woater weer'n<lb/>
+				Kartuffeln ok, un Plum'n un Beer’n.<lb/>
+				De Inselgrund werd Modder sin,<lb/>
+				Un mütt woll quabbeln, is he dünn,<lb/>
+				Doch dåt drüm alles Modder is<lb/>
+				Wat quabbelt — is just nich gewiß.<lb/>
+				<pb facs="../img/bornemann-1810/0101.jpg"/>
+				— 103 —<lb/>
+				Den Tappen merk en jeder sich:<lb/>
+				Goot sin wie woll, dumm sin wie nich;<lb/>
+				Wie glöben, wenn de Lüd vertell'n,<lb/>
+				Mån wat wie will’n, nich wat wie sdll’n.<lb/>
+				Doch håt de Insel Geld mitbracht —<lb/>
+				De Pichelsdörpsche Kröger lacht<lb/>
+				Recht kobboldsmäßig in de Fust,<lb/>
+				Dåt he oft wie en Koater prust.<lb/>
+				Veer Gröschen — gult de Pulle Beer!<lb/>
+				Un doch — wenn åm de Hoavel weer<lb/>
+				Tor Hand nich west mit goden Roath<lb/>
+				Verddr'st weer alles oahne Gnoad. -<lb/>
+				Wenn jizt de Kröger Obends spåd<lb/>
+				In't Bett sick leg't, is sien Gebet:<lb/>
+				„Ach lewer Gott, hör dienen Knecht!<lb/>
+				„Moak frische Inseln bald to recht!<lb/>
+				Düt nebenbie. De Huptsach weer:<lb/>
+				Wo kummt mit ens de Insel her?<lb/>
+				Na, moal de Ohren wat gespizt,<lb/>
+				Ick will dåt Ding dollmetschen jizt.<lb/>
+				G 4<lb/>
+				<pb facs="../img/bornemann-1810/0102.jpg"/>
+				104 —<lb/>
+				Twee Herr'n hem schons bohmdick gelehrt,<lb/>
+				Uns åren Leesten dran probeert,<lb/>
+				Un mäncher sinnt noch up Bescheid —<lb/>
+				Indeß de Insel — fleuten geit.<lb/>
+				Lang rüm to grübeln — nischt to dohn -<lb/>
+				Is unse leidge Schländerjoahn!<lb/>
+				Un wat fix as en Pilz entsteit,<lb/>
+				Merkt ju — is nich von Ewigkeit.<lb/>
+				De Ene sprickt: — „Im Sack was Fü'r,<lb/>
+				„Allso entstund de Insel hier;"<lb/>
+				Un stippt in koamig suren Witz<lb/>
+				Noch Friedrichs heilge Degenspitz!<lb/>
+				De Anner meint: „So nich, gewt paß,<lb/>
+				„De Sack feel in — un fertig was<lb/>
+				„De Insel nu." — Gott holl'n gesund!<lb/>
+				Wat fållt, fällt sünst doch in — den Grund.<lb/>
+				Mån dåt vål Geld schons word verteert,<lb/>
+				Sünst weer de ganze Quark nich werth<lb/>
+				Dåt sick en Minsch den Kopp drum brickt,<lb/>
+				Un jizt von sonnen Båddel sprickt.<lb/>
+				<pb facs="../img/bornemann-1810/0103.jpg"/>
+				— 105 —<lb/>
+				Denn weer't en halweeg Inselland<lb/>
+				So heel ickt boar vör Unverstand<lb/>
+				Davon to seg'n in jitz'ger Tiet,<lb/>
+				T'is Krieg — de Koaper sind nich wiet.<lb/>
+				Ok is de Pracher — Gott sie Dank!<lb/>
+				Noch nich moal half so breet un lang,<lb/>
+				As wat det lewe Zeitungsblatt<lb/>
+				Doavon schons utgetrummelt hat.<lb/>
+				Sack, — heet dåt Lock: paßt up! denn nu<lb/>
+				Will ick dåt Råthsel lösen ju;<lb/>
+				Begriepen söll'n jie't kloar un hell,<lb/>
+				Hier is nich Hexerie in't Spöll.<lb/>
+				En Schelm von Schiffer håt den Sack<lb/>
+				Lezt ümgestölpt - ut Schoabernack.<lb/>
+				Dät ünnerst - steit nu boaben rut<lb/>
+				Un süht as wie 'ne Insel ut. —<lb/>
+				G 5<lb/>
+				<pb facs="../img/bornemann-1810/0104.jpg"/>
+				— 106 —<lb/>
+				Der Comeet 1808.<lb/>
+				Gründliche Utleggung<lb/>
+				von den Kummeten up Oart de Pichelsdörpsche Insel.<lb/>
+				Vorgoahn is bald en vullet Joahr<lb/>
+				As de Kummeet am Himmel woar:<lb/>
+				Mit ens kell'n se von Rußland her<lb/>
+				Den ollen Brei noch moal uns vor.<lb/>
+				Ha ha! dacht ick: — goot Ding håt Tiet!<lb/>
+				De Russen werden nu woll huͤt<lb/>
+				Noa åre Oart, gerecht un streng,<lb/>
+				De Sachen kloar upt reine breng.<lb/>
+				Vör all'n, was't mie doarum to dohn,<lb/>
+				Wat son langstertiger Patron<lb/>
+				Hier will? — worüm, knapp angekehrt,<lb/>
+				He gliek ok wådder afmarscheert?<lb/>
+				Dåt son Kummeet keen Lump nich is,<lb/>
+				So vål, ducht mie, weer woll gewiß;<lb/>
+				Umsunst deit he doch nimmermehr<lb/>
+				Den heillos langen Marsch hierher.<lb/>
+				<pb facs="../img/bornemann-1810/0105.jpg"/>
+				107 —<lb/>
+				Geld to verbreng'n — un to'm Plessier<lb/>
+				Goahn oft de Lüd up Reisen hier:-<lb/>
+				Doch son Kummeet mucht woll hierin<lb/>
+				En bittchen oltverstaͤndger sin.<lb/>
+				Vielicht — mit sienen Füerschwanz<lb/>
+				Sall he uns an den Hollendanz,<lb/>
+				En gooder Christ — getrü vermoah'n<lb/>
+				Von bösen Wandel aftostoah'n.<lb/>
+				Recht schön! —<lb/>
+				wenn maͤn mit gooder Lehr<lb/>
+				Jizt ichts wat uttorichten weer!<lb/>
+				De meiste Minsch lett to'm Bekehr'n<lb/>
+				Sick pur maͤn mit proforsch regeer'n.<lb/>
+				In Gooden werden goode Ding<lb/>
+				Mån schlecht un kummerlich geling:<lb/>
+				Proforsch: dåt is de beste Wies —<lb/>
+				Denn kummt de Sach gliek in't Gelies.<lb/>
+				Dåͤt son Kummeet den Krieg mitbrengt,<lb/>
+				De Gloob håt sick jizt sülwst verdrengt:<lb/>
+				Denn as he kamm — was aller Welt<lb/>
+				Schons heilger Frieden hergestellt.<lb/>
+				<pb facs="../img/bornemann-1810/0106.jpg"/>
+				108 —<lb/>
+				He müßt' denn noch son'n kleinen Rest<lb/>
+				Von Krieg un Hungersnoth un Pest<lb/>
+				In Petto hem — vör künftge Tiek —<lb/>
+				Sünst jizt is pure Freud un Fried!<lb/>
+				Nu will'n wie mit Bedacht moal hör'n,<lb/>
+				Wat uns de Russen doavon lehr'n:<lb/>
+				Keen Woort werd von Bekehr'n gesegt,<lb/>
+				Noch up den Krieg wat utgelegt.<lb/>
+				Se seg'n: — „Söß Dusend Million<lb/>
+				„Von Mielen woahnt de Schwanz Patron<lb/>
+				„Af von de Sunn: — en Himmelsstrich<lb/>
+				„Wo't kolt is, mehr as mörderlich."<lb/>
+				„Wenn endlich vor de glupsche Küll<lb/>
+				„Keen Footsack, Pelz, mehr helpen will,<lb/>
+				„Denn kummt he to uns, sien Gedärm<lb/>
+				„Moal an de Sunn — wat uttowärm'."<lb/>
+				„To'r Reis' brukt he Twee Dusend Joahr."<lb/>
+				Mie dücht dåt Ding is nich recht kloar<lb/>
+				So dämlich is woll keen Kummeet,<lb/>
+				Dåt he von Fü'r un Schnaps nischt weet.<lb/>
+				<pb facs="../img/bornemann-1810/0107.jpg"/>
+				109 —<lb/>
+				Just wo mie früst — wärm ik mie ok:<lb/>
+				I, son Kummeet weer rein nich klook,<lb/>
+				Wenn he, en Muul vull Wårm to hoal'n,<lb/>
+				Twee Dusend Joahr woll rüm karjoaln!<lb/>
+				Froagt nich so dumm:<lb/>
+				„of fon Kummeet<lb/>
+				„Ok Schnaps un Kacheloawens hät?"<lb/>
+				De güldne Kugel, wenn't mankeert,<lb/>
+				Har längst åm beedes henspedeert.<lb/>
+				Un woll he sick utwårmen går’n —<lb/>
+				Denn mag moal ener mie erklär'n,<lb/>
+				Dåt he noa Aferka nich ging,<lb/>
+				Un en half Joahr bie Rußland hing? -<lb/>
+				Dät süht sick an fief Fingern in<lb/>
+				Doarin is keen Verstand keen Sinn;<lb/>
+				Genoog — de Ruß håt uns den Disch<lb/>
+				Hier regeleert mit fuule Fisch.<lb/>
+				Nu söll'n jie miene Meinung hör'n:<lb/>
+				Wer't båter weet — mag driest korjeern,<lb/>
+				Bie goode Lehr un gooden Roath<lb/>
+				Bin ick mien Doag nich obsternoat.<lb/>
+				<pb facs="../img/bornemann-1810/0108.jpg"/>
+				110 —<lb/>
+				De Stären, de in Oabendstun'n<lb/>
+				Am Himmel stoahn, sind luter Sunn'n;<lb/>
+				Un jeder Står'n håt, wie de Sunn,<lb/>
+				Planeten um sick in de Runn.<lb/>
+				Wat Kön'ge sind un Kaiser hier,<lb/>
+				Is jeder Stär'n in sien Revier;<lb/>
+				War Kammerherr — hier bie uns heet —<lb/>
+				Dät ungefähr — is son Kummeet.<lb/>
+				Will nu mit unse Sunn en Stär'n<lb/>
+				Moal düt un dåt afkoatern går'n:<lb/>
+				So röpt he son'n Kummeeten her<lb/>
+				Un schickt en hen as Bassaddr.<lb/>
+				To'm Biespöll: wenn moal sönne Sunn<lb/>
+				Is von en kleinen Prinz entbunn'n,<lb/>
+				Un se sick dåt denn annozeer'n<lb/>
+				Un to Gewadder inveteern.<lb/>
+				Un son Kummeet, so lang he kann,<lb/>
+				Treckt denn en heillos Schlåpkleed an,<lb/>
+				Dåt starrt von Gold un Demant ganz<lb/>
+				Un stroahlt von wieden — as en Schwanz.<lb/>
+				<pb facs="../img/bornemann-1810/0109.jpg"/>
+				— 111 —<lb/>
+				Das Conzert zu Groß=Schöͤppenstädt.<lb/>
+				En Buersmann sall frielich sich<lb/>
+				Um hoge Ding bekümmern nich:<lb/>
+				En Sprichwoort is't von ewig west:<lb/>
+				Holl Schooster dienen Leesten fest!<lb/>
+				Mit unner kummt et doch woll vor,<lb/>
+				Dåt ok en Buersmann mankher,<lb/>
+				En bittchen ruͤm spiegneren deit,<lb/>
+				Wat in de groote Welt vorgeit.<lb/>
+				Dät is ok miene Pascheon,<lb/>
+				Un unrecht håͤt mien Voader doahn,<lb/>
+				Dåt he mie nich up Unversteet<lb/>
+				En Fluͤschken afstuderen leet.<lb/>
+				I Bliz — wenn ick mien Sach verstunn<lb/>
+				Un't Evangelgum pred'gen künn:<lb/>
+				Ick woll de Minschen schons bekehr'n<lb/>
+				Un Rechts un Links handgrieplich lehr'n.<lb/>
+				<pb facs="../img/bornemann-1810/0110.jpg"/>
+				— 112 —<lb/>
+				Dåt is vorbie — doamit genog.<lb/>
+				Mien Amt is hinner Peer un Plog:<lb/>
+				Doch, wo ick hör von Wunnerding'n,<lb/>
+				Doa mütt ick hen — ick kann't nich twing'n.<lb/>
+				Moal Söndoags noa de Stadt to tehn,<lb/>
+				Un de Kummedige to sehn-<lb/>
+				Har ick all längst mie vorgenoah'm<lb/>
+				Groot=Schöppstådt — heet de Stadt mit Noam.<lb/>
+				An't Roathhus, midden in de Stadt,<lb/>
+				Doa hung't vull Zeddels, Blatt an Blatt,<lb/>
+				Ick las den ersten gliek doavon —<lb/>
+				Dät was 'ne Galgen Auctschion.<lb/>
+				Dåͤt is dumm Tug, sprack ick vor mie:<lb/>
+				De Boͤrgermeister stund derbie,<lb/>
+				Un reep: — „he merkt mån nich den Pfiff,<lb/>
+				De Auctschion — is mit 'en Kniff."<lb/>
+				„En Dewsgesindel is hier jizt,<lb/>
+				„Wat uns de Hoar von'n Kopp stibizt;<lb/>
+				„Sön Schelmtüg listig intofang'n,<lb/>
+				„Hem wie den Zeddel utgehang'n.<lb/>
+				„Wer<lb/>
+				<pb facs="../img/bornemann-1810/0111.jpg"/>
+				—<lb/>
+				113 —<lb/>
+				„Wer ehrlich is in sien Gemüth<lb/>
+				„De freut sick, wenn he'n Galgen süht.<lb/>
+				„En Spitzbob äber wünscht nischt mehr<lb/>
+				„As dåt keen Rad, keen Galgen weer."<lb/>
+				„Wer nu den Galgen köft — dåt is<lb/>
+				„En Spitzbob — utgemoakt gewiß.<lb/>
+				„Na — Landsmann! merkt he nu den Kniff?<lb/>
+				„Bie uns geit alles mit 'en Pfiff."<lb/>
+				Dicht an den Galgenzeddel satt<lb/>
+				Dät lustige Kummed'gen Blatt.<lb/>
+				Se hem den Dag justment gespålt,<lb/>
+				Wie Hardelkin kummt up de Welt.<lb/>
+				Sön Stück is nich na mienen Sinn:<lb/>
+				Hansworst — up hochdütsch: Hardelkin,<lb/>
+				Is en Hansnarr: Hansnarren kann<lb/>
+				Ick seh'n bie Bu'r un Eddelmann.<lb/>
+				Et werd in de Kummedge goahn,<lb/>
+				Wie aller Weeg' de Sachen stoahn:<lb/>
+				Vör Ehrboarkeit werd nischt gerekt,<lb/>
+				En Narr finn't immer'n Disch gedeckt.<lb/>
+				<pb facs="../img/bornemann-1810/0112.jpg"/>
+				— 114 —<lb/>
+				En dridder Zeddel angeschloan,<lb/>
+				Håt en Kunzert to kund gedoahn.<lb/>
+				Kunzert — dåt mag wat Roares sin!<lb/>
+				Un vor veer Gröschen leep ick rin.<lb/>
+				Blitz, Hoagel, Dunner, Flikkerment!<lb/>
+				Dåt Geld was moal goot angewennt!<lb/>
+				Ick hew Plesseer gehat vullup<lb/>
+				Un kreeg noch Prügel boaben drup.<lb/>
+				Dåt Fruenvolk, was ganz verblixt<lb/>
+				Von Kopp to Föten up gewixt;<lb/>
+				Verblinnt sind mie de Ogen schier<lb/>
+				Sön Klunker=Flunkern was et hier.<lb/>
+				Dät Mannsvolk stund met grooten Stoat<lb/>
+				Rings an de Wand herrüm Paroad -<lb/>
+				De hem de Mäkens schön beschwögt,<lb/>
+				Un dorch dat Spervectiv beögt.<lb/>
+				De Musekanten kemen jizt<lb/>
+				Dehls angeschlampt, dehls angeflizt;<lb/>
+				Sien Insterment en jeder namm<lb/>
+				Un stimmte los, so wie he kamm.<lb/>
+				<pb facs="../img/bornemann-1810/0113.jpg"/>
+				115 —<lb/>
+				Dåt Stimmen von de Viegelien<lb/>
+				Is pudelnärrisch an to siehn.<lb/>
+				Se kniepen se vor dull in't Ohr,<lb/>
+				Un kratzen höllisch up de Schnoor.<lb/>
+				Besunners ganz unbändig was<lb/>
+				Un obsternoat, de Kunterbaß.<lb/>
+				Dät kunn von alle Viegelien<lb/>
+				Mit Recht de Urgrootmutter sin.<lb/>
+				Ok was de Keerdel de mit år<lb/>
+				Sick afgaf, hackschig as en Bär.<lb/>
+				He tog so goar erst Häͤnschen an!<lb/>
+				Wer weet, of't Beest nich bieten kann!<lb/>
+				Hoch schnaͤdderdenkte de Trumpeet;<lb/>
+				De Pauken rumpelten so sot;<lb/>
+				Ok granzte Broder Kort un Lang,<lb/>
+				Ick meine de Posaun mit mank.<lb/>
+				Fleudusen, Paßpijes — genog<lb/>
+				Wo hen ick måͤn dåͤt Oge schlog<lb/>
+				Doa hem de Spaͤllud unverwenn't<lb/>
+				Sick anprobeert — en Insterment.<lb/>
+				H 2<lb/>
+				<pb facs="../img/bornemann-1810/0114.jpg"/>
+				- 116 -<lb/>
+				Met ens was't still — frisch ging't nu los.<lb/>
+				To erst de Trumpeet höllisch blos,<lb/>
+				Denn keem'n de ånnern ok derto,<lb/>
+				Dåt gaf en Lårm up Mordio.<lb/>
+				Dåt Stück was woll so wiet recht schön,<lb/>
+				Doch woar keen Enn dran aftosehn.<lb/>
+				Heel'n se moal in, so was't män just,<lb/>
+				Dåͤt se sick bittchen hem verpust.<lb/>
+				Jizt trat en Mann hen ganz alleen,<lb/>
+				De namm sien Spålding mank de Been.<lb/>
+				Ick wedde drup, dåt Spålding was<lb/>
+				En Jung'schet, von Vieglien un Baß.<lb/>
+				Half grof, half fien, haͤt dat geklingt,<lb/>
+				Wie son halfwaßner Bengel singt,<lb/>
+				Dem't ok im Hals deit åberschloan,<lb/>
+				Wenn åm de Boarth fångt an to stoah'n.<lb/>
+				Nu håt ’ne blinkernde Madoam<lb/>
+				Un ok en Herr de Noten noahm<lb/>
+				Se moakt en Knix, he'n Servetdr,<lb/>
+				Un doamit grölten se wat her.<lb/>
+				<pb facs="../img/bornemann-1810/0115.jpg"/>
+				— 117 —<lb/>
+				Gesichter schneden se dabie,<lb/>
+				Ganz wibbel wabbelig word mie:<lb/>
+				Bald schwunkten se, bald stun'n se stief,<lb/>
+				Als har'n se Kniepen in dät Lief.<lb/>
+				So oft se in de Höge steg'n<lb/>
+				Un in den Hals dåt Kollern kreg'n,<lb/>
+				Sach ick den Moag'n sich orndlich hew'n,<lb/>
+				As woll'n se beid sick åbergew'n.<lb/>
+				Of se duͤtsch oder unduͤtsch sung'n —<lb/>
+				Dåt weet ick nich: — doch håt et klung'n<lb/>
+				As wenn't mankher wat duͤtsches weer,<lb/>
+				„Herr Jemine!" kamm oft drin vor.<lb/>
+				Nu word ok en Sermon geholl'n<lb/>
+				Von König, Krieg, Salloat un Boll'n:<lb/>
+				Dåt Woater leep uns run von't Bast,<lb/>
+				Nich Thrånen — nå de Angstschweet was’t.<lb/>
+				Un mit en ganz politschen Noam<lb/>
+				Mit lyrisch, nomen se den Kroam:<lb/>
+				Up hochdütsch heet dåt ganz gewiß,<lb/>
+				Wat plattdütsch: lirum loarum is.<lb/>
+				H 3<lb/>
+				<pb facs="../img/bornemann-1810/0116.jpg"/>
+				118 —<lb/>
+				Noch mäncher leet sien Kunststück hör'n,<lb/>
+				Von all'n kann ick nich Rede föhr'n.<lb/>
+				Doch wie't is immer Bru'k gewest<lb/>
+				So kamm ok hier to lezt dåt Best.<lb/>
+				Dät was de Kanter. Sien Gesicht<lb/>
+				Woar schier mit Kupper ut gepicht.<lb/>
+				He stund gravtåtisch up von'n Stohl,<lb/>
+				Mit åm, de ganze groote School.<lb/>
+				As he mit beiden Füsten sick<lb/>
+				Har scheef gerückt, de Stutzperruͤck,<lb/>
+				Doa lå he los — Herr Gott dåt was,<lb/>
+				Doch ganz wat Ossiges von Baß!<lb/>
+				De Fenstern hem gebew’t, geklung'n,<lb/>
+				So mörderlich håt he gesung'n.<lb/>
+				He fuchtelte dabie ümher,<lb/>
+				As wenn he dull und roasend weer.<lb/>
+				Oft schlog he in den Hals en Rad,<lb/>
+				Denn hupst am up den Kopp de Klatt.<lb/>
+				Ganz queer kunn he dåt Muul verteh'n,<lb/>
+				Ick hew mien Doag so wat nich sehn.<lb/>
+				<pb facs="../img/bornemann-1810/0117.jpg"/>
+				— 119 — .<lb/>
+				De Schooljungs mußten groot un klein<lb/>
+				Towielen all to hoop mit schrein;<lb/>
+				Un hew ick't recht verstoahn — dåt was<lb/>
+				Diskant un Alt, Tenor un Baß.<lb/>
+				Besunners håͤt mie ganz schermant<lb/>
+				Gefall'n, de juchende Diskant:<lb/>
+				Un krieschten se ut vuller Macht,<lb/>
+				So klungt, as wör en Schwien geschlacht.<lb/>
+				Ganz ehrboar geit un dusemang<lb/>
+				De oltverständ’ge Altgesang.<lb/>
+				Sön Alt håt groote Aehnlichkeit<lb/>
+				As wenn to Nachts de Uhl rüm schreit.<lb/>
+				Wer den Tenor sick utgesun'n<lb/>
+				Håt ok dåt Pulver nicht erfunn'n;<lb/>
+				Dåt is nich ganz, dåt is nich half,<lb/>
+				I sonne Stimm håt jedet Kalf.<lb/>
+				Doa röhm' ick mie den flämschen Baß —<lb/>
+				Wat dåt vör'n Knaller Ballern was!<lb/>
+				Se hem de Rachens up geklöwt,<lb/>
+				Dåt mie de Kopp was ganz verddwt.<lb/>
+				H 4<lb/>
+				<pb facs="../img/bornemann-1810/0118.jpg"/>
+				— 120 —<lb/>
+				Ok en Diskant mußt Solo sing'n,<lb/>
+				Doch woll dät Stück nich recht geling'n —<lb/>
+				Doa gaft ’ne Quabbe up de Schnuut<lb/>
+				Gliek leep de rode Supp herut.<lb/>
+				De Quabbe kam hier goot to Paß,<lb/>
+				Denn wiel dät Stück herzbräkend was,<lb/>
+				So namm sick ok de blodge Schnuut<lb/>
+				Un dät Gehühl — recht röhrend ut.<lb/>
+				Ehr alles is noa Huus gepatscht,<lb/>
+				Word noch ganz lästerlich geklatscht.<lb/>
+				En Flapps von Jungens Bengel woar<lb/>
+				Vör allen drin de Mattedoar.<lb/>
+				Mien Noaber sprack to mie ganz sacht:<lb/>
+				„Kiek, woat de Jung sick afmaracht!<lb/>
+				„Vör’n Friebilljet paukt sick son Hecht<lb/>
+				„Dåt Fell af, as en Gärberknecht."<lb/>
+				As ick den Jung hew recht besehn,<lb/>
+				Doa glinzten åm von't Näsenbeen<lb/>
+				Twee groote Brillen Fenstern her,<lb/>
+				As wenn he'n blinner Hesse weer.<lb/>
+				<pb facs="../img/bornemann-1810/0119.jpg"/>
+				121 —<lb/>
+				Mien Noaber sä: „Dåt is 'ne Ploag,<lb/>
+				„Wie'n Lux, sach he noch vor acht Doag;<lb/>
+				„Derwiel håt he so vål gelehrt,<lb/>
+				„Dåt beide Og'n sind afstudeert."<lb/>
+				„Stellt ok en Esel noch so dicht<lb/>
+				„Un breet sick hen vor sien Gesicht,<lb/>
+				„Un stött he mit de Nåse dran —<lb/>
+				„He süht 'en vor 'ne Semmel an.<lb/>
+				Denn deit de junge Minsch ganz recht"<lb/>
+				Sprack ick — „dåt he 'ne Brille drögt!<lb/>
+				„He wdr jo aller Weeg anrdnn’n,<lb/>
+				„Künn he de Esels nich erkenn'n.<lb/>
+				Sall ick nu seg'n, wat vor mien Dehl<lb/>
+				Am allerbesten mie gefeel?<lb/>
+				Dät Stimmen was't —<lb/>
+				dåt let so schön,<lb/>
+				Un schnarrt un schrammt dorch Mark un Been.<lb/>
+				Doa sind de Meisters gliek to kenn'n,<lb/>
+				Denn wer recht weet up't Spoll to ronn'n,<lb/>
+				De moakt, dåt könn jie glöben mie,<lb/>
+				Verfluchte Kaperjoln derbie.<lb/>
+				H 5<lb/>
+				<pb facs="../img/bornemann-1810/0120.jpg"/>
+				— 122 —<lb/>
+				De Spållüd hem ok sülwst vor all'n<lb/>
+				An't Stimmen grooten Wollgefall'n.<lb/>
+				Denn wo män ichts was Platz to sin'n,<lb/>
+				Doa kratzten se frisch twischen drin.<lb/>
+				Doch wat mie ewig Wunner nimmt!<lb/>
+				De Schooljungs hem nich mit gestimmt;<lb/>
+				Ach! bolkten de halweeg mit in,<lb/>
+				Dåt müßt' en Lårm tom Umfalln sin.<lb/>
+				As alles nu to Enne was,<lb/>
+				Da socht sick jeder sienen Paß.<lb/>
+				Groad äber woar en Brännwiens Schank,<lb/>
+				Doahen regeert ick mienen Gang.<lb/>
+				Ick leet mie geben en half Pund,<lb/>
+				Un eh'r ickt mie versach, doa fund<lb/>
+				Sick hier tosammen klipp un kloar<lb/>
+				De ganze Musekanken Schoar.<lb/>
+				De woaren dörst'ger noch as ick,<lb/>
+				Jn Umsehn, alle Ogenblick<lb/>
+				Mit enen Zug, leep son half Pund<lb/>
+				Wie Botter dorch den droͤgen Schlund.<lb/>
+				<pb facs="../img/bornemann-1810/0121.jpg"/>
+				123 —<lb/>
+				Vdr allen soopen de von'n Baß —<lb/>
+				Bald Beer, bald Brännwien — wat et was.<lb/>
+				Dät Volk håt Moagens as en Sack,<lb/>
+				Un doabie schmökten se Toback.<lb/>
+				De Kannter kunn sick goar nich still'n<lb/>
+				Den Dörst — un immer was sien brüll'n:<lb/>
+				De rechte kuntra Bärenbaß<lb/>
+				Kümmt ut dät Beer un Brännwiensglas.<lb/>
+				Drinkt ener to vål Spiritus,<lb/>
+				So werd to lezt de Kamm åm krus.<lb/>
+				Fix is de Soatan hinnerdran<lb/>
+				Un fängt Krakehl un Unfreed an.<lb/>
+				So gung't ok hier. — In glupschen Zank<lb/>
+				Stund Kanter un Diskant jizt blank.<lb/>
+				De Kanter soll to Rede stoahn,<lb/>
+				Worum he am upt Muul geschloan.<lb/>
+				De Kanter bruͤllte: „Jung, doa stund<lb/>
+				„En cis, un du sungst ce, du Hund!<lb/>
+				„Nå!" brüll'n de Aennern, „he sung recht,<lb/>
+				„De Musekanten spälten schlecht."<lb/>
+				<pb facs="../img/bornemann-1810/0122.jpg"/>
+				—<lb/>
+				124 —<lb/>
+				Son'n ehrenschänderigen Bloam<lb/>
+				Hem de Mus'kanten åbel noahm; —<lb/>
+				Hier flog en Schaͤmelbeen, en Kroos:<lb/>
+				Genog — de Båddeldanz gung los.<lb/>
+				De Viegelien Grootmutter flog<lb/>
+				Hoch in de Luft — un wo se schlog,<lb/>
+				Doa feel'n se klumpwies an de Eer,<lb/>
+				As wie de Padden rund umher.<lb/>
+				Ick sülwst kreeg up den Bråm en Schlag<lb/>
+				Dåt ick acht Doag vor doot weg lag.<lb/>
+				Se hem sick all' to Schann geschloan —<lb/>
+				So is dåt Ding to Enn gegoahn.<lb/>
+				Wel.<lb/>
+				<pb facs="../img/bornemann-1810/0123.jpg"/>
+				— 125 —<lb/>
+				Weltmoral.<lb/>
+				....<lb/>
+				Du bist nu fäftein Joahr mien Soahn,<lb/>
+				Du sast jizt in de Welt utgoahn,<lb/>
+				Un ick will die mit goode Lehren<lb/>
+				To dienen Marsch huͤt utstaffeeren.<lb/>
+				Dat erst' un lezte in de Welt,<lb/>
+				Mien Soahn! dåt is dåt blanke Geld.<lb/>
+				Dät Geld in Büdel mütt nich fehlen,<lb/>
+				Un sast du't ok vom Altoar stehlen.<lb/>
+				Up Geld vor allen stell den Sinn:<lb/>
+				Håst du’t mån erst in Büdel rin<lb/>
+				Un kannst mit Doalers uͤm die schmieten —<lb/>
+				Denn werd, as Schelm, die keener bieten.<lb/>
+				Geld gift Respect. En Hundsfott werd<lb/>
+				To'm Ehrenmann, vor Geldeswerth.<lb/>
+				Wat son Poar hunnert Vösse trekken,<lb/>
+				Mien Soahn, dåt is nich ut to språken.<lb/>
+				<pb facs="../img/bornemann-1810/0124.jpg"/>
+				126 —<lb/>
+				Wo düchtger Schmu to moaken is,<lb/>
+				Doa bloas' gliek in de rechte Büß;<lb/>
+				Dät kleine Volk müt schons pareren,<lb/>
+				De kannst du an Packdell trakteren.<lb/>
+				As rieker Mann müst du denn schon<lb/>
+				Vor Armen ok mankher wat dohn;<lb/>
+				Doch wat du deist, doh mit Spetoakeln,<lb/>
+				Keen Hohn legt oahne Lårm un Koakeln.<lb/>
+				Sast du in Landes Noth un Storm<lb/>
+				Wat oppern — krümm die as en Worm.<lb/>
+				Sök jeden Drieer aftoprachern,<lb/>
+				...-.<lb/>
+				*<lb/>
+				Un is et möglich — noch to schachern.<lb/>
+				Un wenn denn ok de ganze Welt<lb/>
+				Die vor den schlechsten Keerdel hält,<lb/>
+				Blift mån dåt Geld in dienem Ranzen<lb/>
+				Denn kanst du piepen — söll'n se danzen.<lb/>
+				Werd Voaderland un König wo<lb/>
+				Beschummelt — frisch griep ok mit to;<lb/>
+				Denn schleist du Lårm, kümmst du to Schoaden,<lb/>
+				Un muͤst am Enn dat Bad utboaden.<lb/>
+				<pb facs="../img/bornemann-1810/0125.jpg"/>
+				— 127 —<lb/>
+				Ok Höflichkeit, mien Soahn, lett nich<lb/>
+				Wer't recht versteit, ar'n Mann in Stich:<lb/>
+				Drüm mütt keen Kratzfoot die verdreten,<lb/>
+				Legg as en Hund die gliek to Foten,<lb/>
+				Wer arm is, oder, wo de Lud<lb/>
+				Keen Herz nich hem to Zank un Striet:<lb/>
+				Doa brukst du nich den Filz to röhren,<lb/>
+				Un twingst et baͤter mit pramperen.<lb/>
+				Mit Pfiff un List, werd doch en Hoas<lb/>
+				So flink he is, den Voß tom Froaß.<lb/>
+				Wat nich groad ut steit to erwischen,<lb/>
+				Dåt sök krum um, klook wegtofischen.<lb/>
+				Sprick immer so mien Herzens Soahn,<lb/>
+				Dåt Joa un Nee, sick lett verstoahn;<lb/>
+				Un ständig mütt ut diene Mienen,<lb/>
+				De fruͤndlich sotste Demoth grienen.<lb/>
+				Bie Woahrheit spinnt sick kene Sied:<lb/>
+				Den Voßschwanz striek to rechter Tied:<lb/>
+				De Minschen mågen goar to gåren<lb/>
+				Mit Honnig Lowf den Hals sick schmären.<lb/>
+				I 2<lb/>
+				<pb facs="../img/bornemann-1810/0126.jpg"/>
+				— 128 —<lb/>
+				Nich wat du denkst, nå, wat de Lüd<lb/>
+				Gefållt, dåt is de Unnerschied.<lb/>
+				Mån to gefallen müst du denken,<lb/>
+				Un drup de Redensoarten lenken.<lb/>
+				Loat die upwikkeln as en Darm;<lb/>
+				Loop immer mit den dicksten Schwarm;<lb/>
+				Sök Klein un Groot die antoknöpen<lb/>
+				Un tom Balberen intoseepen.<lb/>
+				4<lb/>
+				En blöder Hund werd selten fett:<lb/>
+				Drüm, wo sick ichts wat broodern lett,<lb/>
+				Doa loat nich af, denn endlich müdden<lb/>
+				Se die vor Angst den Hals vull schüͤdden.<lb/>
+				Nischt mütt, wat irgends brengt Gewinn,<lb/>
+				To schlecht, to nädderträchtig sin:<lb/>
+				Kann die en Stallknecht sin to Willen,<lb/>
+				Drink Bröderschaft mit åm im Stillen.<lb/>
+				Du schüddelst mit den Kopp, mien Soahn!<lb/>
+				Ick seh dåt Og' die åbergoahn —<lb/>
+				Doaran kann ick dien inn'ret Wesen,<lb/>
+				So kloar as in en Speegel lesen.<lb/>
+				<pb facs="../img/bornemann-1810/0127.jpg"/>
+				— 129 —<lb/>
+				Doch leider Gottes! is nu moal<lb/>
+				Dåt alles so de Weltmoroal!<lb/>
+				Wat ick die dah vor Ogen stellen,<lb/>
+				Sind Minschen, wie se nich sin söllen.<lb/>
+				Nu denn gif redlich mie de Hand<lb/>
+				Tom hillgen trüen Unnerpand,<lb/>
+				Dåt bet to dienen lezten Doagen<lb/>
+				Dien Herz vor Tucht wie huͤt sall schloagen.<lb/>
+				Dåt Geld steit nu moal boaben an.<lb/>
+				Dåt mütt so sin; — un doarum kann<lb/>
+				Keen Minsch dåt leewe Geld entbehren,<lb/>
+				Doch wat du schaffst, daͤt schaff mit Ehren.<lb/>
+				Dät Geld tom Tweck, nich Tweck as Geld,<lb/>
+				Dät sie dien Strewen in de Welt.<lb/>
+				En Nothpennig vor schlimme Tieden,<lb/>
+				Ach dåt will oft sehr vål bedüden.<lb/>
+				Gerecht: dåt sie dien Loosungswoort!<lb/>
+				Wat doa nich paßt — furt åber Boort.<lb/>
+				Hell wie de Sunn, holl dien Gewissen,<lb/>
+				Daͤt gift en seelig Sterbeküͤssen.<lb/>
+				I 3<lb/>
+				<pb facs="../img/bornemann-1810/0128.jpg"/>
+				130 —<lb/>
+				—<lb/>
+				Wo Unglücks Drang un Armoth ploagt,<lb/>
+				Werd bald en Minsch blöd' un verzoagt:<lb/>
+				Richt up mit Trost un leewe Reden,<lb/>
+				Un wat du kannst, dåt doh mit Froden.<lb/>
+				To helpen in Gefoahr un Noth,<lb/>
+				Dåt is dåt erste Christgebot.<lb/>
+				Doch sall de linke Hand nich sehen,<lb/>
+				Wat mit de rechte Hand geschehen.<lb/>
+				Stellt die to'm Wächter up dåt Recht<lb/>
+				Dien König hen as truͤen Knecht:<lb/>
+				So schloag den Kukuk un den Köster<lb/>
+				En Schnipsken, merkst du Wespennester.<lb/>
+				Du magst mit Anstand höflich sin:<lb/>
+				Wer mit de Döär in't Hus herrin<lb/>
+				En Grobberjoan kummt angeseegelt,<lb/>
+				Werd billig denn ok afgeflegelt.<lb/>
+				Doch schlieken, krupen — nimmermehr<lb/>
+				Mien Soahn, vergif so diene Ehr!<lb/>
+				En Mann von groaden Sinn up Eren<lb/>
+				Mütt kenes Minschen Schohwisch werren.<lb/>
+				<pb facs="../img/bornemann-1810/0129.jpg"/>
+				—<lb/>
+				31 —<lb/>
+				Bescheeden, åͤber frank un frie,<lb/>
+				So wie’t nu just üm't Herz is die<lb/>
+				prick wat du denkst, frisch von de Leber,<lb/>
+				Un denn mag't goahn drunn oder dräͤber.<lb/>
+				Doh recht, un schü' den Soatan nich!<lb/>
+				Dåt sie dien Symblum ewiglich.<lb/>
+				Un nu troll af in Gottes Noamen!<lb/>
+				Ick seegen die - un doamit Oamen!<lb/>
+		</body>
+	</text>
+</TEI>

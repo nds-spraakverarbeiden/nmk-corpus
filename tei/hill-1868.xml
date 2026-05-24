@@ -1,0 +1,3568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="id_hill-1868" xml:lang="nds">
+	<teiHeader>
+	    <fileDesc>
+	      <titleStmt>
+	        <title fldid="title">L&#252;tte Schnurren. Plattdeutsche Gedichte</title>
+	        <author fldid="author">Rudolf Hill</author>
+	        <respStmt>
+	          <resp n="transcription" fldid="transcription">Transkribus Print M1</resp>
+	          <resp n="revision" fldid="revision">n/a</resp>
+	          <resp n="normalization" fldid="normalization">n/a</resp>
+	          <resp n="tagging" fldid="tagging">Christian Chiarcos, University of Augsburg, Germany</resp>
+	        </respStmt>
+	        <!--funder fldid="funder"></funder-->
+	      </titleStmt>
+	      <sourceDesc>
+	        <biblStruct>
+	          <monogr> 
+	            <author fldid="monauthor">Rudolf Hill</author>
+	            <title fldid="montitle">L&#252;tte Schnurren. Plattdeutsche Gedichte</title>
+	            <edition fldid="monedition">1. Auflage</edition>
+	            <imprint>
+	              <publisher fldid="monpublisher">Vincent</publisher>
+	              <pubPlace fldid="monplace">Prenzlau</pubPlace>
+	              <date fldid="mondate">1868</date>
+	            </imprint>
+	          </monogr>
+	        </biblStruct>
+	      </sourceDesc>
+	    </fileDesc>
+	    <profileDesc> 
+	      <particDesc> 
+	        <listPerson> 
+	          <person id="rudolf-hill">
+	            <name fldid="personname">Rudolf Hill</name>
+	            <birth fldid="birth" when="1825">
+	              <placeName fldid="birthplace" geo="53.5039 13.9990">Pasewalk</placeName>
+	              <date fldid="birthdate">1825-06-28</date>
+	            </birth>
+	            <death when="1894">
+	              <placeName geo="53.3167 13.8667">Prenzlau</placeName>
+	              <date>1894-11-21</date>
+	            </death>
+	            <langKnowledge>
+	              <langKnown n="first" tag="deu"/>
+	              <langKnown n="native" tag="nds"/>
+	            </langKnowledge>
+	            <sex fldid="sex" type="m"/>
+	            <age fldid="age">43</age>
+	            <occupation fldid="personoccupation">Stadtsekret&#228;r</occupation>
+	            <residence fldid="personresidence">Prenzlau</residence>
+	            <nationality fldid="nationality" key="DE"/>
+	          </person>
+	        </listPerson>
+	      </particDesc>
+	      <langUsage>
+	        <language fldid="textlang" ident="nds" dir="ltr"/>
+	      </langUsage>
+	      <textDesc>
+	        <channel fldid="textchannel" mode="written"/>
+	        <domain fldid="textdomain">poems</domain>
+	      </textDesc>
+	    </profileDesc>
+	    <encodingDesc>
+	      <projectDesc id="NMK">
+	        <title fldid="Nordm&#228;rkisch-Mittelpommersches Korpus (NMK)"/>
+	        <leader fldid="projectleader">Christian Chiarcos</leader>
+	        <desc fldid="projectdesc">Aufbau eines Korpus zur Dokumentation des Nordm&#228;rkischen sowie des nah verwandten Mittelpommerschen in Sachsen-Anhalt, Brandenburg, Vorpommern und dem heutigen Polen.
+	        Chiarcos, C. (2026). Towards the Morphological Annotation of North Markian (Low German). In Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026) (pp. 11699&#8211;11714). European Language Resources Association (ELRA). https://doi.org/10.63317/54xnswqy73gs.
+	        </desc>
+	      </projectDesc>
+	      <editorialDecl fldid="editorialdecl">
+	        Automatische OCR des Textteiles ohne manuelles Postprocessing. Automatisiertes POS Tagging.
+	      </editorialDecl>
+	    </encodingDesc>
+	  </teiHeader>
+	
+	<text>
+		<body>
+				<pb facs="../img/hill-1868/0001_p001.jpg"/>
+				1. Toabel=doh.<lb/>
+				Gerichtsmann Buuz ut Weitenhoagen<lb/>
+				Un Buer Frees' ut Wussenthin,<lb/>
+				De bröchten Beid 'n groten Woagen<lb/>
+				Mit Wull beloaden noah Berlin.<lb/>
+				Lang' hadd'n se up den Margt nich legen,<lb/>
+				Doa was de Wull ook all verköfft,<lb/>
+				Se hadden stramm Stück Geld hüt krägen,<lb/>
+				Dat güng recht flott, dat Wullgeschäft!<lb/>
+				Hebb hüt noch goarnüscht recht genoaten,<lb/>
+				Seggt Buuz, wat meenst Du woll doato,<lb/>
+				Wi will'n uns hüt nich lumpen loaten<lb/>
+				Und spiesen ook moal Toabel-doh.<lb/>
+				<pb facs="../img/hill-1868/0002_p002.jpg"/>
+				2<lb/>
+				Wat! Toabel-doh? im ganzen Leben<lb/>
+				Hebb ick nich hört von so'n oll Tügs,<lb/>
+				Sull dat woll würklich so wat geben?<lb/>
+				Seggt Frees', dat weer jo ganz wat Niegs!<lb/>
+				Glöw sülwst, Du hest dat noch nich gäten,<lb/>
+				Seggt Buuz, dat is ook keen Gericht,<lb/>
+				So nöhmt man all dat fiene Aeten,<lb/>
+				Wat man in grote Gasthöaf krigt!<lb/>
+				Ach so! seggt Freef', nu komm ’k doahinner, —<lb/>
+				Doch stött mi eben in de Kron',<lb/>
+				Komm'n wi nu in de Gaststuw' rinner,<lb/>
+				Wat wi uns denn woll förrern dohn?<lb/>
+				Süh, Vadder Frees', dat is dat eben,<lb/>
+				Seggt Buuz, dat hebb ick lang' bedacht,<lb/>
+				Wi loaten uns vom Dü'rsten geben,<lb/>
+				Dat finn wi bald, gif moal recht Acht:<lb/>
+				Ward rümmer langt dat fiene Aeten,<lb/>
+				Dat sich de Lüd' wat ruter füll'n,<lb/>
+				Vom Dü'rsten nehm'n se man 'n Bäten,<lb/>
+				Dat is ’t, wat wi uns förrern will'n!<lb/>
+				<pb facs="../img/hill-1868/0003_p003.jpg"/>
+				So schluus'ten se entlang de Stroaten,<lb/>
+				Bet se so ’n Gasthof funnen hadd'n,<lb/>
+				Hier will'n wie uns wat geben loaten,<lb/>
+				Seggt Buuz, mi deit de Moagen quarrn!<lb/>
+				Knapp sünd se in 'n Aetsoal wesen,<lb/>
+				Doa wurd' de Mostreck rümmer reekt,<lb/>
+				Kiek, flistert Buuz to Vadder Freesen,<lb/>
+				Dat is ’t, wie nehmen von dat Weekt!<lb/>
+				Vor 'n Daler So'nt köan Sie mich geben,<lb/>
+				Seggt Buuz, wies't up de Mostreck=Büss’,<lb/>
+				Vor mich un meinen Fründ hierneben,<lb/>
+				Der een Gevadder von mich is!<lb/>
+				De Gäst' de füngen an to lachen,<lb/>
+				De Kellner grient ähr in ’t Gesicht,<lb/>
+				Doch bracht he bald de nöd'gen Sachen,<lb/>
+				Sett't up den Disch dat schön Gericht.<lb/>
+				Oll Frees' de deed, as wull he mulen,<lb/>
+				As wenn em ’t Lachen argert hett,<lb/>
+				Doch deed he-noah de Sied' rüm schulen,<lb/>
+				Up wat föarn Oart dat Tügs man ätt?<lb/>
+				<pb facs="../img/hill-1868/0004_p004.jpg"/>
+				Uns' Vadder Buuz leet sich nich stören,<lb/>
+				Treckt fix 'n Lepel noah sich ran,<lb/>
+				Füng an, dat Tügs sich ümtoröhren<lb/>
+				Un bald denn ook to spiesen an.<lb/>
+				Doch wat föar 'n Schreck hett Frees' gekrägen,<lb/>
+				Fründ Buuz vertreckt jo dat Gesicht,<lb/>
+				He deit de Oogen ganz verdrägen,<lb/>
+				Höllt sich de Moag un gappt un schriggt:<lb/>
+				Ach schloag mi in den Rüggen rinner —<lb/>
+				Mi fehlt de Luft — ach schloag doch daarw<lb/>
+				Ach Vadder, größ mien Fru un Kinner<lb/>
+				Mi röhrt de Schlag — ick starw — ick starw!<lb/>
+				2. De Wedd.<lb/>
+				Is doch ne schlechte Tied jitzund,<lb/>
+				Seggt Amtmann Schmedt ut Hogensund<lb/>
+				To Amtmann Schult ut Hommelstall,<lb/>
+				Weet nich, wat doarut warden sall;<lb/>
+				<pb facs="../img/hill-1868/0005_p005.jpg"/>
+				So 'n Knecht will föftig Doaler Lohn'<lb/>
+				Un ook, wo möaglich, noch nüscht doh'n,<lb/>
+				Döcht nich in d' Schün', nich hinnern Ploog,<lb/>
+				Un ’t Aeten ward em nie genoog.<lb/>
+				Doa hebb ick so ’n Schwernoth nu kriggt,<lb/>
+				De, wo he kann, up d' Recksied' liggt,<lb/>
+				Un doabie, ’t is ne Schann un Sünn,<lb/>
+				Schleit he 'n ganz oll Kalf sich rin!<lb/>
+				Na Noaber Schmedt, Du hest zwoar Recht,<lb/>
+				Dat hüt dat Deenstvolk nüscht mehr döcht,<lb/>
+				Doch mit dat Kalf is ’t woll nich so,<lb/>
+				Seggt Schult, Du lüggst woll 'n Bäten to?<lb/>
+				Du glööwst dat nich? seggt Amtmann Schmedt,<lb/>
+				Ick segg Di blos: Wat gellt de Wedd?<lb/>
+				Hebb ick dat ook noch nich probeert,<lb/>
+				Ick weet, dat he ’n Kalf vertährt!<lb/>
+				Topp Noaber Schmedt, ick goah drup in,<lb/>
+				Seggt Schult, schleit he dat Kalf sich rin,<lb/>
+				Gäw ick Di föar dat Kalf ne Koh<lb/>
+				Un noch twee Buddeln Wien doato!<lb/>
+				<pb facs="../img/hill-1868/0006_p006.jpg"/>
+				Is good, seggt Schmedt, hier ingeschloan,<lb/>
+				De Sach' ward morgen afgedoahn,<lb/>
+				Du kümmst to Middag bi mi ran<lb/>
+				Un sühst Di sülwst den Unfloath an!<lb/>
+				Drup spannt he an, fleut't sinen Hund<lb/>
+				Und föhrt torügg noah Hogensund,<lb/>
+				Kuum is he man vom Woagen raf,<lb/>
+				Langt he ook gliek den Knecht sich af.<lb/>
+				Hör' Krischoan, hebb ne Wedd' hüt doahn,<lb/>
+				Dat Du 'n Kalf künst rinner schloan;<lb/>
+				Wat meenst — de Wedd' is doch nicht schlecht<lb/>
+				Kriggst Du dat Kunststück woll torecht?<lb/>
+				Föar Krischoan was dat wie gefunn'n;<lb/>
+				De Wedd', Herr Amtmann, is gewunn'n,<lb/>
+				Seggt he, un grient wie 'n Sogdelperd,<lb/>
+				Dat is so good as all vertährt!<lb/>
+				Nu wurr de Scheper instroweert,<lb/>
+				Un ook de Köaksch de wurr belehrt,<lb/>
+				Dat se dat richtig broad't un koakt<lb/>
+				Un bunt Gerichter doarut moakt.<lb/>
+				—<lb/>
+				<pb facs="../img/hill-1868/0007_p007.jpg"/>
+				Kuum hadd' de Klock man Twölf geschloan,<lb/>
+				Kamm Amtmann Schult ook angegoahn;<lb/>
+				Pros't Middag, röppt he, Noaber Schmedt,<lb/>
+				Wo süht dat ut mit unse Wedd?<lb/>
+				Mi hett de Tied all lang' gedu'rt,<lb/>
+				Seggt Schmedt, ick hebb' up Di all lu'rt,<lb/>
+				Dat Kalf is längst to Disch all bröcht,<lb/>
+				Nimm Platz, ick loop un hoal den Knecht!<lb/>
+				Kuum hadd sich Schult man nedder huckt,<lb/>
+				Kamm Krischoan ook all angeschruckt,<lb/>
+				Güng hinner 'n Disch an ’t Fenster rüm<lb/>
+				Un keek nu noah dat Kalf sich üm.<lb/>
+				Na Krischoan ätt man düchtig drup,<lb/>
+				Seggt Amtmann Schmedt, wi passen up,<lb/>
+				Wat Du doa sühst, is All föar Di,<lb/>
+				Nu moak Di düchtig moal doabie!<lb/>
+				Umsüß was Krischoan dat nich seggt,<lb/>
+				He sett't sich ordentlich torecht,<lb/>
+				Knööpt up de West' un 'n Hosengurt<lb/>
+				Un spies't nu schöttelwies dat furt.<lb/>
+				<pb facs="../img/hill-1868/0008_p008.jpg"/>
+				As wenn de Wull ward ingesackt,<lb/>
+				So hett de Bengel rinner packt,<lb/>
+				Doch keek he ümmer üm sich rüm,<lb/>
+				As sehg he sich noah Mehr noch üm.<lb/>
+				De letzt' Portion bi ’t Lief he hett,<lb/>
+				Doa seggt he denn to Amtmann Schmedt:<lb/>
+				Herr Amtmann, wenn mi recht bedücht,<lb/>
+				Wi hören up mit dit Gericht;<lb/>
+				Is Tied, dat mi dat Kalf ward bröcht,<lb/>
+				Süß geid dat mit de Wedd' uns schlecht,<lb/>
+				Denn äät ick hiervon lang' noch wat,<lb/>
+				War 'k mit de Wiel' von Vöarkost satt!<lb/>
+				3. Wi woahnen hier so an de Mu'r!<lb/>
+				Oll Schrödersch lag tum Starben krank,<lb/>
+				Drüm reep se ähren Mann<lb/>
+				Von dröaben, von de Oabenbank,<lb/>
+				Tom Bett to sich heran;<lb/>
+				<pb facs="../img/hill-1868/0009_p009.jpg"/>
+				Herzvoater, sprack se, wenn ick wat<lb/>
+				To noah süll hebb'n Di doahn,<lb/>
+				Ick bidd' Di, denn vergif mi dat,<lb/>
+				Ward ’t woll nich öaberstoahn.<lb/>
+				Mi is ook goar to schlecht to Mood’,<lb/>
+				Mi helpt keen Docter mehr,<lb/>
+				Ick föhl, dat geid mit mi to Dood'<lb/>
+				Wenn ’t man verbie erst weer! —<lb/>
+				Oll Schröder was zwoar nienich recht<lb/>
+				In sine Ollsch' verleewt,<lb/>
+				Doch as se em vom Starben seggt,<lb/>
+				Dunn wurd he recht bedrööwt;<lb/>
+				He stroakt ähr weenrich dat Gesicht;<lb/>
+				Wat meenst Du, sprack he dunn,<lb/>
+				Wi schicken denn woll, as mi dücht,<lb/>
+				Tom Supperdenten runn?<lb/>
+				Ick föhl, dat dat tom Starben geid,<lb/>
+				Spraak se, joa, schick' man runn,<lb/>
+				Dat he mi 'n Bäten trösten deit<lb/>
+				In mine letzte Stunn!<lb/>
+				<pb facs="../img/hill-1868/0010_p010.jpg"/>
+				10<lb/>
+				Bald kamm denn ook de Superdent,<lb/>
+				De Köster hinnerdrin,<lb/>
+				Von d'Kirch de Stroat entlang gerönnt,<lb/>
+				Bie 'm ollen Schröder rin.<lb/>
+				De Ollsch' de hadd ähr Läwdoag nich<lb/>
+				An School und Kirch sich kehrt,<lb/>
+				Hadd nich Kat'chismus un nich Sprüch',<lb/>
+				Nich Schrieb'n un Lesen lehrt.<lb/>
+				Doch was se nielig* ümmer sehr,<lb/>
+				Wo ’t wat to horken gaf,<lb/>
+				Doa stunn se sicher hinner d' Döahr,<lb/>
+				Kreeg ümmer Nieg's mit af.<lb/>
+				As nu de Preester ähr vertellt,<lb/>
+				Wat Christus mußt erdull'n,<lb/>
+				Wo schlecht em hett de böse Welt<lb/>
+				Dat Goode all vergull'n,<lb/>
+				Doa wurd oll Schrödersch ganz verplext,<lb/>
+				**<lb/>
+				Se sett't sich öaberrenn,<lb/>
+				neugierig.<lb/>
+				** aufrecht.<lb/>
+				<pb facs="../img/hill-1868/0011_p011.jpg"/>
+				Feel fix dem Preester in den Text<lb/>
+				Und sääd ganz trü to em:<lb/>
+				Ach wat ick doch den Mann bedu'r;<lb/>
+				Wennehr is dat passeert?<lb/>
+				Wie woahnen hier so an de Mu'r,<lb/>
+				Hebb'n goarnüscht doavon hört!-<lb/>
+				4. De Arfschaft.<lb/>
+				As Stoffel Klöhn Saldoat noch weer,<lb/>
+				He stund bi d' Kavall'rie<lb/>
+				In Poas'walk bi de Karrasseer,<lb/>
+				Was erst kort' Tied doabie,<lb/>
+				Dunn kreeg he eenen schwarten Breef<lb/>
+				Von siene Heimoath her,<lb/>
+				Worin em Voaterbroder schreef,<lb/>
+				Dat Mutter storben weer!<lb/>
+				<pb facs="../img/hill-1868/0012_p012.jpg"/>
+				12<lb/>
+				Wiel Stoffel ’n ollen Bengel was,<lb/>
+				All Veeruntwintig Joahr,<lb/>
+				So was denn ut de Posenkass<lb/>
+				Ook bald de Arfschaft doa.<lb/>
+				Tein Doaler un 'n Gröschner Acht<lb/>
+				Kreeg he nu utgetoalt;<lb/>
+				Wo fründlich hett nich Stoffel lacht,<lb/>
+				As he de Arfschaft hoalt.<lb/>
+				Sien Doag' hadd he jo so vää'l Geld<lb/>
+				Nich krägen to Gesicht,<lb/>
+				Drum sunn he, wat in aller Welt<lb/>
+				He doamit moaken mücht.<lb/>
+				Denn spoarsoam was he ümmer sehr,<lb/>
+				Kamm mit ’t Tract'ment ook ut,<lb/>
+				Un brukt he moal 'n Gröschen mehr,<lb/>
+				Denn kreeg he 'n von sien Brut!<lb/>
+				Holt! wat mi nu föarn Licht upgeid,<lb/>
+				So seggt he bi sich still,<lb/>
+				* Depositen=Kasse.<lb/>
+				:<lb/>
+				<pb facs="../img/hill-1868/0013_p013.jpg"/>
+				13<lb/>
+				Nu weet ick, wat mi nödig deit,<lb/>
+				Wat ick mi köpen will;<lb/>
+				Mien oll Kardätsch'* fött nich recht an,<lb/>
+				Is week und vääl to kleen,<lb/>
+				Ick wend 'n harten Doaler dran,<lb/>
+				Hoal mi vom Koopmann Een';<lb/>
+				Acht Gröschen mütt ick geben doch<lb/>
+				Tum Schluck föar goode Frünn,<lb/>
+				Denn blieben mi Näg'n Doaler noch,<lb/>
+				De droag bie'm Würth ick rin.<lb/>
+				Gedacht, gedoahn; he geid un köfft<lb/>
+				De nieg' Kardätsch gliek an,<lb/>
+				De oll' he in de Meßkuhl gröfft,<lb/>
+				Doa he s' nich bruken kann.<lb/>
+				Bie 'm Huswürth drup he rinner geid,<lb/>
+				Gift dem Näg'n Doaler hen,<lb/>
+				Dat de em dat verwoahren deit,<lb/>
+				Bett sien Dre Joahr to Enn!<lb/>
+				* Bürste zum Pferdeputzen.<lb/>
+				<pb facs="../img/hill-1868/0014_p014.jpg"/>
+				14<lb/>
+				Nu aber hoalt he 'n strammen Schluck<lb/>
+				Un 'n Dutzend Ziehgarn ran,<lb/>
+				Un 'n Stücker Veer Kamroaden ook;<lb/>
+				Dat Leben güng nu an!<lb/>
+				Acht Gröschen langen nich recht wiet,<lb/>
+				Bald was de Schluck ook ut,<lb/>
+				Twee Doaler hoalt noah korte Tied<lb/>
+				Sich Stoffel wedder rut!<lb/>
+				Se spälten Solo bett in d' Nacht;<lb/>
+				As ’t Geld to Ennen weer,<lb/>
+				Dunn güng'n de gooden Bröder sacht<lb/>
+				Noah Huus in ähr Quarteer.<lb/>
+				Dagdäglich keemen goode Frünn,<lb/>
+				De Branntwien güng nich ut,<lb/>
+				Dagdäglich güng bie 'm Würth he rin<lb/>
+				Un hoalt 'n Doaler rut!<lb/>
+				Noch weeren keen Acht Doag' vergoahn,<lb/>
+				Dat Stoffel wurd so kruus,<lb/>
+				Dunn hadd he ’t letzte Geld verdoahn,<lb/>
+				Was arm wie 'n Kirchenmuus.<lb/>
+				<pb facs="../img/hill-1868/0015_p015.jpg"/>
+				15<lb/>
+				Doa föllt de nieg' Kardätsch em in,<lb/>
+				De ward nu fix verköfft,<lb/>
+				Drup geid he in de Meßkuhl rin<lb/>
+				Un nimmt de Fork un gröfft;<lb/>
+				Bald was de oll Kardätsch gefunn'n,<lb/>
+				Se lag nich alto wiet.<lb/>
+				Hett sich doamit noch afgeschunn'n<lb/>
+				Sien ganz Saldoatentied!<lb/>
+				5. Stien' Brusen.<lb/>
+				Stien' Brusen föhrt mit Melk to Stadt,<lb/>
+				Fru Amtmann röppt: Stien, mark Di dat,<lb/>
+				Du bringst mi von Ap'theker Schütt<lb/>
+				Vöar'n Gröschen Gummi=Gutt hüt mit!<lb/>
+				Dat hört sich jo ganz putzig an,<lb/>
+				Wenn ick dat man behollen kann,<lb/>
+				Seggt Stien, Fru Amtmann, segg'n S’ mi doch<lb/>
+				Den Noam noch moal, wo hitt dat noch?<lb/>
+				<pb facs="../img/hill-1868/0016_p016.jpg"/>
+				.<lb/>
+				﻿16<lb/>
+				Dien Döaz 'n Gäns'kopp sinnen mutt,<lb/>
+				Ick sääd doch dütlich: Gummi=Gutt,<lb/>
+				So brummt Fru Amtmann, büst wie'n Kind,<lb/>
+				Wo kannst woll so vergätern sind!<lb/>
+				I na, ick will dat woll beholl'n,<lb/>
+				Seggt Stien, und deit nu afpascholl'n,<lb/>
+				Knappt mit de Pietsch den Schimmel an,<lb/>
+				In Gang sett't sich dat Melkgespann.<lb/>
+				Se bäd't nu furt in eenem Ritt:<lb/>
+				Föarn Gröschen Gummi=Gutt von Schütt,<lb/>
+				Kiekt unnerwegs keen'n Minschen an,<lb/>
+				Doamit se ’t nich vergäten kann.<lb/>
+				Good'n Morgen Stien, röppt Döscher Kluth,<lb/>
+				Du sühst jo hüt so dröömrich ut!<lb/>
+				Stien brummt: Wat Di dat kümmern mütt,<lb/>
+				Föarn Gröschen Gummi=Gutt von Schütt.<lb/>
+				Kuum is se 'n Ennken wieder föhrt,<lb/>
+				Good'n Morgen Stien se ropen hört,<lb/>
+				Se kiekt sich üm, ’t is Scheper Wriedt,<lb/>
+				Wat is Di Stien, Du muulst jo hüt?<lb/>
+				<pb facs="../img/hill-1868/0017_p017.jpg"/>
+				17<lb/>
+				Du Twatschkopp bliew in diene Hütt,<lb/>
+				Föarn Gröschen Gummi=Gutt von Schütt!<lb/>
+				So brummt se, knappt den Schimmel an<lb/>
+				Un kiekt den Kärl nich wieder an.<lb/>
+				So kümmt se noah de Niestadt ran,<lb/>
+				Doa röppt ähr 'n Tropp Saldoaten an:<lb/>
+				Good'n Morgen, Stien, is d' Brutmann krank?<lb/>
+				Wat möckst föar ’n Muul, segg hübsch schön Dank!<lb/>
+				Stien kiekt nich up, ganz stief se sitt,<lb/>
+				Föarn Gröschen Gummi=Gutt von Schütt!<lb/>
+				Un wieder deed de Woagen roll'n,<lb/>
+				Am Dohr doa wurd' se angeholl'n.<lb/>
+				Bringt Sie auch Steuerbares her?<lb/>
+				So röppt ähr an de Controlleur;<lb/>
+				Nä, nä, seggt Stien, ick bring' nüscht mit,<lb/>
+				Föarn Gröschen Gummi=Gutt von Schütt!<lb/>
+				Se föhrt nu stracks bi Schütten vöar,<lb/>
+				Vom Woagen runn un in de Döahr<lb/>
+				Dat was ook Eens; doa stunn se nu, —<lb/>
+				Ick sull wat köpen föar uns' Fru!<lb/>
+				<pb facs="../img/hill-1868/0018_p018.jpg"/>
+				18<lb/>
+				Häärnoth, wo sääd Fru Amtmann doch<lb/>
+				Seggt Stien, — wo hitt dat Tügs doch noch?<lb/>
+				Kann 'k mi denn nich besinnen mehr?<lb/>
+				Ick wußt' dat doch noch vöar de Döahr!<lb/>
+				De klein Proviser steid un lacht<lb/>
+				Un seggt: Dat hebb ick gliek mi dacht,<lb/>
+				Wenn man dat goar to ilig hett,<lb/>
+				Man licht de beste Sach' vergett!<lb/>
+				Apthekers sünd doch klooke Lüd',<lb/>
+				Valicht köan Se mi seggen hüt,<lb/>
+				Seggt Stien, wat dat woll sinnen sull,<lb/>
+				Wat uns' Fru Amtmann hebben wull?<lb/>
+				I Stien, Du büst 'n dumme Dutt!<lb/>
+				Seggt he, — ach richtig, Gummi=Gutt,<lb/>
+				Röppt Stien, joa, Gummi=Gutt is recht,<lb/>
+				So hett jo uns' Fru Amtmann seggt!<lb/>
+				Nä, dat Se dat se dat so glik hebbn funn'n,<lb/>
+				Un goarnich lang' sich erst besunn'n,<lb/>
+				So 'n Lehrsoamkeit geid glatt in d' Wied',<lb/>
+				Apthekers sünd doch klooke Lüd'!<lb/>
+				<pb facs="../img/hill-1868/0019_p019.jpg"/>
+				19<lb/>
+				6. De Glimmstengel.<lb/>
+				Oll Hannschenmoaker Roos' de was<lb/>
+				Een recht regoalschen Mann,<lb/>
+				He was nich von ornäre Klass,<lb/>
+				Dat sach man gliek em an.<lb/>
+				Kamm he so stoatsch de Stroat doaher<lb/>
+				Un hadd den Pelzrock an,<lb/>
+				Heel Jeder em föar'n Landroath eh'r,<lb/>
+				Als föar so 'n Handwarksmann.<lb/>
+				Doch kunn dat nich verwunnern sehr,<lb/>
+				De Hannschenmoakerie<lb/>
+				Dreef he man noch so nebenher,<lb/>
+				Was Koopmann all doabie.<lb/>
+				In sienem Loaden sach man gliek,<lb/>
+				Dat he up Ordnung heel,<lb/>
+				Drum köfft bi em ook Arm un Riek,<lb/>
+				Denn wat he hadd, geferk!<lb/>
+				<pb facs="../img/hill-1868/0020_p020.jpg"/>
+				20<lb/>
+				De ledern Bükschen, de he mook,<lb/>
+				De weeren wiet beröhmt,<lb/>
+				In d' Ukermark, in ’t Oaderbrook<lb/>
+				Wurd' allerwarts he nöhmt!<lb/>
+				Eens kamm nu ook een Buersmann<lb/>
+				In sienen Loaden rin,<lb/>
+				Keek noch vöarher dat Schild sich an,<lb/>
+				Un seggt: Hier mütt dat sinn!<lb/>
+				Drup froog he: Bün ick hier woll recht, —<lb/>
+				Bie Hannschenmoaker Roos'?<lb/>
+				Un köfft man hier, as mi is seggt,<lb/>
+				De goode Lederhoos'?<lb/>
+				Ja wohl, ja wohl, mein alter Freund,<lb/>
+				Herr Roose wohnet hier,<lb/>
+				Ich bin es selbst, den Sie gemeint,<lb/>
+				Was wünschen Sie von mir?<lb/>
+				De Bu'r de möckt den Loaden up,<lb/>
+				Röppt: Willem, kumm moal her!<lb/>
+				5o ’n joadlich Bengel tratt doarup<lb/>
+				Ball in de Loadendöahr.<lb/>
+				<pb facs="../img/hill-1868/0021_p021.jpg"/>
+				21<lb/>
+				Ick wull föar dissen quoaden Jung'n<lb/>
+				So ’n Lederbüksch to Paß,<lb/>
+				He is wat vüllig un gedrung'n,<lb/>
+				Ick will se nich to knass!<lb/>
+				Roos' bracht nu Hosen, kleen un groot,<lb/>
+				Schwart, grön und gähl un foahl;<lb/>
+				De Bu'r de kreeg sien leewe Noth,<lb/>
+				Wer Woahl hett, hett ook Quoal.<lb/>
+				He föhlt un treckt un paßt un schwöögt<lb/>
+				Un handelt, fröggt un quackt,<lb/>
+				Doabie sien Piepenstengel glöögt,<lb/>
+				As würd bie 'm Kotzen* backt.<lb/>
+				De ganze Loaden was vull Schmook,<lb/>
+				Dat stunk wie sengrig Hoar,<lb/>
+				Wie Nebel treckt de dicke Rook,<lb/>
+				Verstänkert all de Woar'!<lb/>
+				Oll Roos', de wurd bald roth, bald witt,<lb/>
+				Mook up de Loadendöahr,<lb/>
+				* Kossäthen.<lb/>
+				<pb facs="../img/hill-1868/0022_p022.jpg"/>
+				82<lb/>
+				Un donkt: Herrje, wo moak ick dit,<lb/>
+				Dat ick dat Stänkern stör'?<lb/>
+				Doch hollt, mien Roos' is nich to fuul,<lb/>
+				Söökt fix 'n Ziehgarn rut<lb/>
+				Un seggt sich: Steckt he de in 't Muul,<lb/>
+				Denn geid de Piep em ut!<lb/>
+				Mein Freund, ich seh), Sie rauchen gern,<lb/>
+				Hier, wenn ich dienen kann,<lb/>
+				Das ist so was für alte Herr'n,<lb/>
+				Da, brennen Sie mal an!<lb/>
+				Uns' Bu'r leet sich nich nöd'gen lang',<lb/>
+				Treckt sich 'n Striekholt ran<lb/>
+				Un bütt — uns' Roosen wurd ganz bang',<lb/>
+				De Piep dem Bengel an<lb/>
+				Un seggt, aland he krüüs't de Schnut:<lb/>
+				De Ziehgarn is nich dumm,<lb/>
+				Mien Söahn, rook Du de Piep man ut,<lb/>
+				Se is so schön im Glumm!<lb/>
+				<pb facs="../img/hill-1868/0023_p023.jpg"/>
+				23<lb/>
+				Oll Roos' de sunk in ’n Grootstohl doal,<lb/>
+				De Arger mook em loahm,<lb/>
+				He gappt un flucht: De Dübel hoal<lb/>
+				Den ganzen Fleutenkroam!<lb/>
+				7. Allens kümmt up ’t Utleggen an.<lb/>
+				Mien Unglück is benoah to dull,<lb/>
+				Dit öberläw ick nich<lb/>
+				Mien Mann is ümmer duun un vull,<lb/>
+				Besüppt dagdäglich sich!<lb/>
+				Herr Paster, dohn S' den Will'n mi doch<lb/>
+				Un nehm'n Se ’n sich moal vöar,<lb/>
+				Mi dücht, dat weer dat Eenzigst noch,<lb/>
+				Wie em to helpen weer!<lb/>
+				So sprack to Paster Hannemann<lb/>
+				Den Buer Stolt sien Fru;<lb/>
+				Will sehen, was ich machen kann,<lb/>
+				Sääd ähr de Paster nu.<lb/>
+				<pb facs="../img/hill-1868/0024_p024.jpg"/>
+				*<lb/>
+				.<lb/>
+				24<lb/>
+				So kamm he denn den Dag doarup<lb/>
+				Bie Buer Stolten rin;<lb/>
+				Oll Stolt reet groot de Oogen up<lb/>
+				Un denkt, wat sall dat sinn?<lb/>
+				Gut'n Morgen, lieber Stolt, muß seh'n,<lb/>
+				Wie's geht, gut? Gott sei Dank!<lb/>
+				Sah lang' Sie nicht zur Kirche geh'n,<lb/>
+				Sie waren doch nicht krank?<lb/>
+				Nä, seggt Fritz Stolt, dat geid so wiet<lb/>
+				Jo ümmer noch so so,<lb/>
+				Doch krieg ick woll seit eenig Tied<lb/>
+				So 'n Düsing'n* af un to!<lb/>
+				Ja, wissen Sie auch, alter Freund,<lb/>
+				Woher das kommen mag?<lb/>
+				Der Branntwein ist Ihr böser Feind,<lb/>
+				Der macht Sie alt und schwach;<lb/>
+				Der bringt Sie um Ihr zeitlich Gut,<lb/>
+				Bringt Sie in Seelennoth,<lb/>
+				* Schwindel.<lb/>
+				<pb facs="../img/hill-1868/0025_p025.jpg"/>
+				25<lb/>
+				Verdorret Mark, vergiftet Blut,<lb/>
+				Giebt einen jähen Tod!<lb/>
+				Ist denn die Umkehr gar so schwer<lb/>
+				Für einen Ehrenmann,<lb/>
+				Wenn er sein Unglück sieht, daß er<lb/>
+				Vom Trunk nicht lassen kann?<lb/>
+				Oll Stolt de kniepöögt so, as wenn<lb/>
+				Em de Vermoahnung röhrt;<lb/>
+				Herr Paster, schnuckst he vöar sich hen,<lb/>
+				Ick bün doato verföhrt!<lb/>
+				Doch söal'n Se sehn, ick bün so 'n Mann,<lb/>
+				De ümmer noch so steid,<lb/>
+				Dat he dat dohn un loaten kann,<lb/>
+				De nich in ’t Unglück geid!<lb/>
+				So spricht ein Mann, so ist es recht,<lb/>
+				Sääd Paster Hannemann,<lb/>
+				Her Ihre Hand! Der ist nicht schlecht,<lb/>
+				Der so noch sprechen kann!<lb/>
+				<pb facs="../img/hill-1868/0026_p026.jpg"/>
+				26<lb/>
+				Un üm den Hals flüggt em sien' Frü<lb/>
+				Un pußt em ümmerdrup,<lb/>
+				Un weent un seggt: Stolt, ick läw' nu<lb/>
+				Von Niegem wedder up!<lb/>
+				Knapp sind nu eenig Doag' vergoahn,<lb/>
+				Uns' Paster Hannemann<lb/>
+				De deed geroad in d' Huusdöahr stoahn,<lb/>
+				Doa kümmt Fru Stolten an,<lb/>
+				Rifft sich de Oogen, roart un schriggt;<lb/>
+				Kuum bringt se rut dat Woort:<lb/>
+				Herr Paster, wat ick lied', dat schwiggt,<lb/>
+				He süppt noch eben foort!<lb/>
+				De Paster stunn vöar Schreck ganz stief,<lb/>
+				So sehr verfährt em dit,<lb/>
+				Drup seggt he to dat arme Wief:<lb/>
+				Ich geh' mit Ihnen mit!<lb/>
+				Wie ist es möglich! Hält ein Mann<lb/>
+				So sein gegeb'nes Wort?<lb/>
+				So red't he Fritza Stolten an —<lb/>
+				Sie trinken fort und fort?<lb/>
+				<pb facs="../img/hill-1868/0027_p027.jpg"/>
+				Oll Stolt de gnies't: Worüm denn dat?<lb/>
+				Wat köan Se doarin finn'n,<lb/>
+				Hebb ick denn all versproaken wat?<lb/>
+				Wüßt mi nich to besinn'n!<lb/>
+				Ick weet dat noch so good as hüt,<lb/>
+				Ick sääd: Ick weer so 'n Mann,<lb/>
+				De ümmer noch to jeder Tied<lb/>
+				Dat dohn un loaten kann!<lb/>
+				Herr Paster, hebb ick so nich seggt?<lb/>
+				Besinn'n Se doch moal sich,<lb/>
+				Dat Se dat falsch sich utgeleggt,<lb/>
+				Doaföar kann ick doch nich!<lb/>
+				Ick meent': Mien Wirthschaft schmitt dat af,<lb/>
+				—<lb/>
+				Kann ’t dohn, bün ook de Mann<lb/>
+				Doabie striekt he den Buuk sich raf,<lb/>
+				De't ook noch koaten kann!<lb/>
+				<pb facs="../img/hill-1868/0028_p028.jpg"/>
+				28<lb/>
+				8. Wo Farber Franz woahnt.<lb/>
+				Nä, wo nu woll de Bengel blifft,<lb/>
+				Twee Stunn sünd all vergoahn;<lb/>
+				Wo sich de Jung' woll rümmer drifft,<lb/>
+				Dit kann ick nich verstoahn!<lb/>
+				So brummt up sienen Wew'stohl hüt<lb/>
+				Verdreetlich Meister Knuth,<lb/>
+				Wahrhaftig, nu ritt mit de Tied<lb/>
+				Mi de Geduld ball ut!<lb/>
+				Na, Voater, aber segg mi blot,<lb/>
+				Wo is de Jung' denn hen?<lb/>
+				He is doch sünst so fix to Foot,<lb/>
+				Dat hett sien'n Grund am Enn!<lb/>
+				Du weetst doch, Wööst's ähr Kindelbeer<lb/>
+				Kümmt annern Sünndag ran,<lb/>
+				Nu kreeg ick mien'n Gotts=Disch=Rock vöar<lb/>
+				Un keek mi den moal an;<lb/>
+				<pb facs="../img/hill-1868/0029_p029.jpg"/>
+				29<lb/>
+				Doa sach ick, dat de Kroagen ganz<lb/>
+				Vull Schwitz un Panzer seet,<lb/>
+				Schickt' drüm den Rock noah Farber Franz,<lb/>
+				Dat De dat waschen deet.<lb/>
+				Twee Stunn sünd ’t un gewiß all goot,<lb/>
+				Dat he in d' Stadt is rin;<lb/>
+				Nu, dücht mi, künn de Jung' oahn Noth<lb/>
+				Sössmoal torügg all sinn!<lb/>
+				As eben Meister Knuth so schwöögt,<lb/>
+				Doa kamm de Jung' in d' Döahr;<lb/>
+				Hadd rönnt, dat. dat Gesicht em glöögt,<lb/>
+				Doch namm em Knuth sich vöar:<lb/>
+				Nu segg mi blos, Du Himmelhund,<lb/>
+				Wo büst Du so lang' wes’t?<lb/>
+				De Sach' is mi denn doch to bunt!<lb/>
+				Wo hest Du rümmer pähst?<lb/>
+				I, Meister, hebb mi spod’t genoog,<lb/>
+				Un allermeisten rönnt,<lb/>
+				As ick am Maargt noah Franzen frog,<lb/>
+				Hett Keener em doa kennt;<lb/>
+				<pb facs="../img/hill-1868/0030_p030.jpg"/>
+				30<lb/>
+				De is all lang' doa furtgetoag'n,<lb/>
+				He woahnt up d' Vöarstadt jitzt;<lb/>
+				Doa hebb ick wiet müßt rümmer froag'n,<lb/>
+				Hebb lopen, dat mi schwitzt!<lb/>
+				I. Jung, büst Du denn ganz verdrähgt?<lb/>
+				Sach gistern noch de Fru,<lb/>
+				Dat se am Fenster satt und nähgt!<lb/>
+				Sünd se upfloagen nu?<lb/>
+				Ick weet nich, Meister, wat dat möckt,<lb/>
+				Dat Se nich globen hüt,<lb/>
+				Franz is noah d' Vöarstadt ruter treckt,<lb/>
+				Woahnt doa all lange Tied!<lb/>
+				Un denn hitt he jo ook nich „Franz“<lb/>
+				„Frank“ is de richtig Noam,<lb/>
+				Bin bi dat Söken hüt so ganz<lb/>
+				Erst recht doahinner koam;<lb/>
+				Dat is ook goar keen Faarber moal,<lb/>
+				Ick sach dat gliek em an<lb/>
+				Ick keek em noah de Finger doal<lb/>
+				Dat is ook goar keen Mann,<lb/>
+				<pb facs="../img/hill-1868/0031_p031.jpg"/>
+				31<lb/>
+				Ne Waschfru is ’t, de dat Geschäft<lb/>
+				Bedrifft all lange Tied<lb/>
+				Na, sehn Se, Meister, nu, ick hew ’t<lb/>
+				Befroagt doch gründlich hüt!<lb/>
+				9. Wo Kain sien' Fru her kreeg.<lb/>
+				Als Kain wegen Abel sucht<lb/>
+				Sich zu verdeffendir'n,<lb/>
+				Da ward er, wie Ihr wißt, verflucht,<lb/>
+				Und mußte abmarschier'n.<lb/>
+				Was that er da aus Desp'ration?<lb/>
+				So froog in siene School'<lb/>
+				De Köster Tech den quoaden Krohn. —<lb/>
+				Was that der Kain wohl?<lb/>
+				Is Dir denn das nich mehr bekannt?<lb/>
+				Was that der Kain nu?<lb/>
+				Da gung er in ein ander Land<lb/>
+				Und nahm sich eine Fru!<lb/>
+				<pb facs="../img/hill-1868/0032_p032.jpg"/>
+				32<lb/>
+				Ganz recht, mein Sohn, wohl that er Das,<lb/>
+				Doch sag' mir mal, Jehann,<lb/>
+				Mir scheint, als hast Du sonst noch was,<lb/>
+				Du sühst mich ja so an?<lb/>
+				Ja, sehn Sie mal, Herr Tech, ick dacht:<lb/>
+				Wie dat woll müglich wär,<lb/>
+				Ein Minschenpaar war man gemacht,<lb/>
+				Wo kam de Fru nu her?<lb/>
+				Ja, süh mal, Krohn, kein Sterbenswoort<lb/>
+				Steht weiter davon drein,<lb/>
+				Er ging nach einem andern Oort,<lb/>
+				Da mochten wohl was sein!<lb/>
+				De Köster aber was verdutzt<lb/>
+				Un brummt: Dat is tum Häng'n,<lb/>
+				Wat hett de Jung' doa upgemutzt!<lb/>
+				Wat sall ick doarup segg'n? —<lb/>
+				Doch as de Ogen he upschleit<lb/>
+				Umfallen hadd he mücht -<lb/>
+				Süht he, dat Doalkens Jung' doa steid<lb/>
+				Un höllt de Hand in d' Hüchd!<lb/>
+				<pb facs="../img/hill-1868/0033_p033.jpg"/>
+				33<lb/>
+				Dat was nu erst de rechte Rang',<lb/>
+				Hadd' ümmer 'n koddrig' Schnuut;<lb/>
+				Herrje, stähnt Tech, nu ward mi bang'!<lb/>
+				Wat tüftelt De noch rut?<lb/>
+				Doch mit de Wiel doa foat't he sich;<lb/>
+				Sag', Dahlke, froog he nu,<lb/>
+				Was hast Du? ist 's was Wichtig's nich,<lb/>
+				So laß uns man in Ruh'!<lb/>
+				Herr Tech, ick hebb dat öaberdacht,<lb/>
+				Woher de Fru is koam'<lb/>
+				Dem Oadam wurd' doch öaber Nacht<lb/>
+				Een Riwwstück ruter noahm,<lb/>
+				Nu, dücht mi, is doch dat ganz kloar,<lb/>
+				Dat dat bie Een't nich bleef,<lb/>
+				Süss was jo Oadam oapenboar<lb/>
+				Am annern Morgen scheef!<lb/>
+				Twee sünd gewiß em utgehoakt,<lb/>
+				So hebb ick mi geseggt,<lb/>
+				Ut Een' is nu de Eva moakt,<lb/>
+				De Anner weg geleggt!<lb/>
+				<pb facs="../img/hill-1868/0034_p034.jpg"/>
+				34<lb/>
+				Dat kamm dem Düwel woll to Paß<lb/>
+				De kamm nu angerönnt,<lb/>
+				Nimmt fix de Riww', paßt up, un as<lb/>
+				De Herr den Rüggen wend't,<lb/>
+				Doa möckt he, dat dat man so wischt,<lb/>
+				Ne junge Fru doavan;<lb/>
+				Tööf, Oadam, denkt he, helpt Di nüscht,<lb/>
+				An 'n Appel sast Du ran!<lb/>
+				Hm — der Gedanke ist nicht schlecht,<lb/>
+				Der Teufel ist voll List,<lb/>
+				Wer weiß, Du hast am Ende Recht,<lb/>
+				Daß das wohl möglich ist,<lb/>
+				Seggt Köster Tech, doch as to Enn<lb/>
+				De Schoolstunn, wurd' he schwach,<lb/>
+				Sackt ganz bedröwt up d'Schoolbank hen<lb/>
+				Un seufzt mit Weh un Ach:<lb/>
+				Nä, nä, de Welt is hüt nich mehr<lb/>
+				In Eenfalt to erholl'n,<lb/>
+				Allwiel is all so 'n hartlich Jöahr<lb/>
+				Väl klööker, as wie Oll'n!<lb/>
+				<pb facs="../img/hill-1868/0035_p035.jpg"/>
+				35<lb/>
+				10. Wie oll selig Uehz moal up 'n<lb/>
+				Liem güng.<lb/>
+				Oll Fritza Uehz was all bejoahrt,<lb/>
+				He hadd' nich Kind noch Fru,<lb/>
+				Was Koopmann west un hadd' gespoart,<lb/>
+				Drüm sett't he sich to Ruh;<lb/>
+				Un wiel he in keen' Predigt fehlt,<lb/>
+				Was ook tom Kirchenroath he wählt.<lb/>
+				Keen besser Leben dat woll gaff,<lb/>
+				As ’t Fritza Uehz geföhrt,<lb/>
+				Vöarmiddags leep he ’n Kirchhof af,<lb/>
+				Doamit he nüscht vertährt,<lb/>
+				Un hadd' he denn dat Middag rin,<lb/>
+				Schleep sacht he up den Grootstohl in.<lb/>
+				Noah 'm Kaffee langt sich Fritza Uehz<lb/>
+				Vom Noagel Hoot un Rock,<lb/>
+				De linke Hand läd' he in '’t Krüüz,<lb/>
+				Namm rechts den gälen Stock,<lb/>
+				Tog sich de Voatermörder rup<lb/>
+				Un güng tom Zückerwoater=Club,<lb/>
+				<pb facs="../img/hill-1868/0036_p036.jpg"/>
+				36<lb/>
+				So läwt he still, as wenn he sacht<lb/>
+				Von Hommelneeren dröömt,<lb/>
+				Dat jeder Minsch von em hett dacht,<lb/>
+				Dat he keen Woater löhmt,<lb/>
+				Proos't=Moahltied! eens beet ook de Mann<lb/>
+				Wie Oadam up ’n Appel an.<lb/>
+				Dem Fohrmann Strohm sien' lange Fru,<lb/>
+				De stook em in de Schnuut;<lb/>
+				Wat was dat Wief doch stramm un glu,<lb/>
+				Föar Fritzen wie so n’ Bruut.<lb/>
+				Ganz heemlich, dat keen Minsch wat wußt,<lb/>
+				Hebb'n se sich Oabend's afgepußt!<lb/>
+				Eens sett't he Middags ook sich doal<lb/>
+				Un nusselt eben in,<lb/>
+				Doa kloppt dat an, un mit 'm Moal<lb/>
+				Kümmt fix 'n Mäken rin,<lb/>
+				Schüfft Uehz 'n Breefken in de Hand<lb/>
+				Un rönnt ook wedder foort aland!<lb/>
+				Uns' Fritza riegelt af ganz still —<lb/>
+				De Breef was von de Fru —<lb/>
+				Schoof up de Näs' de hörnern' Brill',<lb/>
+				<pb facs="../img/hill-1868/0037_p037.jpg"/>
+				37<lb/>
+				Em wurd' ganz oartlich* nu,<lb/>
+				Geliebtes Leben! Heut um Neun<lb/>
+				So schreef se, bin ich ganz allein!<lb/>
+				Jetzt endlich kommt der Augenblick,<lb/>
+				Mein Fritz, ganz Dein zu sein,<lb/>
+				O säume nicht, mein Herz, mein Glück,<lb/>
+				Auf ewig Dein!<lb/>
+				Und komm!<lb/>
+				Links hadd' de Breef ne blaue Bloom,<lb/>
+				Un drunner stund: Rosaura Strohm!<lb/>
+				Dat was so wat föar unsen Oll'n,<lb/>
+				He wurd' üm d' Näs' ganz witt,<lb/>
+				Kuum kunn den Breef he ruhig holl'n,<lb/>
+				So sehr bewegt em dit;<lb/>
+				De Klock hadd' noch nich Nägen schloan,<lb/>
+				Doa deed he noah Rosaura goahn.<lb/>
+				Ach, bist Du endlich da mein Schatz?<lb/>
+				Wat hab' ick mir gesehnt!<lb/>
+				Reep se, un gaff em Schmatz up Schmatz,<lb/>
+				* eigenthümlich zu Muthe.<lb/>
+				<pb facs="../img/hill-1868/0038_p038.jpg"/>
+				38<lb/>
+				Dat Fritza ord'ntlich stähnt,<lb/>
+				Drup nimmt se Hoot un Stock em af<lb/>
+				Un treckt em up dat Sopha raf.<lb/>
+				Se hadd' em starken Thee gekoakt<lb/>
+				Un Brod un Zwieback bröcht<lb/>
+				Un Zieskenwost em warm gemoakt,<lb/>
+				Dat leggt se em to torecht;<lb/>
+				So seeten Sied an Sied se nu<lb/>
+				Un spiesten still as Mann un Fru.<lb/>
+				Se nödigt: Nimm Dich doch, mein Kind,<lb/>
+				Da is noch Zwieback drin,<lb/>
+				Un wenn er Dich zu hart sull sind,<lb/>
+				Denn stipp 'n Dich doch in!<lb/>
+				Un Fritza stippt un drinkt doato,<lb/>
+				Sien Läwdoag was he nich so froh!<lb/>
+				Un as he nu so sitt un stoppt,<lb/>
+				Doa schleit de Köter an,<lb/>
+				Togliek ward an dat Fenster kloppt<lb/>
+				Herrje! dat is mein Mann!<lb/>
+				So seggt Rosaura, — fass' Dich man,<lb/>
+				Will seh'n, ob ich uns retten kann!<lb/>
+				<pb facs="../img/hill-1868/0039_p039.jpg"/>
+				39<lb/>
+				Se schloot nu ruhig up de Döahr,<lb/>
+				Un Fohrmann Strohm kümmt rin;<lb/>
+				Uns' Fritza kümmt ganz dumm sich vöar,<lb/>
+				Ganz schwach ward em to Sinn,<lb/>
+				De Schreck was em in d' Knoaken schloan,<lb/>
+				He kunn up siene Been' nich stoahn.<lb/>
+				Ach, seggt Fru Strohm, wat is dat schön,<lb/>
+				Du kümmst to rechter Tied<lb/>
+				Hest Du all doa Herr Uehzen sehn?<lb/>
+				Dat is 'n Glücksdag hüt!<lb/>
+				Mi wunnert, dat di ’t Ohr nich klingt;<lb/>
+				Du glöwst nich, wat Herr Uehz uns bringt!<lb/>
+				Strohm tratt an den Besöök nu ran<lb/>
+				Un langt de Hand em hen,<lb/>
+				Doch kiekt he Uehz ganz putzig an<lb/>
+				Un fröggt am letzten Enn:<lb/>
+				Na, Rös'ken, moak mi nich verblüfft,<lb/>
+				Un seeg doch, wat ’t föar 'n Glück denn gifft!<lb/>
+				Na, denk Di blos de Fründlichkeit,<lb/>
+				Herr Uehzen is hüt seggt:<lb/>
+				Wi weeren in Verlegenheit<lb/>
+				<pb facs="../img/hill-1868/0040_p040.jpg"/>
+				40<lb/>
+				Uem Geld, dat güng' uns schlecht!<lb/>
+				Nu denk' Di moal, de goode Mann,<lb/>
+				De kümmt und bütt sien' Hülp uns an!<lb/>
+				Wenn he uns irgend deenen künn,<lb/>
+				Wenn Geld uns nödig weer,<lb/>
+				Dreehunnert Doaler müchten ’t sinn,<lb/>
+				De geew he uns woll her.<lb/>
+				Nä, denk Di, Hans, wat uns dat glückt;<lb/>
+				Den Mann hett uns de Himmel schickt!<lb/>
+				Middwiel hadd' Uehz sich nu verhoalt,<lb/>
+				Em wurd' de Standpunkt kloar;<lb/>
+				He schloot bie sich: Wer hier nich toahlt,<lb/>
+				De lett sien Fell un Hoar,<lb/>
+				Biet man, denkt he in sienem Sinn,<lb/>
+				Hüt in den suren Appel rin!<lb/>
+				Un doa he nich gliek toahlen kann,<lb/>
+				Treckt he de Breeftasch' rut<lb/>
+				Un stellt, wiel he nich anners kann,<lb/>
+				Vöar Angst 'n Wechsel ut,<lb/>
+				Un as dat Ding he von sich gaff,<lb/>
+				Namm Hoot un Stock he un güng af.<lb/>
+				<pb facs="../img/hill-1868/0041_p041.jpg"/>
+				41<lb/>
+				Doch was he kuum ut d' Huusdöahr rut<lb/>
+				Un hadd' den Rüggen frie,<lb/>
+				Doa schloog he sich vöar ’n Kopp vull Wuth<lb/>
+				Un schimpt sich ut doabi:<lb/>
+				Fritz, Fritz, Du müßt Di sülwsten schloan,<lb/>
+				Wat büst Du up 'n Liem hüt goahn!<lb/>
+				11. De Gräffniß.<lb/>
+				Fru Schulten was in grootem Groam,<lb/>
+				Een dod'gen Jung' was angekoam'<lb/>
+				Dat arme Wief, dat grämt sich sehr,<lb/>
+				Wat hadd' se freut sich to dat Jöahr!<lb/>
+				Se schreeg un roart, de arme Fru,<lb/>
+				Aehr erstet Kind — doa lagg dat nu!<lb/>
+				Wat meenst Du, Fieken, seggt de Mann,<lb/>
+				Kiek Di dat lütte Wesen an,<lb/>
+				Een Minsch is jo dat Worm noch nich —<lb/>
+				Dat Best', dücht mi, is sicherlich,<lb/>
+				Wie leggen ’t in n' Schachtel rin<lb/>
+				Un groaben ’t unner 'm Bäärboom in!<lb/>
+				<pb facs="../img/hill-1868/0042_p042.jpg"/>
+				42<lb/>
+				Bewoahr uns Gott! wat föllt Di in,<lb/>
+				Nä, Mann, dat weer ne groote Sünn,<lb/>
+				Doato is mi mien Kind to leef,<lb/>
+				Dat ick ’t wie '’n Veeh in 'n Goarden gröf,<lb/>
+				Nä, in geweihtem Bodden sall<lb/>
+				Dat ruh'n, so goot as wie wi All'!<lb/>
+				Schult räkent nu de Kosten her,<lb/>
+				Stellt Fieken ganz vernünftig vöar,<lb/>
+				Dat doch dat Geld so dick nich seet,<lb/>
+				Dat man 't unnütz in d' Erd' rin schmeet;<lb/>
+				Dat hulp em nüscht, he mußt' sich finn'n,<lb/>
+				Sien Fieken kunn ’t nich öaberwinn'n!<lb/>
+				Drüm heel he endlich ook dat Muul,<lb/>
+				Güng af bestellt de kleene Kuul,<lb/>
+				Un ook bie 'm Discher geid he rau:<lb/>
+				Bestellt 'n Saark sich bie dem Mann,<lb/>
+				Moackt mit dem Kuulengräber af,<lb/>
+				Dat he dat Kind em bringt to Graff.<lb/>
+				Uns' Schult was bi de Isenboahn,<lb/>
+				Mußt' Dag vöar Dag tom Boahnhof goahn,<lb/>
+				Kunn drümm nich, dat feel gliek em in,<lb/>
+				<pb facs="../img/hill-1868/0043_p043.jpg"/>
+				48<lb/>
+				Am annern Morg'n bie d' Gräffniß sinn,<lb/>
+				Hadd' nu dem Kuulengräber seggt,<lb/>
+				Dat he dat Kind noah 'm Kirchhof bröcht.<lb/>
+				Un pünktlich kamm de goode Mann<lb/>
+				Am annern Dag im Tru'rhuus an;<lb/>
+				Fru Schulten lagg noch still im Bett;<lb/>
+				Ach Gott, seggt se, wat is datt nett,<lb/>
+				Nu kriggt dat arme Worm sien Recht<lb/>
+				Un ward doch up 'n Kirchhof bröcht;<lb/>
+				Doa in de Kommer bie dem Kohl,<lb/>
+				Doa steit dat Saarkken up 'n Stohl.<lb/>
+				Un boaben up dat Kleederspind<lb/>
+				Doa steit de Schachtel mit dat Kind,<lb/>
+				Doch loaten S' man dat Worm doadrin,<lb/>
+				Legg'n S' ’t so wie ’t is in ’t Saark man rin.<lb/>
+				De Mann deit, as de Fru em seggt,<lb/>
+				In ’t Saark he rin de Schachtel leggt,<lb/>
+				Schrüfft drup ganz sacht den Deckel an,<lb/>
+				Nimmt af den Hoot — de goode Mann<lb/>
+				Un bädit noch föar dat arme Jöghr<lb/>
+				Ganz still 'n Voaterunser her.<lb/>
+				<pb facs="../img/hill-1868/0044_p044.jpg"/>
+				44<lb/>
+				Doarup geid mit dat Saark he af,<lb/>
+				Dröggt ’t hen noah 'm Kirchhof, legt ’t in ’t Graff,<lb/>
+				Brummt noch doabie, noah christlich Oart,<lb/>
+				Sien Voaterunser in den Boart,<lb/>
+				Schippt to de Kuul un sett't 'n Poahl<lb/>
+				Un geid nu noah sien Hüüsken doal.<lb/>
+				Wie Leed un Lust sich folgt alltied,<lb/>
+				Was Wiehnachtshilgenoabend hüt,<lb/>
+				Drüm hadd' Fritz Schult im Putzgeschäft<lb/>
+				Den Dag vöarher 'n Hüwken köfft<lb/>
+				Föar siene Fru, mit blauem Band,<lb/>
+				De Strich doaran von ächte Kant.<lb/>
+				Un 'n grotet Peperkookenstück,<lb/>
+				As wenigstens twee Finger dick,<lb/>
+				Da hadd' he unveroapenboart<lb/>
+				In n' Schachtel up dat Spind verwoahrt,<lb/>
+				Drüm kamm am Oabend ook de Mann<lb/>
+				So recht vergnöögt bie Fieken an.<lb/>
+				Knapp hadd' he gooden Oabend seggt<lb/>
+				Un Mütz' nn Stäbel afgeleggt,<lb/>
+				Geid he ganz still noah d' Kommer rin,<lb/>
+				<pb facs="../img/hill-1868/0045_p045.jpg"/>
+				45<lb/>
+				Un denkt bi sich in sienem Sinn:<lb/>
+				Wat Fieken woll föar Oogen möckt,<lb/>
+				Wenn se dat Hüüwken ruter treckt!<lb/>
+				He grabbelt up dat Spind nu rüm<lb/>
+				Un stött twee Pött im Düstern üm;<lb/>
+				Mank all' Scharteken, de doa stunn'n,<lb/>
+				Was nich so licht de Schachtel funn'n:<lb/>
+				Jitzt endlich hadd' he s', tratt in d' Stuuw'<lb/>
+				Uu seggt: Hier, Fieken, hest ’n Huuw'!<lb/>
+				Drupp gifft he ähr de Schachtel hen,<lb/>
+				De Fru de sett't sich öaberrenn<lb/>
+				Un nimmt den Deckel in de Hüchd, —<lb/>
+				Herrje, wat kreeg se to Gesicht -<lb/>
+				Statt Kooken un statt Huuw' mit Band<lb/>
+				Föllt ähr dat Kind, dat Worm, in d'Hand!<lb/>
+				De Kuulengräber was hüt koam'<lb/>
+				Un hadd 'n unrecht Schachtel noahm,<lb/>
+				Was mit de Huuw noah 'm Kirchhof goahn,<lb/>
+				Dat Kind, dat arme Worm, bleef stoahn;<lb/>
+				* aufrecht.<lb/>
+				<pb facs="../img/hill-1868/0046_p046.jpg"/>
+				.<lb/>
+				46<lb/>
+				Vöar Schreck beschwöögt* dat arme Wief,<lb/>
+				Ook Schult de stunn vöar Schreck ganz stief.<lb/>
+				Doch foat't he sich as Mann geschwinn,<lb/>
+				Packt de Proos't=Moahltied wedder in,<lb/>
+				Un geid doamit noah 'm Goarden raf,<lb/>
+				Möckt unner 'm Bäärboom fix 'n Graff,<lb/>
+				Doa gröfft he ’t in un denkt bie sich:<lb/>
+				Dem Schicksoalswill'n entgeid man nich!<lb/>
+				12. De Stommerbück.<lb/>
+				All Oabend in dem Kroog to Schmölln<lb/>
+				Was Schooster Quandt to finn'n<lb/>
+				Mucht gärn sich doa wat Nieg's vertell'n<lb/>
+				Mit siene gooden Frünn'n.<lb/>
+				He was jo ook de Klöökst' von All'n,<lb/>
+				Doch wenn dem gooden Mann<lb/>
+				Moal Eener in de Red' deed' fall'n,<lb/>
+				Füng he to stommern an.<lb/>
+				* wurde ohnmächtig.<lb/>
+				1<lb/>
+				<pb facs="../img/hill-1868/0047_p047.jpg"/>
+				41<lb/>
+				He was denn aber ook nich fuul,<lb/>
+				Wer denn nich an sich heel,<lb/>
+				De hadd' ook gliek Eens in dat Muul,<lb/>
+				Dat up de Sied' he feel.<lb/>
+				Hüt hadd' he recht wat Wichtig's vöar,<lb/>
+				Dat sach man gliek em an,<lb/>
+				Knapp was he in de Stubendöahr,<lb/>
+				Füng he sien'n Semp ook an:<lb/>
+				Nä, wat sich Allens doch begifft,<lb/>
+				Wo hett man so wat hört,<lb/>
+				Denkt blos, wat hüt de Zeitung schrift,<lb/>
+				Wat wedder is passeert:<lb/>
+				Doa unnen in de Wallachei,<lb/>
+				Doa hebb'n se ungefroagt<lb/>
+				Aehr'n Fürsten Kusa mit Juchei<lb/>
+				Tom Land' jitzt ruter joagt!<lb/>
+				Gäft Acht, glatt ward de Sach nich goahn,<lb/>
+				De Russ' de nimmt dat Land,<lb/>
+				Un denn ward Allens up om schloan,<lb/>
+				Europa kümmt in Brand!<lb/>
+				<pb facs="../img/hill-1868/0048_p048.jpg"/>
+				48<lb/>
+				Nu söal'n Ii sehn, de Preuß' paßt up,<lb/>
+				Schloan se de Köpp' sich in,<lb/>
+				Denn geid he fix noah Holsteen rup<lb/>
+				Un bringt doa Ordnung rin! —<lb/>
+				Am annern Disch, ganz unbeacht't,<lb/>
+				Satt bie 'm Glas Beer een Mann,<lb/>
+				Dat was ut Grimm de Schnieder Pracht,<lb/>
+				De tratt nu nehger ran,<lb/>
+				Namm sich dat Woort un seggt: Wa — wat<lb/>
+				Se doa geseggt von Krieg,<lb/>
+				- da-<lb/>
+				Nehm S’ ’t nich föar ungoot, da¬<lb/>
+				- dat<lb/>
+				Is du — du — dummes Tüg!<lb/>
+				Un Pr — Pr — Preußen geid vöar d' Hand<lb/>
+				Ook nich in Holsteen rin,<lb/>
+				Sch — schloan Se sich den Br— Br— Brand<lb/>
+				Man ümmer ut 'm Sinn!<lb/>
+				Wa — wa — wa — wat? seggt Schooster Quandt<lb/>
+				Un richt't sich wüthend up,<lb/>
+				Höllt He nich ball den Ra — Ra — Rand,<lb/>
+				Denn kriggt He noch wat drup!<lb/>
+				<pb facs="../img/hill-1868/0049_p049.jpg"/>
+				49<lb/>
+				Wat? seggt nu Pracht, Du F— F— Flöaz!<lb/>
+				Du re—re— red'st mi noah?<lb/>
+				Schwapp, hadd de Schooster Eens an 'n Döaz;<lb/>
+				Da, L— L— Lump, nu goah!<lb/>
+				De Schooster Quandt wurd' blau vöar Wuth,<lb/>
+				Du sch — sch — schleist? tö — tööf!<lb/>
+				Drup schleit he Pracht'n in de Schnut,<lb/>
+				Dat man dat Bloot so dreef;<lb/>
+				Se packten grimmig sich bie 'm Schlunk,<lb/>
+				Un wreuschten Beid' sich doal,<lb/>
+				Dat gaf so mängen düstern Druck,<lb/>
+				Se bröllten Moal um Moal.<lb/>
+				Erst as se ganz sich afmaracht<lb/>
+				Un richtig mööd hadd'n moakt,<lb/>
+				Doa segt to Quandt de Schnieder Pracht:<lb/>
+				. **<lb/>
+				Wie hebb'n uns noog dreschoan,<lb/>
+				Jitzt sünn wie w —w — wedder Frünn,<lb/>
+				D — Du so goot as ick,<lb/>
+				* bis zur Erschöpfung abgearbeitet.<lb/>
+				*<lb/>
+				gedroschen (auf schlagen angewendet).<lb/>
+				7-<lb/>
+				<pb facs="../img/hill-1868/0050_p050.jpg"/>
+				50<lb/>
+				W— wi all Beid', wi s— s— sünn<lb/>
+				Jo Stommerb — b —b — bück'!<lb/>
+				13. Ach segg dat nich!<lb/>
+				Dat Spinnrad schnur<lb/>
+				De Koater spurrt,<lb/>
+				Oll Philax de liggt hinner d' Hell<lb/>
+				Un schuppt verdreetlich sich dat Fell,<lb/>
+				De Kehn de flackert im Kammin,<lb/>
+				Up d' Oabenbank sitt Voater Riehn,<lb/>
+				Kiekt in dat Fü'r un rookt Toback,<lb/>
+				De Klock de geid: Tick, Tack, Tick, Tack.<lb/>
+				Sacht fall'n em so<lb/>
+				De Ogen to,<lb/>
+				He hogoapt* woll noch een Poarmoal<lb/>
+				Allmälig sackt de Kopp em doahl,<lb/>
+				Bald fängt he ook to schnorken an,<lb/>
+				He was so mööd', de olle Mann.<lb/>
+				Woll Dem, de Ruh' tom Schloapen hett,<lb/>
+				Im Schloap de Minsch sien Noth vergett.<lb/>
+				* gähnt.<lb/>
+				<pb facs="../img/hill-1868/0051_p051.jpg"/>
+				51<lb/>
+				Dat Spinnrad schnurrt,<lb/>
+				De Koater spurrt,<lb/>
+				Un Mutter Riehn'sch sitt up 'n Stohl,<lb/>
+				Wat drähgt se fix de Heedenspohl!<lb/>
+				Se denkt so an de Jugendtied,<lb/>
+				Wat was dat dunn, wat is dat hüt,<lb/>
+				So wenig Freud', so vääl de Noth,<lb/>
+				Wer weet, seggt se, wo noah de Doød!<lb/>
+				Un as se sinnt<lb/>
+				Un sachten spinnt<lb/>
+				Föllt unversehens mit 'm Moal<lb/>
+				Oll Voater Riehn sien Piepken doal,<lb/>
+				He hadd dat Muul nich togeholl'n,<lb/>
+				Drüm was de Piep' em ruter foll'n,<lb/>
+				In Stücken lagg se em vöar d' Fööt,<lb/>
+				Vöar Schreck wurd' em ball kolt, ball heet!<lb/>
+				Mien Drohm is ut,<lb/>
+				Nu bün ick rut,<lb/>
+				Seggt Voater Riehn, ick hebb dat wüßt,<lb/>
+				Dat hüt 'n Unglück kommen müßt,<lb/>
+				Ick hebb de Nacht vääl Woater löhmt,<lb/>
+				Un ook von dickem Rook gedröömt,<lb/>
+				<pb facs="../img/hill-1868/0052_p052.jpg"/>
+				52<lb/>
+				Dat hebb ick oft all afprobeert,<lb/>
+				Dat mi denn ümmer wat passeert!<lb/>
+				Wat ick ook doh,<lb/>
+				Dat is moal so,<lb/>
+				Dat Unglück folgt mi Schritt üm Schritt,<lb/>
+				Wohen ick goah, doa nehm ick ’t mit,<lb/>
+				To Last is mi dat Leben all,<lb/>
+				Ick wull, dat güng to Eunen ball,<lb/>
+				Up disse Welt is ’t doch nüscht mehr,<lb/>
+				Wenn ’t man erst öaberwunnen weer!<lb/>
+				Ach segg dat nich,<lb/>
+				Glööw sicherlich,<lb/>
+				Seggt Mutter Rien'sch, dat is nich mehr<lb/>
+				Doa boaben as't vöar Dissen weer,<lb/>
+				De Andrang is all goar to groot,<lb/>
+				Glööw man, man kriggt doa ook sien Noth,<lb/>
+				Un denn dat Starben — nä, mi dücht,<lb/>
+				Dat ick noch lang nich starben mücht!<lb/>
+				:<lb/>
+				<pb facs="../img/hill-1868/0053_p053.jpg"/>
+				53<lb/>
+				14. De Wunnerdocter.<lb/>
+				De Welt deit immer wieder schrieden<lb/>
+				In Klookheit und Gelehrsoamkeit,<lb/>
+				An ’t Hexen, wie in ollen Tieden,<lb/>
+				Keen Minsch woll mehr recht glooben deit;<lb/>
+				Doch Mängen is wat upgedoahn,<lb/>
+				Wat ook de Klöökst nich deit verstoahn!<lb/>
+				Dat hebb ick körtlings man erfoahren,<lb/>
+				Weet hüt noch nich, wie ’t möaglich west,<lb/>
+				Drüm will ick ’t Ju veroapenboaren,<lb/>
+				Valicht weet Eener, de dit lesst,<lb/>
+				Mit Docterie so wat Bescheid,<lb/>
+				Dat he sich dat verkloaren deit.<lb/>
+				Doa is een Mann in Stoltenhoagen,<lb/>
+				De gifft mi Docterie sich af;<lb/>
+				All Mängen hadd de Dood am Kroagen,<lb/>
+				He hett em rett't von Saark und Graff,<lb/>
+				He deit kureren, wat Ii will'n,<lb/>
+				Kann böten un dat Bloot ook still'n.<lb/>
+				<pb facs="../img/hill-1868/0054_p054.jpg"/>
+				54<lb/>
+				Dat gifft woll nich so licht Sien'sglieken,<lb/>
+				He brukt de Kranken nich to sehn,<lb/>
+				Kann he dat Woater blos bekieken,<lb/>
+				Denn is all Allens good un schön,<lb/>
+				Sowie he doa een Oog drupschleit,<lb/>
+				So weet he gliek, wat nödig deit.<lb/>
+				Mien Fru was letzt von d'Trepp runn fallen,<lb/>
+				Se kunn vöar Wehdoag goar nich stoahn,<lb/>
+				Nu wurd' ick togered't von Allen,<lb/>
+				Ick süll tom Wunnerdocter goahn,<lb/>
+				Un nehmen von ähr Woater mit,<lb/>
+				Denn wüßt he gliek, wo ähr dat sitt.<lb/>
+				Nu hebb ick zwoar in mienem Leben<lb/>
+				Nüscht hollen von Quacksalberie,<lb/>
+				Doch — wist em wat to roaden geben,<lb/>
+				Dem Wunnermann, — dacht ick bie mie,<lb/>
+				Dien' Fru is doch üm ’t Herz gesund!<lb/>
+				Wat em woll deit dat Woater kund.<lb/>
+				De Reis' güng los noah Stoltenhoagen,<lb/>
+				Kuum hört de Kärl up mien'n Bericht,<lb/>
+				So füng he an, mi uttofroagen,<lb/>
+				<pb facs="../img/hill-1868/0055_p055.jpg"/>
+				—<lb/>
+				55<lb/>
+				Wat woll mien Fru recht fehlen mücht;<lb/>
+				Proos't Moahltied, dacht ick, holl Dien Schnut,<lb/>
+				Ut mi fröggst Du gewiß nüscht rut!<lb/>
+				Mien goode Mann, so deed ick spräken,<lb/>
+				So 'n Krankheitskroam verstoah ick schlecht,<lb/>
+				Se müdden sülwst dat ruter räken,<lb/>
+				Ick hebb. mien Fru ähr Woater bröcht,<lb/>
+				Hier is de Buddel, mien good' Mann,<lb/>
+				Sehn Se sich doch dat Tügs moal an!<lb/>
+				He deed dat gegen ’t Licht bekieken,<lb/>
+				So 'n Tein Minuten her un hen,<lb/>
+				Treckt af den Proppen, deit dran rüken<lb/>
+				Un seggt to mi am letzten Enn:<lb/>
+				Wenn ick de Woahrheit seggen sall,<lb/>
+				Dat is een sonderboarer Fall.<lb/>
+				Ick denk, ick sall mi öaberschloagen,<lb/>
+				Dat he dat sach, drup segg ick nu:<lb/>
+				Wat Se doa segg'n, is nich geloagen,<lb/>
+				Von d' Trepp' runn fallen is mien Fru;<lb/>
+				Doch seggen Se mi ook nu moal<lb/>
+				Noch, woväl Stuffen feel se doal?<lb/>
+				<pb facs="../img/hill-1868/0056_p056.jpg"/>
+				﻿56<lb/>
+				Dat will ick ball woll ruter finnen,<lb/>
+				Meent he un hölt das Glas an ’t Licht,<lb/>
+				Veer Stuffen, seggt he oahn Besinnen,<lb/>
+				Veer Stuffen, wenn nich Allens drügt!<lb/>
+				I na! roop ick, goahn Se doch af,<lb/>
+				Mien Fru feel Drüttein Stuffen raf.<lb/>
+				Un wedder deit he ’t Glas beögen,<lb/>
+				He höllt dat nochmoal gegen d' Sünn,<lb/>
+				Un seggt: Nä, nä, dat kann nich dreegen,<lb/>
+				Veer Stuffen sünd in ’t Glas man drin,<lb/>
+				Ick bliew doabie un hebb ook Recht,<lb/>
+				Süß hebb'n Se mi nich Allens bröcht!<lb/>
+				Nu füng ick an, Respect to foaten,<lb/>
+				Wat woll nich to verwunnern was,<lb/>
+				Dat Meist' hadd ick to Huus geloaten,<lb/>
+				De drütte Deel was man in 't Glas<lb/>
+				Drüm sääd ick: Mann, Se hebben Recht,<lb/>
+				Ihr Kunst de is föarwoahr nich schlecht!<lb/>
+				He gaf mi nu Wat intorieben,<lb/>
+				Ick sach, dat he den Kroam verstund,<lb/>
+				Ook Druppen deed he noch verschrieben<lb/>
+				<pb facs="../img/hill-1868/0057_p057.jpg"/>
+				57<lb/>
+				Acht Doag, dunn was mien Fru gesund.<lb/>
+				Nu froag ick, of in d' Stadt valicht<lb/>
+				Een Docter dat woll farig kriggt?<lb/>
+				15. De Kirchgang.<lb/>
+				Sündag was ’t, de Klocken deeden lüden,<lb/>
+				Un de Börger deeden in dat Gottshuus goahn,<lb/>
+				Koopmann Carow's Mäken sach von Wieden<lb/>
+				Bruer Willmann's Knecht im Dohrweg stoahn,<lb/>
+				Beid', so hadd'n se gistern sich versproaken,<lb/>
+				Wullen hüt 'n frommen Sündag moaken.<lb/>
+				Willmann's Michel güng doarnp vöaröaber,<lb/>
+				Steckt dat nieg' Gesangbook sich noch in,<lb/>
+				Größt noah Carow's Dört' ganz ehrboar röaber,<lb/>
+				Un so geid he in de Kirchdöahr rin;<lb/>
+				Un ook Dört' deit ut de Huusdöahr träden,<lb/>
+				Uem mit Micheln hüt tosoam to bäden.<lb/>
+				Dört' de kunn geschräben Schrift nich lesen,<lb/>
+				De Gesäng', de up de Toafel stünn'n<lb/>
+				Drüm was dat mit ähr so ’n eegen Wesen,<lb/>
+				<pb facs="../img/hill-1868/0058_p058.jpg"/>
+				58<lb/>
+				In dat Book hüt den Gesang to finn'n,<lb/>
+				Doch se denkt: Du müßt 'n Herz di foaten<lb/>
+				Un von Annern di dat lesen loaten.<lb/>
+				Unner d' Orgel stunn een Herr, de eben<lb/>
+				An de Toafel den Gefang sach an,<lb/>
+				Dört' de denkt: De kann Bescheid di geben,<lb/>
+				Is jo nüscht doabi, du fröggst den Mann,<lb/>
+				Wenn Du em een fründlich Woort deist geben,<lb/>
+				Ward he di doch woll to Willen leben.<lb/>
+				Ach, mien Herr, wull'n Se so good woll wesen,<lb/>
+				Un mi segg'n, wo de Gesang hüt hitt?<lb/>
+				Denn geschräben Schrift kann ick nich lesen,<lb/>
+				Un ick sing' doch gärn een Bäten mit!<lb/>
+				Fründlich geid he in up ähr Verlangen,<lb/>
+				Seggt: Wo ist der Liebste hingegangen.<lb/>
+				Dört' de hadd in ähren ganzen Leben<lb/>
+				Noch nich hört, dat so ’n Gesang dat gifft,<lb/>
+				Denkt jo nu nich anners, as dat eben<lb/>
+				Hier de Mann sien'n schlechten Spoaß bedrifft,<lb/>
+				* Porst'sches Gesangbuch.<lb/>
+				<pb facs="../img/hill-1868/0059_p059.jpg"/>
+				59<lb/>
+				Seggt em fix — up ’t Muul was se nich schloagen¬<lb/>
+				Doanoah hebb'n Se ’n Quark mi hier to froagen!<lb/>
+				16. De Bruutschuu.<lb/>
+				Gevadder Gloed' in Blankensee<lb/>
+				De was nich schlecht beschloagen,<lb/>
+				Dree Buurhöaf noah un noah hadd he<lb/>
+				Sich sacht tosoam gedroagen;<lb/>
+				Huus, Schün' un Stall was noagelnie,<lb/>
+				Sien Veehstand groot un glatt un glieh,<lb/>
+				Doabie — dat Geld to höpen<lb/>
+				Deed he ook Pandbreef köpen.<lb/>
+				Oft sääd he, wenn he mit sien Fru<lb/>
+				Sien'n Wollstand deed bespräken,<lb/>
+				Weetst Du, Regien', ick kann mi nu<lb/>
+				All to de Ämtlüd' räken<lb/>
+				Is schoad' blos, dat uns' eenzigst Kind,<lb/>
+				Uns' Fritza, mütt so dusslig sind,<lb/>
+				Groot as 'n Hoppenstoaken,<lb/>
+				Is nüscht ut em to moaken.<lb/>
+				<pb facs="../img/hill-1868/0060_p060.jpg"/>
+				60<lb/>
+				Du deist, as weer de Jung' verrückt,<lb/>
+				As deedst Du '’n Ossen föden,<lb/>
+				Fritz is nich dumm, blos ungeschickt!<lb/>
+				Seggt Mutter hüt to Glöden,<lb/>
+				De Bu'rjungs de sünn all nich fien,<lb/>
+				Een Hauklotz is keen' Vigelin',<lb/>
+				Wo kannst Du so woll reden,<lb/>
+				Loat mi den Jung'n tofreden!<lb/>
+				I. Mutter, meen ick denn dat schlecht?<lb/>
+				Dat Ding dat het sien'n Hoaken,<lb/>
+				Kiek moal, ick wull jo eben recht<lb/>
+				Den Jungen glücklich moaken;<lb/>
+				He is nu Fiefuntwintig Joahr,<lb/>
+				Wie müdden ball, dat is doch kloar,<lb/>
+				Em söken to verfriegen,<lb/>
+				Un n' Fru föar em to kriegen.<lb/>
+				Na, Voater, doarüm gräm' Di nich,<lb/>
+				Dat deit noch goarnich ilen,<lb/>
+				Dat möckt sich oft ganz wunnerlich<lb/>
+				Un ganz von sülwst towielen.<lb/>
+				Doamit hett dat noch goode Ruh',<lb/>
+				Un friegt he, find't he ook 'n Fru,<lb/>
+				<pb facs="../img/hill-1868/0061_p061.jpg"/>
+				61<lb/>
+				Denn Mäkens gifft ’t Gott's Segen,<lb/>
+				Un so'n ook, de wat wägen.<lb/>
+				Joa Mutter, süh, Du seggst dat so,<lb/>
+				He mütt doch so wat nehmen,<lb/>
+				Dat, wenn ick ’t Joawort geben doh,<lb/>
+				Ick mi nich bruuk to schämen;<lb/>
+				So ’n Fru de etwas Bildniß hett,<lb/>
+				Un as n' Amtmannsfru ook lett;<lb/>
+				Noah Geld bruukt he nich friegen,<lb/>
+				Dat deit genog he kriegen!<lb/>
+				Doa is den Koopmann Brandt sien Gret,<lb/>
+				De deit in d' Näs' mi stäken,<lb/>
+				Dat Mäken is so nett un sööt,<lb/>
+				Doa weer woll antospräken;<lb/>
+				Vermögen kriggt se ook ähr Deel,<lb/>
+				Un is dat woll nich alltoväl,<lb/>
+				So deit dat nüscht verschloagen,<lb/>
+				Wi dohn dat öaberdroagen.<lb/>
+				Drüm kreeg ick letzt ähr Mutter vöar,<lb/>
+				Dat Ding moal to bespräken,<lb/>
+				—<lb/>
+				Dat sünn valicht Dree Wochen her,<lb/>
+				<pb facs="../img/hill-1868/0062_p062.jpg"/>
+				62<lb/>
+				Drup red't se mit dat Mäken,<lb/>
+				Se sääd, as ick ähr gistern froog,<lb/>
+				Fritz weer zwoar Gret' nich fien genog,<lb/>
+				Doch würd' se sich besinnen,<lb/>
+				Dat mücht' sich woll noch finnen.<lb/>
+				Un üm de Kinner nu bekannt<lb/>
+				Un driest tosoam to moaken,<lb/>
+				So hebb ick denn mit Mund un Hand<lb/>
+				Aehr gistern fest versproaken,<lb/>
+				Mit Fritzen morg'n to Stadt to föhr'n,<lb/>
+				Doamit sich denn de beiden Jöahr'n<lb/>
+				Moal ord'ntlich köan'n beriken,<lb/>
+				Un in de Oogen kieken.<lb/>
+				Na Voater, wie mi schienen will,<lb/>
+				Hest Du 'n Noagel krägen,<lb/>
+				Ick bün to de Gesthicht ganz still,<lb/>
+				Denn Hochmuth bringt keen'n Segen,<lb/>
+				To unsen Fritz paßt Gretken Brandt,<lb/>
+				Wie in 'n Tru'rhuus de Mus'kant,<lb/>
+				Bliew hübsch bi Dien's Genoaten<lb/>
+				Denn warst Du nich verstoaten!<lb/>
+				<pb facs="../img/hill-1868/0063_p063.jpg"/>
+				63<lb/>
+				Wat hulp dat, Glöden hadd nu moal<lb/>
+				De Amtmannskitzel stoaken,<lb/>
+				Un was em dat ook woll fatoal,<lb/>
+				Wat sien' Regien' gesproaken,<lb/>
+				So dacht' he, wenn mien Fritz man will,<lb/>
+				Denn krieg ick Muttern ook noch still,<lb/>
+				Ick mütt mit em moal spräken,<lb/>
+				Of em geföllt dat Mäken.<lb/>
+				Mien Söahn, so sprak he, moak Di kloar,<lb/>
+				Wat ick Di hüt will seggen,<lb/>
+				Du büst jitzt Fiefuntwintig Joahr,<lb/>
+				Drüm wull'n wi öaberleggen,<lb/>
+				Of dat nich Tied weer allermeist,<lb/>
+				Dat Du Di ball verännern deist,<lb/>
+				Uem — blifft dat Ruh und Fräden<lb/>
+				De Würthschaft antoträden!<lb/>
+				Du weetst, mien Söahn, ick hebb wat spoart,<lb/>
+				Seit ick den Hof besäten,<lb/>
+				Du büst keen Bu'r gewöhnlich Oart,<lb/>
+				Kannst Di mit Amtslüd' mäten,<lb/>
+				Drüm noah Vermögen und noah Stand,<lb/>
+				Gift Di woll jeder Een' ähr Hand,<lb/>
+				<pb facs="../img/hill-1868/0064_p064.jpg"/>
+				64<lb/>
+				Du bruukst blos von so Välen<lb/>
+				De Best' Di uttowählen!<lb/>
+				Doa is de Gret' vom Koopmann Brandt,<lb/>
+				Mien Jung! de weer to kriegen,<lb/>
+				De Deern is hübsch un hett Verstand,<lb/>
+				Fritz! müchst Du de woll friegen?<lb/>
+				Wat is dat Mäken nett un glu,<lb/>
+				Dat weer so n’ richtig Amtmannsfru!<lb/>
+				Morg'n will'n wi röaberföhren,<lb/>
+				Denn red' moal mit de Deeren!<lb/>
+				Dat Mäken is man goar to fien,<lb/>
+				Seggt Fritza drup to Glöden,<lb/>
+				Ick weer mit Kösters ähr Karlin'<lb/>
+				Ook allermeist tofräden;<lb/>
+				Ick weet, dat Mäken is mi good,<lb/>
+				Uem ’t Geld hett ’t jo bi uns keen' Noth;<lb/>
+				Doch wiel wi dit besproaken<lb/>
+				Will'n wie moal röaber moaken!<lb/>
+				Un richtig dohn den annern Dag<lb/>
+				De Beiden afkutscheren,<lb/>
+				Se kommen up ’n Klockenschlag<lb/>
+				<pb facs="../img/hill-1868/0065_p065.jpg"/>
+				65<lb/>
+				Bi Brandten vöartoföhren,<lb/>
+				Un Mann un Fru kamm vöar de Döahr,<lb/>
+				Se freu'ten sich ook goar to sehr,<lb/>
+				Un hulpen ähr, vom Woagen<lb/>
+				De Soacken rinner droagen.<lb/>
+				Bi Brandts doa güng dat hoch hüt her;<lb/>
+				De Gäst' de muchten munkeln,<lb/>
+				Dat Greten ähr Verlobung weer,<lb/>
+				Wiel Allens hüt deed funkeln;<lb/>
+				Drüm as uns' Fritz nu rinner<lb/>
+				tratt,<lb/>
+				So markt man gliek, dat deed<lb/>
+				sich wat,<lb/>
+				Man sach von allen Sieden<lb/>
+				Up em as Bruutmann düden.<lb/>
+				Deed Fritz ook woll nich väl verstoahn<lb/>
+				Von grootgelehrten Soacken,<lb/>
+				So was to Stadt in d' School he goahn<lb/>
+				Un wußt sich woll to moaken;<lb/>
+				Sien Grundsatz was: Wer ’t Müülken höllt,<lb/>
+				So licht nich in Versökung föllt,<lb/>
+				Denn wer dat Woort will föhren,<lb/>
+				De kann sich licht blameeren.<lb/>
+				<pb facs="../img/hill-1868/0066_p066.jpg"/>
+				1<lb/>
+				66<lb/>
+				Drüm güng dat sowiet Alleus good,<lb/>
+				Oll Glöd' de deit sich freuen<lb/>
+				Un denkt bie sich, dat hett keen Noth,<lb/>
+				Dat sall mi nich gereuen;<lb/>
+				So güng dat endlich ook to Disch,<lb/>
+				Fr<lb/>
+				titz Glöd' de namm sich driest un frisch<lb/>
+				Den Stohl dicht an bie Greten,<lb/>
+				Uem Oahendbrod to äten.<lb/>
+				Von Hand to Hand ward rümmer reekt<lb/>
+				Dat fien' Geschirr mit Aeten,<lb/>
+				Von Allem Fritz wat rut sich söökt,<lb/>
+				Von jeder Sort 'n Bäten,<lb/>
+				Doch ümmer, wenn de Schöttel kümmt,<lb/>
+				Behöllt he, wenn he sich wat nimmt,<lb/>
+				Stets Goabel, Metz und Lepel,<lb/>
+				Hett ball doavon ’n Schepel.<lb/>
+				Dat Fruensvolk dat kiekt em an,<lb/>
+				Fängt heemlich an to gniddeln,<lb/>
+				Fritz grübelt dröaber noah: Wat kann<lb/>
+				De Mäkens woll so kiddeln?<lb/>
+				Doch endlich kiekt he nich mehr up<lb/>
+				Un ätt verdreetlich ümmer drup,<lb/>
+				<pb facs="../img/hill-1868/0067_p067.jpg"/>
+				67<lb/>
+				Un denkt: Du hest nüscht sproaken,<lb/>
+				Wat ähr den Spoaß künn moaken.<lb/>
+				He hadd sich Preßkopp upgedoahn,<lb/>
+				Doa süht he wedder eben<lb/>
+				De Deern mit d' Essigbuddel stoahn,<lb/>
+				De deit se em nu geben;<lb/>
+				Herrje! denkt he, nu deit sich wat,<lb/>
+				Up wat föar Oart genütt man dat?<lb/>
+				Hadd ick doch Achtung geben<lb/>
+				Up Greetken Brandt hierneben!<lb/>
+				Doch ball denkt he in sienen Sinn:<lb/>
+				Wat büst Du dumm, oa Himmel!<lb/>
+				Dat kann jo goarnüscht Anners sinn,<lb/>
+				As Brandwien — Korn mit Kümmel!<lb/>
+				Drüm was uns' Fritz ook nich to fuul,<lb/>
+				He settt de Buddel an dat Muul,<lb/>
+				Süppt, ehr he aftomoahnen,<lb/>
+				Dat em de Oogen throanen.<lb/>
+				Geroad, as wenn de Blitz schleit in,<lb/>
+				Füng Allens an to pruuschen,<lb/>
+				Oll Glöden ward ganz schwach to Sinn;<lb/>
+				<pb facs="../img/hill-1868/0068_p068.jpg"/>
+				68<lb/>
+				Fritz deit de Kehl' vertuuschen,<lb/>
+				Em was dat in de Luftröhr<lb/>
+				foll'n,<lb/>
+				Drüm künn he ’t bie sich nich beholl'n,<lb/>
+				Un ehr he sich kann drägen,<lb/>
+				Doa gaf ’t ’n Essigregen.<lb/>
+				Fritz höllt dat nu nich länger ut,<lb/>
+				Nimmt Hoot un Stock vom Noagel<lb/>
+				Un rönnt ut Stuuw' un Huusdöahr rut,<lb/>
+				As geef ’t bie Brandts hüt Toagel,<lb/>
+				Oll Glöd' steid up, denkt an Regien',<lb/>
+				Een Hauklotz is keen Vigelin,<lb/>
+				So brummt he, un deit lopen,<lb/>
+				Sich sienen Fritz to ropen.<lb/>
+				17. De Revü.<lb/>
+				Segg, Mutter! hest Du all erfoahren?<lb/>
+				Morg'n is dat in de Stadt moal schön!<lb/>
+				Uns' König will noah so väl Joahren<lb/>
+				In Poas'walk dat Reg'ment ees sehn;<lb/>
+				<pb facs="../img/hill-1868/0069_p069.jpg"/>
+				69<lb/>
+				Doa gifft dat wat to sehn un hören,<lb/>
+				Sprack Buer Fraud' to sien' Mari',<lb/>
+				Drüm will'n wi morgen rinner föhren,<lb/>
+				Du putzt Di hübsch, dat segg ick Di!<lb/>
+				Du sast moal sehen, alle Stroaten<lb/>
+				Sünd grön bestreut un wie geleckt,<lb/>
+				Un Foahnen hebb'n se ruter loaten,<lb/>
+				Quer öaber groot Galanjen treckt.<lb/>
+				In ’t Prenzlo'sch Dohr, doa kümmt he rinner<lb/>
+				Doa steid Gericht un Moagischtroat,<lb/>
+				De Geistlichkeit, de School'n, doahinner<lb/>
+				Steid noch de Schüttengüll paroat.<lb/>
+				Un 'n Ehrenpoort is upgeschloagen,<lb/>
+				Twölf witte Jumfern dohn doa stoahn,<lb/>
+				Doa stiggt de König ut 'n Woagen<lb/>
+				Un deit de Reegen runner goahn;<lb/>
+				Un hebb'n se sich nu angesproaken<lb/>
+				Uu sünn de Compelmenten ut,<lb/>
+				So deid he gliek to Peer sich moaken<lb/>
+				Un jöggt noah ’m Exerzeerplatz rut.<lb/>
+				<pb facs="../img/hill-1868/0070_p070.jpg"/>
+				70<lb/>
+				Nu kiek, Mari'! Du mußt man weeten,<lb/>
+				Doa höllt mit blankgetrecktt Gewehr,<lb/>
+				Mit Foahn, mit Pauken un Trumpeten<lb/>
+				Dat Karrasseer=Reg'ment to Peer;<lb/>
+				Dat mütt bie em vöarbie marscheeren,<lb/>
+				Un de Musik de blösst doato,<lb/>
+				Dennoasten dohn se exerzeeren,<lb/>
+				Ick segg Di, Fru! dat stööwt man so!<lb/>
+				To Foot, to Woagen un to rieden<lb/>
+				Is denn ganz Poas'walk up de Been'<lb/>
+				De Ämtlüd' koam'n von Noah un Wieden,<lb/>
+				Sich de Revü mit antosehn.<lb/>
+				Un twischen Prinzen un derglieken<lb/>
+				Doa hölt de König mit de Schwiet,<lb/>
+				Sich dat Manöver antokieken,<lb/>
+				Dat jeder Minsch em dütlich süht.<lb/>
+				Du settst Di morgen mit de Kinner<lb/>
+				To Woagen nu un putzt Di schön,<lb/>
+				Un föhrst mi denn noah Poas'walk rinner,<lb/>
+				Den Spoaß Di gründlich antosehn,<lb/>
+				<pb facs="../img/hill-1868/0071_p071.jpg"/>
+				71<lb/>
+				Wat mi betrefft, Du weetst, Mari'ken,<lb/>
+				Ick stunn doch bie de Grennadeer,<lb/>
+				Ick will mi dat to Peer bekieken,<lb/>
+				Denn seh ick von dem Kroam noch mehr.<lb/>
+				Ick soadel mi den Bruunen morgen,<lb/>
+				De von ’t Reg'ment is utrangeert,<lb/>
+				De Amtmann will mi 'n Riedtoom borgen,<lb/>
+				Un Schlag half Acht ward afmarscheert!<lb/>
+				De Klock de hadd' noch nich geschloagen,<lb/>
+				So heel uns' Fraud' ook all to Peer,<lb/>
+				De niege iserassig Woagen,<lb/>
+				Twee Strohsäck drup, stunn vöar de Döahr.<lb/>
+				Fru Frauden mit de beiden Kinner,<lb/>
+				Von Kopp to Foot ganz glieh un blank,<lb/>
+				De stiegen in den Woagen rinner,<lb/>
+				So güng ’t to Stadt dat Dörp entlang.<lb/>
+				Un Allens kamm, as Fraud' gesproaken,<lb/>
+				Knapp weeren man de Reden ut,<lb/>
+				De an de Ehrenpoort gesproaken,<lb/>
+				So güng dat tom Exeerplatz rut!<lb/>
+				<pb facs="../img/hill-1868/0072_p072.jpg"/>
+				72<lb/>
+				Häärnoth, wat deed dat blinkern, blitzen,<lb/>
+				Wat mook sich in de Sunn dat schön,<lb/>
+				Wat funkeln Helm un Degenspitzen!<lb/>
+				Mari' hadd' sowat noch nich sehn.<lb/>
+				Mank dat Gewäs' un mank dat Juchen<lb/>
+				Hört mit 'm Moal se ähren Oll'n<lb/>
+				Ook ganz arbarmlich bröll'n un fluchen<lb/>
+				He kann den Bruunen nich mehr holl'n.<lb/>
+				Knapp hört. dat Beest de Trumpeet bloasen,<lb/>
+				So stunn he up de Hinnenbeen,<lb/>
+				Füng an, mit Frauden los to roasen,<lb/>
+				Un ehr De wußt, wat em gescheh'n,<lb/>
+				Was midden in ’t Reg'ment he rinner<lb/>
+				De Bruun' kennt noch sien ollen Platz<lb/>
+				Vöar Schreck schreeg Knecht un Fru un Kinner,<lb/>
+				Dat güng mit Voatern Satz üm Satz.<lb/>
+				Dat was so wat föar de Saldoaten,<lb/>
+				Recht ähren Spoaß un Oeabermooth<lb/>
+				An Voater Frauden uttoloaten,<lb/>
+				Ball satt up d' Schullern em de Hoot.<lb/>
+				<pb facs="../img/hill-1868/0073_p073.jpg"/>
+				-*<lb/>
+				73<lb/>
+				Nu kunn he nich mehr üm sich kieken,<lb/>
+				De Angstschweet deit vöar 'm Kopp em stoahn,<lb/>
+				De Bruun' deit öaber 'n Platz wegstrieken,<lb/>
+				As süll dat üm de Welt rüm goahn.<lb/>
+				Wat mütt he sich gefallen loaten,<lb/>
+				Ganz wund reed he sich all den Stühz,<lb/>
+				Un af un to, von de Saldoaten,<lb/>
+				Schwenkt Eener em Eens in dat Krüz.<lb/>
+				Doch endlich deit de Jagd nu hollen,<lb/>
+				Von Schweet was Fraud' ganz quatschennatt,<lb/>
+				De König kümmt un süht den Ollen<lb/>
+				Doa hucken as so 'n Botterfatt.<lb/>
+				Doa fängt he fründlich an to grienen<lb/>
+				Un seggt: Bring't fort den armen Mann<lb/>
+				Mein Alterchen, mir hat geschienen,<lb/>
+				Daß Er noch tüchtig reiten kann?<lb/>
+				Wat? segt oll Fraud', ick düchtig rieden?<lb/>
+				Un strööpt sich ruter ut den Hoot,<lb/>
+				Mit mi hett dat nüscht to bedüden,<lb/>
+				Mien Peerd versteid dat aber good!<lb/>
+				<pb facs="../img/hill-1868/0074_p074.jpg"/>
+				74<lb/>
+				18. Allens kümmt von boaben!<lb/>
+				Trien Poagel'n güng in Sorgen recht,<lb/>
+				Was heemlich jo versproaken<lb/>
+				Mit ähren Voater sienen Knecht,<lb/>
+				Wull gärn ball Hochtied moaken;<lb/>
+				Doch as se sich veroapenboart,<lb/>
+				Hett Voater flookt und Mutter roart,<lb/>
+				Geschwoar'n, im ganzen Leben<lb/>
+				Aehr Joawoort nicht to geben.<lb/>
+				Doch Hans hett Trien stets vöargeholl'n,<lb/>
+				Wenn Beid' se fest bestünnen,<lb/>
+				Denn müßten ook toletzt de Oll'n<lb/>
+				Sich endlich doarin finnen;<lb/>
+				Trien süll up ähren Kopp bestoahn<lb/>
+				Un stramm to Liew' de Ollen goahn,<lb/>
+				Un in ’t Gemöth ähr ropen:<lb/>
+				Se müßt' dat sünst entlopen!<lb/>
+				Trien hadd' doarüm nu eenig Moal<lb/>
+				All mit de Ollen sproaken,<lb/>
+				<pb facs="../img/hill-1868/0075_p075.jpg"/>
+				75<lb/>
+				Doch gröter wurd' ähr Herzensquoal,<lb/>
+				Nüscht was doabi to moaken,<lb/>
+				Aehr Voater de schwoor dü'r un hoch,<lb/>
+				He hadd' nu von de Sach' genoog,<lb/>
+				Denn, wull se Hanns'n friegen<lb/>
+				Sull se keen'n Penning kriegen!<lb/>
+				Seitdem was ’t ook förr Hans'n schlecht,<lb/>
+				Nüscht kunn to Dank he moaken,<lb/>
+				Wat he ook deed, ’t was All nich recht,<lb/>
+				Keen goodes Woort wurd' sproaken;<lb/>
+				Güng Trien alleen in 'n Kohstall rin,<lb/>
+				Gliek was oll Poagel hinnendrin,<lb/>
+				Aehr to bespijoneeren,<lb/>
+				Mit Hans nich to verkehren.<lb/>
+				Drüm paßten se dat ümmer af:<lb/>
+				Wenn Poagel nich bie Wegen,<lb/>
+				Güng Trien fix noah den Kohstall raf,<lb/>
+				Dem Oll'n ne Näf to drägen,<lb/>
+				Uns' Hans de was denn ook nich wiet,<lb/>
+				Se hadden Beid' jo nich väl Tied,<lb/>
+				Wull'n se 'n Bäten schnütern<lb/>
+				Un heemlich sich wat klütern. —<lb/>
+				<pb facs="../img/hill-1868/0076_p076.jpg"/>
+				76<lb/>
+				Doch ball kreeg Voater Poagel Wind<lb/>
+				Un brummt: Dat will ick kriegen,<lb/>
+				Na tööf, Du ungeroaden Kind,<lb/>
+				Ick driew' Di ut dat Friegen!<lb/>
+				So deit he hüt vom Stohl upstoahn<lb/>
+				Un nimmt de Mütz, üm wegtogoahn,<lb/>
+				Knööpt sich 'n Bostdook unner<lb/>
+				Un geid de Dörpstroat runner;<lb/>
+				Doch bi de Koppel kehrt he üm,<lb/>
+				Deit noch torügg ees kieken,<lb/>
+				Un geid nu an de Goardens rüm,<lb/>
+				Sich hinnen rin to schlieken,<lb/>
+				Möckt in de Schüün' de Poort sich up,<lb/>
+				Krüppt heemlich up 'n Heustall rup,<lb/>
+				Uem doa sich to verstäken<lb/>
+				Un to belur'n dat Mäken.<lb/>
+				De Kohstall was mit Schleet* beleggt,<lb/>
+				De Heustall groad doaröaber,<lb/>
+				Hier sett ’t sich Poagel nu torecht,<lb/>
+				junge Fichtenstämme.<lb/>
+				<pb facs="../img/hill-1868/0077_p077.jpg"/>
+				77<lb/>
+				Hier süht he Allens öaber;<lb/>
+				Kuum hett he sich ook man plasseert,<lb/>
+				As he sien' Trien all kommen hört,<lb/>
+				Hans was ook gliek bie Wegen,<lb/>
+				Hadd' Trien to foaten krägen.<lb/>
+				Ach Gott! seggt Trien, mi is recht bang',<lb/>
+				Wo sall de Sach noch ennen,<lb/>
+				Nä, Hans! du'rt de Geschicht noch lang',<lb/>
+				Mutt ick in ’t Woater rönnen,<lb/>
+				Denn, weer ook woll de Schritt gedoahn,<lb/>
+				Dat ick mit Di von Huus' wull goahn,<lb/>
+				De Hunger stünn doahinner<lb/>
+				Föar uns un — föar uns' Kinner.<lb/>
+				I. Trien! seggt Hans, glööw mi gewiß,<lb/>
+				Büst Du man erst entschloaten,<lb/>
+				De Voater, de doa boaben is,<lb/>
+				De ward uns nich verloaten;<lb/>
+				Joa, Trienken, glööw mi sicherlich,<lb/>
+				De öaber uns verlett uns nich,<lb/>
+				Un hebb'n wi Kinner krägen,<lb/>
+				Denn gifft he uns ook Segen!<lb/>
+				<pb facs="../img/hill-1868/0078_p078.jpg"/>
+				78<lb/>
+				Ganz blau wurd' Poagel Moal üm Moal,<lb/>
+				Dat fehlt mi noch — ook Kinner?<lb/>
+				So schriggt he, springt von boaben doal,<lb/>
+				Groad in den Kohstall rinner<lb/>
+				Hier is de Utstü'r föar de Brut!<lb/>
+				Röppt he, un schleit den Hans in d'Schnut,<lb/>
+				Joa, joa, de gooden Goaben<lb/>
+				De kommen all' von boaben!<lb/>
+				19. De Theegesellschaft.<lb/>
+				Oll Rendant Sell' de hadd' keen Kinner,<lb/>
+				Was mit sien Fru man ganz alleen,<lb/>
+				Drüm namm he in sien'n Huusstand rinner<lb/>
+				Sien'n Schwoager, Joacob Angersteen.<lb/>
+				Mit Joacob was nich Allens richtig,<lb/>
+				Hadd' nämlich nich so recht sien'n Schick,<lb/>
+				Mook väl dumm Tüg un fratt recht düchtig,<lb/>
+				Mit eenem Woort: He hadd''n Pick!<lb/>
+				De mußt im Huus' nu rüm handteeren,<lb/>
+				Mußt Stäbel wichsen, Tüften schäll'n,<lb/>
+				Mußt' Tüg utkloppen, Hof afkehren,<lb/>
+				— *<lb/>
+				<pb facs="../img/hill-1868/0079_p079.jpg"/>
+				79<lb/>
+				Ook Höhner tasten, Bohnen pöll'n;<lb/>
+				Genoog, de Tied em to verdrieben,<lb/>
+				Gaf man em Allerlei to dohn,<lb/>
+				Sünst wußt' he goarnich still to blieben,<lb/>
+				Un kreeg ’t noch düller in de Kron'.<lb/>
+				Hüt was nu, von Stettin to föhren,<lb/>
+				Een Roath von de Regierung koam,<lb/>
+				De Böker moal to revendeeren,<lb/>
+				Un hadd' von Allem Insicht noahm;<lb/>
+				De Revision leep af oahn Schoaden,<lb/>
+				De Roath funn Allens schön un good,<lb/>
+				Drüm hadd' he Sellen ingeloaden<lb/>
+				Föar hüt bie sich tom Oabendbrod.<lb/>
+				Sell' deed nu mit sien' Fru bereden,<lb/>
+				Wiel se tofällig ook föar hüt<lb/>
+				Bie Rechtsanwalts tom Thee was bäden,<lb/>
+				Doa uptohollen sich de Tied.<lb/>
+				To Huus süll Schwoager Joacob blieben,<lb/>
+				Dat Aeten süll se warm em stell'n,<lb/>
+				Un sich den Oabend to verdrieben,<lb/>
+				Süll he to morgen Tüften schäll'n.<lb/>
+				<pb facs="../img/hill-1868/0080_p080.jpg"/>
+				80<lb/>
+				Geseggt, gedoahn, mit Hoot un Schnäpel<lb/>
+				Geid Sell' noah 'm Gasthof to den Roath,<lb/>
+				Un to Fru Rechtsanwalt von Lepel<lb/>
+				Fru Sell'n, im allergrötsten Stoat;<lb/>
+				Am Meisten aber freut von Allen<lb/>
+				Sich heemlich Joacob Angersteen,<lb/>
+				Hüt kunn he schmooken noah Gefallen<lb/>
+				Von Sell'n sien' Ziehgarn, hest nich sehn!<lb/>
+				So was de Oabend denn verloopen¬<lb/>
+				Wie 'n König kamm sich Joacob vöar<lb/>
+				Doa hört he sich bie 'm Noamen roopen,<lb/>
+				Sien Schwoager Sell' was an de Döahr,<lb/>
+				Kunn ’t Schlöatelloch nich finn'n von buten,<lb/>
+				Drüm springt nu Joacob ilig an,<lb/>
+				De Huusdöhr fix em uptoschluten,<lb/>
+				Doamit he doch man rinner kann.<lb/>
+				Sell' hadd' woll wat to väl genoaten<lb/>
+				Dat kümmt bie Jedem moal am Enn<lb/>
+				Drüm, as de Döahr kuum upgeschloaten,<lb/>
+				Schleit lang he up den Huusflor hen;<lb/>
+				Na nu! seggt Joacob, loat Di hollen,<lb/>
+				Du hest Di woll den Foot verrenkt?<lb/>
+				<pb facs="../img/hill-1868/0081_p081.jpg"/>
+				81<lb/>
+				Nu kiek moal Eener unsen Ollen,<lb/>
+				Hett kasch sich Eenen upgeschwenkt!<lb/>
+				Doa kriggt he fix em bi d' Schlafitten<lb/>
+				Un treckt 'n in de Woahnstuw' rin,<lb/>
+				Deit hier den Kopp em uprecht stütten<lb/>
+				Un gifft em schwarten Kaffe in.<lb/>
+				Doch hulp keen Schüddeln un keen Ropen,<lb/>
+				Sell' was, as weer he musendood,<lb/>
+				Vöar Angst deit Joacob ruter loopen,<lb/>
+				Noah Lepel's röaber in sien' Noth.<lb/>
+				Doa was nu hüt 'n grootet Wesen,<lb/>
+				Woll Twintig Doamen seten rüm,<lb/>
+				Doa wurd' gepludert un gelesen,<lb/>
+				So bröchten se den Oabend üm.<lb/>
+				Wie passend die Inviten kamen —<lb/>
+				Seggt Fru von Lepel — hier zum Thee<lb/>
+				Frau Selle, drüben, meine Damen,<lb/>
+				Beim Rath, Herr Selle zum Soupé.<lb/>
+				Ei wie das prächtig sich getroffen,<lb/>
+				Sääd drup Fru Paster Hoaberland,<lb/>
+				Frau Selle! ich gestehe offen,<lb/>
+				.<lb/>
+				<pb facs="../img/hill-1868/0082_p082.jpg"/>
+				82<lb/>
+				Das ist ja wirklich amüsant!<lb/>
+				Un all' de Doamen deeden roopen:<lb/>
+				Superb! Superb! das trifft sich schön!<lb/>
+				Doa kümmt uns' Joakob antoloopen,<lb/>
+				Sich noah sien' Schwester ümtosehn.<lb/>
+				In Tüffeln, noch de Schört vöar 'm Moagen,<lb/>
+				Den sammten Gnitter up den Grind,<lb/>
+				So deit he noah sien' Schwester froagen<lb/>
+				Doa endlich sach he s' bie dat Spind:<lb/>
+				Dat ganze Huus, Sophi', steid oapen,<lb/>
+				Kumm doch so fix Du kannst, Sophi'!<lb/>
+				Uns' Oller is hüt schwer besoapen,<lb/>
+				Mi is ganz angst un bang' doabie!<lb/>
+				20. Fü'r gäw’ ick Di doch!<lb/>
+				Fritz Zepernick was stets tofräden,<lb/>
+				Vergnöögt un lustig alletied,<lb/>
+				Un deed he just ook nich väl bäden,<lb/>
+				So süng he stännig doch sien Lied,<lb/>
+				Nich so 'nt, as man in ’t Gottshuus singt,<lb/>
+				Wat aber doch recht nüdlich klingt!<lb/>
+				<pb facs="../img/hill-1868/0083_p083.jpg"/>
+				83<lb/>
+				Fritz hadd' sich Anno 13 schloagen<lb/>
+				Bie Leipzig vöar dat Voaterland,<lb/>
+				Deed ook ’n Band im Knooploch droagen,<lb/>
+				Was ook blesseert an d' linker Hand,<lb/>
+				Jitzt deed he nu huseeren goahn,<lb/>
+				Sich ehrlich dörch de Welt to schloan.<lb/>
+				Un hadd' he oft ook tweirig Bückschen,<lb/>
+				So süng he, kamm he angeföhrt,<lb/>
+				Up d' Landstroat doch de besten Stückschen,<lb/>
+				As of de ganze Welt em hört,<lb/>
+				Un klung recht röhrend de Gesang,<lb/>
+				Denn blafft ook woll sien' Tööl doamank.<lb/>
+				So kamm he hüt von Millnitz röaber,<lb/>
+				Im Liep'schen Tanger heel he still,<lb/>
+				Un sett't sich an dat Groabenöber,<lb/>
+				Wo he sich wat verpusten will;<lb/>
+				De Piep de was geroad em ut,<lb/>
+				Drüm hoalt he ’n Tobacksbüdel rut.<lb/>
+				As nu he deit von Niegem stoppen<lb/>
+				Un treckt ut d' Brusttasch Stoahl und Steen,<lb/>
+				Doa deit em Een up d' Schuller kloppen,<lb/>
+				6*<lb/>
+				<pb facs="../img/hill-1868/0084_p084.jpg"/>
+				﻿84<lb/>
+				He kiekt sich üm, wat deed he sehn?<lb/>
+				Doa stunn so 'n langen drögen Mann,<lb/>
+				Man sach em gliek den Paster an.<lb/>
+				Ploagt mi de Dübel ook mit Poapen?<lb/>
+				Brummt Fritz ganz heemlich vöar sich hen,<lb/>
+				Un ritt doabie die Oogen oapen,<lb/>
+				Un fröggt den Kärl am letzten Enn:<lb/>
+				Wat gifft ’t? is irgend wat passeert?<lb/>
+				Ick hebb doch narens nich wat hört!<lb/>
+				Mein lieber Freund mir ging soeben<lb/>
+				Bei'm Gehen die Cigarre aus,<lb/>
+				Wie ist's? kann Er mir Feuer geben?<lb/>
+				So bitt ich mir ein Wenig aus;<lb/>
+				Es ist doch ein fataler Spaß,<lb/>
+				Daß ich mein Feuerzeug vergaß!<lb/>
+				I. Broder Herz, hett nüscht to seggen,<lb/>
+				Wenn ick Di doamit deenen kann,<lb/>
+				Will ’ck gliek 'n Bäten Schwamm upleggen,<lb/>
+				Fü'r moaken wi uns ball woll an,<lb/>
+				Ick hebb jo bie mi Stoahl un Steen,<lb/>
+				Dat pinkt man so, dat sast Du seh'n!<lb/>
+				<pb facs="../img/hill-1868/0085_p085.jpg"/>
+				85<lb/>
+				Mein Freund. ich muß ihm doch nur sagen,<lb/>
+				Damit Er weiß, mit Wem Er spricht,<lb/>
+				Ich bin der Pastor aus Bruchhagen,<lb/>
+				Er kennt mich wohl wahrscheinlich nicht?<lb/>
+				Ja, ja, ich merk es offenbar,<lb/>
+				Es ist wohl nicht von hier, nicht wahr?<lb/>
+				I. Broder, wat kann dat verschloagen,<lb/>
+				Dat deit jo nüscht to Sach doabie,<lb/>
+				Büst Du ook Paster in Brookhoagen,<lb/>
+				Fü'r kriggst Du doarüm doch von mi,<lb/>
+				Kiek her, dat is all afgedoahn,<lb/>
+				Hier hebb ick Für Di angeschloan!<lb/>
+				21. Tom Joahrmargt.<lb/>
+				Mag sinn wie ’t will, dat is moal woahr,<lb/>
+				Ick hebb doch noch dat ganze Joahr<lb/>
+				Nich ees so ’n groot Vergnögen hat't,<lb/>
+				Wie letzt bie 'm Joahrmargt in de Stadt!<lb/>
+				<pb facs="../img/hill-1868/0086_p086.jpg"/>
+				86<lb/>
+				Mi deit zwoar noch de Puckel weh,<lb/>
+				Un wenn ick in den Spegel seh,<lb/>
+				Is blau de Schnuut, un Loch an Loch,<lb/>
+				Dat deit em nüscht, nett was dat doch!<lb/>
+				Joahrmarksvergnögen! Na gewiß<lb/>
+				Is Mänger, de drup nielig is,<lb/>
+				De sich nich weet dat vöartostell'n,<lb/>
+				Drüm will ick de Geschicht' vertell'n.<lb/>
+				Am Moandag mook sich Grot un Kleen<lb/>
+				Im Dörp pläseerlich up de Been',<lb/>
+				Mit Sünndagskleeder angedoahn,<lb/>
+				Tom Joahrmargt noah de Stadt to goahn.<lb/>
+				Dat was den Dag nu möaglich heet,<lb/>
+				Vom Kopp leep pieperlings de Schweet,<lb/>
+				Drüm as wi keemen noah de Stadt,<lb/>
+				Was Olt un Jung ganz möd' un matt!<lb/>
+				Drüm sett'ten wi toerst uns denn<lb/>
+				Vöar Elfmann's up de Steener hen,<lb/>
+				Doa, wo de Kärls mit Bückling stunn'n<lb/>
+				De kemen uns as wie gefunn'n.<lb/>
+				<pb facs="../img/hill-1868/0087_p087.jpg"/>
+				87<lb/>
+				Fix leep ick rin bie Koopmann Huth<lb/>
+				Un bröcht 'n Poar Quart Branntwien rut,<lb/>
+				Gust Fullbrecht schläpt up jeden Mann<lb/>
+				Dree grote Päperkoken ran.<lb/>
+				Wer dat noch sünst nich afprobeert,<lb/>
+				De hett gewiß von uns wat lehrt;<lb/>
+				Bückling un Peperkoken blifft<lb/>
+				Dat fienste Futter, wat ’t man gifft!<lb/>
+				Wat mi betrefft, ick mütt gestoahn,<lb/>
+				Mi deit nu nüscht doadröaber goahn,<lb/>
+				Nä, Dunnerschock, wat schmeckt dat schön;<lb/>
+				Nu kunn uns Eener spiesen fehn!<lb/>
+				Un ook de Schluck de schmeckt nich schlecht,<lb/>
+				Ick hadd' uns Kirsch mit Kümmel bröcht;<lb/>
+				Dat was so wat föar uns're Schnuut,<lb/>
+				Im Uemsehn weer'n de Buddeln ut.<lb/>
+				As Allens sich hadd' gödlich doahn,<lb/>
+				Doa sünn tofoam wi upgestoahn,<lb/>
+				Een Jeder güng to sien Pläseer<lb/>
+				Nu mank de Boden hen un her.<lb/>
+				<pb facs="../img/hill-1868/0088_p088.jpg"/>
+				88<lb/>
+				Nur Einen Groschen Stück für Stück!<lb/>
+				So reep een Kärl all Oogenblick,<lb/>
+				Drüm leep ick noah sien'n Disch moal ran<lb/>
+				Un sach mi sienen Kroam ees an.<lb/>
+				Wat hier doch to verköpen leeg,<lb/>
+				Un wat man All föar ’n Gröschen kreeg,<lb/>
+				Noch hüt steid de Verstand mi still,<lb/>
+				Wer dat woll doaföar moaken will?<lb/>
+				Een golden Uhr mit lange Kett,<lb/>
+				Geroad as uns' Baron een hett,<lb/>
+				De langt ick nu toerst mi ran,<lb/>
+				Nur Einen Groschen! seggt de Mann;<lb/>
+				Ook een Punkteerbook sökt ick ut,<lb/>
+				Doa düd't man sich de Tokunft rut,<lb/>
+				Een grotet Kriegsbild von Gitschin,<lb/>
+				Un een Poar Ohrring' föar Regien'.<lb/>
+				Was kum 'n Ennken wieder goahn,,<lb/>
+				Doa bleef ick ook all wedder stoahn,<lb/>
+				So ’n langen Bengel reep doa ut,<lb/>
+				He möök ut Tüg de Plecken rut!<lb/>
+				<pb facs="../img/hill-1868/0089_p089.jpg"/>
+				89<lb/>
+				Knapp kamm ick neger ran een Stück,<lb/>
+				So kreeg de Kärl mi bie ’t Genick<lb/>
+				An mi sien Seep moal to probeer'n<lb/>
+				Un een Exempel vöartoföhr'n;<lb/>
+				Mien Kroagen was all zimlich glatt,<lb/>
+				Den mook he nu mit Woater natt,<lb/>
+				Schmäärt von sien Seep wat up de Köst<lb/>
+				Un reef nu düchtig mit de Böst.<lb/>
+				Drup hört ick man, dat Fett weer rut,<lb/>
+				Doch lacht mi Allens düchtig ut<lb/>
+				He mook man Eene Sied' torecht<lb/>
+				Nu leet mien Kroagen erst recht schlecht.<lb/>
+				Ick sach, dat mi nüscht öabrig bleef,<lb/>
+				As dat ick em Twee Gröschen geef,<lb/>
+				He bröcht den Kroagen nu in Schick,<lb/>
+				Doato kreeg ick '’n Seepenstück.<lb/>
+				Nu güng ick af, nich wiet doavan<lb/>
+				Doa stunn een Lierkastenmann,<lb/>
+				De sung mit siene Fru moal schön!<lb/>
+				Een grotet Mordbild was to sehn.<lb/>
+				<pb facs="../img/hill-1868/0090_p090.jpg"/>
+				90<lb/>
+				Un as dat Lied man was to Enn,<lb/>
+				Doa tratt he vöar dat Mordbild hen,<lb/>
+				Namm drup sien Haffelrood' in d' Hand<lb/>
+				Un mook uns mit de Sach bekannt:<lb/>
+				Hier, meine Herr'n!. hier köan Sie seh'n,<lb/>
+				Wie eine Mordthat is geschehn,<lb/>
+				Die letzt sich zugetragen hat<lb/>
+				In Petersburg, der großen Stadt.<lb/>
+				Dat Oeabrigt weet ick man nich mehr,<lb/>
+				Doch kamm mi dat recht röhrend vöar,<lb/>
+				Ick deed ganz dütlich em verstoahn:<lb/>
+				Een Jäger hadd sien Brut doodschloan.<lb/>
+				De Fru de kamm nu an mi ran<lb/>
+				Un bot mi de Beschriebung an<lb/>
+				Ick hebb ook goarnich mi besunn'n,<lb/>
+				Föar 'n Gröschen was dat doch gefunn'n!<lb/>
+				Vöar 'm Dohrweg bie Aptheker Blank<lb/>
+				Doa stunn so 'n dicken Kärl up d' Bank,<lb/>
+				De bloos de Trumpet' goar to schön,<lb/>
+				Un reep wat ut, wat doa to sehn.<lb/>
+				<pb facs="../img/hill-1868/0091_p091.jpg"/>
+				91<lb/>
+				Een grootet Bild was angeschloan,<lb/>
+				Drup sach man wilde Beester stoahn;<lb/>
+				Holt! denk ick, wend' Twee Gröschen dran<lb/>
+				Un kiek di moal den Krempel an.<lb/>
+				Fi Deubel, mi gruft noch de Huut,<lb/>
+				De Beester segen grülich ut,<lb/>
+				Doch gaft ook-wat, wat spoaßig weer:<lb/>
+				De Oapen mooken mi Pläseer;<lb/>
+				Vöarut de Een, de hadd' so 'n Schnuut,<lb/>
+				Geroad as Stoffel Krull sien Bruut;<lb/>
+				De beddelt alle Oogenblick,<lb/>
+				Ball Aeppel, ball 'n Semmelstück;<lb/>
+				Bestännig heel he 'n Poten hen;<lb/>
+				Dat wurd' mi doch to väl am Enn,<lb/>
+				Drüm denk ick, lang' Du moal dat Oas<lb/>
+				Dien Ziehjarnstrümmel hen tom Spoaß.<lb/>
+				Kuum kümmt dat Ding em to Gesicht,<lb/>
+				As mi dat Beest to foaten kriggt,<lb/>
+				Packt grimmig bie d'Perrück mi an<lb/>
+				Un treckt mi noah den Käwig ran,<lb/>
+				<pb facs="../img/hill-1868/0092_p092.jpg"/>
+				92<lb/>
+				Un kratzt und bitt mi nu torecht,<lb/>
+				Schock schwere Jagd, ick schreeg nich schlecht,<lb/>
+				Denn wenn ick em 'n Fuck moal gaf,<lb/>
+				Beet he mi fast de Knöabeln af.<lb/>
+				Na endlich schloog nu Allens to,<lb/>
+				Doa leet he los, wat was ick froh,<lb/>
+				Dat Volk lacht' boabendrin mi ut,<lb/>
+				Drüm nam ick d' Mütz un trollt mi rut,<lb/>
+				Un dacht, wat sast du rümmer stoahn,<lb/>
+				Müchst moal noah ’t Schüttenhuus rut goahn,<lb/>
+				Kiekst doa di noah dien Landslüd' üm<lb/>
+				Un danzt ook noch 'n poar Moal rüm.<lb/>
+				Vöar 'm Dohr doa was ’n Karrassell<lb/>
+				Un ook noch Komedjantenspell,<lb/>
+				Na, denk ick, kiek, dat paßt sich schön,<lb/>
+				Dat mütst du di man noch besehn.<lb/>
+				De Spoaß de was Twee Gröschen werth,<lb/>
+				Ick sett't mi up 'n höltern Peerd,<lb/>
+				De Kärl de langt de Peek mi af,<lb/>
+				Tweemoal stook ick den Ring em af.<lb/>
+				<pb facs="../img/hill-1868/0093_p093.jpg"/>
+				93<lb/>
+				Doch wurd' ick schwiemlich hier am Enn,<lb/>
+				Güng drüm noah d' Komedjanten hen;<lb/>
+				Na, Spoaß bie Sied, wer ichtens hell,<lb/>
+				De süht, dat Dübelswark im Spell!<lb/>
+				De Pujjatz kunn up Hännen goahn,<lb/>
+				Un deed up leddig Buddeln stoahn,<lb/>
+				Un wenn he af un to wat sprook,<lb/>
+				He Allens gliek to lachen mook!<lb/>
+				Toletzt tratt ut den Kreis he rut,<lb/>
+				Söökt enig joadlich Bengels ut,<lb/>
+				So langt he denn ook mi sich af<lb/>
+				Un güng mit uns tom Woagen raf.<lb/>
+				Wie kropen rin, he schloot de Döahr<lb/>
+				Un stellt uns hier ganz heemlich vöar,<lb/>
+				De buten würd'n dat spoaßig finn'n,<lb/>
+				He wull uns All in Säck rin binn'n.<lb/>
+				Denn süll'n wi mit em ruter goahn,<lb/>
+				Un he wull midden mank uns stoahn<lb/>
+				Un 'n Tunnenband mit Prätzeln holl'n,<lb/>
+				De süll'n wie schnappen, oahn to foll'n.<lb/>
+				<pb facs="../img/hill-1868/0094_p094.jpg"/>
+				94<lb/>
+				Un wer denn richtig togeschnappt¬<lb/>
+				Un sich 'n Prätzel runner gappt,<lb/>
+				De süll ümsünst in 'n Schauplatz rin<lb/>
+				Un kreeg Veer Gröschen boabendrin.<lb/>
+				Na, doamit weer'n wi inverstoahn.<lb/>
+				Dat Hupsen deed nu vöar sich goahn,<lb/>
+				Ick denk, dat Volk dat lacht sich krank,<lb/>
+				Wie hupsten immer midden mank.<lb/>
+				De Pujjatz möaglichst doarup seeg,<lb/>
+				Dat Keener eenen Präzel kreeg,<lb/>
+				Doch endlich paßt' ick em dat af<lb/>
+				Un „schnapp" hadd' ick 'n Präzel raf.<lb/>
+				De Satz was woll to grot genoahm,<lb/>
+				Ick denk, ick fall mi krumm un loahm,<lb/>
+				Denn ehr ick ’t markt', schloog mit 'm Moal<lb/>
+				Ick ossig up de Ribben doal.<lb/>
+				Ball hadd' ick wedder mi verhoalt,<lb/>
+				Ick kreeg Veer Gröschen utgetoalt,<lb/>
+				De stook ick in un güng nu af,<lb/>
+				Noah ’t Schüttenhuus tom Danzen raf.<lb/>
+				*-<lb/>
+				<pb facs="../img/hill-1868/0095_p095.jpg"/>
+				95<lb/>
+				Dat mutt ick segg'n, doa was dat schön,<lb/>
+				Doa kunn man nette Mäkens sehn,<lb/>
+				Un de Mus'kanten — schwere Jagd —<lb/>
+				De spälten, ’t was ne Lust un Pracht!<lb/>
+				Mien Läwdoag was ick nich so froh,<lb/>
+				Ick danzt un drunk ook af un to<lb/>
+				So 'n Kümmel mit 'm Bittern mank<lb/>
+				Un rutscht fideel den Soal entlang.<lb/>
+				Dat was, as kreeg ick goarnich noog,<lb/>
+				Vergnögt ick in de Schächt mi schloog,<lb/>
+				Ick sprung, dat man de Dähl so knallt,<lb/>
+				Un kriescht', dat ’t ganze Huus hett schallt.<lb/>
+				Nu weet ick nich, wie ’t togegoahn,<lb/>
+				Mit Ees deed Allens up mi schloan,<lb/>
+				Ick hadd' woll Een an ’t Schäänbeen stött't,<lb/>
+				Valicht ook up de Tegen pedd’t.<lb/>
+				So ’n Danzvergnögen oahn Krakehl<lb/>
+				Dat is nich half, dat is nich heel,<lb/>
+				Drüm kamm mi dat so recht to Paß,<lb/>
+				Wiel hier moal wat to kloppen was.<lb/>
+				<pb facs="../img/hill-1868/0096_p096.jpg"/>
+				.*<lb/>
+				96<lb/>
+				Ick schloog nu ossig üm mi rüm,<lb/>
+				Half Dutzend Kärls de feelen üm,<lb/>
+				Un Allens mankennänner schloog,<lb/>
+				Dat Schämelbeen un Beerglas flog.<lb/>
+				Groad as wi uns am besten schloan,<lb/>
+				Kümmt de Schandoar nu antogoahn:<lb/>
+				Zaruck, zaruck, das fehlt mich blos,<lb/>
+				Was geht hier vor? Was is hier los?<lb/>
+				Versteit sich, nu kreeg ick mien Noth,<lb/>
+				Väl Hunnen sünn den Hoas' sien Dood,<lb/>
+				Se reepen All: De Kärl hett Schuld!<lb/>
+				Na, denk ick, föög di in Geduld.<lb/>
+				Wat was dat Enn nu von dat Lied?<lb/>
+				Dat schwarte Loch, dat was nich wiet,<lb/>
+				Wiel Allens mi de Schuld blos gaf,<lb/>
+				Schläpt he mi noah dem Brummstall af.<lb/>
+				Doa schleep ick mi recht düchtig ut,<lb/>
+				Am annern Morgen kamm ick rut.<lb/>
+				Doch allemoal, wenn Joahrmargt is,<lb/>
+				Loop ick nu hen, dat is gewiß!<lb/>
+				<pb facs="../img/hill-1868/0097_p097.jpg"/>
+				97<lb/>
+				22. Kannst Du französ'sch?<lb/>
+				Noch ruddelt de Kanonendunner<lb/>
+				Von Prenzlow röaber, Moal üm Moal,<lb/>
+				Von Warblow treckt den Hollweg runner<lb/>
+				Franzosenvolk noah Breetsch sich doal;<lb/>
+				Se rücken in in lichten Hoopen,<lb/>
+				Ganz hoageldick, to Foot, to Peer,<lb/>
+				Vöar Angst deed Allens sich verloopen,<lb/>
+				Keen Minsch im Dörp bleef vöar de Döahr.<lb/>
+				Un oahn erst lang' drüm antofroagen,<lb/>
+				Sünn alle Hüüser vullgeproppt;<lb/>
+				De Bu'rfru spod't sich, uptodroagen,<lb/>
+				Dat se dat Volk de Müüler stoppt.<lb/>
+				Wat Köak und Keller uptowiesen<lb/>
+				De Wost im Rook nich öabrig bleef<lb/>
+				Dat deed dat fremde Pack verspiesen,<lb/>
+				As wenn ’t tom letzten Moal wat geef.<lb/>
+				<pb facs="../img/hill-1868/0098_p098.jpg"/>
+				98<lb/>
+				Bu'r Wulff leep up de Hofstell rümmer,<lb/>
+				Keen Stiel schient hüt em recht to stoahn,<lb/>
+				Sach he dat Volk, denn was em ümmer,<lb/>
+				As mücht he Allens runner schloan.<lb/>
+				Sien Heu, sien'n Hoaber sach he droagen,<lb/>
+				Dat schmeet dat Pack de Kracken vöar,<lb/>
+				Sien egen Veeh dat deed' sich joagen<lb/>
+				Un leep oahn Dach un Fach ümher.<lb/>
+				Un wat dat Düllst' noch was von Allen,<lb/>
+				De Een' — dat mußt de Böaberst sinn<lb/>
+				Em mucht Fru Wulffen woll gefallen,<lb/>
+				Denn ümmer was he hinnerdrin:<lb/>
+				Güng se noah d' Köak, sett't he sich nedder<lb/>
+				Bie ähr am Fü'rheerd up 'n Block,<lb/>
+				Leep se noah d' Stuuw, gliek satt he wedder<lb/>
+				As wie gebannt ähr an dem Rock.<lb/>
+				Oll Wulffen wurd' ganz wild to Sinnen,<lb/>
+				Leet nu sien Fru nich ut ’t Gesicht,<lb/>
+				Denn ümmer was bie ähr to finnen<lb/>
+				De Kärl, wo se ook blieben mücht,<lb/>
+				Un af un to wull em bedünken,<lb/>
+				As weer sien Fru mit inverstoahn,<lb/>
+				<pb facs="../img/hill-1868/0099_p099.jpg"/>
+				99<lb/>
+				As deed'n se Beid' sich heemlich winken;<lb/>
+				Em was, as süll ut d' Huut he goahn.<lb/>
+				De Fie'rstunn was kuum angebroaken,<lb/>
+				Dat Volk de Kracken Futter geef,<lb/>
+				Doa deed sich Wulff in d' Stuuw rin moaken,<lb/>
+				To sehn, wo woll sien Wiefken bleef.<lb/>
+				Im Düstern kunn he nich recht kieken,<lb/>
+				Drüm reep he: Fru, wo büst Du denn?<lb/>
+				Hier, Voater! seggt doarup sien Fieken,<lb/>
+				Hier bün ick, sett Di bie mi hen.<lb/>
+				Büst Du alleen? deit he nu froagen,<lb/>
+				Nä, Voater, seggt se, nä, hier sitt<lb/>
+				Ook de Franzos', ick mütt Di ’t kloagen,<lb/>
+				De Kärl löppt ümmer mit mi mit,<lb/>
+				Ick weet mi goarnich mehr to redden,<lb/>
+				Wohen ick goah, doa tredd he in,<lb/>
+				Ick mücht wer weet wat doarup wedden,<lb/>
+				De Kärl de hett nüscht Good's im Sinn.<lb/>
+				Wat sittst Du aber hier im Düstern,<lb/>
+				Seggt Wulff, un möckst keen Licht nich an?<lb/>
+				Hier kann 'n Minsch jo rein verbiestern,<lb/>
+				7*<lb/>
+				<pb facs="../img/hill-1868/0100_p100.jpg"/>
+				﻿100<lb/>
+				Dat lett sich goarnich richtig an!<lb/>
+				I. Voater, will he denn dat lieden?<lb/>
+				He pust't dat ut, glöw' sicherlich,<lb/>
+				Man kann em dat jo nich bedüden,<lb/>
+				Denn he versteid uns' Sproak jo nich.<lb/>
+				Bu'r Wulff de sitt nu wie up Koahlen,<lb/>
+				Paßt up un höllt sich müüskenstill,<lb/>
+				Fast hört he Jeden Oaden hoalen<lb/>
+				Un denkt: Ii moaken mi keen Brill!<lb/>
+				Zwoar deit mitunner woll wat ruscheln,<lb/>
+				As wenn sich af un to wat röhrt,<lb/>
+				Doch dücht em so, wat köan se tuscheln?<lb/>
+				Französ'sch hett Fieken jo nich lehrt.<lb/>
+				Doch wat is dat? — he hört wat<lb/>
+				schmacken,<lb/>
+				Wat! röppt he, Fieken, wat is nu?<lb/>
+				Wat deit de Kärl doa to Di schnacken?<lb/>
+				He pußt Di jo! littst Du dat, Fru?<lb/>
+				I. Voater, segg, wat sall ick moaken,<lb/>
+				Ick strüw' mi jo — he pußt mi noch<lb/>
+				Französ'sch hebb ick jo nienich sproaken,<lb/>
+				Kannst Du französ'sch? Verbeed't em doch!<lb/>
+				<pb facs="../img/hill-1868/0101_p101.jpg"/>
+				101<lb/>
+				23. Uns' Paster is hüt öaberschnappt!<lb/>
+				In Niegendörp de Paster Falkenhoagen<lb/>
+				Dat was een rechten scharpen, schlimmen Mann,<lb/>
+				De Lüd' de wull'n dat zwoar nich recht verdroagen,<lb/>
+				Doch hulp dat nich, he kehrt' sich nich doaran.<lb/>
+				Drüm kunn dat ook nich alltosehr verwunnern,<lb/>
+				Dat em im Dörp keen Minsch was togedoahn,<lb/>
+				Un deed he Sündags von de Kanzel dunnern,<lb/>
+				So mußt' he meist vöar leddig Kirchbänk' stoahn.<lb/>
+				Am allermeisten weeren to bekloagen<lb/>
+				De Jöahren, de bie em vöarbäden* güng'n<lb/>
+				De deed he denn ook ganz erbarmlich ploagen,<lb/>
+				Dat se vöar Angst all an ta bäbern füng'n,<lb/>
+				Wenn he man blos erst in de Döahr deed träden;<lb/>
+				Keen Eenzigst von de Kinner mook ’t em recht,<lb/>
+				To Dank güng em nich Lesen un nich Bäden.<lb/>
+				Un Allens, wat se deeden, dat was schlecht.<lb/>
+				* zum Confirmations=Unterricht.<lb/>
+				<pb facs="../img/hill-1868/0102_p102.jpg"/>
+				102<lb/>
+				Nu is dat all bekannt von ollen Tieden,<lb/>
+				Dat allto scharp jo ümmer schoartig möckt,<lb/>
+				De Jöahren kunn'n vöar Oogen em nich lieden,<lb/>
+				Drüm wurd' toletzt ook Unsinn utgeheckt.<lb/>
+				Wo ichtens Schoabernack em was to spälen,<lb/>
+				Doa wurd' mit Freuden gliek drup ingegoahn,<lb/>
+				Un unnersöökt he denn, Keen' von so Välen<lb/>
+				Was ’t wäst, de em den Possen hadd' gedoahn.<lb/>
+				Sünnoabends eens was ’t junge Volk to Hoopen,<lb/>
+				Dat se in d' Kirch' moal up den Paster lu'rn,<lb/>
+				Doa deit Een' von de quoaden Bengels ropen:<lb/>
+				Pass’t Ii blos up, dat sall so lang' nich dur'n,<lb/>
+				Denn späl' ick em 'n Spoaß, dran sall he rüken.<lb/>
+				Gäw't Acht, wenn morgen he up d' Kanzel steid,<lb/>
+				Denn müdd' Ii prick em in de Oogen kieken,<lb/>
+				Ii söal'n den Spoaß blos sehn, wo em dat geid!<lb/>
+				Ick hebb dree spitze Noateln ingestoaken,<lb/>
+				Geroad in ’t Pulster, in den Kanzelrand,<lb/>
+				Wenn morgen he nu recht Randoal deit moaken,<lb/>
+				Un schleit von boaben nedder mit de Hand<lb/>
+				Un arbeit't sich de spitzen Dinger rinner,<lb/>
+				Denn bün ick nielig, wat he denn woll möckt,<lb/>
+				<pb facs="../img/hill-1868/0103_p103.jpg"/>
+				103<lb/>
+				Ick segg Ju blos, dat ward ’n Hauptspoaß, Kinner!<lb/>
+				Wenn he vöar Wehdoag denn dat Muul vertreckt.<lb/>
+				Un richtig annern Dag deit Keener fehlen,<lb/>
+				Ganz ehrboar sett'ten se in d' Kirch' sich hen,<lb/>
+				Se süngen hüt so schön ut vullen Kehlen,<lb/>
+				As weer'n se luuter Andacht, bett to Enn.<lb/>
+				De Paster deit jitzt up de Kanzel stiegen,<lb/>
+				Doch ook keen Mien' vertreckt een eenzigst Jöahr,<lb/>
+				Un up sien Book deit he sich runner niegen<lb/>
+				Un seggt ganz still sien Voaterunser her.<lb/>
+				Jitzt geid dat los, he fängt nu an to roasen<lb/>
+				Un höllt de Minschen all ähr Sünden vöar,<lb/>
+				As würd' tom Weltgericht de Trumpet' bloasen,<lb/>
+				As keem de Sündfluth hinner em all her;<lb/>
+				Un up de Kanzel deit he rüm handteeren,<lb/>
+				In sienen Eifer üm sich rümmer schloan,<lb/>
+				As wenn föar 'n Soatan sämmtlich riep se weeren,<lb/>
+				As süll dat hüt noch in de Höll' rin goahn!<lb/>
+				Wohin — sprack he — mein Auge sich mag wenden,<lb/>
+				Seh ich ich Dich, Israel, in Sündennacht,<lb/>
+				Wer hat behütet Dich an allen Enden,<lb/>
+				<pb facs="../img/hill-1868/0104_p104.jpg"/>
+				﻿104<lb/>
+				Dich aus Egyptens Knechtschaft frei gemacht?<lb/>
+				Wer ist es, Israel, dem Dank gebühret,<lb/>
+				Daß Dich der Pharao nicht konnte fah'n?<lb/>
+				Wer ist's, Der durch die Wüste Dich geführet?<lb/>
+				--<lb/>
+				—<lb/>
+				Das haben die verdammten Jung's gethan!<lb/>
+				So schreeg he los, he hadd' jo bie dat Gnuffen,<lb/>
+				Noahdem he hier un doa all hengeschloan,<lb/>
+				Nu endlich eens de richtig Stell' getruffen,<lb/>
+				De Noateln weeren deep in d' Hand em goahn.<lb/>
+				As de Gemeind' em nu den Fluch hört roopen<lb/>
+				Un süht, wie he doa boaben steid un gappt,<lb/>
+				Deit Allens ut de Kirch' sacht ruter lopen<lb/>
+				Un seggt: Uns' Paster is hüt öaberschnappt!<lb/>
+				24. Wie Du mi, so ick Di.<lb/>
+				Keen eenzigst' Stadt is woll to finnen,<lb/>
+				Un wenn ook noch so schwart se lett,<lb/>
+				De nich — is ’t sünst ook doodig drinnen<lb/>
+				So ’n Oart von Ulenspeegel hett;<lb/>
+				So ’n Kärl, de alle Welt deit brüden,<lb/>
+				<pb facs="../img/hill-1868/0105_p105.jpg"/>
+				105<lb/>
+				De, wo he kann, de Minschen foppt,<lb/>
+				Doch kümmt ’t ook vöar to mängen Tieden,<lb/>
+				Dat em dat Fell ward utgekloppt.<lb/>
+				So 'n Foaselhans was Schlächter Küken,<lb/>
+				In allen Quark un Narrarie<lb/>
+				Doa mußt he ümmer rinner rüken<lb/>
+				Un was de Hauptperson doabie.<lb/>
+				Was wat passeert, kunn man drup<lb/>
+				flooken,<lb/>
+				Dat Meister Küken dat gedoahn,<lb/>
+				Doch spält he alletied den Kloken,<lb/>
+				Wußt' ganz unschüllig doatostoahn.<lb/>
+				Eens steid he moal vöar sienen Schroagen,<lb/>
+				Doa kümmt 'n Bu'rsminsch an em ran<lb/>
+				Un deit so recht trüherzig froagen,<lb/>
+				Of Küken em nich seggen kann,<lb/>
+				Wo he sich künn balbeeren loaten;<lb/>
+				He weer all lopen Twee Klockstunn'n,<lb/>
+				Hadd' rümmer sökt in allen Stroaten,<lb/>
+				Doch keen'n Balbeer to Huus gefunn'n.<lb/>
+				Dat kamm nu Küken wie geropen,<lb/>
+				He denkt: Na, Dussel, tööf Du man,<lb/>
+				<pb facs="../img/hill-1868/0106_p106.jpg"/>
+				﻿106<lb/>
+				Hier bist Du richtig angelopen;<lb/>
+				Drup fängt he denn ganz ehrboar an:<lb/>
+				Doa dröaben, wo Se seh'n de Steener<lb/>
+				Am Dohrweg upgestoapelt stoahn,<lb/>
+				Mien goder Mann, doa woahnt so Eeener,<lb/>
+				Een' Trepp hoch müdd'n se rupper goahn.<lb/>
+				Doch hebb ick noch hentotofögen<lb/>
+				De Kärl de hört erbarmlich schwer,<lb/>
+				Un wenn ut vullem Hals' Se schregen,<lb/>
+				He hört doarüm keen Bitschen mehr<lb/>
+				Se müdd'n sich so verständlich moaken,<lb/>
+				Dat Se in 'n Stohl sich setten rin<lb/>
+				Un mit de Fuust üm ’t Muul rüm stroaken,<lb/>
+				As schmär'n Se sich mit Seepschuum in.<lb/>
+				De Mann de is recht to bekloagen,<lb/>
+				Doch markt man em so licht Nüscht an,<lb/>
+				Deid noah Begehr Jedweden froagen,<lb/>
+				As wenn he richtig hören kann.<lb/>
+				Se müdd'n sich nu an goarnüscht kehren<lb/>
+				Wi kenn'n hier sien' Maföpken all,<lb/>
+				* possierliche Gewohnheiten.<lb/>
+				<pb facs="../img/hill-1868/0107_p107.jpg"/>
+				107<lb/>
+				Se loaten sich dörch Nüscht nich stören,<lb/>
+				Midd'wiel versteid he, wat he sall.<lb/>
+				De Mann, den Küken so beschräben,<lb/>
+				As wenn he goarnich hören kann,<lb/>
+				Dat was de Docter Steffen dröaben,<lb/>
+				Veehdocter was he eg'ntlich man,<lb/>
+				Doch wat dat Hören deed betreffen,<lb/>
+				Dat deed doamit noch prächtig goahn,<lb/>
+				Keen Minsch kunn bäter hör'n as Steffen,<lb/>
+				Dat mußt' em Jeder togestoahn.<lb/>
+				Uns' Bu'r de kümmt, oahn antokloppen,<lb/>
+				Nu driest bie Docter Steffen rin<lb/>
+				Un deit sich in den Grootstohl stoppen,<lb/>
+				Rifft mit de Fuust dat Muul sich in.<lb/>
+				Oll Steffen deit sich schier verwunnern<lb/>
+				Un kiekt verblüfft den Buren an,<lb/>
+				Doch deit he endlich ruter dunnern:<lb/>
+				Ist Er verrückt, mein guter Mann?<lb/>
+				De Bu'r lett sich jedoch nich stören,<lb/>
+				Rifft sich dat Muul un schwiggt ganz still;<lb/>
+				Was will Er denn, ich kann ja hören,<lb/>
+				<pb facs="../img/hill-1868/0108_p108.jpg"/>
+				﻿108<lb/>
+				Seggt Steffen, sag' Er, was Er will!<lb/>
+				Soll ich Ihm einen Zahn ausbrechen?<lb/>
+				Mein Gott! kann Er mich nicht verstehn?<lb/>
+				Er hört mich doch ganz deutlich sprechen,<lb/>
+				So sag' Er doch, was soll geschehn?<lb/>
+				Na, denkt de Bu'r, dat will doch schienen,<lb/>
+				As wenn he doch nicht stockdoof is,<lb/>
+				Mi dücht, ick seh' dat an sien' Mienen,<lb/>
+				Kleen Bitschen hört he noch gewiß.<lb/>
+				Drüm üm em endlich to belehren,<lb/>
+				Bölkt he dörch d' Hand in ’t Ohr em rin:<lb/>
+				He sall mi jo man blos balbeeren,<lb/>
+				Drüm reef ick mi dat Muul jo in!<lb/>
+				As sull he gliek to Bodden schloagen,<lb/>
+				So sehr bröcht' Steffen dit in Wuth,<lb/>
+				Packt oahn Vertog den Gast bie 'm Kroagen,<lb/>
+				Un sett't em ut de Stub'ndöahr rut,<lb/>
+				Un ehr de Bu'r sich kunn besinnen,<lb/>
+				Wat egentlich was vöargegoahn,<lb/>
+				Deed he sich up de Stroat befinnen<lb/>
+				Un bleef verwunnert hier bestoahn.<lb/>
+				<pb facs="../img/hill-1868/0109_p109.jpg"/>
+				109<lb/>
+				He mucht' nu endlich doch woll rüken,<lb/>
+				Dat Em 'n Schelmstück was passeert,<lb/>
+				Drüm, oahn sich lang' erst ümtokieken,<lb/>
+				Güng still he af, dat Keen' wat hört.<lb/>
+				Doch kümmt — dat schwoor he —<lb/>
+				moal im Leben<lb/>
+				De Kärl noch eens di to Gesicht,<lb/>
+				De di hett röaberschickt noah dröaben,<lb/>
+				Denn höllst du scharp mit em Gericht!<lb/>
+				Woll Joahr un Dag was all versträken,<lb/>
+				Dat em so schlecht dat was gegoahn,<lb/>
+				—<lb/>
+				Doa deit he eens mit Muttern spräken<lb/>
+				As Beid' se up de Hofstell' stoahn,<lb/>
+				Dat nächstens se dat moaken willen,<lb/>
+				Wiel öaberhand dat Woater nimmt,<lb/>
+				De Meßkuhl leddig moal to füllen,<lb/>
+				Eh' noch ’n Kind to Schoaden kümmt.<lb/>
+				Groad, as se so doaröaber reden<lb/>
+				Un seh'n sich de Proost=Moahltied an,<lb/>
+				Kümmt up de Hofstell' rup to träden<lb/>
+				* schöpfen.<lb/>
+				<pb facs="../img/hill-1868/0110_p110.jpg"/>
+				110<lb/>
+				Dörch d' Dohrwegspoort een Schlächtersmann,<lb/>
+				De eben ’t Dörp entlang deit ströpen —<lb/>
+				Dat güng geroad tom Wiehnachtsfest,<lb/>
+				To sehn, of Kälber to verköpen,<lb/>
+				’t gaf narens wat im ganzen Nest.<lb/>
+				Keen Anner was ’t, as Meister Küken,<lb/>
+				De hier vöar unsen Bu'rn deit stoahn,<lb/>
+				Wenn he den Broaden hadd' künnt rüken,<lb/>
+				Weer he gewiß vöaröaber goahn.<lb/>
+				Bu'r Bartel kennt em desto bäter,<lb/>
+				Denn dat Gesicht vergatt he nich,<lb/>
+				Na, denkt he: Tööf, Du Schwerenöther,<lb/>
+				Jitzt kriggst Dien Fett, glöw' sicherlich!<lb/>
+				Drup fängt nu Küken an to ropen:<lb/>
+				Keen Kalf? Keen Hommel? Is Nüscht mank?<lb/>
+				Fru Barteln deit in ’t Huus rin lopen,<lb/>
+				So ’n Handel wurd' ähr stets to lang.<lb/>
+				I joa, seggt Bartel, doa is dröaben<lb/>
+				Im Stall so ’n joadlich Kalf noch drin,<lb/>
+				Will'n Se sich moal doahen begeben?<lb/>
+				Dat mücht geroad' woll so wat sinn.<lb/>
+				<pb facs="../img/hill-1868/0111_p111.jpg"/>
+				111<lb/>
+				Uns' Küken fröggt: De Stall groadöaber?<lb/>
+				Joa, seggt de Bu'r, un Küken löppt<lb/>
+				Nu midden öaber d' Meßkuhl röaber,<lb/>
+				De middelst Döahr! oll Bartel röppt.<lb/>
+				Knapp was he eenig Schritt gelopen<lb/>
+				De Meßkuhl sach so sicher ut, —<lb/>
+				Doa deit „Ach Gott doch man!“ he ropen,<lb/>
+				He stunn in d' Jauch' bett an de Schnuut.<lb/>
+				Bu'r Bartel deit den Buuk sich hollen<lb/>
+				Un lacht, dat em de Oogen throan'n,<lb/>
+				Un seggt vergnögt to unsen Ollen,<lb/>
+				As he em in de Sooß' süht stoahn:<lb/>
+				Mien Fründ, Se müdd'n sich nich dran kehren,<lb/>
+				Wenn Docter Steffen doof ook is,<lb/>
+				He deit zwoar Buren nich balbeeren,<lb/>
+				Schwienhunn'n kureert he ganz gewiß.<lb/>
+				25. Ut de Schooltied.<lb/>
+				Läwt man in d' Welt so 'n Stückken rin,<lb/>
+				Lehrt man väl Minschen kennen;<lb/>
+				<pb facs="../img/hill-1868/0112_p112.jpg"/>
+				1<lb/>
+				112<lb/>
+				Dat geid so ilig un so schwinn,<lb/>
+				As deed' dat Allens rönnen.<lb/>
+				Een Fründ geid weg, de anner kümmt,<lb/>
+				Dat Schicksoal gifft, dat Schicksoal nimmt,<lb/>
+				Wat hüt man hett besäten,<lb/>
+				Is morgen oft vergäten!<lb/>
+				De Schoolfrünn aber sitten wiß,<lb/>
+				Doa liggt doch mehr doahinner,<lb/>
+				Seh'n se sich späder moal, dat is,<lb/>
+				As weer'n se wedder Kinner.<lb/>
+				Denn geid ’t Vertellen los, Gott's Schlag!<lb/>
+				Wat kümmt denn Allens an den Dag,<lb/>
+				Un all' de oll'n Scharteken<lb/>
+				Deit Jeder ruter söken.<lb/>
+				Un is de Kroam ook hunnertmoal<lb/>
+				Von ähr all vöargedroagen,<lb/>
+				Gliek geid dat los, von boaben doal<lb/>
+				Ward frisch drup ingeboagen,<lb/>
+				Un Jeder gifft sien'n Semp doamank,<lb/>
+				Un Allens lacht sich ball half krank,<lb/>
+				An 'n Dag komm'n all de Sünnen,<lb/>
+				Dat goar keen Enn to finnen.<lb/>
+				<pb facs="../img/hill-1868/0113_p113.jpg"/>
+				113<lb/>
+				Drüm hebb ick dit so eg'ntlich recht<lb/>
+				Föar Schoolkam'roaden schräben,<lb/>
+				Doch ward ook Annern dat nich schlecht<lb/>
+				Noch wat to lachen geben.<lb/>
+				Denn, süht man in 'n Spegel rin,<lb/>
+				Süht jeder Een' sich sülwst doadrin<lb/>
+				As krüzfideelen Bengel;<lb/>
+				Keen Eenzigst was 'n Engel!<lb/>
+				Schoolmeister Selig — Mützen af,<lb/>
+				Wenn ick von em doh reden,<lb/>
+				De Mann de ruht jitzt längst im Graff<lb/>
+				Un hett all utgeläden;<lb/>
+				Dat was een Minsch vom ollen Schlag,<lb/>
+				De ut 'm Grund verstunn sien Fach,<lb/>
+				Un de mit Lief un Leben<lb/>
+				Sien Amt stets trü bedräben.<lb/>
+				Woll was he öfters wunnerlich,<lb/>
+				Dat will ick hüt vertellen,<lb/>
+				Mänchmoal sach man de Bengels sich<lb/>
+				Em gegenöaber stellen,<lb/>
+				Doch dreef de Tückschigkeit he af;<lb/>
+				Wenn ’t man erst richtig Prügel gaff,<lb/>
+				<pb facs="../img/hill-1868/0114_p114.jpg"/>
+				114<lb/>
+				Denn deed' sich Allens leggen,<lb/>
+				Dat kann ick ehrlich seggen.<lb/>
+				Doch wat woll sellen man passeert<lb/>
+				He ruh't jitzt lang' in Fräden —<lb/>
+				Noch hüt man all' de Ollen hört<lb/>
+				Anhänglich von em reden,<lb/>
+				Un hett he uns ook ossig schloan,<lb/>
+				Wi hebb'n ook sellen Good's gedoahn,<lb/>
+				Wi seegen doch von Keenen<lb/>
+				So broav dat mit uns meenen.<lb/>
+				Drüm wenn ick hüt ook mängen Schwank<lb/>
+				Von em hier will updischen,<lb/>
+				Denn sall dat blos de Schooljungsbank<lb/>
+				Moal in ’t Gedächtniß frischen.<lb/>
+				De olle Mann de is un blifft<lb/>
+				Föar uns de Bester, den dat gifft;<lb/>
+				He ward to disse Sachen<lb/>
+				Im Himmel sülwst woll lachen.<lb/>
+				Sien Fehler was sien hitzig Bloot,<lb/>
+				Dat deed em mängen Schoaden,<lb/>
+				Was moal, wenn he ook noch so good,<lb/>
+				<pb facs="../img/hill-1868/0115_p115.jpg"/>
+				115<lb/>
+				Eens Eener ungeroaden,<lb/>
+				Denn schreeg he wüthend loos im Nu:<lb/>
+				Racaille, Du verfluchte Du!<lb/>
+				Ich reiß, bringst D' mich in Laune,<lb/>
+				Heraus Dir die Kaldaune<lb/>
+				Hadd' he dit Woort erst ruter bröcht,<lb/>
+				Denn was de Spoaß to Ennen,<lb/>
+				Wer denn noch muckst', dem güng dat schlecht,<lb/>
+				Denn gaff ’t wat uptobrennen,<lb/>
+				De kreeg gliek gott'serbarmlich väl,<lb/>
+				Den Puckel schloog he grön un gähl,<lb/>
+				Un was dat upgeloaden,<lb/>
+				Was he ut Luft un Oaden.<lb/>
+				Eens in d' Geographie doa kamm<lb/>
+				De Froag ganz plötzlich ruter:<lb/>
+				An welchem Flusse liegt Alt=Damm?<lb/>
+				So froog he Rudolf Puter;<lb/>
+				As weer de Jung' in 'n Kopp geschloan,<lb/>
+				So deed' verdutzt klein Puter stohn,<lb/>
+				* Historisch.<lb/>
+				<pb facs="../img/hill-1868/0116_p116.jpg"/>
+				﻿116<lb/>
+				Trotz all sien Koppterbräken<lb/>
+				Wußt he keen Woort to spräken.<lb/>
+				An welchem Flusse liegt Alt=Damm?<lb/>
+				Froog Selig ganz gedüllig,<lb/>
+				Doch Jeder, den he vöar sich namm,<lb/>
+				Bleef em de Antwoort schüllig.<lb/>
+				He fröggt de Reegen rup un raff,<lb/>
+				Keen Jung' fünn sich, de Antwoort gaff,<lb/>
+				Doa wurd' he wüthend dröaber.<lb/>
+				Jitzt leep de Gall' em öaber.<lb/>
+				Ich sprach nun schon ein Vierteljahr<lb/>
+				Von unserm Pommerlande,<lb/>
+				So füng he an, es ist fürwahr<lb/>
+				Doch eine rechte Schande,<lb/>
+				Kein Einz'ger von Euch kennt den Fluß,<lb/>
+				Den doch ein Jeder wissen muß;<lb/>
+				Das kann ich Euch nicht schenken,<lb/>
+				Dran sollt Ihr lange denken!<lb/>
+				Ein Jeder einzeln — Vierzehn mal<lb/>
+				Sagt: Damm liegt an der Plöne!<lb/>
+				Vergeßt nicht, Vierzehn ist die Zahl,<lb/>
+				<pb facs="../img/hill-1868/0117_p117.jpg"/>
+				17<lb/>
+				Du dort fang an, Fritz Höhne!<lb/>
+				Doch rath ich Euch, nehmt Euch in Acht,<lb/>
+				Das Jeder mir das richtig macht!<lb/>
+				Alt=Damm liegt an der Plöne!<lb/>
+				So bäd't nu los Fritz Höhne.<lb/>
+				Kuum hett he ’t Achtmoal ruter bracht<lb/>
+				Un vöargebäd't dem Ollen,<lb/>
+				As nns' klein Puter mächtig lacht,<lb/>
+				He kann sich nich mehr hollen;<lb/>
+				Dit bröcht oll'n Selig ut 'n Schick,<lb/>
+				He packt klein Puter'n in ’t Genick,<lb/>
+				Em öaber d' Bank to schmieten<lb/>
+				Un em wat intorieten.<lb/>
+				Klein Puter aber was nich dumm,<lb/>
+				He mook sich stief wie ’n Stangen,<lb/>
+				Oll Selig kreeg sien Been' nich krumm,<lb/>
+				Em hinn'n wat intolangen,<lb/>
+				Un as he nu den Rohrstock namm<lb/>
+				Un treckt dem Jung'n de Hosen stramm,<lb/>
+				Was keen Gesäß to finnen,<lb/>
+				Doa was nüscht vöar, nüscht hinnen.<lb/>
+				<pb facs="../img/hill-1868/0118_p118.jpg"/>
+				118<lb/>
+				He paukt nu los, dat man hadd' glöwt,<lb/>
+				He schlög' den Jungin in Stücken,<lb/>
+				So dat de flickrig Hoos' so stööwt,<lb/>
+				Doch will dat All nich' glücken,<lb/>
+				Je strammer he de Hosen treckt,<lb/>
+				Dest' groader sich klein Puter möckt,<lb/>
+				Wie up 'n Fiedelboagen<lb/>
+				De Hoarsträhn' is getoagen.<lb/>
+				Hast Du Racaille nun genug?<lb/>
+				Seggt Selig; weiter Höhne!<lb/>
+				Höhn' bäd't von Niegem los den Spruch:<lb/>
+				Alt=Damm liegt an der Plöne!<lb/>
+				Knapp hadd' dat Woort he ruter bracht,<lb/>
+				As Allens üm em rümmer lacht,<lb/>
+				As süll'n se dood sich gniddeln,<lb/>
+				So deed de Jungs dat kiddeln.<lb/>
+				Dit was föar Selig doch to väl,<lb/>
+				Jitzt füng he an to talgen,<lb/>
+				Vöar Arger was he grön un gähl,<lb/>
+				Na wartet, Ihr Racaillen!<lb/>
+				Gliek sach man up de Bänk em stoahn,<lb/>
+				Von boaben grimmig drunner schloan,<lb/>
+				<pb facs="../img/hill-1868/0119_p119.jpg"/>
+				119<lb/>
+				Un up de Jungens löschen,<lb/>
+				As deed' he Hoaber döschen.<lb/>
+				Doch is moal erst de Buck doamank,<lb/>
+				Denn is ’t nich mehr to hollen,<lb/>
+				He schloog un sprung von Bank to Bank,<lb/>
+				Wat hulp dat woll dem Ollen?<lb/>
+				Je düller he sich afmaracht,<lb/>
+				Dest' düller Allens üm em lacht,<lb/>
+				Toletzt deed he sich foaten,<lb/>
+				De Jung's noah Huus to loaten.<lb/>
+				Eens wurd' ook moal von Oesterreich<lb/>
+				Geographie bedräben,<lb/>
+				Fritz Wilk — froog he — kannst Du mir gleich<lb/>
+				Zur Stelle Antwort geben,<lb/>
+				So sage mir, wie heißt die Stadt,<lb/>
+				Die Steiermark zur Hauptstadt hat? —<lb/>
+				Nun schnell, Du mußt sie kennen,<lb/>
+				Ich that sie gestern nennen?<lb/>
+				Die Hauptstadt Steiermark's heißt Gräz!<lb/>
+				So antwoort't Wilk — doch Himmel —<lb/>
+				Oll Selig haut em an den Döaz<lb/>
+				<pb facs="../img/hill-1868/0120_p120.jpg"/>
+				120<lb/>
+				Un seggt: Nein Götz, Du Lümmel!<lb/>
+				Gräz heißt sie doch! Fritz Wilk nu seggt,<lb/>
+				Ach ja, seggt Selig, Du hast Recht!<lb/>
+				Un treckt de Stirn in Falten,<lb/>
+				Sollst Das zu gut behalten.<lb/>
+				Noahmiddags twischen Dree un Veer<lb/>
+				Wurd' Bibellesen dräben,<lb/>
+				Denn wußt' oll Selig sich all ehr<lb/>
+				Ne sachte Stunn to geben,<lb/>
+				Im Schloaprock un Pariserschoh',<lb/>
+				So hört he sacht dat Lesen to,<lb/>
+				Un deed sien Piepken schmooken,<lb/>
+				Wiel he recht gärn mucht rooken.<lb/>
+				Fritz Wilk dem was dat Krüz all stief,<lb/>
+				Deit sich im Kopp rüm klauen,<lb/>
+				Un endlich ook tom Tiedverdrief<lb/>
+				Een groot Papeerstück kauen;<lb/>
+				Dat wurd' wie ’n Ball so rund un week,<lb/>
+				Un as he dat so recht bekeek,<lb/>
+				Doa füng he an to sinnen,<lb/>
+				Wat doamit to beginnen?<lb/>
+				<pb facs="../img/hill-1868/0121_p121.jpg"/>
+				121<lb/>
+				Un as he nu so grübeln deit,<lb/>
+				Süht he doa am Katheter<lb/>
+				Den Jungen stoahn, de Uppaß höllt,<lb/>
+				So 'n richt'gen Schnüffelpeter,<lb/>
+				Un eh'r een Minsch wat marken mücht,<lb/>
+				Praatsch! hadd' de Jung' dat in 't Gesicht,<lb/>
+				Dat man de Sooß' deit lopen,<lb/>
+				Ach Gott! deit De nu ropen.<lb/>
+				Na nu kunn Eener Selig sehn,<lb/>
+				He deed' vom Stohl upspringen,<lb/>
+				Was geht hier vor? Was ist geschehn?<lb/>
+				Un leet den Praatsch sich bringen.<lb/>
+				Racaillenbrut und Teufelssaat,<lb/>
+				Wer war 's? Wer wagte diese That?<lb/>
+				Er mag sofort sich nennen,<lb/>
+				Ihn will, ihn muß ich kennen!<lb/>
+				De Wurf de was so flink geschehn<lb/>
+				Dat wußt' Fritz Wilk to moaken —<lb/>
+				Keen eenzigst Jung' hadd wat gesehn,<lb/>
+				Drüm wurd' keen Antwoort sproaken.<lb/>
+				Doa langt sich Selig Wilken af,<lb/>
+				Doch De em kruus to Antwoort gaff:<lb/>
+				<pb facs="../img/hill-1868/0122_p122.jpg"/>
+				122<lb/>
+				Nein, ich hab' Nichts gesehen,<lb/>
+				Weiß garnicht, was geschehen.<lb/>
+				Ich frage nochmals, öfter nicht,<lb/>
+				Will sich der Thäter nennen?<lb/>
+				Wenn offen er die Wahrheit spricht,<lb/>
+				Freimüthig will bekennen,<lb/>
+				Dann soll ihm diesmal Nichts gescheh'n,<lb/>
+				Soll Gnade hier für Recht ergeh'n!<lb/>
+				Schnell sag' er's, unverweilet,<lb/>
+				Eh' ihn die Straf' ereilet!<lb/>
+				Spricht Niemand? Nun dann ist 's vorbei,<lb/>
+				Jetzt straf ich Rechtens wegen.<lb/>
+				Noch ist 's Papier nicht ganz entzwei,<lb/>
+				Werd 's in die Röhre legen,<lb/>
+				Wir wollen 's an der Schrist schon sehn,<lb/>
+				Von wem die böse That gescheh'n,<lb/>
+				Er mag sich gratuliren,<lb/>
+				Ihm soll was arriviren!<lb/>
+				De Jungens seeten still ümher,<lb/>
+				Mit Zittern un mit Beben<lb/>
+				Jedweder dacht': Wer steid doaföar,<lb/>
+				<pb facs="../img/hill-1868/0123_p123.jpg"/>
+				129<lb/>
+				Dat Du dat sülwst geschräben,<lb/>
+				Un is ’t tom Unglück Diene Schrift,<lb/>
+				Ach Gott, wat ’t denn föar Toagel gifft!<lb/>
+				Denn helpt Di all keen Reden,<lb/>
+				Keen Bidden un keen Bäden!<lb/>
+				Na endlich greep he in de Röhr,<lb/>
+				He sprack: Nun ist 's geschehen!<lb/>
+				He pöllt vernänner dat Papeer,<lb/>
+				Wat kreeg he doa to sehen?<lb/>
+				Sien egen Schrift hett he doa vöar,<lb/>
+				Ganz wüthend schmitt he s' an de Döahr,<lb/>
+				Verdammt! so deit he ropen,<lb/>
+				Un lett de Jungens lopen.<lb/>
+				Im Singen mook he väl Gewäs,<lb/>
+				Leed' nämlich an 'm Schoaden,<lb/>
+				So 'n Oart Polyp satt em in d' Näs',<lb/>
+				Hoalt' schwer doadörch den Oaden.<lb/>
+				Drüm süng' he nu moal hoch herup,<lb/>
+				Denn reet he wiet dat Muulwark up,<lb/>
+				Un seeg'n de Jung's den Ollen,<lb/>
+				Kunn'n se nich ’t Lachen hollen.<lb/>
+				<pb facs="../img/hill-1868/0124_p124.jpg"/>
+				﻿124<lb/>
+				Nu hadd' he moal sich afgequält,<lb/>
+				Dreevürtelstunn all sungen,<lb/>
+				Un de Vig'lin to dull woll spält,<lb/>
+				Dat em ne Said' was sprungen.<lb/>
+				Gliek sach man, wie dat in em koakt,<lb/>
+				Wie em dat grimmig wüthend moakt,<lb/>
+				Den Schoaden to kureeren,<lb/>
+				Ne Said' sich to spendeeren.<lb/>
+				Tom Unglück stimmt se gliek nich recht,<lb/>
+				He deit nu wüthend drägen,<lb/>
+				So dull he schrüfft, dat geid hüt schlecht,<lb/>
+				Dat Ding hett förmlich schrägen;<lb/>
+				Doa packt he s' wüthend mit 'm Moal<lb/>
+				Un schleit doamit von boaben doal,<lb/>
+				Se deit in Stücken springen,<lb/>
+				Dat em de Ohren klingen.<lb/>
+				Nu künn sich Keen' dat Lachen holl'n,<lb/>
+				Dat deed' to dull hüt flüschen,<lb/>
+				Dit bröcht' erst recht in Wuth den Oll'n,<lb/>
+				He deed' doamank nu drüschen.<lb/>
+				He schloog de Bänk nu rup un raf,<lb/>
+				Herrje, wat dat hüt Prügel gaff,<lb/>
+				<pb facs="../img/hill-1868/0125_p125.jpg"/>
+				125<lb/>
+				He schloog de armen Jöahren,<lb/>
+				So lang' he sich kunn röhren.<lb/>
+				Acht Tage bringt mir Jedermann<lb/>
+				Zwei schöngeschrieb'ne Seiten,<lb/>
+				Racaillen Ihr, ich streich's Euch an,<lb/>
+				Ich will Euch mürbe reiten;<lb/>
+				Der Wilke hat zuerst gelacht,<lb/>
+				Na wart, Dir hab' ich 's zugedacht,<lb/>
+				Dir werd' ich 's so nicht schenken,<lb/>
+				Du sollst noch an mich denken!<lb/>
+				Fritz Wilk de grübelt vöar sich hen,<lb/>
+				Wat he doabie sall moaken,<lb/>
+				He weet noch goar nich, wat he denn<lb/>
+				Recht eg'ntlich hett verbroaken.<lb/>
+				Na tööf, denkt he, möckst Du mi Pien,<lb/>
+				Denn, glöw' mi, bün ick ook nich fien,<lb/>
+				Ick will Di ’t ook nich schenken,<lb/>
+				Ook Du sast an mi denken!<lb/>
+				Oll Selig hadd' in jungen Joahr'n<lb/>
+				De Schosterie bedräben,<lb/>
+				Dat mucht nich gärn he oapenboar'n,<lb/>
+				<pb facs="../img/hill-1868/0126_p126.jpg"/>
+				126<lb/>
+				Dat freut' de Jung's nu eben.<lb/>
+				Na tööf, Du kriggst de Schwerenoth,<lb/>
+				't Brod,<lb/>
+				Denkt Wilk, ick schmeer Di dat up<lb/>
+				Ick will Di doch wat schrieben,<lb/>
+				Dat sall Di 'n Marksteen blieben!<lb/>
+				He bringt nu ook den annern Dag<lb/>
+				Ganz richtig sien' Twee Sieden,<lb/>
+				Oll Selig süht se noah, Gotts Schlag!<lb/>
+				Wat sall denn dat bedüden?<lb/>
+				Wat ritt he wiet de Ogen up,<lb/>
+				Mit groot' Flacturschrift steid doadrup:<lb/>
+				Bleib Schuster bei dem Leisten<lb/>
+				Und schlag' nicht mit den Fäusten!<lb/>
+				Knapp kriggt den Spruch he to Gesicht,<lb/>
+				Weet he nich mehr to blieben,<lb/>
+				Fritz Wilk ook gliek in d' Schnut Eens kriggt,<lb/>
+				Dat ’t Bloot man deit so drieben:<lb/>
+				Racaille, wart, für diese Schmach<lb/>
+				Sitzt Du von 11 bis 1 Uhr nach,<lb/>
+				Will Dir den Trotz schon brechen,<lb/>
+				Wir werden weiter sprechen!<lb/>
+				<pb facs="../img/hill-1868/0127_p127.jpg"/>
+				127<lb/>
+				Fritz Wilk' deed' sich üm den Arrest<lb/>
+				To sehr geroad' nich grämen,<lb/>
+				Doch is doabie een Uemstand west,<lb/>
+				De mucht em doch woll schämen:<lb/>
+				De Mäkens, de tom Preester güng'n,<lb/>
+				Bett Twölf hier Unnerricht empfüng'n!<lb/>
+				Drüm was he fest entschloaten,<lb/>
+				Sich hüt nich holl'n to loaten!<lb/>
+				De School was ut, dat güng noah Huus,<lb/>
+				Fritz Wilk de freut' sich dröaber,<lb/>
+				Ook he güng an oll Selig kruus<lb/>
+				Un unschaneert vöaröaber.<lb/>
+				Doch Selig packt em ganz geschwinn<lb/>
+				Un fröggt: Fritz Wilk, wo willst Du hin?<lb/>
+				De deit ganz ehrboar ropen:<lb/>
+				Ick mütt noah 'm Hof moal lopen!<lb/>
+				De Mütz hadd' he sich unnerknööpt,<lb/>
+				De Böker liggen loaten,<lb/>
+				He denkt, hest Du erst rut Di strööpt,<lb/>
+				Denn sall Di Keener foaten.<lb/>
+				Doch Selig de stunn all paroat,<lb/>
+				Fritz Wilk' de kamm nich rut noah d' Stroat,<lb/>
+				<pb facs="../img/hill-1868/0128_p128.jpg"/>
+				*<lb/>
+				128<lb/>
+				Em was Nüscht öabrig bläben,<lb/>
+				Mußt' sich noah ’m Hof begeben.<lb/>
+				He geid nu noah dat Hinnerhuus,<lb/>
+				Deit hinner sich verschluten,<lb/>
+				Un kiekt hier dörch de Ritz ganz kruus<lb/>
+				Noah 'm ollen Selig buten;<lb/>
+				De güng as Schildwach' up un af,<lb/>
+				Doamit he richtig Achtung gaff,<lb/>
+				Uem sich nich to blameeren,<lb/>
+				Dat Wilk em künn schappeeren!<lb/>
+				De Spoaß du'rt em to lang', he fröggt:<lb/>
+				Wilk, bist Du fertig drüben?<lb/>
+				Doch Wilk de lacht sich wat un seggt:<lb/>
+				Nä, ’n Bitschken mütt 'k noch blieben!<lb/>
+				Nu markt denn Selig doch vull Gift,<lb/>
+				Dat Wilk' mit em sien'n Spott bedrift,<lb/>
+				He deit in 't Huus rin lopen,<lb/>
+				Un sienen Gustav ropen.<lb/>
+				Den stellt he nu as Wach' doavöar,<lb/>
+				Indem he deit beräken:<lb/>
+				Wilk' mütt verbie an miene Döahr,<lb/>
+				<pb facs="../img/hill-1868/0129_p129.jpg"/>
+				—<lb/>
+				129<lb/>
+				Wenn he will ruter bräken,<lb/>
+				Denn packst du di den Galgenstrick,<lb/>
+				Kriggst up 'n Flor em in ’t Genick<lb/>
+				Un bringst 'n bie de Kinner<lb/>
+				Noah'm Paster Keibel rinner!<lb/>
+				Dörch d'Ritz kiekt Wilk un denkt: ’t is Tied,<lb/>
+				Dat du jitzt deist verschwinnen,<lb/>
+				Von hier noah d' Hofdöahr is nich wiet,<lb/>
+				Dat mütt sich jo woll finnen.<lb/>
+				Rietsch! was he rut, un mitt 'm Moal<lb/>
+				Lagg Gustav up ’m Rüggen doal;<lb/>
+				Wilk' was in ’t Huus knapp rinner,<lb/>
+				As Selig ook doahinner.<lb/>
+				Am Rock hadd' he ’n to foaten kriggt,<lb/>
+				Doch deed' so ’n Zug dat geben,<lb/>
+				Dat Selig up de Sied' gliek liggt,<lb/>
+				De Rockschoot was em bläben,<lb/>
+				Doch Wilk' is ut de Huusdöahr rut<lb/>
+				Un röppt noch mit sien' koddrig Schnuut:<lb/>
+				Hübsch langsoam un allmälig,<lb/>
+				Proos't Moahltied, leew Herr Selig!<lb/>
+				<pb facs="../img/hill-1868/0130_p130.jpg"/>
+				﻿130<lb/>
+				So wüßt' ick woll noch mängen Schwank<lb/>
+				Vom Ollen to vertellen,<lb/>
+				Doch denn würd' de Geschicht' to lang,<lb/>
+				To väl, dat sall nich gellen.<lb/>
+				Doch de bi em in d' School sünn goahn,<lb/>
+				Ick weet, dat se mi all' verstoahn,<lb/>
+				Roop ick am Schluß noch eben:<lb/>
+				Oll Selig de sall leben!<lb/>
+				26. De Schnelllöper.<lb/>
+				De Piep im Muul, am Kacheloaben,<lb/>
+				Satt Meister Dröasig up sien' Bank,<lb/>
+				Sien' Schloapmütz' in ’t Genick getoagen,<lb/>
+				So keek he sacht de Näs' entlang,<lb/>
+				Un grübelt vöar sich hen ganz still,<lb/>
+				Wie he de Tied verdrieben will.<lb/>
+				Doa hört he up de Trepp' wat lopen,<lb/>
+				Ball kloppt dat ook an siene Döahr,<lb/>
+				Herein! deit Meister Dröasig ropen,<lb/>
+				<pb facs="../img/hill-1868/0131_p131.jpg"/>
+				131<lb/>
+				Doch kriggt he 'n Schreck, wat kümmt hervöar?<lb/>
+				Een Kärl deit in de Stub'ndöahr stoahn,<lb/>
+				So bunt, as Dröasig's Klüterhoahn.<lb/>
+				Ne rode Jack mit blankem Flitter,<lb/>
+				Doato fleeschfarbig Hosen an,<lb/>
+				Geschlitzte Armel, wie so ’n Ritter,<lb/>
+				Ne Sammtmütz, grote Federn dran,<lb/>
+				Ne brede Schärp' von blauem Band,<lb/>
+				De blanke Trumpet' in de Hand.<lb/>
+				So steid de Kärl un seggt verwogen<lb/>
+				To Dröasig: Nun, wie sieht es aus?<lb/>
+				Mein Herr! die Börse nur gezogen,<lb/>
+				Ich bitte mein Douceur mir aus!<lb/>
+				Verwunnert stellt sich Dröasig, an<lb/>
+				Un fröggt: Woföar denn, leewer Mann?<lb/>
+				Ich bin ja heute früh gelaufen,<lb/>
+				Es kann Euch doch so fremd nicht<lb/>
+				sein,<lb/>
+				Da auf der Straße ganze Haufen<lb/>
+				Von Buben schrieen hinterdrein;<lb/>
+				Drum laßt mich nur nicht lange steh'n,<lb/>
+				Damit ich bald kann weiter geh'n!<lb/>
+				9*<lb/>
+				<pb facs="../img/hill-1868/0132_p132.jpg"/>
+				132<lb/>
+				Wat sall ick von sien Lopen weten,<lb/>
+				Seggt Dröasig, deit von d' Bank upstoahn,<lb/>
+				Ick hebb' Em jo nich lopen heten,<lb/>
+				He hadd jo ook künnt sachten goahn!<lb/>
+				Schnappt vöar de Näs' em to de Döahr:<lb/>
+				Loop he doch künftig nich so sehr!<lb/>
+				27. Dat Kriegsvertellsel.<lb/>
+				Oll Meister Lünser was bie Allen<lb/>
+				As lust'gen Voagel woll bekannt,<lb/>
+				Was irgendwo wat vöargefallen,<lb/>
+				Hadd he doatwischen ook sien' Hand.<lb/>
+				Vertell'n kunn he to allen Tieden,<lb/>
+				Un leegen kunn he wie so 'n Book,<lb/>
+				Un af un to de Lüd' to brüden<lb/>
+				Em stets dat grötst' Vergnögen mook.<lb/>
+				He föhrt een recht beschulig Leben,<lb/>
+				Vöar Sorgen was he woll bewoahrt,<lb/>
+				De Profession wurd' nich mehr dräben,<lb/>
+				<pb facs="../img/hill-1868/0133_p133.jpg"/>
+				133<lb/>
+				He hadd 'n Gröschen Geld sich spoart;<lb/>
+				Ook hadd he weder Kind noch Kegel<lb/>
+				Un kennt nich Noth und Ungemack,<lb/>
+				Drünk Dag föar Dag 'n strammen Pegel<lb/>
+				Un rookt sien Piepken Kruustoback!<lb/>
+				In d' anner Stuw' bi em g'roadöaber,<lb/>
+				Doa woahnt ne olle eenzlich' Fru,<lb/>
+				Doa güng he af un to moal röaber,<lb/>
+				Tom Sitten hadd he nich recht Ruh;<lb/>
+				Wenn Mutter Jähnken'sch ook wull schellen,<lb/>
+				Wat hulp ’t, he kehrt sich nich doaran,<lb/>
+				He wußt so väl gliek to vertellen,<lb/>
+				Toletzt füng se to lachen an.<lb/>
+				Hier funn Gesellschaft he betwielen,<lb/>
+				Drüm sach man oft ook unsen Oll'n<lb/>
+				Noah Mutter Jähnken'sch röaber ilen,<lb/>
+				De Fründschaft doa to unnerholl'n.<lb/>
+				Doch wer in Striet sich wull begeben,<lb/>
+				De kunn sich man sie'n Pündel schnör'n,<lb/>
+				Bie Lünsern was he upgeschräben,<lb/>
+				De leet im Text sich nienich stör'n.<lb/>
+				<pb facs="../img/hill-1868/0134_p134.jpg"/>
+				134<lb/>
+				So güng ’t Fru Jähnken ähren Schwoager,<lb/>
+				Dem oll'n Geschwinn, moal af un to.<lb/>
+				Kamm he bie Lünsern in dat Loager,<lb/>
+				Wurd' sienes Bliebens he nich froh;<lb/>
+				De Oller de was lange Joahren<lb/>
+				Kaproal west bie de Kavall'rie,<lb/>
+				Hadd Krieg un Gott weet wat erfoahren,<lb/>
+				Un was 'n Bäten stolz doabie.<lb/>
+				He hadd' sich loaten pensioneeren,<lb/>
+				Sien Posten wurd' em all to su'r,<lb/>
+				He wull nu sien' Pension vertähren,<lb/>
+				Güng in de Heimoath drüm retour,<lb/>
+				Un wiel he ook nich wußt' to blieben<lb/>
+				Vöar lange Wiel — sien' Fru was dood<lb/>
+				Deed' he ’t wie Meister Lünser drieben,<lb/>
+				He drunk un rookt un leed keen' Noth.<lb/>
+				De Unnerscheid was twischen Beiden,<lb/>
+				Oll Meister Lünser bleew to Huus<lb/>
+				Un drünk sien' Knurbel doa bescheiden,<lb/>
+				Dem Annern was de Kamm noch kruus,<lb/>
+				Güng he so stoatschen dörch de Stroaten<lb/>
+				Groot was he un so schlank wie ’n Rohr,<lb/>
+				<pb facs="../img/hill-1868/0135_p135.jpg"/>
+				135<lb/>
+				Denn deed em dat doch liekers loaten,<lb/>
+				As weer he wenigstens Major.<lb/>
+				De ollen Fruens hebb'n oft schwoaren —<lb/>
+				De em noch früher hadden kennt,<lb/>
+				Dat oll Geschwinn in jungen Joahren<lb/>
+				De schmuckste Kärl im Regiment.<lb/>
+				Dat sall em goar to stoatsch hebb'n loaten,<lb/>
+				Mit hoge Stäbel, Boart und Zopp,<lb/>
+				De ledern Hos' wie angegoaten,<lb/>
+				Den Federhoot kasch up ’n Kopp.<lb/>
+				Ook hüt noch was he goar nich öabel,<lb/>
+				Geroad güng he, as wie so n' Latt,<lb/>
+				Droog ook noch blanke Woadenstäbel,<lb/>
+				Doch futtert he betwielen natt.<lb/>
+				An so een'n Dag deed Keen wat gellen,<lb/>
+				Denn was he ümmer boaben drup,<lb/>
+				Deed vom Franzosenkrieg vertellen<lb/>
+				Un hört' so licht nich wedder up.<lb/>
+				Un hadd' de Stadt he afgedräben,<lb/>
+				Güng ’t ümmer noah Fru Jähnken ran,<lb/>
+				Mucht' se ook goode Wörd' em geben,<lb/>
+				<pb facs="../img/hill-1868/0136_p136.jpg"/>
+				**<lb/>
+				﻿136<lb/>
+				He füng sien Kriegsvertellsel an.<lb/>
+				Woll hunnertmoal in sienem Leben<lb/>
+				Hadd' he den Kroam ähr upgedischt;<lb/>
+				Se mußt' sich in ähr Schicksoal geben,<lb/>
+				Un all ähr Strüwen hulp ähr nüscht.<lb/>
+				Ook hüt kunn he ’t nich unnerloaten,<lb/>
+				Bie Mutter Jähnken'sch ran to goahn,<lb/>
+				He was all zimlich angegoaten<lb/>
+				Un deed nich mehr ganz sicher stoahn;<lb/>
+				Doa süht he Meister Lünsern hucken,<lb/>
+				Verflucht! so brummt he in den Boart;<lb/>
+				Em deed dat hüt gewaltig mucken,<lb/>
+				Oll Lünser was nich von sien' Oart.<lb/>
+				So sitten se sich gegenöaber<lb/>
+				Un kieken Beid' vull Grimm un Hohn<lb/>
+				Noa dröaben noah dem Riedplatz röaber,<lb/>
+				Wo de Saldoaten rieden dohn.<lb/>
+				Doch üm nüscht marken sich to loaten,<lb/>
+				Spreckt Jeder af un to een Woort<lb/>
+				So keem'n se denn ook up d' Saldoaten,<lb/>
+				Nu spunn sich gliek de Foaden foort.<lb/>
+				<pb facs="../img/hill-1868/0137_p137.jpg"/>
+				137<lb/>
+				To Ennen was dat Muulvertrecken,<lb/>
+				Dat güng nu los von Riederie,<lb/>
+				Im Krüz deed oll Geschwinn sich recken,<lb/>
+				As weer he noch up Stünn's doabie.<lb/>
+				Ja — seggt he — hatte Anno Sieben<lb/>
+				Auch solche Schindmähr unter mir,<lb/>
+				Was mir das Aas hat zugetrieben,<lb/>
+				Ist Gott bekannt — ein böses Thier!<lb/>
+				Doch war 's ein Biest von Stahl und Eisen,<lb/>
+				Un im Gefecht? à la bonne heure!<lb/>
+				Da galt es, Etwas zu beweisen,<lb/>
+				Da schlug und biß es um sich her.<lb/>
+				Mal hat es zwischen Sechs Franzosen<lb/>
+				Mit heiler Haut mich durchgebracht,<lb/>
+				Es schlug, bis alle rothen Hosen<lb/>
+				Rings um mich her erst kalt gemacht!<lb/>
+				So güng dat nu von Een't tom Annern,<lb/>
+				Oll Lünser heel gedüllig ut,<lb/>
+				He mußt mit rin noah Frankreich wannern,<lb/>
+				Kamm ut ’t Scharmützeln goar nich rut;<lb/>
+				Doch deed em dat all eklich kiddeln,<lb/>
+				He sunn im Stillen hen uu her,<lb/>
+				<pb facs="../img/hill-1868/0138_p138.jpg"/>
+				138<lb/>
+				Den Ollen düchtig aftoschüddeln,<lb/>
+				Sobald de richtig Tied erst weer.<lb/>
+				Ball was denn ook wat utgesunnen:<lb/>
+				Dem Oll'n was moal een Spoaß passeert,<lb/>
+				Worin he ’n eklich Hoar gefunnen,<lb/>
+				Wovon nich gärn he spräken hört;<lb/>
+				Dat will ick up dat Brod em rieben,<lb/>
+				De Oogen söal'n em öabergoahn<lb/>
+				Denkt Lünser — deit de Händ' sich rieben,<lb/>
+				Hüt will ick mienen Mann em stoahn!<lb/>
+				Man säd', dat he vöar langen Tieden,<lb/>
+				As bie d' Dreigoner he deed stoahn,<lb/>
+				Moal mußt' tom ollen Blücher rieden,<lb/>
+				Un dat em dat was schlecht gegoahn:<lb/>
+				Groad as he will sien Peerd pareeren,<lb/>
+				Uem siene Meldung hertosegg'n,<lb/>
+				Doa deit sich woll dat Beest verfähren<lb/>
+				Un oll Geschwinn'n in ’n Modder legg'n.<lb/>
+				Dat dacht em Lünser uptorücken,<lb/>
+				Un mook torecht sich de Geschicht,<lb/>
+				Mit egen Witz deit he se spicken,<lb/>
+				<pb facs="../img/hill-1868/0139_p139.jpg"/>
+				139<lb/>
+				Doamit se richtig prickeln mücht.<lb/>
+				Saldoat was he zwoar nienich wesen,<lb/>
+				Een Taschenkrääft was he jo man,<lb/>
+				Doch hadd' he hier un doa wat lesen,<lb/>
+				Füng stramm nu to vertellen an:<lb/>
+				Joa, joa, seggt he, dat is mitunner<lb/>
+				Mit Riederie so ’n egen Sach,<lb/>
+				Doamit het Mänger sienen Wunner,<lb/>
+				De ook all Joahr' lang rieden mag.<lb/>
+				Was nützen mich die Peitsch' un Sporen,<lb/>
+				So häwt he ganz pathetisch an,<lb/>
+				Een richt'gen Reuter wird geboren,<lb/>
+				Das lernt man keinem Minschen an!<lb/>
+				Ganz richt'ge Meinung das, mein Lieber,<lb/>
+				Seggt nu Geschwinn, was soll noch sein?<lb/>
+				Man ist sich lange klar darüber,<lb/>
+				Das muß mal angeboren sein;<lb/>
+				Ich weiß ein Beispiel aufzustellen<lb/>
+				Doa föllt em Lünser in den Kroam<lb/>
+				Un seggt: Ick mütt erst utvertellen,<lb/>
+				Ick bün noch nich to Ennen koam'!<lb/>
+				<pb facs="../img/hill-1868/0140_p140.jpg"/>
+				﻿140<lb/>
+				Nu fängt he an to declameeren:<lb/>
+				As Anno Dreizehn ’t erstemoal<lb/>
+				Wie up Paris wull'n losmascheeren<lb/>
+				Ick was Ornanz g'road doatomoal<lb/>
+				Bie Voater Blüchern: kümmt von Wieden -<lb/>
+				Wie hollen midden im Gefecht-<lb/>
+				Moal een Dreigoner antorieden,<lb/>
+				Een Peerd reed he, dat was nich schlecht;<lb/>
+				He sull dem Oll'n ne Meldung moaken,<lb/>
+				Un reed nu flott g'road up uns in,<lb/>
+				Doch denk ick fast, he breckt de Knoaken,<lb/>
+				So schloog he in den Modder rin;<lb/>
+				Denn as de Rappen deit pareeren,<lb/>
+				Doa föllt he runner mit 'm Moal,<lb/>
+				Dat wi dat förmlich quatschen hören,<lb/>
+				Geroad vöar'm ollen Blücher doal.<lb/>
+				Dem mucht' dat ook woll nich gefallen,<lb/>
+				Denn he füng an to schimpen nu:<lb/>
+				Der größte Hundsfot wohl von Allen<lb/>
+				So reep he ut — Kerl, das bist Du!<lb/>
+				Un de Dreigoner stunn wie 'n Sünner,<lb/>
+				De Moddeer klackert von em raf,<lb/>
+				<pb facs="../img/hill-1868/0141_p141.jpg"/>
+				141<lb/>
+				Bett em de Marschall joog tom Schinner,<lb/>
+				Dunn reed bedröwt he wedder af.<lb/>
+				Oll Blücher hett em runner räten,<lb/>
+				Ick kann Ihn'n seggen, Herr Geschwinn,<lb/>
+				Ick ward ’t im Leben nich vergäten,<lb/>
+				Mi föllt so oft de Spoaß noch in.<lb/>
+				Nich woahr? Wer richtig weet to rieden,<lb/>
+				Dem kann dat nich so koddrig goahn,<lb/>
+				Wi weeten ’t, wat dat deit bedüden,<lb/>
+				Wiel Beid' dat Rieden wi verstoahn.<lb/>
+				Geschwinn de satt as wie up Koahlen,<lb/>
+				Rückt up den Schemel her un hen,<lb/>
+				Doch deed he endlich sich verhoalen,<lb/>
+				Seggt, as oll Lünser nu to Enn:<lb/>
+				Sind Sie denn auch Soldat gewesen?<lb/>
+				So viel, wie mir bekannt, doch nicht,<lb/>
+				Das haben Sie wohl mal gelesen,<lb/>
+				Un wärmen 's auf als Leibgericht!<lb/>
+				I, nich doch, Gott sall mi bewoahren,<lb/>
+				Dat hebb'n Se woll im Aernst nich meent?<lb/>
+				In Rixdörp bie de Schnapshusoaren<lb/>
+				<pb facs="../img/hill-1868/0142_p142.jpg"/>
+				142<lb/>
+				Hebb richtig ick mien Tied gedeent!<lb/>
+				Dit wurd' Geschwinn'n am End' doch öaber,<lb/>
+				Steid up, schickt sich tom Weggoahn an<lb/>
+				Un röppt noah Meister Lünsern röaber:<lb/>
+				Sie sind doch ein gemeiner Mann!<lb/>
+				Doch Lünser blifft ganz ruhig sitten,<lb/>
+				Kiekt drööprig oll Geschwinnen an:<lb/>
+				Dat Se dat ook verroaden mütten,<lb/>
+				Seggt he, wer doaföar nu woll kann?<lb/>
+				Se hebben Recht, ’t wull nich gelingen.<lb/>
+				Ick seet in miene Charg' ganz fest,<lb/>
+				Tom Unt'roffzeer kunn ick ’t nich bringen,<lb/>
+				Ick bün man Hundsgemeener west!<lb/>
+				28. Dat Inschlachten.<lb/>
+				To Ennen was föar hüt dat Rieden,<lb/>
+				Un leddig was dat in de Boahn,<lb/>
+				Im groten Stall sach man von Wieden<lb/>
+				De Unt'roffzeers to Hoop noch stoahn;<lb/>
+				De red'ten unner sich doa af,<lb/>
+				Wat ’t annern Doags to moaken gaff.<lb/>
+				<pb facs="../img/hill-1868/0143_p143.jpg"/>
+				143<lb/>
+				Doa kümmt den Gang entlang to lopen<lb/>
+				De Chef, dat was Rittmeister Fritz;<lb/>
+				Laßt Euch nicht stören! deit he ropen,<lb/>
+				Un foat't tom Gruß sich an de Mütz';<lb/>
+				Stellt still sich hen un horkt mit af,<lb/>
+				Wat noch de Deenst to spräken gaff.<lb/>
+				As Allem erst sien Recht geschehen,<lb/>
+				Nimmt he dat Woort un hewt nu an:<lb/>
+				Sagt, Kinderchen, ich hab' gesehen —<lb/>
+				Kam öfter ich bei Euch heran<lb/>
+				Hab ’t Schinken stets und Wurst im Haus,<lb/>
+				Das sieht so appetitlich aus,<lb/>
+				Daß mir schon die Idee gekommen,<lb/>
+				Es so zu machen, ganz wie Ihr;<lb/>
+				Ich habe fest mir vorgenommen,<lb/>
+				Ich kauf' ein junges Schweinchen mir,<lb/>
+				Das wird im Hause fett gemacht<lb/>
+				Und dann zum Winter eingeschlachtt.<lb/>
+				Ich wollt' nun Eure Meinung hören,<lb/>
+				Ihr müßt das besser doch versteh'n<lb/>
+				Mich dünkt, das Mästen kann nicht stören,<lb/>
+				<pb facs="../img/hill-1868/0144_p144.jpg"/>
+				﻿144<lb/>
+				Das kann so nebenher gescheh'n.<lb/>
+				Nun sagt, ob Euch das practisch scheint,<lb/>
+				Und was Ihr zu der Sache meint?<lb/>
+				De Unt'roffzeers de stoahn un scheelen<lb/>
+				Bedächtig sich den Schnurrboart raf,<lb/>
+				Doch Keener was, de von so Välen<lb/>
+				Dem ollen Herrn 'ne Antwoort gaff,<lb/>
+				De öllst Sarschant, Matz heet de Mann,<lb/>
+				Füng endlich doch to spräken an:<lb/>
+				Wenn Sie ein Schwien sich schlachten müchten,<lb/>
+				Herr Rittmeister, das weer ganz gut,<lb/>
+				Doch scheint mich, das Sie das doch lichten<lb/>
+				Zu viel an Futtrung kosten duht,<lb/>
+				Wenn man vor 'm Baaren Allens nimmt,<lb/>
+				So 'n Schwien doch gar zu deuer kümmt.<lb/>
+				Ick kauf mich alle Jahr zwee Farken,<lb/>
+				Die bring' ich in den Stall mich rin,<lb/>
+				Dat Streußel duhn die Kinder harken<lb/>
+				Un meine Fru plant't Tüften in,<lb/>
+				Dagdäglich geht nach 's Feld sie rut<lb/>
+				Un plückt sich grünes Futterkruut.<lb/>
+				<pb facs="../img/hill-1868/0145_p145.jpg"/>
+				145<lb/>
+				Middwiel is denn der Harwst gekommen,<lb/>
+				Denn hat 's um Futt'rung nich mehr Noth,<lb/>
+				Denn sind die Tüften ufgenommen,<lb/>
+				Die meng' ick ihr mit Klie un Schroot;<lb/>
+				Drei Monat duhn in 's Land noch zieh'n<lb/>
+				Un meine Pölk' sind fette Schwien'.<lb/>
+				Mit Sie kommt 's deurer doch zu stehen,<lb/>
+				Wenn Sie ein Polk sich kaufen duhn,<lb/>
+				Wer soll uf richt'ge Futt'rung sehen,<lb/>
+				Das Mädchen? na, das weeß man schon,<lb/>
+				Wer fremde Leut' sein Veeh vertraut,<lb/>
+				Der hat sein' Sach' uf Nichts gebaut.<lb/>
+				Drüm, woll'n uf meinen Rath Sie achten,<lb/>
+				Denn kaufen Sie ein Schwien sich fett,<lb/>
+				Das lassen Sie denn gleich sich schlachten,<lb/>
+				Denn haben Sie 's bequem un nett,<lb/>
+				Un billiger kömmt 's doch zu stehn,<lb/>
+				As wenn Sie nach in Schlächter gehn.<lb/>
+				Sie haben Recht, das will ich machen,<lb/>
+				Seggt Herr von Fritz, doch sorg' ich nur<lb/>
+				Um 's Kaufgeschäft; von solchen Sachen<lb/>
+				10<lb/>
+				<pb facs="../img/hill-1868/0146_p146.jpg"/>
+				146<lb/>
+				Versteh' ich leider keine Spur;<lb/>
+				Hat man sich da nicht vorgeseh'n,<lb/>
+				Kommt 's theurer noch zuletzt zu steh'n.<lb/>
+				I, darüm brauchen Sie nich bangen,<lb/>
+				Seggt Matz, da find't der Rath sich schon,<lb/>
+				Ick werd' Gefreiter Drichel'n langen,<lb/>
+				Der Schlächter is von Profession,<lb/>
+				Der kooft een Schwien, ick weeß gewiß,<lb/>
+				Wat nich von schlechten Eltern is.<lb/>
+				De Sach de was nu afgesproaken;<lb/>
+				Doch Herr von Fritz was noch nich kloar<lb/>
+				Wie he dat mit dat Geld sull moaken.<lb/>
+				So ’n Fiefundörtig Doaler boar<lb/>
+				Kamm doch de Handel woll to stoahn;<lb/>
+				Bie Wem sull he noah Pumpen goahn?<lb/>
+				He mucht woll schlimm in Schulden sitten,<lb/>
+				Denn uter sien, ganz kleen Gehalt<lb/>
+				Besatt he nich 'n roden Witten,<lb/>
+				Un dat güng stets to Ennen bald.<lb/>
+				In d' Stadt was ook so licht nüscht funn'n,<lb/>
+				Wo ’t güng, was längst 'n Hund anbunn'n<lb/>
+				<pb facs="../img/hill-1868/0147_p147.jpg"/>
+				147<lb/>
+				As Leutnant was in jungen Joahren<lb/>
+				Mit em dat alltoflott gegoahn,<lb/>
+				Dunn dacht he noch nich an dat Spoaren,<lb/>
+				Hadd' sien Vermögen ganz verdoahn.<lb/>
+				Noch Schulden namm he boaben in<lb/>
+				Nich wenig in den Ehstand rin.<lb/>
+				Sien Fru was man een armet Frölen,<lb/>
+				Aehr Voater was 'n Generoal,<lb/>
+				Vermögen was nich uttodeelen;<lb/>
+				So hadd' he Dag vöar Dag sien Quoal.<lb/>
+				Hüt kreeg he sien Gehalt in 't Huus,<lb/>
+				Morg'n was he arm wie 'n Kirchenmuus.<lb/>
+				As he nu sinnt in deepen Sorgen,<lb/>
+				Süht he den Futtermeister goahn;<lb/>
+				Dat was 'n Matador im Borgen,<lb/>
+				De deed dat Pumpen recht verstoahn,<lb/>
+				Den röppt he rinner von de Stroat;<lb/>
+				Un richtig wußt de Kärl ook Roath.<lb/>
+				Keen halwe Stunn was noch versträken,,<lb/>
+				Dunn kamm vom Utgang he all an,<lb/>
+				Bie Fritzen wedder vöartospräken,<lb/>
+				<pb facs="../img/hill-1868/0148_p148.jpg"/>
+				148<lb/>
+				Schläpt Fiefundörtig Doaler ran.<lb/>
+				Oll Fritz de freut' sich königlich,<lb/>
+				Woher dat Geld? dat froog he nich.<lb/>
+				Nu wurd' Gefreiter Drichel ropen<lb/>
+				Un em de Doalers upgetoalt,<lb/>
+				Uem up de Dörper rüm to lopen,<lb/>
+				Doamit 'n düchtig Schwien he hoalt.<lb/>
+				Un as nu Allens afgedoahn,<lb/>
+				Will ook de Futtermeister goahn.<lb/>
+				Mein Lieber, fast will mich bedünken,<lb/>
+				Es sei zu viel ein ganzes Schwein,<lb/>
+				Jahr aus, Jahr ein nur Wurst und Schinken,<lb/>
+				Muß schließlich widerwärtig sein,<lb/>
+				Seggt Herr von Fritz, was meinen Sie?<lb/>
+				Zu viel für meine Wirthschaft! Wie?<lb/>
+				De Futtermeister seggt mit Lachen:<lb/>
+				So theilen Sie sich doch das Schwein!<lb/>
+				Die Sache will ich Ihnen machen,<lb/>
+				Uhrmacher Helm wird Partner sein;<lb/>
+				Das ist ein ganz solider Mann,<lb/>
+				Der steht gewiß sehr gern mit an.<lb/>
+				<pb facs="../img/hill-1868/0149_p149.jpg"/>
+				149<lb/>
+				Ei prächtig! deit de Chef nu spräken,<lb/>
+				He striekt vergnöglich sich den Boart,<lb/>
+				Un deit im Stillen sich beräken,<lb/>
+				Dat he to Geld kümmt up de Oart;<lb/>
+				De Tunn vull Fleesch, Geld boaben in,<lb/>
+				Dat kunn jo goarnich bäter sinn!<lb/>
+				Doags drup kamm Drichel angedräben<lb/>
+				Un bröcht 'n Schwien, ganz rund nn kruus,<lb/>
+				Hadd' Tweeundörtig Doaler geben,<lb/>
+				Dree Doaler bracht he noch to Huus;<lb/>
+				De Oller nimmt dat Geld em af,<lb/>
+				Indem he em ’n Drinkgeld gaff.<lb/>
+				Ook Meister Helm was all bie Wegen,<lb/>
+				He hadd' 'n Arbeitsmann paroat;<lb/>
+				Un as he nu sien'n Part gekrägen<lb/>
+				Un hadd' den Kärl doamit up d' Stroat,<lb/>
+				Doa geid he ganz vergnöglich ran<lb/>
+				Un häwt to Herr von Fritzen an:<lb/>
+				Herr Rittmeister, Se warden weeten,<lb/>
+				Noch Sößtein Doaler stoahn Se an,<lb/>
+				Ick loat hiermit mien' Räknung scheeten,<lb/>
+				<pb facs="../img/hill-1868/0150_p150.jpg"/>
+				150<lb/>
+				Nehm ’t halwe Schwien in Toahlung an;<lb/>
+				Null geid mit Null denn richtig up,<lb/>
+				Wie bruken nu keen Quittung drup.<lb/>
+				De Rittmeister de stunn am Schroagen,<lb/>
+				As wenn de Blitz hadd' ingeschloan,<lb/>
+				Doch wenn em dit ook hadd' bedroagen,<lb/>
+				So mußt' he sich doch ingestoahn,<lb/>
+				Dat woll in Ornung was de Sach,<lb/>
+				Drüm schweeg he to sien Ungemach.<lb/>
+				Doch Keener was hüt so vull Leben<lb/>
+				Un so vergnögt, as gnädig Fru;<lb/>
+				Wat sull dat nich to broaden geben!<lb/>
+				Wat gaff dat Wost un Schinken nu!<lb/>
+				Ganz utgeloaten was se hüt,<lb/>
+				To Ennen güng de knappe Tied!<lb/>
+				Wer wull ook woll doaröaher reden;<lb/>
+				Se was jo noch so 'n junges Bloot,<lb/>
+				Was stets vergnögt un stets tofräden,<lb/>
+				Ofgliek se hadd ähr leewe Noth.<lb/>
+				Wie n' Rosenknuppen sach se ut,<lb/>
+				So frisch un zierlich, as 'n Brut.<lb/>
+				<pb facs="../img/hill-1868/0151_p151.jpg"/>
+				151<lb/>
+				Aehr Herr von Fritz was ungeldagen<lb/>
+				Woll öller Fiefuntwintig Joahr,<lb/>
+				All schwach un gänzlich utgedroagen;<lb/>
+				Gries wie so ’n Filzschoh was sien Hoar,<lb/>
+				Drüm Mängen dat to denken geef,<lb/>
+				Wat ähr von em woll öabrig bleef.<lb/>
+				Dem ollen Herrn was noahtoreden,<lb/>
+				Dat he ’n ollen goden Mann,<lb/>
+				Deed narens in den Weg ähr träden;<lb/>
+				Was ähr to Willen, wo he kann,<lb/>
+				Doch Olt un Jung, wat hulp dat All,<lb/>
+				Dat is nich, as dat sinnen sall.<lb/>
+				So bleef ähr wieder keen Vergnögen,<lb/>
+				As dat se wie so 'n Voagel süng,<lb/>
+				Un dat se Beid' Besöök oft kreegen,<lb/>
+				Se to Besöök mit Fritz ook güng;<lb/>
+				Jitzt was se just bie Allen goahn,<lb/>
+				An ähr deed längst de Reeg' all stoahn.<lb/>
+				Drüm güng dat Schmurgeln un dat Broaden<lb/>
+				Nu los, as weer dat Kindelbeer,<lb/>
+				De Gäst' de wurden ingeloaden,<lb/>
+				<pb facs="../img/hill-1868/0152_p152.jpg"/>
+				-<lb/>
+				.<lb/>
+				152<lb/>
+				Ut d' Stadt un ook vom Land' ümher;<lb/>
+				Dat gaf een Leben, een Pläseer,<lb/>
+				As wenn de grötste Festdag weer.<lb/>
+				Noah eenig Doagen goahn spatzeren,<lb/>
+				De beiden Lüd', recht Hand in Hand,<lb/>
+				So dat se ook de Stroat passeren,<lb/>
+				Wo Matz deit woahnen, de Sarschant,<lb/>
+				Hier blieben se all Beid' bestoahn<lb/>
+				Un doh'n am Enn in ’t Huus rin goahn.<lb/>
+				Denn Matzens weeren, so wie Allen,<lb/>
+				De sünst nüscht hebben in de Welt,<lb/>
+				Een Hopen Kinner togefallen,<lb/>
+				Woll as Ersatz föar Good un Geld.<lb/>
+				All Joahr funn sich so 'n Wörmken an,<lb/>
+				Im Harwst kamm noch ’n Spätling ran.<lb/>
+				De Kinner deeden all sich reegen<lb/>
+				Wie Orgelpiepen, Deern an Deern,<lb/>
+				Ofgliek se lichte Kost man kreegen,<lb/>
+				Un man mit Tüften pöppelt weer'n,<lb/>
+				So weer’n se doch so frisch un roth,<lb/>
+				As sprüng' ähr ut ’t Gesicht dat Bloot.<lb/>
+				<pb facs="../img/hill-1868/0153_p153.jpg"/>
+				153<lb/>
+				Wiel nu de gnädig Fru oahn Kinner,<lb/>
+				Un doch doabie so kinnerleef,<lb/>
+				So leep se oft bie Matzens rinner,<lb/>
+				Wo stunnenlang se sitten bleef,<lb/>
+				Denn ähr gefeel dat goar to schön,<lb/>
+				De dicken Drubbels antoseh'n<lb/>
+				De Piep im Muul, de Schört vöar 'm Moagen,<lb/>
+				Den Futteremmer in de Hand,<lb/>
+				Kamm ganz vergnöglich antodroagen<lb/>
+				In d' Hinnendöahr de oll Sarschant<lb/>
+				Un will in d' Köaken rinner goahn;<lb/>
+				Doa süht he denn de Herrschaft stoahn.<lb/>
+				Fix lett he Allens stoahn un liggen,<lb/>
+				Springt to, möckt up de Stubendöahr<lb/>
+				Un stött doabie lang up den Rüggen<lb/>
+				In hille Hast de öllste Jöahr;<lb/>
+				Sien Fru de satt am Kleederspind,<lb/>
+				Het an de Bost dat jüngste Kind.<lb/>
+				Söss dicke, utgestoppte Rangen,<lb/>
+				Wie 'n Entelbutt so rund un schwer,<lb/>
+				Dohn up de Dähl'n sich rümmer wrangen,<lb/>
+				10*<lb/>
+				<pb facs="../img/hill-1868/0154_p154.jpg"/>
+				154<lb/>
+				As wenn ’t ’n Hoopen Farken weer,<lb/>
+				Un doabie moaken Moal üm Moal<lb/>
+				Se heidenmäßigen Randoal.<lb/>
+				Matz will de Band' bie d' Flicken foaten,<lb/>
+				Doch röppt de gnädig Fru em an<lb/>
+				Un seggt, he sall se spälen loaten,<lb/>
+				Se hadd' ähr groot Pläseer doadran;<lb/>
+				Drup mook se sich 'n Stohlsitz frie<lb/>
+				Un sett't vergnögt sich doal doabie.<lb/>
+				Knapp dat de Jöahren man erst weeten,<lb/>
+				Dat ähr föar hüt de Rüggen frie,<lb/>
+				As se ook gliek kopphäster scheeten,<lb/>
+				Dat man de Schwitz so drifft doabie,<lb/>
+				Bald hadd'n se All' so schwart sich schmärt,<lb/>
+				As wenn man junge Söagen theert.<lb/>
+				Dat güng Kopp unnen un Kopp boaben,<lb/>
+				De Fru lacht sich ut Rand un Band;<lb/>
+				Intwischen stunn'n am Kacheloaben<lb/>
+				Uns' Rittmeister un sien Sarschant,<lb/>
+				Un sproken öaber Dit un Dat<lb/>
+				Un ook toletzt vom Päkelfatt.<lb/>
+				r7<lb/>
+				<pb facs="../img/hill-1868/0155_p155.jpg"/>
+				153<lb/>
+				Ah! appropos, was wollt' ich sagen,<lb/>
+				Gebrauchen Sie nicht Speck, mein Freund?<lb/>
+				Seggt Herr von Fritz, für meinen Magen<lb/>
+				Ist er zu fett, wie mir es scheint,<lb/>
+				So Sechsk'halb Pfund sind 's ungefähr;<lb/>
+				Nicht wahr? ich schick sie Ihnen her!<lb/>
+				Den Spech den köan'n Sie garnich missen,<lb/>
+				Seggt Matz, den braucht die gnäd'ge Fru,<lb/>
+				Herr Rittmeister, Sie mussen wissen,<lb/>
+				Wer braten muß, braucht Spech dazu,<lb/>
+				Da is Ihn'n jedes enzlich Loth<lb/>
+				So nödig, wie das leewe Brod.<lb/>
+				St, st, mein Freund, nichts lautbar machen,<lb/>
+				Daß meine Frau noch davon hört,<lb/>
+				Ganz unter uns — Sie werden lachen,<lb/>
+				Das halbe Schwein ist längst verzehrt,<lb/>
+				Und Wurst und Schinken, Alles weg,<lb/>
+				Nichts übrig, als der geile Speck!<lb/>
+				Wüßt' meine Frau, wie man verwende<lb/>
+				Den Speck, so setz' mein Wort ich ein,<lb/>
+				Dann müßt' es noch am letzten Ende<lb/>
+				<pb facs="../img/hill-1868/0156_p156.jpg"/>
+				*<lb/>
+				﻿156<lb/>
+				Kalbsbraten mit Gesellschaft sein.<lb/>
+				Schon träumt ich Schinken mir im He<lb/>
+				Ja gute Nacht, der Traum ist aus.<lb/>
+				Oll Matz stunn ganz verblüfft am O¬<lb/>
+				Un seggt toletzt: I, Jott bewoahr!<lb/>
+				Sie mussen viel gegessen haben,<lb/>
+				Bei mich langt das een halbes Jahr. —<lb/>
+				Nä, schlachten Sie nich wieder in,<lb/>
+				Profit liegt uf die Art nich drin!<lb/>
+				23 JY 68<lb/>
+				*<lb/>
+				Druck von C. Vincent's Buchdruckerei in Pr<lb/>
+				.<lb/>
+		</body>
+	</text>
+</TEI>

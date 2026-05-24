@@ -84,39 +84,6 @@ mellt	VERB
 
 
 --	PUNCT
-binceick	NOUN
-ennuen	VERB
-.	PUNCT
-.	PUNCT
-
-
---	PUNCT
-ué	NOUN
-ioo	VERB
-,	PUNCT
-Gtorurd	VERB
-.	PUNCT
-ind	NOUN
-nl	VERB
-.	PUNCT
-
-
---	PUNCT
-l	NOUN
-u	VERB
-.	PUNCT
-lolg	VERB
-bi	ADP
-Miur	NOUN
-In	ADP
-
-
---	PUNCT
-ioorie	NOUN
-cirig	VERB
-alt	PROPN
-
-
 Bi	ADP
 Mutter	NOUN
 Ballstädtsch	VERB
@@ -124,14 +91,8 @@ Ballstädtsch	VERB
 
 
 --	PUNCT
-hi	VERB
-Mior	NOUN
-unSC	VERB
-
-
---	PUNCT
 "	PUNCT
-Fi	NOUN
+Ji	PRON
 reden	VERB
 klook	ADJ
 !	PUNCT
@@ -153,8 +114,8 @@ Hus	NOUN
 bi	ADP
 Muttern	NOUN
 sitten	VERB
-
-
+-	PUNCT
+--	PUNCT
 Un	CCONJ
 up	ADP
 den	DET
@@ -178,10 +139,6 @@ stippen	NOUN
 
 
 --	PUNCT
-tan	NOUN
-ult	VERB
-
-
 Wenn	SCONJ
 pünktlich	NOUN
 steiht	VERB
@@ -229,10 +186,6 @@ up	ADP
 
 
 --	PUNCT
-hd	NOUN
-ni	VERB
-
-
 Un	CCONJ
 wenn	SCONJ
 Ii	PRON
@@ -363,7 +316,7 @@ groote	ADJ
 Joahrmarchts-Keilerie	NOUN
 
 
-Ii	PRON
+Ji	PRON
 ümmer	ADV
 düchtig	ADJ
 up	ADP
@@ -835,29 +788,11 @@ hett	AUX
 
 
 --	PUNCT
-fiin	NOUN
-ion	VERB
-
-
-tind	NOUN
-HIG	VERB
-
-
-rind	NOUN
-i	INTJ
-
-
 Von	ADP
 Stettin	NOUN
 noah	ADP
 Hannower	NOUN
 ;	PUNCT
-
-
---	PUNCT
-an	ADP
-el	NOUN
-.	PUNCT
 
 
 --	PUNCT
@@ -868,11 +803,6 @@ an	ADP
 de	DET
 Grenz	NOUN
 .	PUNCT
-
-
---	PUNCT
-hoch	ADV
-crlnd	VERB
 
 
 --	PUNCT
@@ -889,21 +819,11 @@ an	ADP
 
 
 --	PUNCT
-d	PRON
-dhi	NOUN
-nas	VERB
-
-
-Ii	PRON
+Ji	PRON
 weten	VERB
 ick	PRON
 bin	AUX
 Gardemann	VERB
-
-
-n'Huot	ADJ
-S	NOUN
-poo	VERB
 
 
 Un	CCONJ
@@ -917,7 +837,7 @@ Regiment	NOUN
 
 --	PUNCT
 Wat	PRON
-Ii	PRON
+Ji	PRON
 as	CCONJ
 broaw	NOUN
 un	CCONJ
@@ -927,23 +847,11 @@ kennt	VERB
 
 
 --	PUNCT
-on	VERB
-mahod	NOUN
-nll	VERB
-
-
 Ick	PRON
 stünn	VERB
 mit	ADP
 Michel	PROPN
 Fichtenspohn	VERB
-
-
-n	DET
-durrg	NOUN
-s	VERB
-an	ADP
-doc	NOUN
 
 
 Bi	ADP
@@ -963,10 +871,6 @@ Gottlieb	NOUN
 Degen	VERB
 
 
-user	NOUN
-lo	VERB
-
-
 Harr	VERB
 ick	PRON
 tosoamen	VERB
@@ -976,11 +880,6 @@ kregen	VERB
 
 
 --	PUNCT
-sig	VERB
-timo	NOUN
-nt	VERB
-
-
 Un	CCONJ
 Gottfried	NOUN
 Bölk	VERB
@@ -1017,13 +916,6 @@ ut	ADP
 Pangsien	NOUN
 
 
---	PUNCT
-Hue	NOUN
-nachsing	VERB
-.	PUNCT
-
-
---	PUNCT
 Würd	AUX
 ick	PRON
 tosoamen	VERB
@@ -1039,14 +931,6 @@ fidelen	ADJ
 Köster	NOUN
 wärt	VERB
 ,	PUNCT
-
-
---	PUNCT
-ini	VERB
-isn	NOUN
-aniam	VERB
-c	PROPN
-.	PUNCT
 
 
 --	PUNCT
@@ -1130,7 +1014,7 @@ fahrn	VERB
 --	PUNCT
 Nu	ADV
 harr	VERB
-Ii	PRON
+Ji	PRON
 dit	DET
 Hurrah	INTJ
 müßt	AUX
@@ -1364,11 +1248,6 @@ dünn	VERB
 
 
 --	PUNCT
-im	ADP
-uol	VERB
-uns	PRON
-
-
 Dat	PRON
 man	ADV
 recht	ADV
@@ -1409,11 +1288,6 @@ sehr	ADV
 strapzeer'n	VERB
 
 
-a	PROPN
-dl	NOUN
-hi	VERB
-
-
 Mit	ADP
 Scheeten	VERB
 un	CCONJ
@@ -1437,11 +1311,6 @@ nich	ADV
 
 
 --	PUNCT
-en	DET
-enn	NOUN
-vnd	NOUN
-
-
 De	PRON
 olle	ADV
 Jung	NOUN
@@ -1450,11 +1319,6 @@ dehr	NOUN
 mi	PRON
 leed	ADV
 ,	PUNCT
-
-
---	PUNCT
-itthüdolsi	NOUN
-ier	VERB
 
 
 --	PUNCT
@@ -1542,10 +1406,6 @@ gehört	VERB
 
 
 --	PUNCT
-sat	VERB
-i	SCONJ
-
-
 Es	X
 hat	AUX
 bei	X
@@ -1563,11 +1423,7 @@ gegeben	VERB
 
 
 --	PUNCT
-ee	VERB
-in	ADP
-
-
-Schad'	NOUN
+Schad'	VERB
 daß	CCONJ
 wir	PRON
 nicht	ADV
@@ -1578,16 +1434,10 @@ gewesen	VERB
 
 
 --	PUNCT
-o	PROPN
-nu	ADV
-ntl	VERB
-
-
---	PUNCT
 Dit	DET
 Leben	NOUN
 harr	VERB
-Ii	PRON
+Ji	PRON
 nu	ADV
 müßt	AUX
 sehn	VERB
@@ -1595,12 +1445,6 @@ sehn	VERB
 
 
 --	PUNCT
-tim	NOUN
-rkr	VERB
-n	DET
-C	PROPN
-
-
 As	CCONJ
 noahsten	NOUN
 uck	VERB
@@ -1652,10 +1496,6 @@ dohn	AUX
 
 
 --	PUNCT
-Gr	VERB
-oG	NOUN
-
-
 Wenn	SCONJ
 Frankreich	ADV
 nich	ADV
@@ -1678,27 +1518,15 @@ jammern	VERB
 
 
 --	PUNCT
-öch	NOUN
-ehr	VERB
-.	PUNCT
-non	VERB
-
-
---	PUNCT
 "	PUNCT
 Wat	PRON
 meinst	VERB
 Du	PRON
 doato	ADV
 ,	PUNCT
-Georg	VERB
-
-
-nect	VERB
-.	PUNCT
-ni	NOUN
-fi	VERB
-.	PUNCT
+Georg	NOUN
+Mayn	VERB
+?	PUNCT
 
 
 --	PUNCT
@@ -1722,10 +1550,6 @@ wat	PRON
 
 
 --	PUNCT
-ms	NOUN
-hi	VERB
-
-
 Uck	VERB
 ick	PRON
 heww	VERB
@@ -1736,12 +1560,6 @@ hat	AUX
 
 
 --	PUNCT
-tim	VERB
-nt	ADJ
-natsechs	NOUN
-lille	VERB
-
-
 Na	ADP
 schließlich	NOUN
 käm	VERB
@@ -1758,12 +1576,6 @@ Grotherzog	NOUN
 
 
 --	PUNCT
-to	ADP
-m	NOUN
-.	PUNCT
-
-
---	PUNCT
 De	DET
 harr	NOUN
 uns	PRON
@@ -1774,11 +1586,6 @@ inspezeeren	NOUN
 
 
 --	PUNCT
-nlaa	VERB
-nn	ADP
-allo	NOUN
-
-
 Of	SCONJ
 wi	PRON
 felddüchtig	VERB
@@ -1789,15 +1596,6 @@ wären	NOUN
 
 
 --	PUNCT
-Irfpol	NOUN
-aig	VERB
-
-
-steher	NOUN
-iry	VERB
-o	ADP
-
-
 Dit	PRON
 wär	AUX
 ,	PUNCT
@@ -1807,15 +1605,6 @@ noch	ADV
 hüt	ADV
 bewußt	VERB
 ,	PUNCT
-
-
---	PUNCT
-ind	NOUN
-iria	VERB
-nt	ADJ
-ad	NOUN
-ta	VERB
-.	PUNCT
 
 
 --	PUNCT
@@ -1832,11 +1621,6 @@ vierteihnsten	NOUN
 wär	AUX
 Kirchgang	VERB
 nu	ADV
-
-
-da	ADV
-misl	ADJ
-snd	NOUN
 
 
 Un	CCONJ
@@ -1858,10 +1642,6 @@ Iserboahn	NOUN
 
 
 --	PUNCT
-minol	VERB
-nun	ADV
-
-
 Un	CCONJ
 öwer	NOUN
 Hamm	VERB
@@ -1873,22 +1653,12 @@ goahn	VERB
 
 
 --	PUNCT
-chit	VERB
-ind	NOUN
-tod	VERB
-
-
---	PUNCT
 In	ADP
 Karlsruh	NOUN
 hebb'n	AUX
 wi	PRON
 Ruhdag	NOUN
 kregen	VERB
-
-
-nad	NOUN
-fn	VERB
 
 
 Un	CCONJ
@@ -2229,16 +1999,6 @@ rücken	VERB
 
 
 --	PUNCT
-uniä	VERB
-natsokt	NOUN
-nais	VERB
-
-
-chü	ADJ
-rrtl	NOUN
-S	VERB
-
-
 Na	ADP
 dat	PRON
 wär	AUX
@@ -2246,13 +2006,6 @@ nu	ADV
 en	DET
 Zoddellie	NOUN
 ,	PUNCT
-
-
---	PUNCT
-innl-	NOUN
-hu	VERB
-n	DET
-dds	NOUN
 
 
 --	PUNCT
@@ -2283,12 +2036,6 @@ hat	AUX
 
 
 --	PUNCT
-irit	VERB
-m	ADJ
-la	NOUN
-uie	VERB
-
-
 Tum	ADP
 Glück	NOUN
 güng't	VERB
@@ -2296,13 +2043,6 @@ noch	ADV
 mit	ADP
 Iserboahn	NOUN
 ,	PUNCT
-
-
---	PUNCT
-dolos	VERB
-ra	NOUN
-ul	VERB
-.	PUNCT
 
 
 --	PUNCT
@@ -2336,10 +2076,6 @@ utschloapen	VERB
 
 
 --	PUNCT
-Auu	VERB
-i	SCONJ
-
-
 Doch	ADV
 du'rt	VERB
 nich	ADV
@@ -2370,11 +2106,6 @@ Rhein	VERB
 
 
 --	PUNCT
-prahnn	VERB
-t	PRON
-
-
---	PUNCT
 "	PUNCT
 "	PUNCT
 Lieb	VERB
@@ -2387,11 +2118,6 @@ sein	X
 
 
 --	PUNCT
-le	VERB
-n	DET
-n	DET
-
-
 Dat	PRON
 sungen	VERB
 wi	PRON
@@ -2399,12 +2125,6 @@ mit	ADP
 Stolz	NOUN
 un	CCONJ
 Lust	NOUN
-
-
---	PUNCT
-.	PUNCT
-di	PRON
-n	DET
 
 
 Doabi	VERB
@@ -2425,12 +2145,6 @@ betreden	VERB
 
 
 --	PUNCT
-ni	VERB
-,	PUNCT
-lai	NOUN
-noit	VERB
-
-
 De	DET
 Köster	NOUN
 hett	AUX
@@ -2441,17 +2155,6 @@ anschreben	VERB
 
 
 --	PUNCT
-um	ADP
-ur	NOUN
-.	PUNCT
-
-
---	PUNCT
-jon	VERB
-terig	NOUN
-jc	VERB
-
-
 He	PRON
 säd	VERB
 to	ADP
@@ -2461,12 +2164,6 @@ mi	PRON
 weißt	NOUN
 Ballermann	VERB
 ,	PUNCT
-
-
---	PUNCT
-nnder	VERB
-i	INTJ
-.	PUNCT
 
 
 --	PUNCT
@@ -2518,14 +2215,6 @@ nicht	ADV
 
 
 --	PUNCT
-fir	NOUN
-ot	VERB
-JunC	PUNCT
-i	INTJ
-.	PUNCT
-
-
---	PUNCT
 Paß	NOUN
 auf	ADP
 ,	PUNCT
@@ -2538,11 +2227,6 @@ siegen	VERB
 
 
 --	PUNCT
-ion	VERB
-urtod	NOUN
-tods	VERB
-
-
 Wir	PRON
 müssen	AUX
 Alles	PRON
@@ -2596,23 +2280,12 @@ Dir	VERB
 
 
 --	PUNCT
-in	ADP
-deing	NOUN
-
-
---	PUNCT
 Die	PRON
 schöne	ADJ
 Gegend	NOUN
 rings	NOUN
 umher	VERB
 ,	PUNCT
-
-
---	PUNCT
-un	CCONJ
-iclm	VERB
-.	PUNCT
 
 
 --	PUNCT
@@ -2626,10 +2299,6 @@ mehr	ADV
 
 
 --	PUNCT
-ciat	VERB
-e	PROPN
-
-
 Deutsch	NOUN
 war's	VERB
 !	PUNCT
@@ -2652,12 +2321,6 @@ sterben	VERB
 
 
 --	PUNCT
-un	CCONJ
-uns	PRON
-.	PUNCT
-
-
---	PUNCT
 "	PUNCT
 De	DET
 Köster	NOUN
@@ -2669,28 +2332,12 @@ doabi	NOUN
 
 
 --	PUNCT
-un	CCONJ
-id	ADJ
-id	NOUN
-mnst	VERB
-.	PUNCT
-
-
---	PUNCT
 Dat	PRON
 unse	DET
 ganze	ADJ
 Kumpanie	NOUN
 
 
-Uuot	NOUN
-os	VERB
-n	DET
-hi	NOUN
-.	PUNCT
-
-
---	PUNCT
 Mit	ADP
 enmoal	NOUN
 üm	ADP
@@ -2709,12 +2356,6 @@ sähr	VERB
 
 
 --	PUNCT
-narel	VERB
-d	PRON
-ion	NOUN
-m	VERB
-
-
 Un	CCONJ
 de	PRON
 doa	ADV
@@ -2726,10 +2367,6 @@ verstoahn	VERB
 
 
 --	PUNCT
-ei	NOUN
-ns	VERB
-
-
 De	PRON
 is	AUX
 dat	DET
@@ -2741,12 +2378,6 @@ goahn	VERB
 
 
 --	PUNCT
-Iur	VERB
-n	DET
-TId'	NOUN
-IISO	VERB
-
-
 As	CCONJ
 wenn	SCONJ
 he	PRON
@@ -2835,11 +2466,6 @@ in	ADP
 Freden	NOUN
 
 
-o	ADP
-Gii	NOUN
-fosise	VERB
-
-
 Mit	ADP
 Dank	NOUN
 to	ADP
@@ -2850,11 +2476,6 @@ beden	VERB
 
 
 --	PUNCT
-riun	NOUN
-iun	VERB
-o	ADP
-
-
 Wat	PRON
 harrn	VERB
 wi	PRON
@@ -2862,12 +2483,6 @@ de	DET
 Franzosen	NOUN
 doahn	VERB
 ?	PUNCT
-
-
---	PUNCT
-An	ADP
-ralsin	NOUN
-.	PUNCT
 
 
 --	PUNCT
@@ -2902,19 +2517,6 @@ nu	ADV
 
 
 --	PUNCT
-ul	NOUN
-ni	VERB
-t	PRON
-
-
-rril	NOUN
-dion	VERB
-nücht	NOUN
-zie	VERB
-.	PUNCT
-
-
---	PUNCT
 En	DET
 Jammer	NOUN
 wär't	AUX
@@ -2924,11 +2526,6 @@ antosehn	VERB
 
 
 --	PUNCT
-iin	VERB
-en	PRON
-en	DET
-
-
 De	DET
 ganze	ADJ
 Inschnitt	NOUN
@@ -2939,10 +2536,6 @@ schön	ADJ
 
 
 --	PUNCT
-se	PRON
-duch	VERB
-
-
 Dat	PRON
 müßt	AUX
 nu	ADV
@@ -2964,15 +2557,6 @@ Garben	NOUN
 
 
 --	PUNCT
-olle	ADV
-venn	VERB
-n	DET
-
-
-rven	NOUN
-cit	VERB
-
-
 Un	CCONJ
 wi	PRON
 nehm'n	VERB
@@ -3016,18 +2600,6 @@ los	ADV
 
 
 --	PUNCT
-nng	NOUN
-dinn	VERB
-.	PUNCT
-
-
---	PUNCT
-es	X
-lultetns	NOUN
-.	PUNCT
-
-
---	PUNCT
 Wo	SCONJ
 harr	ADP
 de	DET
@@ -3052,11 +2624,6 @@ kriegt	VERB
 
 
 --	PUNCT
-loor	VERB
-o	ADP
-nit	NOUN
-
-
 Wenn	SCONJ
 dat	PRON
 uns	PRON
@@ -3077,46 +2644,18 @@ erleben	VERB
 
 
 --	PUNCT
-nols	NOUN
-ni	VERB
-se	PRON
-unau	VERB
-
-
-Euu	NOUN
-and	VERB
-nait	ADJ
-nodt	NOUN
-ve-	VERB
-
-
-nom	NOUN
-ueraen	VERB
-
-
 Up'n	ADP
 Marsch	NOUN
 .	PUNCT
 
 
 --	PUNCT
-rn	VERB
-i	SCONJ
-
-
-Foch	VERB
+Doch	ADV
 dat	PRON
 is	AUX
 hierbi	NOUN
 Nebensach	VERB
 ;	PUNCT
-
-
---	PUNCT
-d	PRON
-aon	VERB
-alt	PROPN
-.	PUNCT
 
 
 --	PUNCT
@@ -3126,12 +2665,6 @@ nu	ADV
 marscheeren	VERB
 
 
-ticr	NOUN
-Nom	VERB
-.	PUNCT
-
-
---	PUNCT
 Recht	ADV
 stramm	ADV
 den	DET
@@ -3142,12 +2675,6 @@ Dag	NOUN
 
 
 --	PUNCT
-inine	VERB
-sa	PUNCT
-i	SCONJ
-n	DET
-
-
 Dat	SCONJ
 wi	PRON
 uck	VERB
@@ -3169,13 +2696,6 @@ sehr	ADV
 
 
 --	PUNCT
-ir	VERB
-ten	NOUN
-f	VERB
-,	PUNCT
-
-
---	PUNCT
 Wiel	SCONJ
 uns	PRON
 dat	DET
@@ -3187,21 +2707,12 @@ wär	AUX
 
 
 --	PUNCT
-un	CCONJ
-dose	NOUN
-ul	VERB
-
-
 Genog	ADV
 wi	PRON
 sehnten	VERB
 uns	PRON
 to	ADP
 Ruh	NOUN
-
-
-loc	NOUN
-notrrsl	VERB
 
 
 Un	CCONJ
@@ -3221,14 +2732,6 @@ uns	PRON
 lew	VERB
 to	ADP
 hören	VERB
-.	PUNCT
-
-
---	PUNCT
-Atool	VERB
-im	ADP
-paal	NOUN
-be	VERB
 .	PUNCT
 
 
@@ -3268,23 +2771,12 @@ utgereten	VERB
 
 
 --	PUNCT
-Uo	VERB
-hir	ADJ
-nlliroi	NOUN
-S	VERB
-
-
---	PUNCT
 Se	PRON
 harr'n	VERB
 von	ADP
 Weißenburg	NOUN
 un	CCONJ
 Wörth	VERB
-
-
-Aoc	VERB
-t	PRON
 
 
 Hier	ADV
@@ -3296,10 +2788,6 @@ hört	VERB
 
 
 --	PUNCT
-nosbi	NOUN
-tol	VERB
-
-
 Mit	ADP
 Sack	NOUN
 un	CCONJ
@@ -3328,12 +2816,6 @@ harr'n	VERB
 nischt	ADV
 to	ADP
 eten	VERB
-.	PUNCT
-
-
---	PUNCT
-Uuor	VERB
-he	PRON
 .	PUNCT
 
 
@@ -3378,10 +2860,6 @@ nu	ADV
 seggen	VERB
 
 
-bi	ADP
-e	PROPN
-
-
 Wat	PRON
 wi	PRON
 to	ADP
@@ -3412,13 +2890,6 @@ lag	VERB
 
 
 --	PUNCT
-ot	VERB
-noct	ADJ
-nod	NOUN
-duf	VERB
-
-
---	PUNCT
 (	PUNCT
 Dat	DET
 käm	NOUN
@@ -3433,12 +2904,6 @@ Dag	NOUN
 
 
 --	PUNCT
-Sn	VERB
-um	ADP
-Gritmn	NOUN
-
-
---	PUNCT
 Wi	PRON
 wulln	NOUN
 doavör	VERB
@@ -3448,11 +2913,6 @@ leggen	VERB
 
 
 --	PUNCT
-ale	VERB
-cbif	NOUN
-töm	VERB
-
-
 Na	ADP
 ersten	NOUN
 kreeg'n	VERB
@@ -3467,19 +2927,6 @@ uns	PRON
 wat	PRON
 koaken	VERB
 ;	PUNCT
-
-
---	PUNCT
-ior	NOUN
-cec	VERB
-
-
-ri	NOUN
-un	CCONJ
-ehur	NOUN
-n'Uner	VERB
-n	DET
-.	PUNCT
 
 
 --	PUNCT
@@ -3515,11 +2962,6 @@ Boahnemann	VERB
 
 
 --	PUNCT
-natnel	VERB
-ir	NOUN
-gonz	VERB
-
-
 De	DET
 schleppten	NOUN
 Holt	VERB
@@ -3530,11 +2972,6 @@ ran	ADV
 
 
 --	PUNCT
-Uuf	VERB
-ot	NOUN
-nifl	VERB
-
-
 Org	NOUN
 Mayn	VERB
 -	PUNCT
@@ -3573,11 +3010,6 @@ schloapen	VERB
 
 
 --	PUNCT
-ni	VERB
-di	PRON
-i	SCONJ
-
-
 Hans	PROPN
 Wewer	VERB
 ,	PUNCT
@@ -3586,11 +3018,6 @@ un	CCONJ
 Fichtenspohn	VERB
 
 
-Avonis	NOUN
-el	VERB
-
-
---	PUNCT
 Wär'n	AUX
 uck	VERB
 in	ADP
@@ -3617,11 +3044,6 @@ loaten	VERB
 
 
 --	PUNCT
-nuennn	VERB
-.	PUNCT
-i	INTJ
-
-
 Blot	NOUN
 Crischon	VERB
 Küken	PROPN
@@ -3685,21 +3107,12 @@ Eten	VERB
 
 
 --	PUNCT
-atu	VERB
-.	PUNCT
-ta	VERB
-
-
 As	CCONJ
 ick	PRON
 ken'n	VERB
 Tröchter	NOUN
 finnen	VERB
 kunn	AUX
-
-
-foh	NOUN
-us	VERB
 
 
 Den	DET
@@ -3718,12 +3131,6 @@ sien'n	DET
 Broodbüdel	NOUN
 her	ADV
 ,	PUNCT
-
-
---	PUNCT
-on	VERB
-de	PRON
-.	PUNCT
 
 
 --	PUNCT
@@ -3747,10 +3154,6 @@ dat	PRON
 gehört	VERB
 
 
-ac	NOUN
-nlluo	VERB
-
-
 Doato	ADV
 för	VERB
 ümmer	ADV
@@ -3765,12 +3168,6 @@ sich	PRON
 Roath	NOUN
 doch	ADV
 weten	VERB
-.	PUNCT
-
-
---	PUNCT
-pintrs	NOUN
-ai	VERB
 .	PUNCT
 
 
@@ -3866,11 +3263,6 @@ Schoap	NOUN
 
 
 --	PUNCT
-in	ADP
-a	PROPN
-n	DET
-
-
 Loop	VERB
 af	ADP
 ,	PUNCT
@@ -3893,12 +3285,6 @@ sehn	VERB
 
 
 --	PUNCT
-flonn	NOUN
-aln	VERB
-.	PUNCT
-
-
---	PUNCT
 Mit	ADP
 Packen	NOUN
 un	CCONJ
@@ -3908,11 +3294,6 @@ Rüsten	NOUN
 
 
 --	PUNCT
-nos	VERB
-nllai	NOUN
-ult	VERB
-
-
 Doch	ADV
 as	CCONJ
 wi	PRON
@@ -3931,10 +3312,6 @@ müßten	AUX
 
 
 --	PUNCT
-ane	VERB
-i	SCONJ
-
-
 Wär	AUX
 nischt	ADV
 to	ADP
@@ -3946,26 +3323,12 @@ Franzos	NOUN
 
 
 --	PUNCT
-e	PROPN
-sienhan	VERB
-n	DET
-
-
 Un	CCONJ
 wär	AUX
 uck	ADJ
 sünsten	NOUN
 joarnischt	VERB
 los	ADV
-.	PUNCT
-
-
---	PUNCT
-u	VERB
-.	PUNCT
-n	DET
-Uord	NOUN
-nil	VERB
 .	PUNCT
 
 
@@ -3980,11 +3343,6 @@ probeer'n	VERB
 
 
 --	PUNCT
-tin	NOUN
-nolloog	VERB
-
-
---	PUNCT
 Of	SCONJ
 wi	PRON
 woll	ADV
@@ -3996,12 +3354,6 @@ wär'n	AUX
 
 
 --	PUNCT
-sn	VERB
-dontos	ADJ
-toorg	NOUN
-nll	VERB
-
-
 As	CCONJ
 of	SCONJ
 se	PRON
@@ -4012,12 +3364,6 @@ wüßten	VERB
 
 
 --	PUNCT
-ar	ADP
-a	PROPN
-irgoo	NOUN
-oe	VERB
-
-
 Na	ADP
 ,	PUNCT
 mit	ADP
@@ -4043,13 +3389,6 @@ vörbi	VERB
 
 
 --	PUNCT
-diloc	VERB
-ni	NOUN
-ton	VERB
-.	PUNCT
-
-
---	PUNCT
 Org	VERB
 har	AUX
 den	DET
@@ -4059,10 +3398,6 @@ Pot	NOUN
 
 
 --	PUNCT
-of	SCONJ
-iaber	VERB
-
-
 As	CCONJ
 he	PRON
 in	ADP
@@ -4085,11 +3420,6 @@ brennt	VERB
 
 
 --	PUNCT
-dnn	NOUN
-sddad	VERB
-e	PROPN
-
-
 Dat	PRON
 harren	VERB
 wi	PRON
@@ -4100,11 +3430,6 @@ nu	ADV
 
 
 --	PUNCT
-p'ädsd	VERB
-tor	NOUN
-ul	VERB
-
-
 Ganz	ADV
 falsch	VERB
 un	CCONJ
@@ -4126,31 +3451,17 @@ spreken	NOUN
 
 
 --	PUNCT
-Se	PRON
-Mn	VERB
-
-
 Vör	ADP
 Straßburg	NOUN
 .	PUNCT
 
 
 --	PUNCT
-sietg	VERB
-tunl	NOUN
-u	VERB
-
-
-Fen	NOUN
+Den	DET
 annern	ADJ
 Dag	NOUN
 marscheerten	VERB
 wi	PRON
-
-
-n	DET
-dro	NOUN
-n	DET
 
 
 Vörfötsch	NOUN
@@ -4161,12 +3472,6 @@ wierer	NOUN
 
 
 --	PUNCT
-Un	CCONJ
-het	ADJ
-frce	NOUN
-oic	VERB
-
-
 Dag	NOUN
 ut	ADP
 Dag	NOUN
@@ -4186,11 +3491,6 @@ lustge	NOUN
 Lieder	VERB
 
 
-ipol	NOUN
-ja	ADJ
-gona	NOUN
-
-
 Güng't	NOUN
 vorwärts	VERB
 ,	PUNCT
@@ -4201,10 +3501,6 @@ vörbi	VERB
 
 
 --	PUNCT
-hang	VERB
-nie	ADV
-
-
 Wi	PRON
 sülln	VERB
 noah	ADP
@@ -4216,11 +3512,6 @@ wi	PRON
 
 
 --	PUNCT
-nu	ADV
-noo	ADJ
-ti	NOUN
-
-
 Un	CCONJ
 sülln	NOUN
 doa	ADV
@@ -4230,24 +3521,11 @@ flechten	NOUN
 
 
 --	PUNCT
-tic	VERB
-en	DET
-len	NOUN
-da	ADV
-coc	VERB
-
-
 De	DET
 Grotherzog	NOUN
 von	ADP
 Baden	NOUN
 stünn	VERB
-
-
-unnng	ADJ
-enn	NOUN
-ien	VERB
-du	PRON
 
 
 Bi	ADP
@@ -4268,14 +3546,6 @@ so	ADV
 schmuck	VERB
 
 
-nlnu	NOUN
-hu	VERB
-a	PROPN
-nt	VERB
-.	PUNCT
-
-
---	PUNCT
 Un	CCONJ
 drall	NOUN
 as	CCONJ
@@ -4286,12 +3556,6 @@ Puppen	NOUN
 
 
 --	PUNCT
-m	VERB
-ne	ADV
-na	ADP
-anl	NOUN
-
-
 Se	PRON
 hoalten	VERB
 mit	ADP
@@ -4302,13 +3566,6 @@ in	ADP
 
 
 --	PUNCT
-us	VERB
-au	ADJ
-llaut	NOUN
-ien	VERB
-c	PROPN
-
-
 Un	CCONJ
 groot	ADJ
 Parood	NOUN
@@ -4318,14 +3575,6 @@ jo	ADV
 sin	DET
 
 
-n	DET
-in	ADP
-ttä	NOUN
-si	VERB
-ja	ADJ
-
-
---	PUNCT
 Von	ADP
 wegen	ADP
 den	DET
@@ -4340,25 +3589,12 @@ Utgangs	ADJ
 August	NOUN
 
 
-nöch	NOUN
-toc	VERB
-tin	NOUN
-ulf	VERB
-
-
 Hebb'n	AUX
 wi	PRON
 in	ADP
 Holtheim	NOUN
 leegen	ADV
 ,	PUNCT
-
-
---	PUNCT
-atid	VERB
-au	NOUN
-ind	VERB
-.	PUNCT
 
 
 --	PUNCT
@@ -4384,13 +3620,6 @@ gewen	VERB
 
 
 --	PUNCT
-l	VERB
-finc	NOUN
-ni	VERB
-.	PUNCT
-al	VERB
-
-
 Se	PRON
 hebben	AUX
 uns	PRON
@@ -4399,13 +3628,6 @@ Eten	NOUN
 koakt	VERB
 
 
-rau	ADJ
-chin	NOUN
-nl	VERB
-.	PUNCT
-
-
---	PUNCT
 Un	CCONJ
 wi	PRON
 hebb'n	AUX
@@ -4417,10 +3639,6 @@ moakt	VERB
 
 
 --	PUNCT
-uusrind	NOUN
-it	VERB
-
-
 Un	CCONJ
 de	DET
 Faschienen	NOUN
@@ -4429,17 +3647,6 @@ wickelt	VERB
 
 
 --	PUNCT
-tuc	VERB
-me	ADJ
-chilt	NOUN
-enae	VERB
-
-
-chin	ADJ
-nm	NOUN
-ill	VERB
-
-
 Un	CCONJ
 doamit	ADV
 schleppten	VERB
@@ -4465,11 +3672,6 @@ rüm	ADV
 
 
 --	PUNCT
-c	NUM
-Mig	NOUN
-dn	VERB
-
-
 As	CCONJ
 Kubulds	NOUN
 un	CCONJ
@@ -4479,11 +3681,6 @@ Zwergen	VERB
 
 
 --	PUNCT
-mdnini	VERB
-naa	NOUN
-ug	VERB
-
-
 Doa	ADV
 müßten	AUX
 wi	PRON
@@ -4511,24 +3708,12 @@ Arbeit	NOUN
 
 
 --	PUNCT
-lihse	NOUN
-dhin	VERB
-n	DET
-most	NOUN
-tel	VERB
-
-
 Herr	NOUN
 Uhrich	VERB
 set	NOUN
 in	ADP
 Straßburg	NOUN
 drin	ADV
-
-
-ai	ADJ
-iod	NOUN
-indl	VERB
 
 
 So	ADV
@@ -4563,23 +3748,12 @@ wiesen	VERB
 
 
 --	PUNCT
-hu	NOUN
-unsc	VERB
-
-
 De	DET
 Kerl	NOUN
 wär	AUX
 hellisch	NOUN
 upsternoat	VERB
 ,	PUNCT
-
-
---	PUNCT
-re	VERB
-rofius	NOUN
-lo	VERB
-.	PUNCT
 
 
 --	PUNCT
@@ -4592,10 +3766,6 @@ Saldoat	VERB
 
 
 --	PUNCT
-mate	NOUN
-nraru	VERB
-
-
 Dat	PRON
 is	AUX
 nich	ADV
@@ -4605,11 +3775,6 @@ bestrieden	NOUN
 
 
 --	PUNCT
-nnas	VERB
-un	CCONJ
-nl	VERB
-
-
 De	DET
 Badner	NOUN
 harrn	VERB
@@ -4617,13 +3782,6 @@ all	ADV
 bumbardeert	VERB
 
 
-tnen	ADJ
-ien	NOUN
-unec	VERB
-.	PUNCT
-
-
---	PUNCT
 Un	CCONJ
 uck	VERB
 den	DET
@@ -4645,25 +3803,11 @@ gehört	VERB
 
 
 --	PUNCT
-ill	NOUN
-nom	VERB
-un	CCONJ
-n	DET
-
-
 En	DET
 beten	ADJ
 neger	NOUN
 koamen	VERB
 ;	PUNCT
-
-
---	PUNCT
-u	VERB
-io	ADJ
-töm	NOUN
-ho	VERB
-.	PUNCT
 
 
 --	PUNCT
@@ -4688,11 +3832,6 @@ bug'n	NOUN
 
 
 --	PUNCT
-nn	CCONJ
-e	PROPN
-
-
---	PUNCT
 Wi	PRON
 wull'n	VERB
 em	PRON
@@ -4702,16 +3841,6 @@ beloagern	VERB
 
 
 --	PUNCT
-tösf	VERB
-minod	NOUN
-nll	VERB
-
-
-Joom	ADJ
-Murid	NOUN
-nil	VERB
-
-
 Herrn	NOUN
 Uhrich	VERB
 wär	AUX
@@ -4722,11 +3851,6 @@ fitoal	VERB
 
 
 --	PUNCT
-wich	VERB
-fiäm	NOUN
-nc	VERB
-
-
 Dat	SCONJ
 wi	PRON
 em	PRON
@@ -4755,12 +3879,6 @@ vertellten	VERB
 
 
 --	PUNCT
-ho	NOUN
-foer	VERB
-,	PUNCT
-
-
---	PUNCT
 Doamit	ADV
 harr	VERB
 dat	PRON
@@ -4769,13 +3887,6 @@ nich	ADV
 mehr	ADV
 Noth	NOUN
 ,	PUNCT
-
-
---	PUNCT
-ön	VERB
-rost	NOUN
-nunn	VERB
-.	PUNCT
 
 
 --	PUNCT
@@ -4799,13 +3910,6 @@ utkniepen	VERB
 
 
 --	PUNCT
-don	VERB
-Glonsllnee	NOUN
-nr	VERB
-.	PUNCT
-
-
---	PUNCT
 Uns	PRON
 süll	AUX
 dat	PRON
@@ -4823,12 +3927,6 @@ den	DET
 infahmten	NOUN
 Regen	VERB
 ,	PUNCT
-
-
---	PUNCT
-lu	VERB
-e	PROPN
-.	PUNCT
 
 
 --	PUNCT
@@ -4876,7 +3974,7 @@ dat	PRON
 is	AUX
 ,	PUNCT
 war	AUX
-Ii	PRON
+Ji	PRON
 weeten	VERB
 .	PUNCT
 
@@ -4888,14 +3986,6 @@ Middelhausbergen	VERB
 wär	AUX
 
 
-in	ADP
-zsl	ADJ
-tud	NOUN
-u	VERB
-.	PUNCT
-
-
---	PUNCT
 Denn	ADV
 uck	VERB
 ken	ADJ
@@ -4906,11 +3996,6 @@ spräken	VERB
 
 
 --	PUNCT
-in	ADP
-nll	NOUN
-ta	VERB
-
-
 As	CCONJ
 de	DET
 oll	ADJ
@@ -4940,11 +4025,6 @@ ranzner'n	VERB
 
 
 --	PUNCT
-ot	NOUN
-win	VERB
-
-
---	PUNCT
 Un	CCONJ
 unse	DET
 Koakkunst	NOUN
@@ -4961,12 +4041,6 @@ wull'n	NOUN
 eten	VERB
 .	PUNCT
 "	PUNCT
-
-
---	PUNCT
-e	PROPN
-nd	NOUN
-hun	VERB
 
 
 --	PUNCT
@@ -5019,10 +4093,6 @@ Eten	VERB
 
 
 --	PUNCT
-äitin	NOUN
-r	VERB
-
-
 Un	CCONJ
 dorüm	NOUN
 stöt	VERB
@@ -5138,13 +4208,6 @@ lopen	VERB
 
 
 --	PUNCT
-notdonnne	VERB
-)	PUNCT
-tim	NOUN
-sigirg	VERB
-
-
---	PUNCT
 "	PUNCT
 Ach	VERB
 wat	PRON
@@ -5195,13 +4258,6 @@ Schnieder	NOUN
 
 
 --	PUNCT
-G	VERB
-a	PROPN
-Ehn	VERB
-i	SCONJ
-
-
---	PUNCT
 "	PUNCT
 Dat	PRON
 helpt	VERB
@@ -5225,12 +4281,6 @@ an	ADP
 
 
 --	PUNCT
-Lun	NOUN
-nstum	VERB
-.	PUNCT
-
-
---	PUNCT
 Un	CCONJ
 loat	VERB
 Di	PRON
@@ -5239,14 +4289,6 @@ so	ADV
 quälen	VERB
 .	PUNCT
 "	PUNCT
-
-
---	PUNCT
-gnu	NOUN
-dold	VERB
-nr	ADJ
-raid	NOUN
-nean	VERB
 
 
 --	PUNCT
@@ -5283,10 +4325,6 @@ sinn	NOUN
 
 
 --	PUNCT
-rüc	NOUN
-eult	VERB
-
-
 Hüt	ADV
 goahn	VERB
 wi	PRON
@@ -5306,11 +4344,6 @@ doabi	VERB
 
 
 --	PUNCT
-nnn	VERB
-un	CCONJ
-gnüt	VERB
-
-
 Un	CCONJ
 Sundag	NOUN
 sind	AUX
@@ -5322,11 +4355,6 @@ mi	PRON
 
 
 --	PUNCT
-e	PROPN
-pinsen	NOUN
-chin	VERB
-
-
 Nu	ADV
 möst	VERB
 Di	PRON
@@ -5334,6 +4362,7 @@ uck	VERB
 nich	ADV
 zieren	VERB
 .	PUNCT
+"	PUNCT
 
 
 --	PUNCT
@@ -5360,13 +4389,6 @@ entschloaten	VERB
 
 
 --	PUNCT
-na	ADP
-d	NOUN
-onis	VERB
-.	PUNCT
-
-
---	PUNCT
 "	PUNCT
 Ick	PRON
 denk	VERB
@@ -5389,12 +4411,6 @@ schloapen	VERB
 
 
 --	PUNCT
-toon	VERB
-hi	ADJ
-Nint	NOUN
-u	VERB
-
-
 Un	CCONJ
 en	DET
 Nacht	NOUN
@@ -5403,12 +4419,6 @@ is	AUX
 nich	ADV
 dull	ADJ
 ;	PUNCT
-
-
---	PUNCT
-o	ADP
-nom	NOUN
-Iim	VERB
 
 
 --	PUNCT
@@ -5422,11 +4432,6 @@ wull	AUX
 
 
 --	PUNCT
-nrannle	VERB
-id	NOUN
-Sult	VERB
-
-
 Wo	SCONJ
 sinn	NOUN
 wi	PRON
@@ -5438,7 +4443,8 @@ blewen	VERB
 
 --	PUNCT
 Je	ADV
-sol	VERB
+so	ADV
+!	PUNCT
 as	CCONJ
 wi	PRON
 an't	ADP
@@ -5446,11 +4452,6 @@ Dörp	NOUN
 ran	ADV
 wärn	VERB
 ,	PUNCT
-
-
---	PUNCT
-hi	NOUN
-hf	VERB
 
 
 --	PUNCT
@@ -5480,12 +4481,6 @@ zittert	VERB
 
 
 --	PUNCT
-in	ADP
-hi	NOUN
-.	PUNCT
-kochii	VERB
-
-
 He	PRON
 grüßte	VERB
 mit	ADP
@@ -5516,11 +4511,6 @@ langen	VERB
 
 
 --	PUNCT
-ihan	VERB
-un	CCONJ
-doc	VERB
-
-
 Doch	ADV
 wiel	SCONJ
 de	DET
@@ -5564,11 +4554,6 @@ drücken	VERB
 
 
 --	PUNCT
-ol	NOUN
-chin	VERB
-
-
---	PUNCT
 Wir	PRON
 stehen	VERB
 hier	ADV
@@ -5605,10 +4590,6 @@ nu	ADV
 to	ADP
 viertig	ADJ
 Mann	NOUN
-
-
-iet	NOUN
-rüteo	VERB
 
 
 In'n	ADP
@@ -5713,11 +4694,6 @@ leggen	VERB
 
 
 --	PUNCT
-doolt	VERB
-ut	ADP
-un	CCONJ
-
-
 Mi	PRON
 paßt	VERB
 de	DET
@@ -5748,18 +4724,11 @@ fien	ADJ
 
 
 --	PUNCT
-al	NOUN
-ruch	VERB
-nn	ADP
-ri	NOUN
-.	PUNCT
-
-
---	PUNCT
 Du	PRON
 hest	AUX
 Beamten-Nücken	VERB
 .	PUNCT
+"	PUNCT
 
 
 --	PUNCT
@@ -5775,24 +4744,12 @@ nu	ADV
 
 
 --	PUNCT
-ien	NOUN
-ducir	VERB
-an	ADP
-
-
 Un	CCONJ
 Loadwig	NOUN
 süll	AUX
 nu	ADV
 koaken	VERB
 ;	PUNCT
-
-
---	PUNCT
-at	VERB
-cin	ADJ
-or	NOUN
-an	ADP
 
 
 --	PUNCT
@@ -5830,10 +4787,6 @@ wat	PRON
 
 
 --	PUNCT
-Tuin	VERB
-n	DET
-
-
 He	PRON
 schnackt	VERB
 bald	ADV
@@ -5842,14 +4795,6 @@ un	CCONJ
 bald	ADV
 platt	ADJ
 ,	PUNCT
-
-
---	PUNCT
-tiofaint	NOUN
-urad	VERB
-.	PUNCT
-de	PRON
-.	PUNCT
 
 
 --	PUNCT
@@ -5907,14 +4852,6 @@ koaken	VERB
 
 
 --	PUNCT
-ord	VERB
-un	CCONJ
-hi	NOUN
-nnidl	VERB
-,	PUNCT
-
-
---	PUNCT
 Ich	PRON
 kann'	VERB
 das	PRON
@@ -5927,12 +4864,7 @@ Du	PRON
 
 
 --	PUNCT
-nbe	VERB
-gian	NOUN
-dni	VERB
-
-
-Geh	NOUN
+Geh	VERB
 man	ADV
 auf	ADP
 Deinen	ADJ
@@ -5942,11 +4874,6 @@ nu	ADV
 
 
 --	PUNCT
-haf	NOUN
-hn	VERB
-Un	CCONJ
-
-
 Sonst	NOUN
 kriegst	VERB
 Du	PRON
@@ -5976,13 +4903,6 @@ duern	NOUN
 
 
 --	PUNCT
-oln	VERB
-in	ADP
-tiot	NOUN
-ul	VERB
-
-
---	PUNCT
 "	PUNCT
 Ich	PRON
 bringe	VERB
@@ -6002,14 +4922,7 @@ nich	ADV
 luern	VERB
 .	PUNCT
 "	PUNCT
-
-
 --	PUNCT
-kait	NOUN
-nR	VERB
-.	PUNCT
-
-
 --	PUNCT
 Säd	VERB
 Jakob	VERB
@@ -6037,26 +4950,12 @@ all	ADV
 so	ADV
 
 
-ol	ADJ
-moan	NOUN
-l	VERB
-
-
 As	CCONJ
 harr	VERB
 ick	PRON
 drin	ADV
 jung	NOUN
 Hunnen	VERB
-.	PUNCT
-
-
---	PUNCT
-narth	VERB
-n	DET
-bi	ADP
-.	PUNCT
-l	VERB
 .	PUNCT
 
 
@@ -6072,22 +4971,13 @@ Woort	NOUN
 
 
 --	PUNCT
-anal	NOUN
-nnn	VERB
-
-
-Twe	NOUN
-Stund'n	VERB
+Twe	VERB
+Stund'n	ADJ
 blot	NOUN
 müßt	AUX
 ick	PRON
 fasten	VERB
 ,	PUNCT
-
-
---	PUNCT
-ut	ADP
-oo	NOUN
 
 
 --	PUNCT
@@ -6140,13 +5030,9 @@ geneten	NOUN
 
 
 --	PUNCT
-issl	VERB
-.	PUNCT
-alla	VERB
-
-
 Du	PRON
-Schoapskoppl	NOUN
+Schoapskopp	VERB
+!	PUNCT
 säd	VERB
 ick	PRON
 ,	PUNCT
@@ -6167,10 +5053,6 @@ Koaken	NOUN
 
 
 --	PUNCT
-naridnon	NOUN
-nlt	VERB
-
-
 Denn	ADV
 nimm	ADP
 Dien	DET
@@ -6178,12 +5060,6 @@ Kunststück	NOUN
 wedder	ADV
 mit	ADP
 ,	PUNCT
-
-
---	PUNCT
-dlad	NOUN
-ion	VERB
-.	PUNCT
 
 
 --	PUNCT
@@ -6197,12 +5073,10 @@ roaken	VERB
 
 
 --	PUNCT
-ma	VERB
-'en	DET
-d	NOUN
-
-
---	PUNCT
+"	PUNCT
+Je	ADV
+"	PUNCT
+-	PUNCT
 spitzt	VERB
 he	PRON
 -	PUNCT
@@ -6216,10 +5090,6 @@ fien	ADJ
 
 
 --	PUNCT
-ci	VERB
-o	ADP
-
-
 Dat	PRON
 sall	AUX
 man	ADV
@@ -6258,12 +5128,6 @@ Fett	NOUN
 
 
 --	PUNCT
-hinc	NOUN
-fün	VERB
-.	PUNCT
-
-
---	PUNCT
 Doa	ADV
 künn	AUX
 ick	PRON
@@ -6281,12 +5145,6 @@ hüt	ADV
 würklich	ADV
 nett	VERB
 ;	PUNCT
-
-
---	PUNCT
-ino	NOUN
-nam	VERB
-.	PUNCT
 
 
 --	PUNCT
@@ -6342,8 +5200,13 @@ moal	ADV
 -	PUNCT
 seggt	VERB
 he	PRON
+-	PUNCT
+"	PUNCT
+Ballermann	VERB
+,	PUNCT
 
 
+--	PUNCT
 Erst	ADV
 dehrst	VERB
 Du	PRON
@@ -6362,10 +5225,6 @@ an	ADP
 
 
 --	PUNCT
-de	DET
-and	NOUN
-
-
 As	CCONJ
 leet	VERB
 ick	PRON
@@ -6397,10 +5256,6 @@ Bussen	NOUN
 rin	ADV
 
 
-Kanis	NOUN
-in	ADP
-
-
 Un	CCONJ
 hoalt	VERB
 twe	ADJ
@@ -6410,11 +5265,7 @@ rute	VERB
 
 
 --	PUNCT
-rs	NOUN
-unii	VERB
-
-
-Den'n	ADJ
+Den'n	VERB
 Düwel	NOUN
 uck	VERB
 !	PUNCT
@@ -6451,12 +5302,6 @@ hellschen	NOUN
 fien	ADV
 
 
-ens	ADV
-tale	VERB
-.	PUNCT
-
-
---	PUNCT
 Um't	NOUN
 Mundstück	VERB
 rüm	ADV
@@ -6497,11 +5342,6 @@ verachten	VERB
 
 
 --	PUNCT
-n	DET
-hon	NOUN
-nil	VERB
-
-
 Na	ADP
 ,	PUNCT
 't	PRON
@@ -6564,13 +5404,11 @@ uck	NOUN
 nich	ADV
 recht	ADV
 sind	AUX
+sull	AUX
+,	PUNCT
 
 
-u	ADJ
-nicl	NOUN
-uui	VERB
-
-
+--	PUNCT
 Wi	PRON
 harr'nt	VERB
 doch	ADV
@@ -6580,12 +5418,6 @@ funnen	NOUN
 
 
 --	PUNCT
-io	VERB
-e	ADJ
-cc	NOUN
-m	VERB
-
-
 Doa	ADV
 öwern	ADJ
 Kirchhof	NOUN
@@ -6593,11 +5425,6 @@ güng	VERB
 de	PRON
 Weg	ADV
 ,	PUNCT
-
-
---	PUNCT
-no	NOUN
-nhi	VERB
 
 
 --	PUNCT
@@ -6610,11 +5437,6 @@ passeeren	NOUN
 
 
 --	PUNCT
-t	PRON
-ln	NOUN
-nl	VERB
-
-
 De	DET
 feindlichen	ADJ
 Granoaten	NOUN
@@ -6636,12 +5458,6 @@ düchtig	ADJ
 dösten	NOUN
 deiht	AUX
 ,	PUNCT
-
-
---	PUNCT
-isstänf	VERB
-nn	ADP
-.	PUNCT
 
 
 --	PUNCT
@@ -6681,11 +5497,6 @@ hoalt	VERB
 
 
 --	PUNCT
-nu	ADV
-nonira	ADJ
-sinis	NOUN
-
-
 Ofschonst	VERB
 de	DET
 Kugeln	NOUN
@@ -6694,12 +5505,6 @@ flitzten	VERB
 
 
 --	PUNCT
-nom	VERB
-hi	ADJ
-llion	NOUN
-müc	VERB
-
-
 Dat	SCONJ
 uns	PRON
 doabi	VERB
@@ -6713,13 +5518,6 @@ Helm	NOUN
 de	DET
 Splittern	NOUN
 spritzten	VERB
-.	PUNCT
-
-
---	PUNCT
-ann	VERB
-in	ADP
-drl	NOUN
 .	PUNCT
 
 
@@ -6744,21 +5542,11 @@ bedroagen	VERB
 
 
 --	PUNCT
-mün	NOUN
-hn	VERB
-
-
 Doa	ADV
 is	AUX
 uns	PRON
 son	DET
 Granoatenstück	NOUN
-
-
-en	DET
-hi	ADJ
-iffichi	NOUN
-mu	VERB
 
 
 Groad	ADV
@@ -6783,10 +5571,6 @@ Bier	NOUN
 
 
 --	PUNCT
-Hunon	VERB
-i	SCONJ
-
-
 Un	CCONJ
 noch	ADV
 en	DET
@@ -6803,11 +5587,6 @@ schlimm	ADJ
 droapen	NOUN
 wär	AUX
 ,	PUNCT
-
-
---	PUNCT
-hr	VERB
-sall	AUX
 
 
 --	PUNCT
@@ -6832,11 +5611,6 @@ Gesicht	NOUN
 
 
 --	PUNCT
-nin	NOUN
-hn	VERB
-
-
---	PUNCT
 "	PUNCT
 Na	ADP
 !	PUNCT
@@ -6848,8 +5622,8 @@ he	PRON
 loat't	ADP
 dat	DET
 Nahren	NOUN
-
-
+--	PUNCT
+--	PUNCT
 Den	DET
 Schlag	NOUN
 leet	VERB
@@ -6883,11 +5657,6 @@ goahn	VERB
 
 
 --	PUNCT
-in	ADP
-rind	NOUN
-ius	VERB
-
-
 Drüm	ADV
 würd'n	ADJ
 ohn	NOUN
@@ -6902,13 +5671,6 @@ von	ADP
 de	DET
 Tunn	NOUN
 mitnoahm'n	VERB
-
-
-stn	NOUN
-ol	VERB
-holch	NOUN
-ber	VERB
-E	PROPN
 
 
 Un	CCONJ
@@ -6931,13 +5693,6 @@ wär	AUX
 
 
 --	PUNCT
-xlooo	VERB
-hilis	NOUN
-enl	VERB
-.	PUNCT
-
-
---	PUNCT
 Wi	PRON
 brukten't	VERB
 joa	NOUN
@@ -6947,12 +5702,6 @@ Koaken	NOUN
 
 
 --	PUNCT
-ti	VERB
-uni	ADJ
-mso	NOUN
-Gae	VERB
-
-
 De	DET
 Kugeln	NOUN
 suhsten	VERB
@@ -6963,12 +5712,6 @@ her	ADV
 
 
 --	PUNCT
-cin	VERB
-hu	ADJ
-chit	NOUN
-mn	VERB
-
-
 Wi	PRON
 hebb'n	AUX
 nischt	ADV
@@ -6978,12 +5721,6 @@ loaten	VERB
 
 
 --	PUNCT
-nol	VERB
-il	ADJ
-dmnc	NOUN
-nis	VERB
-
-
 Doch	ADV
 mien	DET
 Vertellzel	NOUN
@@ -7033,10 +5770,6 @@ beschriewen	VERB
 
 
 --	PUNCT
-nu	ADV
-iu	VERB
-
-
 Wo	SCONJ
 dat	PRON
 bi	ADP
@@ -7047,11 +5780,6 @@ ungefähr	ADV
 
 
 --	PUNCT
-a	PROPN
-mlc	NOUN
-n'nl	VERB
-
-
 Und	CCONJ
 mit	ADP
 uns	PRON
@@ -7063,10 +5791,6 @@ her	ADV
 
 
 --	PUNCT
-adnoc	VERB
-in	ADP
-
-
 Wi	PRON
 kreegen	VERB
 up	ADP
@@ -7197,7 +5921,7 @@ uck	VERB
 
 
 Von	ADP
-Quetschensaft'	NOUN
+Quetschensaft	NOUN
 )	PUNCT
 en	DET
 rechten	ADJ
@@ -7261,10 +5985,6 @@ Gott	NOUN
 erbarm	VERB
 
 
-nno	NOUN
-ni	VERB
-
-
 Un	CCONJ
 noahsten	NOUN
 noch	ADV
@@ -7310,10 +6030,6 @@ fun'n	VERB
 
 
 --	PUNCT
-toi	NOUN
-ntiroe	VERB
-
-
 Ofschonst	VERB
 wi	PRON
 up	ADP
@@ -7323,11 +6039,6 @@ uck	VERB
 spelten	NOUN
 Koarten	VERB
 .	PUNCT
-
-
---	PUNCT
-hioi	NOUN
-cirdil	VERB
 
 
 --	PUNCT
@@ -7409,11 +6120,6 @@ uns	PRON
 af	ADP
 un	CCONJ
 an	ADP
-
-
-Eor	NOUN
-ta	VERB
-nn	ADP
 
 
 In	ADP
@@ -7511,11 +6217,6 @@ gefang'n	VERB
 
 
 --	PUNCT
-ni	VERB
-na	ADP
-
-
---	PUNCT
 "	PUNCT
 Hurrah	INTJ
 !	PUNCT
@@ -7532,19 +6233,12 @@ hoch	ADV
 
 
 --	PUNCT
-jen	VERB
-oll	ADJ
-.	PUNCT
-
-
---	PUNCT
 So	ADV
 brust	NOUN
 dat	PRON
 nu	ADV
 as	CCONJ
 wi	PRON
-.	PUNCT
 son	DET
 Ungewitter	NOUN
 ;	PUNCT
@@ -7564,11 +6258,7 @@ noog	VERB
 
 
 --	PUNCT
-non	NOUN
-ii-	VERB
-
-
-Victoria	NOUN
+Victoria	VERB
 würd	AUX
 schoaten	VERB
 ,	PUNCT
@@ -7602,10 +6292,6 @@ Nacht	NOUN
 
 
 --	PUNCT
-id	VERB
-n	DET
-
-
 Denn	ADV
 anners	ADV
 kün'n	VERB
@@ -7692,12 +6378,6 @@ verloren	VERB
 
 
 --	PUNCT
-ua	NOUN
-ql	VERB
-.	PUNCT
-
-
---	PUNCT
 Doch	ADV
 as	CCONJ
 wi'n	VERB
@@ -7747,17 +6427,6 @@ Kumpanie	NOUN
 
 
 --	PUNCT
-Lealiit	VERB
-o	ADP
-
-
-OU	NOUN
-In	ADP
-MI	PRON
-!	PUNCT
-
-
---	PUNCT
 Doaför	NOUN
 käm'n	VERB
 hüt	ADV
@@ -7765,10 +6434,6 @@ uck	VERB
 unse	DET
 Mörser	NOUN
 ran	ADV
-
-
-n'Inor	NOUN
-nl	VERB
 
 
 Un	CCONJ
@@ -7782,11 +6447,6 @@ betruern	VERB
 
 
 --	PUNCT
-ju	PRON
-nl	VERB
-du	PRON
-
-
 Schlög'n	VERB
 unse	DET
 Bomben	NOUN
@@ -7900,10 +6560,6 @@ nischt	ADV
 
 
 --	PUNCT
-Hun	VERB
-n	DET
-
-
 Wi	PRON
 käm'n	VERB
 to	ADP
@@ -7969,12 +6625,6 @@ schlimm	ADV
 
 
 --	PUNCT
-in	ADP
-nallun	NOUN
-.	PUNCT
-
-
---	PUNCT
 Den	DET
 Morgen	NOUN
 drup	ADV
@@ -8019,10 +6669,6 @@ entgegen	ADP
 
 
 --	PUNCT
-Joilains	NOUN
-ent	VERB
-
-
 Up	ADP
 ene	PRON
 Stund	VERB
@@ -8030,10 +6676,6 @@ gew	VERB
 dat	PRON
 nu	ADV
 Waffenruh	VERB
-
-
-ien	NOUN
-an	ADP
 
 
 Un	CCONJ
@@ -8046,10 +6688,6 @@ nu	ADV
 
 
 --	PUNCT
-il	NOUN
-ni	VERB
-
-
 Se	PRON
 hoalten	VERB
 sich	PRON
@@ -8094,12 +6732,6 @@ spioneeren	NOUN
 
 
 --	PUNCT
-hi	NOUN
-daolsic	VERB
-:	PUNCT
-M	VERB
-
-
 Wo	SCONJ
 stark	ADV
 wi	PRON
@@ -8112,11 +6744,6 @@ wär'n	AUX
 
 
 --	PUNCT
-nu	ADV
-n	DET
-öl	NOUN
-
-
 Dat	PRON
 süll	AUX
 ehr	PRON
@@ -8171,7 +6798,7 @@ Schlag	NOUN
 --	PUNCT
 Wat	PRON
 hebben	AUX
-Ii	PRON
+Ji	PRON
 denn	ADV
 hier	ADV
 herrüm	VERB
@@ -8183,7 +6810,7 @@ spöken	NOUN
 --	PUNCT
 Moakt	VERB
 dat	PRON
-Ii	PRON
+Ji	PRON
 juge	VERB
 Dooden	ADJ
 krieg'n	NOUN
@@ -8215,10 +6842,6 @@ man	ADV
 
 
 --	PUNCT
-inu	NOUN
-tie	VERB
-
-
 Dunn	ADV
 gung	VERB
 dat	PRON
@@ -8252,15 +6875,6 @@ dehren	VERB
 
 
 --	PUNCT
-uol	VERB
-.	PUNCT
-Fun	VERB
-.	PUNCT
-ult	VERB
-.	PUNCT
-
-
---	PUNCT
 Wi	PRON
 koakten	VERB
 ruhig	ADJ
@@ -8269,11 +6883,6 @@ uns	PRON
 doabi	VERB
 
 
-hi	VERB
-n'	DET
-
-
---	PUNCT
 Un	CCONJ
 ick	PRON
 wull	AUX
@@ -8300,10 +6909,6 @@ mit	ADP
 
 
 --	PUNCT
-hit	NOUN
-nil	VERB
-
-
 Se	PRON
 wullen	AUX
 mi	PRON
@@ -8379,10 +6984,6 @@ wi	PRON
 
 
 --	PUNCT
-su	NOUN
-indel	VERB
-
-
 As	CCONJ
 uck	VERB
 de	DET
@@ -8647,10 +7248,6 @@ tämlich	NOUN
 schlapp	VERB
 
 
-odne	NOUN
-ti	VERB
-
-
 Wat	PRON
 dat	DET
 belangt	NOUN
@@ -8678,26 +7275,11 @@ weten	VERB
 
 
 --	PUNCT
-id	VERB
-tchid	NOUN
-nlagnr	VERB
-.	PUNCT
-hir	VERB
-d	PRON
-.	PUNCT
-
-
---	PUNCT
 Wi	PRON
 süllen	AUX
 nu	ADV
 noah	ADP
 Eckwerthsheim	NOUN
-
-
-jon	NOUN
-nolnent	VERB
-uns	PRON
 
 
 Un	CCONJ
@@ -8727,12 +7309,6 @@ marscheeren	VERB
 
 
 --	PUNCT
-HADII	NOUN
-ATC	VERB
-.	PUNCT
-
-
---	PUNCT
 Kum	VERB
 öwerst	NOUN
 harr	VERB
@@ -8740,11 +7316,6 @@ dat	DET
 Uhrich	NOUN
 sehn	VERB
 ,	PUNCT
-
-
---	PUNCT
-Enn	NOUN
-n'nöl	VERB
 
 
 --	PUNCT
@@ -8757,10 +7328,6 @@ Franzosen	NOUN
 
 
 --	PUNCT
-ien	NOUN
-dilliitun	VERB
-
-
 He	PRON
 dacht	VERB
 joa	NOUN
@@ -8810,13 +7377,6 @@ wär	AUX
 ran	ADV
 
 
-dilt	ADJ
-vam	NOUN
-zun	VERB
-.	PUNCT
-
-
---	PUNCT
 Müßt	AUX
 dat	PRON
 in	ADP
@@ -8826,10 +7386,6 @@ bringen	VERB
 
 
 --	PUNCT
-Orhon	NOUN
-u	VERB
-
-
 Wi	PRON
 hulpen	VERB
 nich	ADV
@@ -8854,19 +7410,13 @@ fläut'ten	NOUN
 unnerweg	VERB
 
 
-din	DET
-eur	NOUN
-nl	VERB
-
-
 Un	CCONJ
 Loadwig	NOUN
 kreeg	VERB
 dat	DET
 Dichten	NOUN
 .	PUNCT
-
-
+--	PUNCT
 --	PUNCT
 He	PRON
 harr	VERB
@@ -8911,12 +7461,6 @@ nu	ADV
 uck	VERB
 
 
-dir	VERB
-du	PRON
-n	DET
-
-
---	PUNCT
 Dat	DET
 Ding	NOUN
 tum	ADP
@@ -8934,11 +7478,6 @@ mien	DET
 Taschenbook	NOUN
 
 
-poi	ADJ
-lusline	NOUN
-noß	VERB
-
-
 Un	CCONJ
 will't	AUX
 Ju	PRON
@@ -8954,11 +7493,6 @@ von	ADP
 Köster	NOUN
 Loadwig	VERB
 .	PUNCT
-
-
---	PUNCT
-in	ADP
-Gznen	NOUN
 
 
 --	PUNCT
@@ -9090,10 +7624,6 @@ utgereten	VERB
 
 
 --	PUNCT
-ari	VERB
-in	ADP
-
-
 Ach	INTJ
 Luiken	NOUN
 !	PUNCT
@@ -9199,31 +7729,14 @@ deiht	AUX
 Kanon'	NOUN
 un	CCONJ
 Noadelbüß	VERB
-
-
-mion	ADJ
-tio	NOUN
-u	VERB
-n	DET
-.	PUNCT
-
-
 --	PUNCT
-nt	VERB
-Aronanole	NOUN
-nlt	VERB
-
-
+--	PUNCT
 So	ADV
 lang'	ADV
 wi	PRON
 noch	ADV
 kön'n	ADJ
 fechten	NOUN
-
-
-mt	NOUN
-gui	VERB
 
 
 Blift	VERB
@@ -9317,15 +7830,7 @@ dienen	DET
 Thron	NOUN
 .	PUNCT
 "	PUNCT
-
-
 --	PUNCT
-i	INTJ
-ia	NOUN
-nq	VERB
-.	PUNCT
-
-
 --	PUNCT
 Son	DET
 Dinger	NOUN
@@ -9343,8 +7848,8 @@ wull	AUX
 Poet	VERB
 nu	ADV
 waren	VERB
-
-
+--	PUNCT
+--	PUNCT
 Un	CCONJ
 wenn	SCONJ
 he'n	PRON
@@ -9365,11 +7870,6 @@ beklaren	VERB
 
 
 --	PUNCT
-cn	VERB
-nin	NOUN
-ce	VERB
-
-
 Na	ADP
 !	PUNCT
 as	CCONJ
@@ -9395,10 +7895,6 @@ imfahmte	NOUN
 Gicht	VERB
 
 
-chn	NOUN
-lusliuk	VERB
-
-
 Ganz	ADV
 mörderlich	ADJ
 bi'n	ADP
@@ -9407,10 +7903,6 @@ Kroagen	NOUN
 
 
 --	PUNCT
-ralice	VERB
-d	PRON
-
-
 Ick	PRON
 müßte	VERB
 rin	ADV
@@ -9439,13 +7931,6 @@ geben	VERB
 hett	AUX
 
 
-da	ADV
-lin	VERB
-n	DET
-.	PUNCT
-
-
---	PUNCT
 Vör	ADP
 uns	PRON
 to	ADP
@@ -9471,14 +7956,6 @@ Timmer	NOUN
 
 
 --	PUNCT
-hon	VERB
-nn	ADP
-ja	ADJ
-guil	NOUN
-o	ADP
-
-
---	PUNCT
 "	PUNCT
 Blessirten	VERB
 "	PUNCT
@@ -9489,11 +7966,6 @@ Batteljohn	NOUN
 
 
 --	PUNCT
-udlaGo	NOUN
-ait	VERB
-na	ADP
-
-
 Na	ADP
 nu	ADV
 dit	PRON
@@ -9534,14 +8006,6 @@ Dokter	NOUN
 ick	PRON
 will	AUX
 rut	ADV
-
-
-itjniutru	VERB
-.	PUNCT
-hur	VERB
-ei	NOUN
-o	ADP
-nill	NOUN
 
 
 Mien	DET
@@ -9592,12 +8056,6 @@ schön	ADV
 
 
 --	PUNCT
-IUrOT	VERB
-nt	NOUN
-iur	VERB
-n	DET
-
-
 He	PRON
 müßt	AUX
 mien'n	ADJ
@@ -9624,12 +8082,6 @@ marscheeren	NOUN
 
 
 --	PUNCT
-nol	VERB
-ubi	ADJ
-Gudralla	NOUN
-nll	VERB
-
-
 Wo	SCONJ
 unse	DET
 Lüd	NOUN
@@ -9638,23 +8090,10 @@ ganze	ADJ
 Tied	NOUN
 
 
-iir	NOUN
-itol	VERB
-lud	ADJ
-chi	NOUN
-in	ADP
-
-
 Up	ADP
 de	DET
 Trangscheen-Wach	NOUN
 wären	VERB
-.	PUNCT
-
-
---	PUNCT
-rsucd	NOUN
-u	VERB
 .	PUNCT
 
 
@@ -9668,12 +8107,6 @@ mörderlich	ADJ
 
 
 --	PUNCT
-a	PROPN
-cbin	VERB
-i	SCONJ
-in	ADP
-
-
 Vör	ADP
 dat	DET
 oll	ADJ
@@ -9682,11 +8115,6 @@ Bombardeeren	NOUN
 
 
 --	PUNCT
-nch	VERB
-n	DET
-n	DET
-
-
 Künn	AUX
 man	ADV
 sien	DET
@@ -9694,12 +8122,6 @@ egen	ADJ
 Woort	NOUN
 oft	ADV
 nich	ADV
-
-
-in	ADP
-.	PUNCT
-no	VERB
-n	DET
 
 
 Un	CCONJ
@@ -9731,14 +8153,6 @@ springen	NOUN
 
 
 --	PUNCT
-on	NOUN
-g	VERB
-iad	NOUN
-üt	VERB
-.	PUNCT
-
-
---	PUNCT
 En	DET
 Attolrist	NOUN
 -	PUNCT
@@ -9746,8 +8160,8 @@ de	PRON
 dicht	ADV
 bi	ADP
 stünn	NOUN
-
-
+--	PUNCT
+--	PUNCT
 Säd	VERB
 :	PUNCT
 "	PUNCT
@@ -9776,8 +8190,8 @@ et	PRON
 rin	ADV
 in'n	ADP
 Groaben	NOUN
-
-
+--	PUNCT
+--	PUNCT
 Wo	SCONJ
 denn	ADV
 dat	DET
@@ -9816,10 +8230,6 @@ zünftig	VERB
 
 
 --	PUNCT
-int	ADP
-n	DET
-
-
 He	PRON
 hett	AUX
 dat	DET
@@ -9829,14 +8239,6 @@ uck	NOUN
 kriggt	VERB
 
 
-tite	VERB
-min	DET
-ht	ADJ
-h	NOUN
-.	PUNCT
-
-
---	PUNCT
 Un	CCONJ
 dat	PRON
 is	AUX
@@ -9881,15 +8283,6 @@ setten	VERB
 
 
 --	PUNCT
-hit	VERB
-gulex	PUNCT
-i	INTJ
-tiia	NOUN
-tinin	VERB
-.	PUNCT
-
-
---	PUNCT
 Se	PRON
 schleppten	VERB
 von	ADP
@@ -9907,23 +8300,11 @@ Massen	NOUN
 
 
 --	PUNCT
-att	VERB
-rd	NOUN
-o	VERB
-.	PUNCT
-
-
---	PUNCT
 Un	CCONJ
 allerhand	VERB
 son	DET
 ollen	ADJ
 Kroam	NOUN
-
-
-non	NOUN
-an	ADP
-nt	NOUN
 
 
 Wat	PRON
@@ -9945,24 +8326,12 @@ los	ADV
 
 
 --	PUNCT
-uini	NOUN
-duc	VERB
-
-
 Dat	PRON
 is	AUX
 nich	ADV
 to	ADP
 beschrieben	VERB
 ,	PUNCT
-
-
---	PUNCT
-Arn	NOUN
-k	VERB
-.	PUNCT
-Na	ADP
-n	DET
 
 
 --	PUNCT
@@ -9976,11 +8345,6 @@ Musch	NOUN
 Franzos	VERB
 
 
-noii	ADJ
-num	NOUN
-nnäs-	VERB
-
-
 Wull	AUX
 den	DET
 Besök	NOUN
@@ -9990,11 +8354,6 @@ lieden	VERB
 
 
 --	PUNCT
-adnomlt	VERB
-mai	NOUN
-nif	VERB
-
-
 In'n	ADP
 ganzen	ADJ
 Feldzug	NOUN
@@ -10007,10 +8366,6 @@ So	ADV
 veel	ADJ
 Patron'n	NOUN
 verschoaten	VERB
-
-
-bile	NOUN
-muns	VERB
 
 
 As	CCONJ
@@ -10054,11 +8409,6 @@ all	ADV
 öwer	VERB
 
 
-urt	ADJ
-tunch	NOUN
-ul	VERB
-
-
 Un	CCONJ
 as	CCONJ
 de	DET
@@ -10069,11 +8419,6 @@ an	ADP
 
 
 --	PUNCT
-to	ADP
-uns	PRON
-t	PRON
-
-
 Dünn	ADJ
 güngt	NOUN
 mit	ADP
@@ -10083,13 +8428,6 @@ röwer	NOUN
 
 
 --	PUNCT
-in	ADP
-noc	NOUN
-ann	VERB
-innil	NOUN
-cac	VERB
-
-
 Ick	PRON
 wull	AUX
 de	PRON
@@ -10098,10 +8436,6 @@ sinn	NOUN
 ,	PUNCT
 leep	VERB
 vörut	NOUN
-
-
-Non	NOUN
-rt	VERB
 
 
 Mit	ADP
@@ -10132,10 +8466,6 @@ röwer	VERB
 
 
 --	PUNCT
-ns	NOUN
-il	VERB
-
-
 Harr	VERB
 ick	PRON
 de	DET
@@ -10184,10 +8514,6 @@ Franzosen	NOUN
 rut	ADV
 
 
-iun	NOUN
-r	VERB
-
-
 Und	CCONJ
 nehmen	VERB
 fief	NUM
@@ -10204,10 +8530,6 @@ noahsten	VERB
 ut	ADP
 
 
-un	CCONJ
-ec	VERB
-
-
 As	CCONJ
 harr	VERB
 ick	PRON
@@ -10215,12 +8537,6 @@ mi	PRON
 wullt	NOUN
 schonen	VERB
 .	PUNCT
-
-
---	PUNCT
-i	INTJ
-iratchend	NOUN
-s	VERB
 
 
 --	PUNCT
@@ -10236,11 +8552,6 @@ sinn	NOUN
 
 
 --	PUNCT
-oos	VERB
-nschn	NOUN
-nl	VERB
-
-
 Ick	PRON
 künnt	AUX
 em	PRON
@@ -10250,12 +8561,6 @@ vergeten	VERB
 
 
 --	PUNCT
-ood	VERB
-tud	ADJ
-itad	NOUN
-inde	VERB
-
-
 Wiel	SCONJ
 ick	PRON
 doarin	VERB
@@ -10267,11 +8572,6 @@ bin	AUX
 
 
 --	PUNCT
-a	PROPN
-gnt	VERB
-e	PROPN
-
-
 Ick	PRON
 koakt	VERB
 em	PRON
@@ -10293,23 +8593,12 @@ blessert	VERB
 
 
 --	PUNCT
-lognox	NOUN
-hit	VERB
-
-
 Uns	PRON
 Äflösung	VERB
 käm	NOUN
 ranner	ADV
 
 
-uan	ADJ
-jot	NOUN
-tn	VERB
-.	PUNCT
-
-
---	PUNCT
 Un	CCONJ
 wi	PRON
 kün'n	VERB
@@ -10317,12 +8606,6 @@ as	CCONJ
 sich	PRON
 dat	PRON
 gehört	VERB
-
-
-Nre	NOUN
-o	ADP
-Fnu	NOUN
-unsde	VERB
 
 
 In	ADP
@@ -10349,12 +8632,6 @@ wedder	ADV
 
 
 --	PUNCT
-lyd	NOUN
-bru	VERB
-un	CCONJ
-l	VERB
-
-
 Un	CCONJ
 de	DET
 Nacht	NOUN
@@ -10384,19 +8661,9 @@ Tied	NOUN
 
 
 --	PUNCT
-a	PROPN
-inr	NOUN
-r	VERB
-
-
 Ut	ADP
 Straßburg	NOUN
 bumbardeerten	VERB
-
-
-a	PROPN
-bir	NOUN
-rud	VERB
 
 
 De	DET
@@ -10408,11 +8675,6 @@ hüt	ADV
 
 
 --	PUNCT
-n	DET
-in	ADP
-hler	NOUN
-
-
 Wiel	SCONJ
 se	PRON
 woll	ADV
@@ -10422,10 +8684,6 @@ spöhrten	NOUN
 
 
 --	PUNCT
-IIoI	NOUN
-frIcio	VERB
-
-
 Wi	PRON
 rückten	VERB
 ehr	PRON
@@ -10435,21 +8693,12 @@ all	ADV
 ran	ADV
 
 
-nach	X
-tr	NOUN
-
-
 Dat	PRON
 wull	AUX
 ehr	PRON
 nich	ADV
 behoagen	VERB
 .	PUNCT
-
-
---	PUNCT
-groi	VERB
-in	ADP
 
 
 --	PUNCT
@@ -10517,8 +8766,10 @@ un	CCONJ
 Strümp	NOUN
 un	CCONJ
 Seep	NOUN
+)	PUNCT
 
 
+--	PUNCT
 Un	CCONJ
 Wien	PROPN
 un	CCONJ
@@ -10646,23 +8897,11 @@ Sinn	NOUN
 
 
 --	PUNCT
-inon	VERB
-Crsien	NOUN
-uk	VERB
-
-
 Sast	AUX
 moal	ADV
 en'n	ADJ
 Utfall	NOUN
 moaken	VERB
-.	PUNCT
-
-
---	PUNCT
-schase	VERB
-ne	DET
-tr	NOUN
 .	PUNCT
 
 
@@ -10686,12 +8925,7 @@ breken	NOUN
 
 
 --	PUNCT
-a	PROPN
-cer	NOUN
-ull	VERB
-
-
-Jedoch	NOUN
+Jedoch	VERB
 up	ADP
 sone	NOUN
 Oart	VERB
@@ -10749,12 +8983,6 @@ moaken	VERB
 
 
 --	PUNCT
-bus	NOUN
-enit	VERB
-bei	X
-
-
---	PUNCT
 Verlust	VERB
 up	ADP
 beiden	ADJ
@@ -10770,24 +8998,12 @@ koamen	VERB
 
 
 --	PUNCT
-n	DET
-tog	NOUN
-knarnc	VERB
-.	PUNCT
-
-
---	PUNCT
 Un	CCONJ
 an	ADP
 Terreng	NOUN
 -	PUNCT
 harrn	VERB
 ungefähr	ADV
-
-
-m	ADJ
-bildis	NOUN
-al	VERB
 
 
 Wi	PRON
@@ -10799,30 +9015,11 @@ noahmen	VERB
 
 
 --	PUNCT
-cit	VERB
-Hurt	NOUN
-Gnisg	VERB
-.	PUNCT
-
-
---	PUNCT
-a	PROPN
-nn	CCONJ
-lo	VERB
-.	PUNCT
-
-
---	PUNCT
 Untroffzier	VERB
 Weg'ner	ADJ
 harr	NOUN
 mit	ADP
 mi	PRON
-
-
-n	DET
-Mio	NOUN
-prn	VERB
 
 
 Oahn	ADP
@@ -10835,11 +9032,6 @@ schoaten	VERB
 
 
 --	PUNCT
-ten	VERB
-n	DET
-n	DET
-
-
 So	ADV
 hunnertsechszig	ADJ
 Schuß	NOUN
@@ -10863,13 +9055,6 @@ harr	VERB
 den	DET
 Kopp	NOUN
 dörchbohrt	VERB
-.	PUNCT
-
-
---	PUNCT
-fr	NOUN
-natzund	VERB
-n	DET
 .	PUNCT
 
 
@@ -10910,13 +9095,6 @@ rinner	ADV
 
 
 --	PUNCT
-a	PROPN
-dhorg	NOUN
-uriog	VERB
-.	PUNCT
-
-
---	PUNCT
 Mi	PRON
 würd	AUX
 doabi	ADJ
@@ -10924,12 +9102,6 @@ janz	NOUN
 schlecht	ADV
 to	ADP
 Mood	NOUN
-.	PUNCT
-
-
---	PUNCT
-loont	NOUN
-io	VERB
 .	PUNCT
 
 
@@ -10951,10 +9123,6 @@ recht	ADV
 good	ADJ
 
 
-tonte	NOUN
-loeiic	VERB
-
-
 Un	CCONJ
 heww	VERB
 ehr	DET
@@ -10964,32 +9132,11 @@ gewen	VERB
 
 
 --	PUNCT
-el	VERB
-hrd	NOUN
-mn	VERB
-
-
-no	VERB
-n	DET
-co	NOUN
-
-
-Hin	NOUN
-un	CCONJ
-Kuntick	VERB
-
-
-Hen	ADV
+Den	DET
 sößuntwintigsten	ADJ
 wärt	NOUN
 fein	VERB
 ;	PUNCT
-
-
---	PUNCT
-OT	VERB
-NSGOCICE	PUNCT
-I	INTJ
 
 
 --	PUNCT
@@ -11006,12 +9153,6 @@ Hülfs-Verein	VERB
 
 
 --	PUNCT
-iehin	VERB
-rhen	NOUN
-anu	VERB
-die	PRON
-
-
 De	DET
 wärn	NOUN
 uns	PRON
@@ -11033,12 +9174,6 @@ ran	ADV
 
 
 --	PUNCT
-an	ADP
-nibse	NOUN
-.	PUNCT
-
-
---	PUNCT
 Hurrah	INTJ
 !	PUNCT
 !	PUNCT
@@ -11050,13 +9185,6 @@ Leben	NOUN
 
 
 --	PUNCT
-raturn	NOUN
-dald	VERB
-j	X
-.	PUNCT
-
-
---	PUNCT
 As	CCONJ
 endlich	ADV
 käm	VERB
@@ -11064,11 +9192,6 @@ de	DET
 Noahricht	NOUN
 an	ADP
 :	PUNCT
-
-
---	PUNCT
-Hrorr	NOUN
-ao	VERB
 
 
 --	PUNCT
@@ -11083,10 +9206,6 @@ ergeben	VERB
 
 
 --	PUNCT
-in	ADP
-tiro	NOUN
-
-
 Na	ADP
 !	PUNCT
 nu	ADV
@@ -11104,12 +9223,6 @@ Straßburg	VERB
 will	AUX
 cap'tuleeren	VERB
 !	PUNCT
-
-
---	PUNCT
-nib	NOUN
-ns	VERB
-.	PUNCT
 
 
 --	PUNCT
@@ -11162,15 +9275,6 @@ wär	AUX
 
 
 --	PUNCT
-rn	NOUN
-iC	VERB
-un	CCONJ
-en	DET
-nnac	NOUN
-.	PUNCT
-
-
---	PUNCT
 Son	DET
 Larm	NOUN
 hett	AUX
@@ -11181,15 +9285,6 @@ gewen	VERB
 
 
 --	PUNCT
-e	PROPN
-en	DET
-tu	NOUN
-(	PUNCT
-ed	VERB
-lu	NOUN
-n'oe	VERB
-
-
 Denn	ADV
 mang	ADP
 uns'	DET
@@ -11224,8 +9319,7 @@ Grund	NOUN
 to	ADP
 scheeten	VERB
 .	PUNCT
-
-
+-	PUNCT
 --	PUNCT
 Wi	PRON
 wüßten	VERB
@@ -11237,10 +9331,6 @@ moal	ADV
 wär	AUX
 
 
-IIH	ADJ
-OG	NOUN
-
-
 Un	CCONJ
 süll't	NOUN
 uck	VERB
@@ -11250,10 +9340,6 @@ waren	VERB
 
 
 --	PUNCT
-zeun	NOUN
-tchalch	VERB
-
-
 Dat	PRON
 wär	AUX
 uns	PRON
@@ -11275,12 +9361,6 @@ se	PRON
 noahmen	NOUN
 harren	VERB
 .	PUNCT
-
-
---	PUNCT
-hut	CCONJ
-n'Unl	NOUN
-nll	VERB
 
 
 --	PUNCT
@@ -11307,12 +9387,6 @@ gewen	VERB
 
 
 --	PUNCT
-or	NOUN
-G	VERB
-.	PUNCT
-
-
---	PUNCT
 Mi	PRON
 duerte	VERB
 de	DET
@@ -11335,14 +9409,6 @@ Jeden	DET
 
 
 --	PUNCT
-vra	VERB
-(	PUNCT
-unc	VERB
-)	PUNCT
-fuse	VERB
-
-
---	PUNCT
 De	DET
 Afschluß	NOUN
 käm	VERB
@@ -11353,22 +9419,10 @@ Nacht	NOUN
 
 
 --	PUNCT
-oroi	VERB
-Frsere	NOUN
-ue	VERB
-
-
-Doags	NOUN
+Doags	VERB
 drup	ADV
 würd	AUX
 öwergewen	VERB
-.	PUNCT
-
-
---	PUNCT
-lommich	NOUN
-zus	VERB
-.	PUNCT
 .	PUNCT
 
 
@@ -11381,12 +9435,6 @@ Klock	NOUN
 acht	VERB
 
 
-ie	NOUN
-anea	VERB
-edad	NOUN
-ante	VERB
-
-
 Uns	PRON
 noah	ADP
 de	DET
@@ -11396,11 +9444,6 @@ begewen	VERB
 
 
 --	PUNCT
-pi	VERB
-Griur	NOUN
-ng	VERB
-
-
 Doa	ADV
 sülln'w	VERB
 uns	PRON
@@ -11452,22 +9495,12 @@ gehör'n	VERB
 
 
 --	PUNCT
-Mo	VERB
-EOC	NOUN
-ant	VERB
-
-
 Doch	ADV
 ditmoal	ADJ
 harnw't	NOUN
 künnt	AUX
 spoaren	VERB
 ,	PUNCT
-
-
---	PUNCT
-alliet	NOUN
-mu	VERB
 
 
 --	PUNCT
@@ -11483,12 +9516,6 @@ wärn	VERB
 
 
 --	PUNCT
-la	NOUN
-urnd	VERB
-unde	CCONJ
-net	VERB
-
-
 Seeg'n	VERB
 wi	PRON
 doch	ADV
@@ -11527,12 +9554,6 @@ rutter	NOUN
 pöllt	VERB
 
 
-Curn	NOUN
-n'ri	VERB
-euog	NOUN
-dise	VERB
-
-
 Un	CCONJ
 vollproppt	VERB
 uns	PRON
@@ -11559,26 +9580,12 @@ platzeeren	NOUN
 
 
 --	PUNCT
-Cusr	VERB
-ann	ADJ
-räet	NOUN
-ac	VERB
-.	PUNCT
-
-
---	PUNCT
 Nu	ADV
 harr'n	VERB
 wi	PRON
 doamit	ADV
 unse	DET
 Noth	NOUN
-
-
-mamOoon	NOUN
-iar	VERB
-,	PUNCT
-uc	VERB
 
 
 Un	CCONJ
@@ -11590,28 +9597,12 @@ marscheeren	VERB
 
 
 --	PUNCT
-Nan	VERB
-gln	NOUN
-ink	VERB
-.	PUNCT
-.	PUNCT
-
-
---	PUNCT
 Nu	ADV
 denkt	VERB
 ju	PRON
 disse	DET
 Zoddelie	NOUN
 ,	PUNCT
-
-
---	PUNCT
-un	CCONJ
-l	VERB
-a	PROPN
-chi	VERB
-.	PUNCT
 
 
 --	PUNCT
@@ -11626,12 +9617,6 @@ Regen	NOUN
 
 
 --	PUNCT
-Un	CCONJ
-.	PUNCT
-mud	VERB
-in	ADP
-
-
 Dat	PRON
 wär	AUX
 groad	ADV
@@ -11641,11 +9626,6 @@ Marscheererie	NOUN
 
 
 --	PUNCT
-ae	VERB
-cout	NOUN
-ine	VERB
-
-
 As	CCONJ
 wenn	SCONJ
 de	DET
@@ -11662,11 +9642,6 @@ Nu	ADV
 towte	ADP
 uns'	DET
 Major	NOUN
-
-
-Crlius	NOUN
-urid	VERB
-g	NOUN
 
 
 --	PUNCT
@@ -11690,13 +9665,6 @@ vor	ADP
 
 
 --	PUNCT
-so	ADV
-daon	ADJ
-ent	NOUN
-.	PUNCT
-
-
---	PUNCT
 Das	PRON
 wird	X
 ja	ADJ
@@ -11717,23 +9685,12 @@ sein	X
 
 
 --	PUNCT
-tio	NOUN
-uräu	VERB
-un	CCONJ
-
-
 Mit	ADP
 Zwiebeln	NOUN
 in	ADP
 den	DET
 Taschen	NOUN
 ,	PUNCT
-
-
---	PUNCT
-und	CCONJ
-tcbos	NOUN
-zung	VERB
 
 
 --	PUNCT
@@ -11755,11 +9712,6 @@ drein	VERB
 
 
 --	PUNCT
-ul	VERB
-ni	NOUN
-ion	VERB
-
-
 Ich	PRON
 werd'	AUX
 euch	PRON
@@ -11778,12 +9730,6 @@ uns	PRON
 rüm	ADV
 turneer'n	VERB
 ,	PUNCT
-
-
---	PUNCT
-ain	NOUN
-zung	VERB
-.	PUNCT
 
 
 --	PUNCT
@@ -11826,10 +9772,6 @@ an	ADP
 
 
 --	PUNCT
-tuit	NOUN
-ult	VERB
-
-
 Wi	PRON
 müßten	AUX
 presenteeren	VERB
@@ -11934,10 +9876,6 @@ un	CCONJ
 Hohn	NOUN
 
 
-un	CCONJ
-goirro	VERB
-
-
 Un	CCONJ
 wullen	AUX
 nich	ADV
@@ -11956,12 +9894,6 @@ dohn	AUX
 
 
 --	PUNCT
-eit	VERB
-jor	ADJ
-nllij	NOUN
-poc	VERB
-
-
 De	DET
 Bengels	NOUN
 to	ADP
@@ -11970,15 +9902,6 @@ regeren	NOUN
 
 
 --	PUNCT
-oc	VERB
-'	PUNCT
-i	INTJ
-
-
-ratanc	NOUN
-nöd	VERB
-
-
 Se	PRON
 schlögen	VERB
 ehre	NOUN
@@ -11993,10 +9916,6 @@ Stücken	VERB
 
 
 --	PUNCT
-dal	NOUN
-u	VERB
-
-
 So	ADV
 veel	NOUN
 steht	VERB
@@ -12005,11 +9924,6 @@ fest	ADV
 son	DET
 echt	NOUN
 Franzos	VERB
-
-
-ie	NOUN
-un	CCONJ
-nit	VERB
 
 
 Hett	AUX
@@ -12026,22 +9940,12 @@ söb'nteihndusend	ADJ
 Mann	NOUN
 
 
-hant	NOUN
-nassir	VERB
-i	SCONJ
-
-
 Bi	ADP
 uns	PRON
 vörbi	NOUN
 marscheeren	VERB
 
 
-se	PRON
-Ent	VERB
-
-
---	PUNCT
 Un	CCONJ
 noahsten	NOUN
 sülln	VERB
@@ -12049,10 +9953,6 @@ wi	PRON
 noch	ADV
 mit	ADP
 ran	ADV
-
-
-Aulsen	NOUN
-a	VERB
 
 
 Un	CCONJ
@@ -12091,39 +9991,12 @@ letzten	ADJ
 Poar	VERB
 
 
-un	CCONJ
-nnad	NOUN
-möl	VERB
-.	PUNCT
-
-
---	PUNCT
 Rut	ADV
 ,	PUNCT
 un	CCONJ
 to	ADP
 Ordnung	NOUN
 bringen	VERB
-.	PUNCT
-
-
---	PUNCT
-be	NOUN
-uoischc	VERB
-a	PROPN
-ter	NOUN
-dl	VERB
-
-
-fun	NOUN
-a	VERB
-,	PUNCT
-
-
---	PUNCT
-unc	VERB
-n'nall	NOUN
-tin	VERB
 .	PUNCT
 
 
@@ -12169,13 +10042,6 @@ kriegen	VERB
 
 
 --	PUNCT
-lrt	VERB
-n'ml	NOUN
-uruul	VERB
-.	PUNCT
-
-
---	PUNCT
 Wi	PRON
 rückten	VERB
 uck	NOUN
@@ -12186,22 +10052,13 @@ af	ADP
 
 
 --	PUNCT
-ua	VERB
-n	DET
-lod	NOUN
-
-
-Wielt	NOUN
+Wielt	VERB
 vör	ADP
 uns	PRON
 keen	DET
 Quateer	NOUN
 doa	ADV
 gaf	VERB
-
-
-Nun	ADV
-N	DET
 
 
 Torügg	ADV
@@ -12222,11 +10079,6 @@ Gongenheim	NOUN
 
 
 --	PUNCT
-mieid	VERB
-.	PUNCT
-id	VERB
-
-
 Doa	ADV
 sülln	VERB
 wi	PRON
@@ -12476,12 +10328,6 @@ zehrt	VERB
 
 
 --	PUNCT
-urien	VERB
-da	ADV
-.	PUNCT
-
-
---	PUNCT
 Wie	PRON
 hat	AUX
 sich	PRON
@@ -12525,20 +10371,11 @@ zugewandt	VERB
 
 
 --	PUNCT
-nir	VERB
-nonli	NOUN
-ti	VERB
-
-
 Und	CCONJ
 nur	ADV
 an	ADP
 wehrlos	ADJ
 Kranken	NOUN
-
-
-aivrang	NOUN
-ilf	VERB
 
 
 Hat	AUX
@@ -12557,12 +10394,6 @@ ihrem	DET
 Schrecken	NOUN
 
 
-nu	ADV
-nou	VERB
-bi	ADP
-uli	NOUN
-
-
 Das	DET
 deutsche	ADJ
 Schwert	NOUN
@@ -12571,11 +10402,6 @@ gefühlt	VERB
 
 
 --	PUNCT
-bi	ADP
-lom	NOUN
-ind	VERB
-
-
 Ihr	DET
 werdet	NOUN
 schwer	ADV
@@ -12645,8 +10471,7 @@ Den	DET
 alten	NOUN
 deutschen	NOUN
 Rhein	VERB
-
-
+--	PUNCT
 --	PUNCT
 "	PUNCT
 Rein	ADV
@@ -12964,14 +10789,18 @@ Feindesland	NOUN
 
 --	PUNCT
 :	PUNCT
+,	PUNCT
 :	PUNCT
 Lieb	NOUN
 Mutterherz	VERB
 ,	PUNCT
 magst	VERB
 ruhig	ADJ
+sein	X
+,	PUNCT
 
 
+--	PUNCT
 In	ADP
 Gottes	NOUN
 Hand	NOUN
@@ -12979,7 +10808,8 @@ steh'	VERB
 ich	PRON
 allein	VERB
 .	PUNCT
-;	PUNCT
+:	PUNCT
+,	PUNCT
 :	PUNCT
 
 
@@ -12992,13 +10822,6 @@ blut'gen	NOUN
 Kampf	VERB
 
 
-win	ADJ
-iniia	NOUN
-ni	VERB
-.	PUNCT
-
-
---	PUNCT
 Ich	PRON
 denke	VERB
 Dein	X
@@ -13028,14 +10851,18 @@ Herbstes-Nacht	VERB
 
 --	PUNCT
 :	PUNCT
+,	PUNCT
 :	PUNCT
 Lieb	NOUN
 Mutterherz	VERB
 ,	PUNCT
 magst	VERB
 ruhig	ADJ
+sein	X
+,	PUNCT
 
 
+--	PUNCT
 In	ADP
 Gottes	NOUN
 Hand	NOUN
@@ -13043,7 +10870,8 @@ steh'	VERB
 ich	PRON
 allein	VERB
 .	PUNCT
-;	PUNCT
+:	PUNCT
+,	PUNCT
 :	PUNCT
 
 
@@ -13083,13 +10911,18 @@ verläßt	VERB
 
 --	PUNCT
 :	PUNCT
+,	PUNCT
+:	PUNCT
 Lieb	NOUN
 Mutterherz	VERB
 ,	PUNCT
 magst	VERB
 ruhig	ADJ
+sein	X
+,	PUNCT
 
 
+--	PUNCT
 In	ADP
 Gottes	NOUN
 Hand	NOUN
@@ -13097,6 +10930,9 @@ steh'	VERB
 ich	PRON
 allein	VERB
 .	PUNCT
+:	PUNCT
+,	PUNCT
+:	PUNCT
 
 
 --	PUNCT
@@ -13138,13 +10974,18 @@ bricht	VERB
 
 --	PUNCT
 :	PUNCT
+,	PUNCT
+:	PUNCT
 Lieb	NOUN
 Mutterherz	VERB
 ,	PUNCT
 magst	VERB
 ruhig	ADJ
+sein	X
+,	PUNCT
 
 
+--	PUNCT
 In	ADP
 Gottes	NOUN
 Hand	NOUN
@@ -13153,6 +10994,7 @@ ich	PRON
 allein	VERB
 .	PUNCT
 :	PUNCT
+,	PUNCT
 :	PUNCT
 
 
@@ -13195,6 +11037,7 @@ nicht	ADV
 
 --	PUNCT
 :	PUNCT
+,	PUNCT
 :	PUNCT
 Lieb	NOUN
 Mutterherz	VERB
@@ -13213,6 +11056,8 @@ steh'	VERB
 ich	PRON
 allein	VERB
 .	PUNCT
+:	PUNCT
+,	PUNCT
 :	PUNCT
 
 
@@ -13256,7 +11101,8 @@ frei	VERB
 
 
 --	PUNCT
-"	PUNCT
+:	PUNCT
+,	PUNCT
 :	PUNCT
 Lieb	NOUN
 Mutterherz	VERB
@@ -13276,13 +11122,8 @@ wir	PRON
 allein	VERB
 .	PUNCT
 :	PUNCT
+,	PUNCT
 :	PUNCT
-
-
---	PUNCT
-säd	VERB
-Schnieder	NOUN
-Plink	VERB
 
 
 --	PUNCT
@@ -13293,8 +11134,11 @@ dat	PRON
 is	AUX
 nett	VERB
 "	PUNCT
-
-
+-	PUNCT
+säd	VERB
+Schnieder	NOUN
+Plink	VERB
+--	PUNCT
 --	PUNCT
 "	PUNCT
 Dat	PRON
@@ -13303,11 +11147,6 @@ ick	PRON
 würklich	ADV
 seggen	VERB
 ;	PUNCT
-
-
---	PUNCT
-imn	NOUN
-nnat	VERB
 
 
 --	PUNCT
@@ -13339,11 +11178,6 @@ genau	ADV
 
 
 --	PUNCT
-n'tnlig	NOUN
-Cusdsc	VERB
-ne	DET
-
-
 Dat	DET
 Lied	NOUN
 hett	AUX
@@ -13391,13 +11225,6 @@ Schnieder	NOUN
 
 
 --	PUNCT
-dnan	NOUN
-tim	VERB
-.	PUNCT
-.	PUNCT
-
-
---	PUNCT
 Uns'	DET
 Hauptmann	NOUN
 kreeg	VERB
@@ -13406,12 +11233,6 @@ doavon	ADV
 Wind	NOUN
 
 
-NoIrOG	NOUN
-TnG	VERB
-.	PUNCT
-
-
---	PUNCT
 Un	CCONJ
 Loadwig	NOUN
 würd	AUX
@@ -13421,11 +11242,6 @@ Schriewer	VERB
 
 
 --	PUNCT
-ai	VERB
-nuso	NOUN
-ml	VERB
-
-
 Bien	NOUN
 Toahlmeister	VERB
 ,	PUNCT
@@ -13455,14 +11271,6 @@ künn	AUX
 he	PRON
 bruken	VERB
 .	PUNCT
-
-
---	PUNCT
-i	INTJ
-nird	NOUN
-Ghin	VERB
-dui	NOUN
-nini	VERB
 
 
 --	PUNCT
@@ -13595,16 +11403,6 @@ betügen	NOUN
 
 
 --	PUNCT
-hr	VERB
-un	CCONJ
-
-
-oim	NOUN
-ni	VERB
-.	PUNCT
-
-
---	PUNCT
 Uns	PRON
 Wirthslüd	NOUN
 nehm'n	VERB
@@ -13622,8 +11420,7 @@ güng'n	VERB
 wi	PRON
 kneipen	VERB
 .	PUNCT
-
-
+--	PUNCT
 --	PUNCT
 Großvoater	VERB
 de	PRON
@@ -13632,14 +11429,6 @@ denn	ADV
 hier	ADV
 
 
-neste	NOUN
-ma	VERB
-'iom	NOUN
-be	VERB
-.	PUNCT
-
-
---	PUNCT
 Von	ADP
 oll	ADJ
 Begebenheiten	NOUN
@@ -13653,12 +11442,12 @@ den	PRON
 "	PUNCT
 grooten	ADJ
 Kayser	NOUN
+"	PUNCT
+deent	VERB
+,	PUNCT
 
 
-Nour	VERB
-du	PRON
-
-
+--	PUNCT
 Wär	AUX
 mit	ADP
 noah	ADP
@@ -13668,21 +11457,11 @@ toagen	VERB
 
 
 --	PUNCT
-cuoc	VERB
-.	PUNCT
-ul	VERB
-
-
 Harr	NOUN
 dunntomoal	VERB
 Berlin	PROPN
 uck	NOUN
 sehn	VERB
-
-
-Bur	ADJ
-io	NOUN
-ntl	VERB
 
 
 Un	CCONJ
@@ -13721,13 +11500,6 @@ dehr	VERB
 
 
 --	PUNCT
-n	DET
-non	NOUN
-ie	VERB
-.	PUNCT
-
-
---	PUNCT
 Dat	PRON
 künn	AUX
 he	PRON
@@ -13749,22 +11521,12 @@ nett	VERB
 
 
 --	PUNCT
-Ain	NOUN
-nuud	VERB
-
-
 As	CCONJ
 in	ADP
 den	DET
 deepsten	NOUN
 Frieden	VERB
 .	PUNCT
-
-
---	PUNCT
-nior	VERB
-set	NOUN
-ilen	VERB
 
 
 --	PUNCT
@@ -13776,26 +11538,12 @@ in't	ADP
 Loazreth	NOUN
 
 
-rchr	ADJ
-Si	NOUN
-pt	VERB
-c	PROPN
-.	PUNCT
-
-
---	PUNCT
 An	ADP
 de	DET
 oll	ADJ
 Gicht	NOUN
 to	ADP
 lieden	VERB
-.	PUNCT
-
-
---	PUNCT
-ainärid	NOUN
-pan	VERB
 .	PUNCT
 
 
@@ -13830,11 +11578,6 @@ to	ADP
 hör'n	VERB
 
 
-e	ADJ
-uihen	NOUN
-nil	VERB
-
-
 Von	ADP
 "	PUNCT
 noah	ADP
@@ -13864,23 +11607,12 @@ liggen	VERB
 bliewen	NOUN
 
 
-shi	ADJ
-no	NOUN
-uc	VERB
-
-
 Un	CCONJ
 Uns'	PRON
 de	DET
 süll'n	NOUN
 oahn	ADP
 Ballermann	NOUN
-
-
-in	ADP
-vot	NOUN
-sioi	VERB
-n	DET
 
 
 Paris	NOUN
@@ -13891,11 +11623,6 @@ kriegen	VERB
 
 
 --	PUNCT
-rad	VERB
-öchi	NOUN
-ble	VERB
-
-
 Mit	ADP
 enen	DET
 Satz	NOUN
@@ -13927,22 +11654,12 @@ sehn	VERB
 
 
 --	PUNCT
-od	VERB
-e	PROPN
-n	DET
-
-
 Ick	PRON
 föhlte	VERB
 nischt	ADV
 von	ADP
 Schmerzen	NOUN
 .	PUNCT
-
-
---	PUNCT
-riol	VERB
-to	ADP
 
 
 --	PUNCT
@@ -13963,13 +11680,6 @@ Gefährten	NOUN
 
 
 --	PUNCT
-Giin	VERB
-er	DET
-ing	NOUN
-.	PUNCT
-
-
---	PUNCT
 De	PRON
 wär'n	AUX
 mit	ADP
@@ -13980,25 +11690,14 @@ gesund	ADV
 
 
 --	PUNCT
-nil	VERB
-nhrom	NOUN
-ull	VERB
-
-
 As	CCONJ
 von	ADP
 Paris	VERB
 se	PRON
 hörten	VERB
 .	PUNCT
-
-
 --	PUNCT
-u	VERB
-ann	NOUN
-luf	VERB
-
-
+--	PUNCT
 Nu	ADV
 öwerst	VERB
 wär	AUX
@@ -14024,10 +11723,6 @@ Mordskandaol	NOUN
 
 
 --	PUNCT
-nil	VERB
-in	ADP
-
-
 Se	PRON
 süll'n	VERB
 uns	PRON
@@ -14067,11 +11762,6 @@ an	ADP
 
 
 --	PUNCT
-.	PUNCT
-Na	ADP
-nl	NOUN
-
-
 De	PRON
 doa	ADV
 herrümmer	ADJ
@@ -14111,11 +11801,6 @@ schickt	VERB
 
 
 --	PUNCT
-caoh	VERB
-,	PUNCT
-noc	VERB
-
-
 Wull	AUX
 he't	PRON
 den	DET
@@ -14146,10 +11831,6 @@ besorgen	NOUN
 
 
 --	PUNCT
-fnil	VERB
-ut	ADP
-
-
 Du	PRON
 sühst	VERB
 joa	NOUN
@@ -14158,11 +11839,6 @@ sinn	NOUN
 ganz	ADV
 gesund	ADV
 .	PUNCT
-
-
---	PUNCT
-ut	ADP
-eiant	NOUN
 
 
 --	PUNCT
@@ -14191,12 +11867,7 @@ Nacht	NOUN
 
 
 --	PUNCT
-ol	VERB
-drim	NOUN
-il	VERB
-
-
-Ii	PRON
+Ji	PRON
 kön'n	VERB
 doch	ADV
 hier	ADV
@@ -14206,14 +11877,6 @@ schloapen	VERB
 
 
 --	PUNCT
-logei	VERB
-.	PUNCT
-S	VERB
-.	PUNCT
--	PUNCT
-nl	VERB
-
-
 Dat	PRON
 is	AUX
 doch	ADV
@@ -14221,25 +11884,14 @@ würklich	ADV
 unbedacht	VERB
 
 
-en	DET
-ihin	NOUN
-aldt	VERB
-
-
 Dat	PRON
 son	DET
 Komedg	NOUN
 )	PUNCT
-Ii	PRON
+Ji	PRON
 moaken	VERB
 .	PUNCT
 "	PUNCT
-
-
---	PUNCT
-nein	PROPN
-stc	VERB
-.	PUNCT
 
 
 --	PUNCT
@@ -14278,11 +11930,6 @@ uns	PRON
 ruter	ADV
 loaten	VERB
 .	PUNCT
-
-
---	PUNCT
-jon	NOUN
-rofang	VERB
 
 
 --	PUNCT
@@ -14499,8 +12146,7 @@ Volk	NOUN
 !	PUNCT
 de	DET
 Franktirörs	NOUN
-
-
+--	PUNCT
 de	DET
 Buern	NOUN
 ,	PUNCT
@@ -14735,9 +12381,12 @@ wi	PRON
 in	ADP
 de	DET
 Woagens	NOUN
+schloapen	VERB
+;	PUNCT
 
 
-Des	NOUN
+--	PUNCT
+Des	X
 Morgens	ADV
 früh	VERB
 ,	PUNCT
@@ -14749,19 +12398,17 @@ föhrten	VERB
 wi	PRON
 
 
+Noah	ADP
+-	PUNCT
+--	PUNCT
+Lünewill	VERB
+,	PUNCT
+--	PUNCT
 glöw	VERB
 ick	PRON
 ,	PUNCT
 deiht	AUX
 heeten	VERB
-,	PUNCT
-
-
---	PUNCT
-Noah	ADP
--	PUNCT
---	PUNCT
-Lünewill	VERB
 ,	PUNCT
 
 
@@ -14789,7 +12436,7 @@ lesen	NOUN
 
 Dat	PRON
 kön'n	VERB
-Ii	PRON
+Ji	PRON
 glöb'n	VERB
 ,	PUNCT
 dat	DET
@@ -14841,7 +12488,6 @@ kum	ADJ
 harr'n	NOUN
 Füer	VERB
 wi	PRON
--	PUNCT
 --	PUNCT
 un	CCONJ
 Fleesch	NOUN
@@ -15647,6 +13293,7 @@ Müßt	AUX
 noah	ADP
 Senkt-Schermeng	VERB
 wi	PRON
+goahn	VERB
 
 
 Ick	PRON
@@ -15702,38 +13349,6 @@ Noth	NOUN
 
 
 --	PUNCT
-ad	VERB
-n	DET
-tnurid	NOUN
-
-
---	PUNCT
-od	NOUN
-nallig	VERB
-
-
-ton	ADJ
-dij	NOUN
-ka	VERB
-.	PUNCT
-
-
---	PUNCT
-ni	NOUN
-gue	VERB
-n	DET
-
-
-n	DET
-nat	NOUN
-tr	VERB
-
-
-a	PROPN
-Kc	NOUN
-Guen	VERB
-
-
 Doch	ADV
 noahsten	NOUN
 käm'n	VERB
@@ -15788,11 +13403,6 @@ good	ADJ
 
 
 --	PUNCT
-bir	VERB
-n'mil	NOUN
-unc	VERB
-
-
 Wi	PRON
 lewten	VERB
 mit	ADP
@@ -15806,17 +13416,6 @@ up'n	ADP
 hoogen	ADJ
 Foot	NOUN
 .	PUNCT
-
-
---	PUNCT
-Boira	VERB
-n	DET
-
-
-dus	ADJ
-Nrn	NOUN
-nol	VERB
-,	PUNCT
 
 
 --	PUNCT
@@ -15855,12 +13454,6 @@ wi	PRON
 legen	VERB
 
 
-nallan	VERB
-n	DET
-.	PUNCT
-
-
---	PUNCT
 Un	CCONJ
 denn	ADV
 en'n	ADJ
@@ -15896,17 +13489,13 @@ biher	VERB
 
 
 --	PUNCT
-cuo	NOUN
-m	VERB
-
-
 So	ADV
 käm	VERB
 de	DET
 enuntwintigste	NOUN
 Oktober	VERB
-
-
+--	PUNCT
+--	PUNCT
 Wo	SCONJ
 de	DET
 Franzos	NOUN
@@ -15929,11 +13518,6 @@ verrekent	VERB
 
 
 --	PUNCT
-tlt	NOUN
-ie	VERB
-
-
---	PUNCT
 Se	PRON
 kreg'n	VERB
 gehörig	ADJ
@@ -15944,10 +13528,6 @@ vull	ADV
 
 
 --	PUNCT
-trö	NOUN
-aonam	VERB
-
-
 Blot	NOUN
 de	DET
 Granoaten	NOUN
@@ -16000,7 +13580,7 @@ scherzweise	VERB
 von	ADP
 unsern	NOUN
 Pommern	PROPN
-Bulejoahn	VERB
+Bullerjoahn	VERB
 
 
 --	PUNCT
@@ -16161,8 +13741,7 @@ eg'n	NOUN
 Kam'roaden	VERB
 dood	ADV
 .	PUNCT
-
-
+--	PUNCT
 --	PUNCT
 Glücklicherwies	NOUN
 klärt	VERB
@@ -16652,10 +14231,6 @@ begleiten	VERB
 
 
 --	PUNCT
-les	NOUN
-nic	VERB
-
-
 Dat	PRON
 seeg	VERB
 joa	NOUN
@@ -16954,7 +14529,6 @@ hervör	VERB
 
 Un	CCONJ
 schleeken	VERB
-"	PUNCT
 )	PUNCT
 sich	PRON
 heemlich	ADJ
@@ -16962,8 +14536,7 @@ hinner	ADV
 uns	PRON
 her	ADV
 .	PUNCT
-
-
+--	PUNCT
 --	PUNCT
 Mien	DET
 Loch	NOUN
@@ -17038,6 +14611,8 @@ as	CCONJ
 ne	DET
 Gaus	NOUN
 .	PUNCT
+)	PUNCT
+"	PUNCT
 
 
 --	PUNCT
@@ -17051,14 +14626,15 @@ nu	ADV
 kann	AUX
 doch	ADV
 keener	PRON
+seggen	VERB
+:	PUNCT
 
 
+--	PUNCT
 Dat	SCONJ
 Du	PRON
 en'n	NOUN
 oapen	VERB
-"	PUNCT
-"	PUNCT
 )	PUNCT
 Kopp	NOUN
 nich	ADV
@@ -17239,13 +14815,6 @@ von	ADP
 Blankensee	NOUN
 
 
-cidad	NOUN
-a	VERB
-n	DET
-.	PUNCT
-
-
---	PUNCT
 Un	CCONJ
 uck	VERB
 uns'	DET
@@ -17370,10 +14939,6 @@ sich	PRON
 
 
 --	PUNCT
-id	VERB
-i	SCONJ
-
-
 Ick	PRON
 tröst't	VERB
 em	PRON
@@ -17669,10 +15234,6 @@ verstört	VERB
 
 
 --	PUNCT
-itt	NOUN
-nit	VERB
-
-
 Mit	ADP
 siene	DET
 Bomben	NOUN
@@ -17715,9 +15276,12 @@ vull	ADV
 hebb'n	AUX
 wi	PRON
 uns	PRON
-röwer	VERB
+röwer	NOUN
+hoalt	VERB
+,	PUNCT
 
 
+--	PUNCT
 Oll	ADJ
 Bullerjoahn	NOUN
 ,	PUNCT
@@ -17793,11 +15357,6 @@ Leben	NOUN
 
 
 --	PUNCT
-im	ADP
-rad	NOUN
-es	X
-
-
 Quateere	NOUN
 heww'n	VERB
 wi	PRON
@@ -17808,12 +15367,6 @@ hat	AUX
 
 
 --	PUNCT
-Jnfinrnce	NOUN
-u	VERB
-un	CCONJ
-nst	VERB
-
-
 As't	CCONJ
 nahrens	NOUN
 mehr	ADV
@@ -18268,28 +15821,6 @@ schnab'leeren	NOUN
 
 
 --	PUNCT
-e	PROPN
-dellic	VERB
-c	PROPN
-
-
-non	NOUN
-u	VERB
-in	ADP
-
-
-n	DET
-ict	NOUN
-un	CCONJ
-.	PUNCT
-
-
---	PUNCT
-säd	VERB
-Kücken	NOUN
-nu	ADV
--	PUNCT
---	PUNCT
 "	PUNCT
 Dat	PRON
 heww'ck	VERB
@@ -18297,8 +15828,11 @@ mi	PRON
 dacht	VERB
 ,	PUNCT
 "	PUNCT
-
-
+--	PUNCT
+säd	VERB
+Kücken	NOUN
+nu	ADV
+-	PUNCT
 --	PUNCT
 "	PUNCT
 Dat	SCONJ
@@ -18350,12 +15884,6 @@ waren	VERB
 
 
 --	PUNCT
-in	ADP
-i	INTJ
-.	PUNCT
-
-
---	PUNCT
 Wenn	SCONJ
 Ii	PRON
 as	CCONJ
@@ -18373,7 +15901,7 @@ harren	VERB
 
 --	PUNCT
 Sind	AUX
-Ii	PRON
+Ji	PRON
 denn	ADV
 nich	ADV
 in'n	ADP
@@ -18438,10 +15966,6 @@ röppt	VERB
 Kücken	NOUN
 
 
-ferrenle	NOUN
-tine	VERB
-
-
 --	PUNCT
 "	PUNCT
 To	ADP
@@ -18455,12 +15979,7 @@ sinn	NOUN
 
 
 --	PUNCT
-gien	VERB
-d	PRON
-u	VERB
-
-
-Ii	PRON
+Ji	PRON
 kön'n	VERB
 man	PRON
 blot	NOUN
@@ -18520,9 +16039,7 @@ schön	ADJ
 "	PUNCT
 -	PUNCT
 seggt	VERB
-Kücken	NOUN
-
-
+Kücken	VERB
 --	PUNCT
 "	PUNCT
 't	PRON
@@ -18570,9 +16087,7 @@ Twall	NOUN
 "	PUNCT
 -	PUNCT
 schimpt	VERB
-Nack	NOUN
-
-
+Nack	VERB
 --	PUNCT
 "	PUNCT
 Du	PRON
@@ -18620,9 +16135,14 @@ kumm	VERB
 "	PUNCT
 -	PUNCT
 seggt	VERB
-Kücken	NOUN
+Kücken	VERB
+--	PUNCT
+"	PUNCT
+Ballermann	VERB
+,	PUNCT
 
 
+--	PUNCT
 Wat	PRON
 will'n	AUX
 wi	PRON
@@ -18650,12 +16170,6 @@ sall	AUX
 nischt	ADV
 von	ADP
 kriegen	VERB
-.	PUNCT
-
-
---	PUNCT
-in	ADP
-u	NOUN
 .	PUNCT
 
 
@@ -18767,12 +16281,6 @@ Kücken	VERB
 
 
 --	PUNCT
-rahm	VERB
-di	PRON
-fll	VERB
-
-
---	PUNCT
 "	PUNCT
 Ah	VERB
 !	PUNCT
@@ -18791,11 +16299,6 @@ moal	ADV
 de	DET
 Roasen-Stücken	NOUN
 .	PUNCT
-
-
---	PUNCT
-rid	NOUN
-bose	VERB
 
 
 --	PUNCT
@@ -18822,11 +16325,6 @@ schmeten	VERB
 
 
 --	PUNCT
-Ho	VERB
-n	DET
-fo	NOUN
-
-
 Doa	ADV
 sinn	NOUN
 de	DET
@@ -18869,12 +16367,6 @@ hoalen	VERB
 
 
 --	PUNCT
-Foni	NOUN
-enc	VERB
-.	PUNCT
-dn	VERB
-
-
 Wenn	SCONJ
 hier	ADV
 de	DET
@@ -18882,13 +16374,6 @@ Kellerdöhr	NOUN
 nich	ADV
 steckt	VERB
 ,	PUNCT
-
-
---	PUNCT
-uc	VERB
-fana	NOUN
-tindd	VERB
-.	PUNCT
 
 
 --	PUNCT
@@ -18904,7 +16389,7 @@ Boahlen	NOUN
 
 
 --	PUNCT
-T	PRON
+'T	PRON
 was	AUX
 richtig	ADJ
 !	PUNCT
@@ -19008,11 +16493,6 @@ Nacken	NOUN
 
 
 --	PUNCT
-n	DET
-lau	NOUN
-dal	VERB
-
-
 Ick	PRON
 war	AUX
 derwiel	ADV
@@ -19022,24 +16502,12 @@ un	CCONJ
 Schmolt	VERB
 
 
-anof	NOUN
-elad	VERB
-
-
 Uns	PRON
 schön'n	VERB
 Pankooken	ADJ
 backen	NOUN
 .	PUNCT
 "	PUNCT
-
-
---	PUNCT
-gu	VERB
-,	PUNCT
-manh	NOUN
-ine	VERB
-.	PUNCT
 
 
 --	PUNCT
@@ -19052,25 +16520,12 @@ Kooken	NOUN
 backt	VERB
 
 
-un	CCONJ
-leen	NOUN
-oamn	VERB
-.	PUNCT
-
-
---	PUNCT
 Un	CCONJ
 ick	PRON
 müßt	AUX
 Kaffe	NOUN
 koaken	VERB
 ;	PUNCT
-
-
---	PUNCT
-sstan	NOUN
-lan	VERB
-.	PUNCT
 
 
 --	PUNCT
@@ -19105,11 +16560,6 @@ nu	ADV
 
 
 --	PUNCT
-ftint	VERB
-d	PRON
-
-
---	PUNCT
 "	PUNCT
 Joa	NOUN
 woll	ADV
@@ -19118,11 +16568,6 @@ woll	ADV
 säd	VERB
 Crischon	NOUN
 Kücken	VERB
-
-
-a	PROPN
-nni	NOUN
-doc	VERB
 
 
 --	PUNCT
@@ -19144,11 +16589,6 @@ fulen	ADJ
 Speck	NOUN
 
 
-chnl	NOUN
-uratnN	VERB
-
-
---	PUNCT
 Un	CCONJ
 drög	VERB
 Komisbrod-Stücken	VERB
@@ -19156,11 +16596,6 @@ Komisbrod-Stücken	VERB
 
 
 --	PUNCT
-cal	NOUN
-nosism	VERB
-a	PROPN
-
-
 Verstehst	VERB
 ,	PUNCT
 Fründ	NOUN
@@ -19203,11 +16638,6 @@ wat	PRON
 moalen	VERB
 .	PUNCT
 "	PUNCT
-
-
---	PUNCT
-namosat	NOUN
-guiE	VERB
 
 
 --	PUNCT
@@ -19305,13 +16735,7 @@ Kücken	VERB
 
 
 --	PUNCT
-tim	VERB
--	PUNCT
-un	CCONJ
-Mi	PRON
-
-
-Wärn't	NOUN
+Wärn't	VERB
 nich	ADV
 twe	VERB
 rechte	ADJ
@@ -19328,23 +16752,12 @@ flicken	NOUN
 
 
 --	PUNCT
-nun	ADV
-Tind	VERB
-to	ADP
-
-
 Na	ADP
 ,	PUNCT
 ick	PRON
 verbruckt	VERB
 mien	DET
 Hosenbeen	NOUN
-
-
-ad	VERB
-di	PRON
-d	PRON
-i	SCONJ
 
 
 To	ADP
@@ -19357,11 +16770,6 @@ putzen	NOUN
 
 
 --	PUNCT
-lne	VERB
-rrason	NOUN
-ae	VERB
-
-
 As	CCONJ
 endlich	ADV
 uck	VERB
@@ -19370,11 +16778,6 @@ rechte	ADJ
 käm	NOUN
 
 
-Ind	NOUN
-rind	VERB
-
-
---	PUNCT
 Wat	PRON
 süll	AUX
 mi	PRON
@@ -19393,11 +16796,6 @@ un	CCONJ
 reet	VERB
 dat	DET
 Ding	NOUN
-
-
-tod	VERB
-n	DET
-o	PROPN
 
 
 Intwei	VERB
@@ -19518,7 +16916,7 @@ goahn	VERB
 
 
 --	PUNCT
-Um	ADP
+Üm	ADP
 em	PRON
 den	PRON
 Weg	ADV
@@ -19542,8 +16940,8 @@ ut	ADP
 Paris	NOUN
 rut	ADV
 floagen	VERB
-
-
+--	PUNCT
+--	PUNCT
 Wull	AUX
 nu	ADV
 -	PUNCT
@@ -19588,8 +16986,7 @@ As	CCONJ
 inexzeert	ADJ
 Saldoaten	NOUN
 .	PUNCT
-
-
+--	PUNCT
 --	PUNCT
 He	PRON
 harr	VERB
@@ -19870,24 +17267,12 @@ bekloagen	VERB
 
 
 --	PUNCT
-ol	VERB
-Enn	NOUN
-.	PUNCT
-
-
---	PUNCT
 De	DET
 preußische	NOUN
 Gefangenschaft	VERB
 .	PUNCT
 -	PUNCT
 --	PUNCT
-tuc	VERB
-nien	NOUN
-bulienn	VERB
-e	PROPN
-
-
 Dehr	VERB
 em	PRON
 ganz	ADV
@@ -19916,10 +17301,6 @@ schlimm	ADJ
 
 
 --	PUNCT
-nn	CCONJ
-dess	VERB
-
-
 As	CCONJ
 se	PRON
 in	ADP
@@ -19929,10 +17310,6 @@ glöwten	VERB
 
 
 --	PUNCT
-on	NOUN
-chi	VERB
-
-
 Dat	PRON
 harr	VERB
 sich	PRON
@@ -19951,12 +17328,6 @@ sproaken	VERB
 
 
 --	PUNCT
-et	PRON
-kie	VERB
-nane	NOUN
-nli	VERB
-
-
 Drüm	ADV
 wär'n	AUX
 de	DET
@@ -19966,13 +17337,6 @@ uns	PRON
 so	ADV
 nett	VERB
 ,	PUNCT
-
-
---	PUNCT
-aa	VERB
-ni	NOUN
-notaciff	VERB
-.	PUNCT
 
 
 --	PUNCT
@@ -19996,12 +17360,6 @@ sehr	ADV
 
 
 --	PUNCT
-ia	NOUN
-natähne	VERB
-.	PUNCT
-
-
---	PUNCT
 As	CCONJ
 up	ADP
 den	DET
@@ -20018,10 +17376,6 @@ inquateerten	VERB
 
 
 --	PUNCT
-ilast	NOUN
-Settog	VERB
-
-
 Se	PRON
 kämen	VERB
 uns	PRON
@@ -20031,27 +17385,12 @@ all	ADV
 
 
 --	PUNCT
-fint	VERB
-ler	NOUN
-ae	VERB
-
-
 As	CCONJ
 wi	PRON
 torügg	ADV
 wärn	NOUN
 koamen	VERB
 ,	PUNCT
-
-
---	PUNCT
-au	VERB
-.	PUNCT
-Gin	VERB
-&	ADJ
-nröui	NOUN
-fieti	VERB
-.	PUNCT
 
 
 --	PUNCT
@@ -20063,27 +17402,12 @@ sienen	DET
 Mann	NOUN
 
 
-Lo	NOUN
-fuc	VERB
-ane	ADJ
-sgie	NOUN
-in	ADP
-.	PUNCT
-
-
---	PUNCT
 Gliek	ADV
 mit	ADP
 noah	ADP
 Hus	NOUN
 hennoahmen	VERB
 .	PUNCT
-
-
---	PUNCT
-ro	VERB
-us	NOUN
-vns	VERB
 
 
 --	PUNCT
@@ -20104,8 +17428,8 @@ woll	ADV
 ehr	DET
 Unkel	NOUN
 wär	AUX
-
-
+--	PUNCT
+--	PUNCT
 Up	ADP
 den	DET
 se	PRON
@@ -20165,13 +17489,6 @@ wären	NOUN
 ungesund	VERB
 
 
-d	PRON
-tnd	NOUN
-me	VERB
-.	PUNCT
-
-
---	PUNCT
 Un	CCONJ
 kener	DET
 harr	NOUN
@@ -20181,10 +17498,6 @@ Stäweln	VERB
 
 
 --	PUNCT
-chin	VERB
-i	SCONJ
-
-
 Wi	PRON
 seegen	VERB
 as	CCONJ
@@ -20195,10 +17508,6 @@ ut	ADP
 
 
 --	PUNCT
-ts	NOUN
-oc	VERB
-
-
 So	ADV
 wär'n	AUX
 wi	PRON
@@ -20215,12 +17524,6 @@ vör	ADP
 Paris	NOUN
 
 
-C	PROPN
-ni	VERB
-i	INTJ
-nnUS	NOUN
-
-
 Verpusten	VERB
 uns	PRON
 en	DET
@@ -20229,10 +17532,6 @@ beten	ADJ
 
 
 --	PUNCT
-qu	NOUN
-nln	VERB
-
-
 Dat	PRON
 wär	AUX
 nu	ADV
@@ -20241,18 +17540,8 @@ nich	ADV
 mehr	ADV
 
 
-so	ADV
-wiet	ADV
-,	PUNCT
-
-
---	PUNCT
-stfnom	NOUN
-nll	VERB
-
-
 Doch	ADV
-ehř	VERB
+ehr	VERB
 wi	PRON
 henkäm'n	VERB
 ,	PUNCT
@@ -20270,10 +17559,6 @@ duert	VERB
 
 
 --	PUNCT
-iba	VERB
-in	ADP
-
-
 Wi	PRON
 müßten	AUX
 nu	ADV
@@ -20311,11 +17596,6 @@ Pocken	NOUN
 
 
 --	PUNCT
-ivorg	VERB
-snd	NOUN
-ili	VERB
-
-
 De	DET
 wöhlten	NOUN
 in	ADP
@@ -20342,20 +17622,12 @@ Ungeziefer	VERB
 
 
 --	PUNCT
-hitc	NOUN
-no	VERB
-
-
 Wenigstens	NOUN
 harr'n	VERB
 wi	PRON
 nu	ADV
 keene	DET
 Noth	NOUN
-
-
-Inu	NOUN
-hon	VERB
 
 
 Un	CCONJ
@@ -20367,11 +17639,6 @@ lieden	VERB
 
 
 --	PUNCT
-n	DET
-isilp	NOUN
-ul	VERB
-
-
 Wat	PRON
 wi	PRON
 doa	ADV
@@ -20402,12 +17669,6 @@ wi	PRON
 hat	AUX
 
 
-ad	NOUN
-jot	VERB
-n'crorsd	NOUN
-choc	VERB
-
-
 Un	CCONJ
 wenn	SCONJ
 wi	PRON
@@ -20419,37 +17680,23 @@ wat	PRON
 
 
 --	PUNCT
-nir	VERB
-Eiund	ADJ
-dnon	NOUN
-Inilg	VERB
-
-
 Denn	ADV
 müßt'	VERB
 wi	PRON
 requereeren	VERB
 .	PUNCT
-
-
 --	PUNCT
-uden	NOUN
-use	VERB
-
-
+--	PUNCT
 Mangunner	NOUN
 leet	VERB
 sich	PRON
 mit	ADP
 lichte	NOUN
-Möhr	VERB
+Möh	VERB
+)	PUNCT
 
 
-nadad	ADJ
-No	NOUN
-Coc	VERB
-
-
+--	PUNCT
 Son	DET
 Höhner-Broaden	NOUN
 klemmen	VERB
@@ -20560,13 +17807,6 @@ Päperkooken	VERB
 
 
 --	PUNCT
-ni	VERB
-or	NOUN
-tu	VERB
-.	PUNCT
-
-
---	PUNCT
 Uns	PRON
 König	NOUN
 wär	AUX
@@ -20588,10 +17828,6 @@ wi	PRON
 kämen	VERB
 
 
-inni	NOUN
-zagm	VERB
-
-
 Un	CCONJ
 gliek	ADV
 würd'n	ADJ
@@ -20600,19 +17836,10 @@ allarmeert	NOUN
 
 
 --	PUNCT
-'orers	NOUN
-ie	VERB
-
-
 Doa	ADV
 harren	VERB
 de	DET
 Franzosen	NOUN
-
-
-isd	ADJ
-lotr	NOUN
-al	VERB
 
 
 En'n	NOUN
@@ -20623,23 +17850,11 @@ woagt	VERB
 
 
 --	PUNCT
-gollse	VERB
-nat	ADJ
-u	NOUN
-merog	VERB
-
-
 Doch	ADV
 heww'n	VERB
 wi	PRON
 de	DET
 Rothhosen	NOUN
-
-
-Hont	ADJ
-flluf	NOUN
-ier	VERB
-uns	PRON
 
 
 Flink	ADV
@@ -20651,21 +17866,11 @@ joagt	VERB
 
 
 --	PUNCT
-iorper	VERB
-ien	NOUN
-iauin	VERB
-
-
 Nu	ADV
 wär't	AUX
 mit	ADP
 de	DET
 Pariser	NOUN
-
-
-il	ADJ
-aal	NOUN
-arn	VERB
 
 
 Doch	ADV
@@ -20676,11 +17881,6 @@ sehr	ADV
 
 
 --	PUNCT
-prsue	VERB
-e	PROPN
-nn	ADP
-
-
 De	DET
 Soak	NOUN
 käm	VERB
@@ -20729,8 +17929,7 @@ doch	ADV
 nich	ADV
 ran	ADV
 .	PUNCT
-
-
+--	PUNCT
 --	PUNCT
 Wi	PRON
 bombardeerten	NOUN
@@ -20816,7 +18015,7 @@ uphört	VERB
 
 
 --	PUNCT
-T	PRON
+'T	PRON
 wär	AUX
 "	PUNCT
 Waffenstillstand	VERB
@@ -20832,8 +18031,7 @@ harr'n	VERB
 wi	PRON
 Ruh	VERB
 .	PUNCT
-
-
+--	PUNCT
 --	PUNCT
 "	PUNCT
 Denn	ADV
@@ -20842,8 +18040,7 @@ woll	ADV
 Freden	NOUN
 moaken	VERB
 "	PUNCT
-
-
+--	PUNCT
 --	PUNCT
 So	ADV
 dachten	NOUN
@@ -20908,23 +18105,11 @@ stecken	NOUN
 
 
 --	PUNCT
-un	CCONJ
-r	VERB
-
-
-Uck	NOUN
+Uck	VERB
 up	ADP
 den	DET
 Bullerjoahn	NOUN
 !	PUNCT
-
-
---	PUNCT
-ut	ADP
-e	ADJ
-rn	NOUN
-g	VERB
-.	PUNCT
 
 
 --	PUNCT
@@ -20935,11 +18120,6 @@ vör'n	VERB
 Kaiser	NOUN
 
 
-chuck	NOUN
-ma	VERB
-
-
---	PUNCT
 Doa	ADV
 bi	ADP
 Paris	NOUN
@@ -20956,13 +18136,6 @@ rinner	ADV
 rücken	VERB
 
 
-ine	ADJ
-doan	NOUN
-u	VERB
-.	PUNCT
-
-
---	PUNCT
 In	ADP
 de	DET
 Franzosen-Stadt	NOUN
@@ -20970,23 +18143,11 @@ Franzosen-Stadt	NOUN
 
 
 --	PUNCT
-ronl	VERB
-Hiltärnn	NOUN
-chi	VERB
-t	PRON
-
-
 Ick	PRON
 fünn	VERB
 doa	ADV
 enen	DET
 Himmel	NOUN
-
-
-ollo	NOUN
-nu	ADV
-n'ocet	ADJ
-Gom	NOUN
 
 
 Vull	ADV
@@ -20997,11 +18158,6 @@ Lust	NOUN
 
 
 --	PUNCT
-a	PROPN
-tehiin	NOUN
-sa	VERB
-
-
 Mi	PRON
 feel	VERB
 -	PUNCT
@@ -21009,8 +18165,7 @@ mang	ADP
 dat	DET
 Getümmel	NOUN
 ,	PUNCT
-
-
+--	PUNCT
 --	PUNCT
 Mien	DET
 Broder	NOUN
@@ -21031,13 +18186,6 @@ reden	VERB
 
 
 --	PUNCT
-na	ADP
-tad	NOUN
-ra	VERB
-.	PUNCT
-
-
---	PUNCT
 Jung	NOUN
 !	PUNCT
 bist	AUX
@@ -21048,10 +18196,6 @@ gesund	ADV
 
 
 --	PUNCT
-gucl	NOUN
-unbor	VERB
-
-
 Dat	PRON
 bröcht	VERB
 wi	PRON
@@ -21107,27 +18251,12 @@ nimmermehr	VERB
 
 
 --	PUNCT
-nin	NOUN
-nchol	VERB
-
-
-Noen	ADJ
-Snten	NOUN
-u	VERB
-
-
 Mien	DET
 Broder	NOUN
 ,	PUNCT
 de	PRON
 mi	PRON
 footsten	VERB
-
-
-Sun	NOUN
-los	ADV
-nttad	VERB
-e	PROPN
 
 
 Doa	ADV
@@ -21160,12 +18289,6 @@ wi	PRON
 wären	VERB
 
 
-Incra	NOUN
-ande	VERB
-na	ADP
-cose	NOUN
-
-
 Wüßt'	VERB
 En	PRON
 von'n	ADP
@@ -21175,12 +18298,6 @@ nich	ADV
 
 
 --	PUNCT
-sa	NOUN
-lat	VERB
-stn	NOUN
-mu	VERB
-
-
 Nu	ADV
 müßt	AUX
 dat	PRON
@@ -21190,14 +18307,6 @@ passeeren	VERB
 
 
 --	PUNCT
-ain	VERB
-nn	ADP
-
-
-Gicunn	NOUN
-siat	VERB
-
-
 Dat	SCONJ
 wi	PRON
 to	ADP
@@ -21271,6 +18380,7 @@ mehr	ADV
 to	ADP
 sehn	VERB
 .	PUNCT
+"	PUNCT
 
 
 --	PUNCT
@@ -21424,12 +18534,6 @@ hurrje	VERB
 
 
 --	PUNCT
-sru	VERB
-ni	NOUN
-gnol	VERB
-un	CCONJ
-
-
 Mi	PRON
 dehr	VERB
 doch	ADV
@@ -21438,15 +18542,7 @@ den	DET
 Koater	NOUN
 
 
-n	DET
-dink	NOUN
-die	PRON
-d	NOUN
-.	PUNCT
-
-
---	PUNCT
-Dre	VERB
+Dre	ADJ
 Doag	NOUN
 de	DET
 Kopp	NOUN
@@ -21480,13 +18576,6 @@ sich	PRON
 broaken	VERB
 
 
-l	NOUN
-Un	CCONJ
-ad	ADJ
-ei	NOUN
-tcii	VERB
-
-
 Bi	ADP
 em	PRON
 müßt't	VERB
@@ -21496,24 +18585,11 @@ rut	ADV
 
 
 --	PUNCT
-win	VERB
-ni	NOUN
-po	VERB
-n	DET
-.	PUNCT
-
-
---	PUNCT
 Mien	DET
 Broder	NOUN
 wull	AUX
 nu	ADV
 röwer	VERB
-
-
-nn	ADP
-il	NOUN
-Ausa	VERB
 
 
 Früh	ADJ
@@ -21535,18 +18611,12 @@ bliewen	VERB
 
 
 --	PUNCT
-u	NOUN
-nd	VERB
-n	DET
-
-
 Wiel	SCONJ
 dat	DET
 unmöglich	NOUN
 wär	AUX
 ;	PUNCT
-
-
+--	PUNCT
 --	PUNCT
 Duhn	VERB
 )	PUNCT
@@ -21555,12 +18625,6 @@ Ruelg	NOUN
 to	ADP
 loopen	NOUN
 ,	PUNCT
-
-
---	PUNCT
-no	NOUN
-anie	VERB
-.	PUNCT
 
 
 --	PUNCT
@@ -21573,12 +18637,6 @@ west	AUX
 
 
 --	PUNCT
-lio	VERB
-n	DET
-ot	NOUN
-o	ADP
-
-
 Na	ADP
 ,	PUNCT
 wi	PRON
@@ -21594,19 +18652,6 @@ Arrest	VERB
 
 
 --	PUNCT
-Gut	X
-cauz	NOUN
-m	VERB
-.	PUNCT
-no	VERB
-.	PUNCT
-
-
---	PUNCT
-rön	VERB
-t	PRON
-
-
 Dat	PRON
 wär	AUX
 nu	ADV
@@ -21614,11 +18659,6 @@ groad	ADV
 nich	ADV
 ängstlich	ADJ
 ,	PUNCT
-
-
---	PUNCT
-in	ADP
-ried	NOUN
 
 
 --	PUNCT
@@ -21631,22 +18671,12 @@ warm	ADJ
 
 
 --	PUNCT
-nont	VERB
-i	SCONJ
-
-
 Un	CCONJ
 brukten	VERB
 uns	PRON
 nich	ADV
 grämen	VERB
 ,	PUNCT
-
-
---	PUNCT
-hnet	NOUN
-atcan	VERB
-.	PUNCT
 
 
 --	PUNCT
@@ -21663,27 +18693,15 @@ Denn	ADV
 wat	PRON
 von	ADP
 Discher-Soaken	NOUN
-"	PUNCT
+)	PUNCT
 
 
 --	PUNCT
-er	DET
-nod	NOUN
-rns	VERB
-
-
 Man	ADV
 ümmer	ADV
 brennboar	VERB
 wär	AUX
 ,	PUNCT
-
-
---	PUNCT
-lin	VERB
-nnin	NOUN
-ooc	VERB
-.	PUNCT
 
 
 --	PUNCT
@@ -21703,29 +18721,17 @@ Quateer	NOUN
 
 
 --	PUNCT
-ung	NOUN
-tus	VERB
-ahn	ADP
-dul	NOUN
-
-
 Wi	PRON
 müßten	AUX
 noch	ADV
 campeeren	VERB
 
 
-Aharnd	ADJ
-randnan	NOUN
-let	VERB
-
-
 Bet'n	NOUN
 söb'nten	VERB
 März	PROPN
 doarümm	VERB
-
-
+--	PUNCT
 --	PUNCT
 )	PUNCT
 betrunken	VERB
@@ -21945,50 +18951,6 @@ upgenoahm'n	VERB
 
 
 --	PUNCT
-gu	VERB
-wukd	NOUN
-ir	VERB
-
-
---	PUNCT
-gu	NOUN
-Frrut	VERB
-
-
-nn	ADP
-n	DET
-
-
-utn	NOUN
-i	INTJ
-
-
-or	NOUN
-ur	VERB
-
-
-in	ADP
-dod	NOUN
-ill	VERB
-.	PUNCT
-
-
---	PUNCT
-oea	NOUN
-inn	VERB
-.	PUNCT
-
-
---	PUNCT
-odotjo	NOUN
-ull	VERB
-
-
-hil	NOUN
-ontlur	VERB
-di	PRON
-
-
 Herrgott	NOUN
 !	PUNCT
 wär	AUX
@@ -22050,7 +19012,7 @@ harr'n	NOUN
 to	ADP
 unsen	DET
 Intug	NOUN
-"	PUNCT
+)	PUNCT
 
 
 --	PUNCT
@@ -22086,8 +19048,7 @@ wi	PRON
 öwerst	NOUN
 soapen	VERB
 !	PUNCT
-
-
+--	PUNCT
 --	PUNCT
 Nu	ADV
 wär't	AUX
@@ -22096,8 +19057,7 @@ uns	PRON
 erst	ADV
 Fest	ADV
 .	PUNCT
-
-
+--	PUNCT
 --	PUNCT
 As	CCONJ
 unsen	DET
@@ -22193,87 +19153,6 @@ noahm'n	VERB
 
 
 --	PUNCT
-er	DET
-Gfinick	NOUN
-.	PUNCT
-
-
---	PUNCT
-ns	VERB
-ind	NOUN
-r	VERB
-
-
-Uns	PRON
-ot	VERB
-Joonid	NOUN
-ric	VERB
-.	PUNCT
-
-
---	PUNCT
-Inn	NOUN
-srrtd	VERB
-.	PUNCT
-
-
---	PUNCT
-nsdood	VERB
-na	ADP
-en	DET
-pa	NOUN
-
-
-nig	NOUN
-us	VERB
-er	PRON
-n	DET
-
-
-ns	NOUN
-rkt	VERB
-.	PUNCT
-
-
---	PUNCT
-Grd	VERB
-vad	ADJ
-or	NOUN
-tac	VERB
-
-
-Jol	ADJ
-usnnond	NOUN
-ol	VERB
-
-
---	PUNCT
-ei	NOUN
-e	VERB
-
-
-daont	ADJ
-unus	NOUN
-ult	VERB
-
-
-ni	NOUN
-ni	VERB
-
-
-Srit	VERB
-d	PRON
-
-
-lnd	NOUN
-ann	VERB
-
-
-un	CCONJ
-n	DET
-l	NOUN
-
-
 To	ADP
 Hus	NOUN
 -	PUNCT
@@ -22288,7 +19167,7 @@ Up	ADP
 mi	PRON
 drupp	VERB
 los	ADV
-jesprung'n-	VERB
+gesprung'n-	VERB
 
 
 --	PUNCT
@@ -22378,15 +19257,14 @@ en	DET
 Beten	ADJ
 stramm	ADJ
 .	PUNCT
-
-
+--	PUNCT
 --	PUNCT
 Doch	ADV
 ganz	ADV
 -	PUNCT
 dat	PRON
 kön'n	VERB
-Ii	PRON
+Ji	PRON
 glöwen	VERB
 !	PUNCT
 
@@ -22414,8 +19292,7 @@ sich	PRON
 erst	ADV
 rut	ADV
 .	PUNCT
-
-
+--	PUNCT
 --	PUNCT
 Denn	ADV
 war'ns	VERB
@@ -22440,27 +19317,12 @@ infoahmte	NOUN
 Nücken	VERB
 
 
-fid	NOUN
-ot	VERB
-.	PUNCT
-funititer	VERB
-.	PUNCT
-sad	NOUN
-toss	VERB
-
-
 Un	CCONJ
 de	PRON
 beholl'n	VERB
 se	PRON
 uck	VERB
 .	PUNCT
-
-
---	PUNCT
-on	VERB
-hin	NOUN
-Gon	VERB
 
 
 --	PUNCT
@@ -22473,8 +19335,8 @@ war'n	VERB
 sich	PRON
 höden	VERB
 ,	PUNCT
-
-
+"	PUNCT
+--	PUNCT
 --	PUNCT
 Fängt	VERB
 Schnieder	NOUN
@@ -22535,8 +19397,7 @@ jitzund	VERB
 dat	PRON
 geht	VERB
 .	PUNCT
-
-
+--	PUNCT
 --	PUNCT
 Un	CCONJ
 wenn	SCONJ
@@ -22586,8 +19447,7 @@ freut	VERB
 mi	PRON
 !	PUNCT
 "	PUNCT
-
-
+--	PUNCT
 --	PUNCT
 Fängt	VERB
 nu	ADV
@@ -22611,7 +19471,6 @@ Nu	ADV
 mit	ADP
 de	DET
 Riewkühl	NOUN
-"	PUNCT
 )	PUNCT
 kamm	VERB
 .	PUNCT
@@ -22775,8 +19634,11 @@ Denn	ADV
 ward	AUX
 des	DET
 Doags	NOUN
+geschloapen	VERB
+;	PUNCT
 
 
+--	PUNCT
 De	DET
 Kundschaft	NOUN
 lu'rt	NOUN
@@ -22874,8 +19736,7 @@ nu	ADV
 in	ADP
 sien	DET
 Noth	NOUN
-
-
+--	PUNCT
 --	PUNCT
 "	PUNCT
 Um	ADP
@@ -22937,14 +19798,12 @@ moal	ADV
 Fru	NOUN
 Plinken	VERB
 "	PUNCT
-
-
+--	PUNCT
 --	PUNCT
 Seggt	VERB
 Crischon	NOUN
 Ballermann	VERB
-
-
+--	PUNCT
 --	PUNCT
 "	PUNCT
 Wenn	SCONJ
@@ -23013,8 +19872,7 @@ säd	VERB
 nu	ADV
 Fru	NOUN
 Plinken	VERB
-
-
+--	PUNCT
 --	PUNCT
 "	PUNCT
 So	ADV
@@ -23027,7 +19885,7 @@ an	ADP
 
 
 --	PUNCT
-Ii	PRON
+Ji	PRON
 denken	VERB
 woll	ADV
 ick	PRON
@@ -23122,6 +19980,7 @@ Krieg	NOUN
 as	CCONJ
 Franktiröhr	VERB
 .	PUNCT
+"	PUNCT
 
 
 

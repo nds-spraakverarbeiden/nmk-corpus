@@ -1,0 +1,2518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="id_keller-1872" xml:lang="nds">
+	<teiHeader>
+	    <fileDesc>
+	      <titleStmt>
+	        <title fldid="title">Crischon Ballermann, Garde-Landwehrmann von't Stettiner Batteljohn: Plattd&#252;tsche Vertellzels ut'n franz&#246;'schen Krieg</title>
+	        <author fldid="author">Ernst Keller</author>
+	        <respStmt>
+	          <resp n="transcription" fldid="transcription">Transkribus Print M1</resp>
+	          <resp n="revision" fldid="revision">Christian Chiarcos (manually)</resp>
+	          <resp n="normalization" fldid="normalization">n/a</resp>
+	          <resp n="tagging" fldid="tagging">Christian Chiarcos, University of Augsburg, Germany</resp>
+	        </respStmt>
+	        <!--funder fldid="funder"></funder-->
+	      </titleStmt>
+	      <sourceDesc>
+	        <biblStruct>
+	          <monogr> 
+	            <author fldid="monauthor">Ernst Keller</author>
+	            <title fldid="montitle">Crischon Ballermann, Garde-Landwehrmann von't Stettiner Batteljohn: Plattd&#252;tsche Vertellzels ut'n franz&#246;'schen Krieg</title>
+	            <edition fldid="monedition"/>
+	            <imprint>
+	              <publisher fldid="monpublisher">Dannenberg</publisher>
+	              <pubPlace fldid="monplace">Stettin</pubPlace>
+	              <date fldid="mondate">1872</date>
+	            </imprint>
+	          </monogr>
+	        </biblStruct>
+	      </sourceDesc>
+	    </fileDesc>
+	    <profileDesc> 
+	      <particDesc> 
+	        <listPerson> 
+	          <person id="ernst-keller">
+	            <name fldid="personname">Ernst Keller</name>
+	            <birth fldid="birth" when="1835">
+	              <placeName fldid="birthplace" geo="53.2531 14.4875">Gryfino (Greifenhagen)</placeName>
+	              <date fldid="birthdate">1835-03-13</date>
+	            </birth>
+	            <!--death>
+	            </death-->
+	            <langKnowledge>
+	              <langKnown n="first" tag="deu"/>
+	              <langKnown n="native" tag="nds"/>
+	            </langKnowledge>
+	            <sex fldid="sex" type="m"/>
+	            <age fldid="age">37</age>
+	            <occupation fldid="personoccupation">Tapezierer</occupation>
+	            <residence fldid="personresidence">Pyrzyce (Pyritz)</residence>
+	            <nationality fldid="nationality" key="DE"/>
+	          </person>
+	        </listPerson>
+	      </particDesc>
+	      <langUsage>
+	        <language fldid="textlang" ident="nds" dir="ltr"/>
+	      </langUsage>
+	      <textDesc>
+	        <channel fldid="textchannel" mode="written"/>
+	        <domain fldid="textdomain">poems</domain>
+	      </textDesc>
+	    </profileDesc>
+	    <encodingDesc>
+	      <projectDesc id="NMK">
+	        <title fldid="Nordm&#228;rkisch-Mittelpommersches Korpus (NMK)"/>
+	        <leader fldid="projectleader">Christian Chiarcos</leader>
+	        <desc fldid="projectdesc">Aufbau eines Korpus zur Dokumentation des Nordm&#228;rkischen sowie des nah verwandten Mittelpommerschen in Sachsen-Anhalt, Brandenburg, Vorpommern und dem heutigen Polen.
+	        Chiarcos, C. (2026). Towards the Morphological Annotation of North Markian (Low German). In Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026) (pp. 11699&#8211;11714). European Language Resources Association (ELRA). https://doi.org/10.63317/54xnswqy73gs.
+	        </desc>
+	      </projectDesc>
+	      <editorialDecl fldid="editorialdecl">
+	        Automatische OCR des Textteiles, manuell auf OCR-Artefakte gesichtet, nur partiell korrigiert. Automatisiertes POS Tagging.
+	      </editorialDecl>
+	    </encodingDesc>
+	  </teiHeader>
+	
+	<text>
+		<body>
+				<pb facs="../img/keller-1872/0001.jpg"/>
+				An miene lewen Lands-Lüd'!<lb/>
+				==<lb/>
+				Wenn ener good ward upgenoahm'n,<lb/>
+				Denn pleggt he uck bald wedder koam'n.<lb/>
+				Crischon wär Ju en lewe Gast,<lb/>
+				Un doarüm glöw ick stief un fast:<lb/>
+				Ii nehmt so'n ollen Landwehrmann<lb/>
+				Noch enmoal fründlich up un an.<lb/>
+				Un wenn Ju sien Vertell geföllt<lb/>
+				Kann't sinn, dat he sich öfters mellt.<lb/>
+				<pb facs="../img/keller-1872/0002.jpg"/>
+				Bi Mutter Ballstädtsch.<lb/>
+				==<lb/>
+				„Ji reden klook!" seggt Crischon Ballermann,<lb/>
+				„Wenn Ii recht schön to Hus bi Muttern sitten —<lb/>
+				Un up den Disch de vulle Kaffekann<lb/>
+				Doa vör Ju hebb'n, un Sämel in to stippen;<lb/>
+				Wenn pünktlich steiht dat Middag up den Disch<lb/>
+				Un Mutter extra för Ju broad en'n Fisch,<lb/>
+				Denn heet dat: Mutter! doa verloat Di drup,<lb/>
+				Ick nehmt alleen mit sös Franzosen up.<lb/>
+				Un wenn Ii denn so as wi just nu hier —<lb/>
+				In'n Krog bi Mutter Ballstädtsch mit ju Piepen<lb/>
+				An'n warmen Oaben sitten, bi'n Glas Bier,<lb/>
+				Denn kann dat kener von Ju recht begriepen:<lb/>
+				Dat dit so lang doch duert mit den Krieg,<lb/>
+				Un nich all Doag in't Kreisblatt steht en „Sieg";<lb/>
+				Denn seggen Ii: wenn wi man blot doa wär'n!<lb/>
+				Wi wullen de Franzosen loopen lehr’n.<lb/>
+				Joa woll! Ii sinn de rechten Helden mi,<lb/>
+				Ick will Ju dat dörchut joa nich bestrieden,<lb/>
+				Dat bi 'ne groote Joahrmarchts=Keilerie<lb/>
+				<pb facs="../img/keller-1872/0003.jpg"/>
+				Ji ümmer düchtig up den Posten blieben,<lb/>
+				Un dat Kuroasch von Ju en Jeder hett,<lb/>
+				Dat will ick glöben, dat is schön un nett;<lb/>
+				Doaför sinn Pommern Ii, so good as ick<lb/>
+				Un pommersche Kuroasch is Preußens Glück.<lb/>
+				Doch wenn Ii mein'n: dat müßt joa joahn ganz flink,<lb/>
+				Denn will ick Ju doch ganz wat Anners seggen:<lb/>
+				Ii weten ’n Quark doavon von sone Ding.<lb/>
+				Wenn Ii to Hus in't warme Bedd Ju leggen,<lb/>
+				Denn stoahn wi hunnert Miel'n von Fru un Kind<lb/>
+				Recht schön up Posten doa, in Storm un Wind;<lb/>
+				Un wat för Weder hebb'n wi ümmer hat?<lb/>
+				Bi Straßburg wär'n wi ümmer pudelnatt.<lb/>
+				Wi harr'n joa oft doa nich moal en Bund Stroh,<lb/>
+				Ii sülln Ju Nachts moal up den Rüggen leggen<lb/>
+				Un decken mit den bloten Buk Ju to,<lb/>
+				Denn mücht ick hör'n, wat Ii woll müchten seggen;<lb/>
+				Doabi nich moal wat Orndtlichs in dat Lief,<lb/>
+				Doa war'n den Düwel sülwst de Knoaken stief.<lb/>
+				Insektenpulwer wär uns uck man knapp,<lb/>
+				Doch desto mehr hebb'n wi Insekten hatt.“<lb/>
+				„Fru Ballstädtsch! noch sös Seidel bairisch Bier!<lb/>
+				Nu stött moal an un loat moal Crischon leben;<lb/>
+				Un Crischon! Du bliwwst noch en beten hier,"<lb/>
+				Seggt nu Fritz Block — „Du möst tum besten geben<lb/>
+				Wat All'ns in dissen Krieg Di is passeert,<lb/>
+				Un Ii sinn still nu, dat em kener stört.<lb/>
+				<pb facs="../img/keller-1872/0004.jpg"/>
+				Na nu kumm her! un stöt mit jeden an,<lb/>
+				Hoch! dreimoal hoch uns Crischon Ballermann!“<lb/>
+				Na, Crischon wull doa ersten nich recht ran,<lb/>
+				He meint, sien Fru mücht dat to lang woll duern;<lb/>
+				Doch Fritz de seggt: „ach wat! nu fang man an,<lb/>
+				Wenn uck Dien Ollsch hüt möt en beten luern,<lb/>
+				Un wenn Se schellt, denn segg Du man to ehr:<lb/>
+				Wi harr'n Schuld, Du künnst hüt doa nich för.<lb/>
+				Wi möten weten doch von A bet Z,<lb/>
+				Wo Di dat e'ntlich in den Krieg goahn hett.<lb/>
+				==<lb/>
+				Von Stettin noah Hannower;<lb/>
+				von Hannower bet an de Grenz.<lb/>
+				==<lb/>
+				„Ka denn paßt up un hört mi an:<lb/>
+				Ji weten ick bin Gardemann<lb/>
+				Un dat bi ’t erste Regiment,<lb/>
+				Wat Ji as broaw un düchtig kennt.<lb/>
+				Ick stünn mit Michel Fichtenspohn<lb/>
+				Bi dat Stettiner Batteljohn;<lb/>
+				Mit Mayn un Nack un Gottlieb Degen<lb/>
+				Harr ick tosoamen Orrer kregen.<lb/>
+				\<lb/>
+				Un Gottfried Bölk un Boahnemann,<lb/>
+				De müßten ditmoal uck mit ran.<lb/>
+				<pb facs="../img/keller-1872/0005.jpg"/>
+				Wi föhrten all bet noah Stettin,<lb/>
+				Mit enen Köster ut Pangsien<lb/>
+				Würd ick tosoamen doa quarteert,<lb/>
+				Un en fidelen Köster wärt,<lb/>
+				Wi hebb'n as richtige Saldoaten<lb/>
+				Uck footsten tru Kamroadschaft schloaten.<lb/>
+				\<lb/>
+				Wi käm'n nich utenanner mehr;<lb/>
+				In Reih un Glied, as in Quarteer<lb/>
+				Wär mit den Köster ick tosoam'n.<lb/>
+				Na dunn güng dat upt Iserboahn,<lb/>
+				As wi erst uns' Mundirung harn,<lb/>
+				Dunn heet dat: „nach Hannover fahrn."<lb/>
+				Nu harr Ji dit Hurrah müßt hören,<lb/>
+				As mit uns af de Zug süll föhren.<lb/>
+				\<lb/>
+				De schönste Spoaß doabi wär dit:<lb/>
+				En halw Schock Frugens wullen mit,<lb/>
+				Se leeten ’t sich dörchut nich wehren,<lb/>
+				Genoog se wull'n Enn mit uns föhren;<lb/>
+				De Boahnbeamten müßten ran<lb/>
+				Un hacken noch twe Woagens an;<lb/>
+				Doch as de Frug'nslüd rin sich packten,<lb/>
+				De Kerls de Woagens af gliek hackten.<lb/>
+				\<lb/>
+				Wat wenten un wat lachten sehr<lb/>
+				Un doamit güng'n wi fläuten ehr.<lb/>
+				„Berlin" un „Braunschweig" heel'n wi an;<lb/>
+				Doa drängten denn de Lüd sich ran<lb/>
+				<pb facs="../img/keller-1872/0006.jpg"/>
+				Mit Zigarrn, Schnaps, mit Bier un Brod,<lb/>
+				Se leten uns an joarnischt Noth.<lb/>
+				Doch as wi kämen noah Hannower<lb/>
+				Doa wär dat mit dat Eten power.<lb/>
+				\<lb/>
+				Wi leegen bi en Koopmann in,<lb/>
+				Doa wär dat ganz gefährlich fien;<lb/>
+				Wi hebb'n bi Disch Salwgetten hat,<lb/>
+				Doch würd'n wi alle Beid nich satt.<lb/>
+				De Botterschneden wär'n so dünn,<lb/>
+				Dat man recht schön dörch kieken künn.<lb/>
+				De Köster säd: „ein pommersch Magen<lb/>
+				Ist in Hannover zu beklagen."<lb/>
+				\<lb/>
+				Uck dehrn se uns doa sehr strapzeer'n<lb/>
+				Mit Scheeten un mit Exerzeer'n,<lb/>
+				Un mienen Köster Loadewig<lb/>
+				Bekäm dat Exerzeeren nich;<lb/>
+				De olle Jung de dehr mi leed,<lb/>
+				He kreeg gliek Bloasen an de Föt;<lb/>
+				Doch as en rechten Kernsaldoaten<lb/>
+				Hett he sich kum dat marken loaten.<lb/>
+				\<lb/>
+				Ens käm he ganz vull Freuden an<lb/>
+				„Du! weißt was Neu's, Freund Ballermann?<lb/>
+				Zu uns kommt der Franzose nicht.<lb/>
+				Er hat bei sich schon Schacht gekriggt.<lb/>
+				Hast Du den Lärm noch nicht gehört?<lb/>
+				Es hat bei Weißenburg und Wörth<lb/>
+				<pb facs="../img/keller-1872/0007.jpg"/>
+				Schon ganz barbar'sche Wichs gegeben;<lb/>
+				Schad' daß wir nicht dabei gewesen."<lb/>
+				\<lb/>
+				Dit Leben harr Ji nu müßt sehn,<lb/>
+				As noahsten uck Gefangen käm'n;<lb/>
+				Alles rönnte noah den Boahnhof rut,<lb/>
+				Wo segen de Franzosen ut.<lb/>
+				„Herrjeh!" säd Michel Fichtenspohn,<lb/>
+				„De schlappen Kerls wull'n uns wat dohn?<lb/>
+				Wenn Frankreich nich noch hett ganz annern,<lb/>
+				Denn kann mi Musche Lui jammern."<lb/>
+				\<lb/>
+				„Wat meinst Du doato, Georg Mayn?<lb/>
+				„Lieb Vaterland kannst ruhig sein<lb/>
+				Säd de, un fläut sich doabi wat,<lb/>
+				Uck ick heww son Gedanken hat.<lb/>
+				Na schließlich käm noch disse Woch<lb/>
+				Von Mäkelburg de Grotherzog;<lb/>
+				De harr uns doa to inspezeeren,<lb/>
+				Of wi felddüchtig nu uck wären.<lb/>
+				\<lb/>
+				Dit wär, as mi noch hüt bewußt,<lb/>
+				Gerood an'n dörteihnsten August,<lb/>
+				An'n vierteihnsten wär Kirchgang nu<lb/>
+				Un 'n söb'nteihnsten güngt noah Karlsruh,<lb/>
+				Versteht sich mit de Iserboahn,<lb/>
+				Un öwer Hamm un Köln ist goahn.<lb/>
+				In Karlsruh hebb'n wi Ruhdag kregen<lb/>
+				Un in Quarteer bi 'n Gastwirth legen.<lb/>
+				<pb facs="../img/keller-1872/0008.jpg"/>
+				Dat wär en joa to fründlich Mann,<lb/>
+				De schleppte wat wi wünschten ran<lb/>
+				Un föhrte uns mit siene Pär<lb/>
+				Spatzeern, de ganze Stadt ümher.<lb/>
+				Un noahsten sinn wi kneipen goahn,<lb/>
+				Mien Köster künn nich groad mehr stoahn,<lb/>
+				So harr he sich ens angemichelt;<lb/>
+				Wi hebb'n uck kannibalisch pichelt.<lb/>
+				\<lb/>
+				Dat dömlichste wär doabi hier,<lb/>
+				Erst drünk wi Wien un noahsten Bier,<lb/>
+				Un Köster Jakob Loadewig<lb/>
+				De dacht joa woll dat schoadte nich,<lb/>
+				Doch as in uns Quarteer wi wär'n,<lb/>
+				Dunn müßt he Kotzebu studeer'n,<lb/>
+				Dre moal is he ut't Bedd rut schoaten;<lb/>
+				Ick künn de ganze Nacht nich schloapen.<lb/>
+				\<lb/>
+				Den annern Dag dunn wär 't erst schön,<lb/>
+				Dunn harr'n Ii blot Karlsruh müßt sehn;<lb/>
+				Uns Wirth de weckt uns mit: „Ach Gott!<lb/>
+				Ein großer Sieg bei Gravelott;<lb/>
+				Man flink in die Kledaschen rein,<lb/>
+				Darauf muß doch getrunken sein."<lb/>
+				Dit harrn wi nu moal nüdlich droapen,<lb/>
+				Wi wär'n Vörmiddags all besoapen.<lb/>
+				\<lb/>
+				Un Oabends wär dat erst famos,<lb/>
+				Mit Fackelzügen güng dat los,<lb/>
+				<pb facs="../img/keller-1872/0009.jpg"/>
+				De ganze Stadt wär luter Licht,<lb/>
+				Doa hebb’n wi wat to sehen kriggt.<lb/>
+				Musik wär fast de ganze Nacht;<lb/>
+				An Schloap hett fast ken Minsch doa dacht,<lb/>
+				Doch wi müßt uns bi Tieden drücken,<lb/>
+				Wiel wi früh Morgens ut sülln rücken.<lb/>
+				\<lb/>
+				Na dat wär nu en Zoddellie,<lb/>
+				Ach Gott wo krank doch wären wi,<lb/>
+				Dat ganze Batteljohn wär schlapp<lb/>
+				Un hett den Kattenjammer hat.<lb/>
+				Tum Glück güng't noch mit Iserboahn,<lb/>
+				Dat Loopen harr uck schlecht woll goahn;<lb/>
+				Nu künn' wi 't uns bequem noch moaken<lb/>
+				Un unsen Koater erst utschloapen.<lb/>
+				\<lb/>
+				Doch du'rt nich lang, dunn käm'n wi denn<lb/>
+				So mittewiel noah Rastadt hen;<lb/>
+				Mit Hurrah güng't dunn öwern Rhein,<lb/>
+				„„Lieb Vaterland magst ruhig sein!“<lb/>
+				Dat sungen wi mit Stolz un Lust<lb/>
+				Doabi, an'n twintigsten August,<lb/>
+				As Frankreichs Grenzen wi betreden,<lb/>
+				De Köster hett den Dag anschreben.<lb/>
+				\<lb/>
+				He säd to mi: „weißt Ballermann,<lb/>
+				Wir komm'n nun bald nach Straßburg ran,<lb/>
+				Das ist die wunderschöne Stadt,<lb/>
+				Die Frankreich uns gestohlen hat;<lb/>
+				<pb facs="../img/keller-1872/0010.jpg"/>
+				So wahr ich heiße Ladewig!<lb/>
+				Wir weichen und wir wanken nicht;<lb/>
+				Paß auf, wir werden sicher. siegen,<lb/>
+				Wir müssen Alles wieder kriegen.<lb/>
+				\<lb/>
+				Sieh Dir mal diese Gegend an,<lb/>
+				So weit Dein Auge reichen kann,<lb/>
+				Wie schön, wie herrlich ist das hier,<lb/>
+				Das war einst deutsch, das merke Dir,<lb/>
+				Die schöne Gegend rings umher,<lb/>
+				Der ganze Elsaß und noch mehr,<lb/>
+				Deutsch war's! und soll's auch wieder werden,<lb/>
+				Wir müssen siegen oder sterben."<lb/>
+				\<lb/>
+				„De Köster wär so luud doabi,<lb/>
+				Dat unse ganze Kumpanie<lb/>
+				Mit enmoal üm uns rümmer wär<lb/>
+				Un horkte to wat Loadwig sähr.<lb/>
+				Un de doa wat hebb'n von verstoahn,<lb/>
+				De is dat uck to Herzen goahn;<lb/>
+				As wenn he in sien Kirch dehr beden,<lb/>
+				So schön künn doa uns Köster reden.<lb/>
+				\<lb/>
+				Un wenn man sich ümkieken dehr:<lb/>
+				Mit Gottes Segen rund ümher<lb/>
+				Wär Minschenfliet un Arbeit lohnt,<lb/>
+				Un de doa hoch in'n Himmel trohnt<lb/>
+				Of de woll wär mit inverstoahn,<lb/>
+				Dat sich de Minschen dood sülln schloahn?<lb/>
+				<pb facs="../img/keller-1872/0011.jpg"/>
+				Künn nich de ganze Welt in Freden<lb/>
+				Mit Dank to unsen Herrgott beden.<lb/>
+				\<lb/>
+				Wat harrn wi de Franzosen doahn?<lb/>
+				Dat se sich wullen mit uns schloahn;<lb/>
+				Wat leeten se uns nich in Ruh<lb/>
+				Un wat harn se woll doavon nu?<lb/>
+				En Jammer wär't mit antosehn,<lb/>
+				De ganze Inschnitt stünn so schön,<lb/>
+				Dat müßt nu Allens halw verdarben;<lb/>
+				Wo trampelt wi do mang de Garben.<lb/>
+				\<lb/>
+				Un wi nehm'n uns noch sehr in Acht,<lb/>
+				Wenn man sich doa nu rinner dacht,<lb/>
+				Wenn hier bi uns harr de Franzos<lb/>
+				Sich as he wull künnt loaten los,<lb/>
+				Wo harr de Oart wull husen mücht,<lb/>
+				Wenn wi de harrn in ’t Land rin kriegt;<lb/>
+				Wenn dat uns Herrgott harr to geben<lb/>
+				Denn harr'n wi hier wat künnt erleben.<lb/>
+				==<lb/>
+				Up'n Marsch.<lb/>
+				==<lb/>
+				Doch dat is hierbi Nebensach;<lb/>
+				Wi müßten nu marscheeren<lb/>
+				Recht stramm den ganzen lewen Dag,<lb/>
+				<pb facs="../img/keller-1872/0012.jpg"/>
+				Dat wi uck schlapp all wären;<lb/>
+				Un dösten dehr uns uck so sehr,<lb/>
+				Wiel uns dat Woater knapp man wär;<lb/>
+				Genog wi sehnten uns to Ruh<lb/>
+				Un doamit sull dat los goahn nu,<lb/>
+				Dat wär uns lew to hören.<lb/>
+				\<lb/>
+				Bischweiler heet dat erste Nest,<lb/>
+				Wo wi uns inquarteerten,<lb/>
+				Dat is binoah ganz ledig west,<lb/>
+				Veel Lüd wärn utgereten;<lb/>
+				Se harr'n von Weißenburg un Wörth<lb/>
+				Hier de Kanonen dunnern hört;<lb/>
+				Mit Sack un Pack, mit Kind un Fru<lb/>
+				Wärn in de Barg se rinner nu,<lb/>
+				Un wi harr'n nischt to eten.<lb/>
+				\<lb/>
+				Son Oart Burmeister heet doa „Mähr,<lb/>
+				Den'n holt wi ut de Bedden,<lb/>
+				Wo he vör Angst rin kroapen wär;<lb/>
+				De müßt uns denn nu seggen<lb/>
+				Wat wi to weten nödig harrn,<lb/>
+				Wo dat mit den Prowgant süll warn<lb/>
+				Un wo noch Wien in'n Keller lag,<lb/>
+				(Dat käm so mit de Tied an'n Dag),<lb/>
+				Wi wulln doavör uns leggen.<lb/>
+				\<lb/>
+				Na ersten kreeg'n wi Liefrung nu<lb/>
+				Un müßten uns wat koaken;<lb/>
+				<pb facs="../img/keller-1872/0013.jpg"/>
+				De Köster säd; „Crischon koch Du,<lb/>
+				Ick war uns Füer moaken.“<lb/>
+				Un Nack un Bölk un Boahnemann,<lb/>
+				De schleppten Holt un Nudeln ran;<lb/>
+				Org Mayn — de joa to möd all wär,<lb/>
+				Säd: „koakt man to, ick mag nich mehr,<lb/>
+				Ick legg mi footsten schloapen.“<lb/>
+				\<lb/>
+				Hans Wewer, Gesch un Fichtenspohn<lb/>
+				Wär'n uck in unsen Koathen,<lb/>
+				De wulln uck alle drei nischt dohn<lb/>
+				As sich upwoarten loaten.<lb/>
+				Blot Crischon Küken käm noch an<lb/>
+				Mit Degen, de Beid müßten ran<lb/>
+				Bi't Nudelnschelln un Kaffe moahln,<lb/>
+				Un müßten mi uck Zwiebeln hoaln;<lb/>
+				Ick wull Broadnudeln koaken.<lb/>
+				\<lb/>
+				Na, Gottfried Bölk wär uck nich dumm<lb/>
+				Upt Koaken un upt Eten,<lb/>
+				As ick ken'n Tröchter finnen kunn<lb/>
+				Den Kaffe dörch to geten,<lb/>
+				Langt he mi sien'n Broodbüdel her,<lb/>
+				De sich doa schön to passen dehr;<lb/>
+				De würd nu as sich dat gehört<lb/>
+				Doato för ümmer reserwert;<lb/>
+				Man möt sich Roath doch weten.<lb/>
+				\<lb/>
+				Doch as wi ’t Eten t'recht nu harr'n<lb/>
+				Un wull'n uns nu recht plägen,<lb/>
+				<pb facs="../img/keller-1872/0014.jpg"/>
+				Dunn gewt Genroalmarsch un Allarm.<lb/>
+				„Kotz Schlag!“ säd Gottlieb Degen,<lb/>
+				„Nu kümmt gewiß de Musch Franzos;<lb/>
+				Org Mayn stoah up! nu geiht dat los."<lb/>
+				Org öwerst wär all halw in'n Schloap,<lb/>
+				De säd: „ach wat Du bist en Schoap,<lb/>
+				Loop af, loat mi tofreden."<lb/>
+				\<lb/>
+				Nu güng dat öwerst hest nich sehn,<lb/>
+				Mit Packen un mit Rüsten,<lb/>
+				Doch as wi up den Platz henkäm'n<lb/>
+				Wo wi uns sammeln müßten,<lb/>
+				Wär nischt to sehn von den Franzos,<lb/>
+				Un wär uck sünsten joarnischt los.<lb/>
+				Uns Ollen wull'n man blot probeer'n,<lb/>
+				Of wi woll up den Posten wär’n,<lb/>
+				As of se dat nich wüßten.<lb/>
+				\<lb/>
+				Na, mit de ganze Koakerie<lb/>
+				Un mit dat schöne Eten<lb/>
+				Wär dat up ditmoal rein vörbi,<lb/>
+				Org har den Pot ümreten,<lb/>
+				As he in Hast käm noah gerönnt,<lb/>
+				Un nich mehr en Funk Füer brennt,<lb/>
+				Dat harren wi denn doavon nu;<lb/>
+				Ganz falsch un hungrig güngt to Ruh,<lb/>
+				Wi wär’n nich mehr to spreken.<lb/>
+				==<lb/>
+				<pb facs="../img/keller-1872/0015.jpg"/>
+				Vör Straßburg.<lb/>
+				==<lb/>
+				Den annern Dag marscheerten wi<lb/>
+				Vörfötsch un lustig wierer,<lb/>
+				Dag ut Dag in, bald mit Musik,<lb/>
+				Un bald mit lustge Lieder<lb/>
+				Güng't vorwärts, Straßburg rechts vörbi,<lb/>
+				Wi sülln noah Holtheim, hörten wi,<lb/>
+				Un sülln doa Schanzkörw flechten.<lb/>
+				\<lb/>
+				De Grotherzog von Baden stünn<lb/>
+				Bi Straßburg mit sien Truppen,<lb/>
+				Dat wären prächtig Lüd, so schmuck<lb/>
+				Un drall as wi de Puppen,<lb/>
+				Se hoalten mit Musik uns in,<lb/>
+				Un groot Parood müßt nu jo sin<lb/>
+				Von wegen den Grotherzog.<lb/>
+				\<lb/>
+				Bet ungefähr Utgangs August<lb/>
+				Hebb'n wi in Holtheim leegen,<lb/>
+				Doa wär'n de Lüd fast all to Hus,<lb/>
+				De Schreck harr sich all gewen.<lb/>
+				Se hebben uns dat Eten koakt<lb/>
+				Un wi hebb'n uns de Schanzkörw moakt,<lb/>
+				Un de Faschienen wickelt.<lb/>
+				\<lb/>
+				Un doamit schleppten wi torügg<lb/>
+				Bet noah Middelhausbergen;<lb/>
+				<pb facs="../img/keller-1872/0016.jpg"/>
+				Doa wöhlten in de Erd wi rüm,<lb/>
+				As Kubulds un as Zwergen,<lb/>
+				Doa müßten wi nu alle Mann<lb/>
+				Loopgroabens bug'n noah Straßburg ran,<lb/>
+				Dat wär en schön Stück Arbeit.<lb/>
+				\<lb/>
+				Herr Uhrich set in Straßburg drin<lb/>
+				So as de Voß in ’t Isen,<lb/>
+				Un dat he nischt mehr moaken künn,<lb/>
+				Dat wull'n wi em nu wiesen.<lb/>
+				De Kerl wär hellisch upsternoat,<lb/>
+				Un wär en düchtigen Saldoat,<lb/>
+				Dat is nich to bestrieden.<lb/>
+				\<lb/>
+				De Badner harrn all bumbardeert<lb/>
+				Un uck den Boahnhof noahmen,<lb/>
+				Nu wull'n wi, as sich dat gehört,<lb/>
+				En beten neger koamen;<lb/>
+				Den'n Musch Franzos wär nich to trug'n,<lb/>
+				Drum müßt wi noch Battrieen bug'n,<lb/>
+				Wi wull'n em nu beloagern.<lb/>
+				\<lb/>
+				Herrn Uhrich wär dat sehr fitoal,<lb/>
+				Dat wi em so ümstellten;<lb/>
+				He wull all rute en poar moal,<lb/>
+				As't Badner uns vertellten;<lb/>
+				Doamit harr dat nu nich mehr Noth,<lb/>
+				Wi harr'n em fest, un dat wär godd<lb/>
+				He künn nich mehr utkniepen.<lb/>
+				<pb facs="../img/keller-1872/0017.jpg"/>
+				Uns süll dat öwer ’t Lief nu goahn,<lb/>
+				In den infahmten Regen,<lb/>
+				Mit Schanzen bug'n un Posten stoahn,<lb/>
+				Doa hebb'ns uns ranner kreegen.<lb/>
+				Wi harr'n nich Ruh moal in Quarteer,<lb/>
+				Wiel dat Alarmtostand denn wär;<lb/>
+				Wat dat is, war Ji weeten.<lb/>
+				\<lb/>
+				Von ganz Middelhausbergen wär<lb/>
+				Denn uck ken Minsch to spräken,<lb/>
+				As de oll Pastor un de Mähr,<lb/>
+				De Annern wär'n utknepen.<lb/>
+				Wi müßt uns werrer sülwst ranzner'n,<lb/>
+				Un unse Koakkunst utprober’n,<lb/>
+				Wenn wi wat Warms wull'n eten."<lb/>
+				\<lb/>
+				„Na nu man still! nu holl moal stopp,<lb/>
+				Ick möt di unnerbreken,<lb/>
+				Nimm man nich öwel,"<lb/>
+				- seggt Fritz Block,<lb/>
+				„Du bist nu groad bi't Eten,<lb/>
+				Un dorüm stöt man ersten an<lb/>
+				Un drink moal to, Fründ Ballermann,<lb/>
+				Du möst Dien Kehl erst schmeeren.<lb/>
+				\<lb/>
+				„Fritz Block hett Recht," säd Schnieder Plink,<lb/>
+				„Du redst Di joa ganz heiser;<lb/>
+				Kumm her, stöt an, Crischon, un drink.<lb/>
+				Hoch Dütschland un uns Kaiser!<lb/>
+				Fru Ballstädtsch noch sös Seidel her.“<lb/>
+				<pb facs="../img/keller-1872/0018.jpg"/>
+				„Ach loat doch sinn, ick mag nich mehr,"<lb/>
+				Säd Crischon, „ick möt lopen."<lb/>
+				\<lb/>
+				„Ach wat Du dröhnst," säd Schoster Pech,<lb/>
+				„Vertell doch nu man wierer,<lb/>
+				Wi loaten Di hüt doch nich weg."<lb/>
+				„Ne," seggt nu Plink, de Schnieder,<lb/>
+				„Dat helpt Di nich, Fründ Ballermann,<lb/>
+				Steck Di man noch en Cigarrn an,<lb/>
+				Un loat Di nich so quälen."<lb/>
+				\<lb/>
+				„Dien Kleeheu kriggst Du doch noch rin,<lb/>
+				Dat will'n wi Di woll moaken,<lb/>
+				So droadt as't Morgen Dag ward sinn,<lb/>
+				Hüt goahn wi nich mehr schloapen;<lb/>
+				Wi helpen morgen All' doabi,<lb/>
+				Un Sundag sind Ji all bi mi,<lb/>
+				Nu möst Di uck nich zieren."<lb/>
+				\<lb/>
+				„Denn helpt dat nich, denn möt ick woll,"<lb/>
+				Säd Crischon nu entschloaten,<lb/>
+				„Ick denk uck woll, to Hus mien Oll<lb/>
+				De ward nu uck woll schloapen.<lb/>
+				Un en Nacht dörchgoahn is nich dull;<lb/>
+				Doch öwerst wat ick seggen wull,<lb/>
+				Wo sinn wi stoahn denn blewen?<lb/>
+				\<lb/>
+				Je so! as wi an't Dörp ran wärn,<lb/>
+				Harr uns Herr Uhrich wittert,<lb/>
+				Un dehr uns sienen Gruß bescheern<lb/>
+				<pb facs="../img/keller-1872/0019.jpg"/>
+				Dat gliek de Erdbod'n zittert.<lb/>
+				He grüßte mit Granoaten uns,<lb/>
+				Doch güng dat nich noah sienen Wunsch,<lb/>
+				He künn uns nich recht langen.<lb/>
+				\<lb/>
+				Doch wiel de Soak to muslich wär,<lb/>
+				Müßt ficks in't Dörp wi rücken;<lb/>
+				„Flink Kinder!“ säd uns Kummandör,<lb/>
+				„Wir müssen uns hier drücken,<lb/>
+				Wir stehen hier zu bloß und blank,<lb/>
+				Wir werden später unsern Dank,<lb/>
+				Für diesen Gruß entrichten."<lb/>
+				\<lb/>
+				Uns würd'n se nu to viertig Mann<lb/>
+				In'n Buerhof quarteeren;<lb/>
+				Dat güng nu knapp un schlecht noog an,<lb/>
+				Wiel’t nich to wenig wären.<lb/>
+				Twölf käm'n in't Schühn un twölf in'n Stall,<lb/>
+				Un up den Böhn de Annern all,<lb/>
+				De Stuw de kreeg uns' Hauptmann.<lb/>
+				\<lb/>
+				Fründ Loadwig säd to mi: „oll Söhn,<lb/>
+				Nu will ick Di wat seggen:<lb/>
+				Wi will'n man boaben up den Böhn<lb/>
+				Uns bi de Annern leggen.<lb/>
+				Mi paßt de Stall nich un de Schühn.“<lb/>
+				„Je!" säd ick, „Du bist man to fien,<lb/>
+				Du hest Beamten=Nücken."<lb/>
+				<pb facs="../img/keller-1872/0020.jpg"/>
+				Na, ick süll footst up Dörpwach nu,<lb/>
+				Un Loadwig süll nu koaken;<lb/>
+				„Na also Reis und Speck dazu"<lb/>
+				Säd he — „ick will't woll moaken,<lb/>
+				Un noahsten bringe ich Dir wat.“<lb/>
+				He schnackt bald hochdütsch un bald platt,<lb/>
+				So as’t em groad dehr passen.<lb/>
+				\<lb/>
+				Ick säd em noch genau Bescheid,<lb/>
+				Wo he dat nu süll moaken.<lb/>
+				„Ach" seggt he, „dat is Kleinigkeit,<lb/>
+				Denkst Du ick kann nich koaken?<lb/>
+				Ich kann' das auch so gut als Du,<lb/>
+				Geh man auf Deinen Posten nu,<lb/>
+				Sonst kriegst Du noch gerüffelt."<lb/>
+				\<lb/>
+				Na ick betreck nu miene Wach,<lb/>
+				Söß Stunden süll dat duern.<lb/>
+				„Ich bringe bald Dir Essen nach,<lb/>
+				Du sast so lang nich luern.“ --<lb/>
+				Säd Jakob — „schön!" segg ick, „man to,<lb/>
+				Mi knurrt de Moagen uck all so<lb/>
+				As harr ick drin jung Hunnen.<lb/>
+				\<lb/>
+				He heel denn nu uck richtig Woort;<lb/>
+				Twe Stund'n blot müßt ick fasten,<lb/>
+				(Dat güng noch flink up siene Oart)<lb/>
+				Dunn bröcht he mi den Brasten.<lb/>
+				He harr sien ganze Kunst anwendt<lb/>
+				<pb facs="../img/keller-1872/0021.jpg"/>
+				Un richtig mi den Nies anbrennt,<lb/>
+				Dat wär nich to geneten.<lb/>
+				\<lb/>
+				Du Schoapskopp! säd ick, wat is dit,<lb/>
+				Is dat Dien Kunst von't Koaken?<lb/>
+				Denn nimm Dien Kunststück wedder mit,<lb/>
+				Ick hew mi satt dran roaken.<lb/>
+				„Je" — spitzt he — „Du bist man to fien,<lb/>
+				Dat sall man Enten=Broaden sinn;<lb/>
+				in tod de ou.<lb/>
+				Du hest Spießbörger=Nücken.“<lb/>
+				\<lb/>
+				Süh so, doa harr ick nu mien Fett,<lb/>
+				Doa künn ick nu dran rüken;<lb/>
+				Fründ Loadwig wär hüt würklich nett;<lb/>
+				He wull sich sacht nu drücken.<lb/>
+				„Nä" — segg ick, „schämst Du Di denn nich?<lb/>
+				Mi hungert hier ganz mörderlich<lb/>
+				Un Du wist mi verloaten?"<lb/>
+				\<lb/>
+				„Na kiek moal" — seggt he — „Ballermann,<lb/>
+				Erst dehrst Du mi verachten<lb/>
+				Un noahsten kloagst Du mi denn an,<lb/>
+				As leet ick Di verschmachten.<lb/>
+				Sast sehn, dat ick nich schlecht kann sinn.<lb/>
+				Dunn langt he in den Bussen rin<lb/>
+				Un hoalt twe Flaschen rute.<lb/>
+				\<lb/>
+				Den'n Düwel uck! Du hest woll Wien?<lb/>
+				„Joa woll" — säd he — „un gooden,<lb/>
+				<pb facs="../img/keller-1872/0022.jpg"/>
+				Ick weet, Di is dat hellschen fien<lb/>
+				Um't Mundstück rüm to Moden,<lb/>
+				Drüm schafft ick wat Apart's mi an.<lb/>
+				Wat seggst Du nu, Fründ Ballermann?<lb/>
+				Dit warst woll nich verachten.<lb/>
+				\<lb/>
+				Na, ’t wär keen Wien, dat wär man Bier,<lb/>
+				Wat Uns' sich harren röwert;<lb/>
+				Se harrn de groote Bruerie<lb/>
+				In Schiltigheim utstöwert.<lb/>
+				Doa leegen groote Kellers vull<lb/>
+				Von't schönste Bier, in Tunnen,<lb/>
+				Un wenn dat uck nich recht sind sull,<lb/>
+				Wi harr'nt doch enmoal funnen.<lb/>
+				\<lb/>
+				Doa öwern Kirchhof güng de Weg,<lb/>
+				De wär schlecht to passeeren;<lb/>
+				De feindlichen Granoaten dehrn<lb/>
+				Uns eklich doabi stören.<lb/>
+				Doch wem man düchtig dösten deiht,<lb/>
+				De ward sich uck nich grugen<lb/>
+				Un ward bi son Gelegenheit,<lb/>
+				Uck keen Granoaten schugen.<lb/>
+				\<lb/>
+				Wi hebb'n noch männig Tunn uns hoalt,<lb/>
+				Ofschonst de Kugeln flitzten,<lb/>
+				Dat uns doabi so männig moal<lb/>
+				An'n Helm de Splittern spritzten.<lb/>
+				Dat schoadte nich, wi harren Glück.<lb/>
+				<pb facs="../img/keller-1872/0023.jpg"/>
+				Blot ens hett't uns bedroagen,<lb/>
+				Doa is uns son Granoatenstück<lb/>
+				Groad in de Tunn rin schloagen.<lb/>
+				\<lb/>
+				Kotz schlag! wo pruscht dat Bier ümher.<lb/>
+				Un noch en woahren Seegen,<lb/>
+				Dat kener recht schlimm droapen wär,<lb/>
+				Blot Nack kreeg ens an'n Brägen,<lb/>
+				De Spund spritzt groad em in't Gesicht.<lb/>
+				„Na!" säd he, „loat't dat Nahren --<lb/>
+				Den Schlag leet ick em schoaden nich,<lb/>
+				Wenn wi uns' Bier man haren."<lb/>
+				\<lb/>
+				Ganz ledig wull'n wi doch nich goahn,<lb/>
+				Drüm würd'n ohn lang to zittern<lb/>
+				De Stücken von de Tunn mitnoahm'n<lb/>
+				Un all de grötsten Splittern;<lb/>
+				Wiel uns to knapp dat Brennholt wär,<lb/>
+				Wi brukten’t joa tum Koaken.<lb/>
+				De Kugeln suhsten üm uns her,<lb/>
+				Wi hebb'n nischt liggen loaten.<lb/>
+				==<lb/>
+				Doch mien Vertellzel ward am Enn to lang,<lb/>
+				Wi kön'n doch nich acht Doag hier sitten bliewen;<lb/>
+				Sünst bring'n uns unse Wiewer up den Gang,<lb/>
+				Drüm will ick man in Korten noch beschriewen,<lb/>
+				Wo dat bi de Beloag'rung ungefähr,<lb/>
+				Und mit uns Lebensoart güng en'tlich her.<lb/>
+				<pb facs="../img/keller-1872/0024.jpg"/>
+				Wi kreegen up den Dag doa teihn Loth Ries,<lb/>
+				En good Pund Fleesch, wo wi uck noog dran harren,<lb/>
+				Drüdhalw Loth Kaffe un noch öwerdies<lb/>
+				En halw Pund Speck, doato noch fief Cigarren.<lb/>
+				De Cigarr'n harr'n se nu woll künnen spoart,<lb/>
+				Denn dat wär man son Liebensgaben=Oart.<lb/>
+				\<lb/>
+				Wi richt'ten uns doamit nu hüslich in,<lb/>
+				'T leet sich nich fien, doch leet't sich leidig leben.<lb/>
+				Wi hoalten Nudeln uus von't Feld herin,<lb/>
+				Un Oaft un Wien un Zwiebeln hett't noog gewen;<lb/>
+				Un öwerdem harr'n wi towielen uck<lb/>
+				Von Quetschensaft *) en rechten schönen Schluck.<lb/>
+				\<lb/>
+				Dat Tügs dat schmeckte würklich joa to schön<lb/>
+				Un is uns good bekoamen in den Regen,<lb/>
+				Doa in de ollen matschigen Trangscheen,<lb/>
+				Wo wi so achtunviertig Stund’n drin legen.<lb/>
+				Na denn son korte Rast, dat Gott erbarm<lb/>
+				Un noahsten noch twölf Stunden in Allarm.<lb/>
+				\<lb/>
+				Denn wedder an de Arbeit up twölf Stund'n,<lb/>
+				Un bi all'dem, wenn moal ens nich würd schoaten<lb/>
+				Hebb'n wi dat Enerlei langwielig fun'n,<lb/>
+				Ofschonst wi up de Wach uck spelten Koarten.<lb/>
+				\<lb/>
+				*) Zwetschgensaft, ein aus Pflaumen bereiteter Schnaps, der in<lb/>
+				dortiger Gegend viel getrunken wird und sehr wohlschmeckend ist.<lb/>
+				<pb facs="../img/keller-1872/0025.jpg"/>
+				Wi hebben in de Loapgroab'ns broadt und koakt,<lb/>
+				Un allerhand dumm Tüg un Unsinn moakt.<lb/>
+				\<lb/>
+				Na Zeitung'n käm'n jo uck mitunner ran<lb/>
+				Un bröchten uns wat't sünsten Niegs harr gewen;<lb/>
+				En dücht'gen Utfall bröcht uns af un an<lb/>
+				In unsen Trubel wedder nieges Leben.<lb/>
+				Den ersten Utfall harn'w noch in August,<lb/>
+				As't erste Parallel' wi bugen mußt.<lb/>
+				\<lb/>
+				Anfangs September wär dat öwerst nett,<lb/>
+				Uns' Batteljohn harr in't Trangscheen to wachen,<lb/>
+				As uns Major vergnügt käm angesett't:<lb/>
+				„Hört! Kinder hört! ich bringe wichtge Sachen:<lb/>
+				Soeben hab' Depesche ich empfang'n,<lb/>
+				Bei Sedan ist Napoleon gefang'n."<lb/>
+				\<lb/>
+				„Hurrah!! uns' König de fall leben! hoch!!<lb/>
+				So brust dat nu as wi son Ungewitter;<lb/>
+				Un doamit was’t joa nu noch lang nich noog,<lb/>
+				Victoria würd schoaten, dat't so zittert.<lb/>
+				In Straßburg hebben de Franzosen dacht:<lb/>
+				Dat süll tum Storm los goahn in disse Nacht.<lb/>
+				\<lb/>
+				Denn anners kün'n se sich dat nich erklär'n,<lb/>
+				Worüm son Mord-Skandoal wi dehren moaken;<lb/>
+				Herr Uhrich wull sich öwerst doch noch wehr'n<lb/>
+				Un wull uns doarüm öwerrumpeln loaten.<lb/>
+				Natürlich is dat schlecht genoog em glückt<lb/>
+				Wi hebb'n de Bengels schön torügg em schickt.<lb/>
+				<pb facs="../img/keller-1872/0026.jpg"/>
+				Solang harr uns dat immer noch so glückt,<lb/>
+				Uns Batteljohn harr noch keen'n Mann verloren.<lb/>
+				Doch as wi'n „achten" up de Wach würd'n schickt,<lb/>
+				Dunn kreeg'n uck uns de Kugel bi de Ohren<lb/>
+				Un glieck toerst feel uns good „Polensky,"<lb/>
+				Mien beste Fründ von't ganze Kumpanie.<lb/>
+				\<lb/>
+				Doaför käm'n hüt uck unse Mörser ran<lb/>
+				Un wieldeß ick dehr mienen Fründ betruern,<lb/>
+				Schlög'n unse Bomben an de Festung ran<lb/>
+				Un sprengten Breschen in de ollen Muern.<lb/>
+				Vör dissen Larm künn man keen Wort verstoahn,<lb/>
+				Dat wår as wenn de Welt süll unnergoahn.<lb/>
+				\<lb/>
+				De Nacht tum Elften würd'n wi allarmirt,<lb/>
+				Herr Uhrich wull en grooten Utfall moaken;<lb/>
+				Tum Glück hebb'n wi so veel nich doavon spürt,<lb/>
+				Uns' Maykäwers de harrn den Broaden roaken,<lb/>
+				Un harren de Franzosen schön ens wischt,<lb/>
+				Mit unse Hülp doa was dat ditmoal nischt.<lb/>
+				\<lb/>
+				Wi käm'n to späd, de Weg de was to schlecht,<lb/>
+				Doch harren se barbarisch sich bi'n Kroagen,<lb/>
+				Un as uns de Maykäwers noahsten seggt,<lb/>
+				Harr'n uck de Boadner niederträchtig schloagen;<lb/>
+				De Bengels hauten öwerhaupt good drin<lb/>
+				Un uck de Württemberger wären schlimm.<lb/>
+				\<lb/>
+				Den Morgen drup harrn Wach wi in't Trangscheen,<lb/>
+				Wo all de Dooden un Verwundten leegen.<lb/>
+				<pb facs="../img/keller-1872/0027.jpg"/>
+				En Grugel wär dat doch mit antosehn,<lb/>
+				Wo jammerten de Kranken uns entgegen.<lb/>
+				Up ene Stund gew dat nu Waffenruh<lb/>
+				Un de Straßburger kämen rute nu.<lb/>
+				\<lb/>
+				Se hoalten sich nu ehre Lüd herin,<lb/>
+				Wo unse Dokters ehr bi helpen dehren,<lb/>
+				Un wat von ehr de kämen bi uns rin<lb/>
+				Un wull'n doa woll en beten spioneeren,<lb/>
+				Wo stark wi woll in unse Groabens wär'n,<lb/>
+				Dat süll ehr de Gelegenheit gliek lehr'n.<lb/>
+				\<lb/>
+				Jedoch uns Hauptmann bröcht se up den Draf,<lb/>
+				Se harren nischt nich doa bi uns to söken.<lb/>
+				He säd französch un dütsch to ehr: „Kotz Schlag!“<lb/>
+				Wat hebben Ji denn hier herrüm to spöken,<lb/>
+				Moakt dat Ji juge Dooden krieg'n to Ruh,<lb/>
+				De Waffenstillstand is afloopen nu.<lb/>
+				\<lb/>
+				Un kum wär uck de ene Stund man üm,<lb/>
+				Dunn gung dat wedder los mit Bombardeeren.<lb/>
+				Wi wöhlten doa in de Loapgroabens rüm,<lb/>
+				Wo öwern Kopp se uns wegscheeten dehren.<lb/>
+				Wi koakten ruhig Eten uns doabi<lb/>
+				Un ick wull hen un hoalen Zwiebeln mi.<lb/>
+				\<lb/>
+				Org Mayn un Lucht, de kämen uck noch mit,<lb/>
+				Se wullen mi alleen nich loaten loopen.<lb/>
+				De Zwiebeln stün'n von uns son hunnert Schritt<lb/>
+				Up't Feld; kum doa — hör'n wi all noah uns roopen:<lb/>
+				<pb facs="../img/keller-1872/0028.jpg"/>
+				„Nehmt Ju in Acht, de Rackers zielen all<lb/>
+				Mit de oll Büssen doa von ehren Wall.“<lb/>
+				\<lb/>
+				Un richtig! kum harr'n en poar Dinger wi,<lb/>
+				As uck de Kugeln dicht bi uns inschlögen.<lb/>
+				Org Mayn seggt: „Crischon, sall ick rooden Di,<lb/>
+				Denn moaken wi uns weg von hier in'n Drögen,<lb/>
+				Denn rein üm en poar olle Zwiebeln hier<lb/>
+				Sien Leben loaten, is doch keen Bläsir."<lb/>
+				\<lb/>
+				„Org Mayn hett Recht," säd nu uck sien Fründ Lucht,<lb/>
+				„Wi kön'n uns joa hüt Oabend mehr utroapen,<lb/>
+				Denn will'n wi uns! — den Düwel uck! verflucht!<lb/>
+				Ick glöw de Rackers hebben mi all droapen.<lb/>
+				'T was richtig, Lucht harr ens in't Been;<lb/>
+				Wi schleppten ficks em rin in de Trangscheen.<lb/>
+				\<lb/>
+				Nu kreegen wi noch utlacht boaben in.<lb/>
+				Hans Wewer säd: „dat kann ju joanich schoaden;<lb/>
+				Wem ward denn uck noah Zwiebeln leckrig sinn,<lb/>
+				Wenn ener Bohnen kriggt doabi in't Woaden.<lb/>
+				Stippt Ju dat Fleesch in Sult, dat schmeckt joa uck,<lb/>
+				Un wenn't nich schmeckt, denn drinkt doato en Schluck."<lb/>
+				==<lb/>
+				Na mit Batt'rien un Schanzenbug'n<lb/>
+				Würd'n in diss' Tied wi fertig;<lb/>
+				De Straßburger würd nu all grug'n<lb/>
+				Se wär'n den Storm gewärtig.<lb/>
+				<pb facs="../img/keller-1872/0029.jpg"/>
+				Se antwort'ten uns tämlich schlapp<lb/>
+				Wat dat belangt mit Scheeten,<lb/>
+				Ehr wär de Munitschon woll knapp<lb/>
+				Wem kann dat so prick weten.<lb/>
+				\<lb/>
+				Wi süllen nu noah Eckwerthsheim<lb/>
+				Un müßten ümquarteeren.<lb/>
+				Dörch „Mundols= — Lamperts= — Vendenheim"<lb/>
+				Müßt wi den Dag marscheeren.<lb/>
+				\<lb/>
+				Kum öwerst harr dat Uhrich sehn,<lb/>
+				Dunn schickt he sien Franzosen;<lb/>
+				He dacht joa woll: dit paßt sich schön<lb/>
+				Na nu man rut Franzosen!<lb/>
+				\<lb/>
+				Uns güng diss' Utfall nischt mehr an,<lb/>
+				Doch dürft he nich gelingen;<lb/>
+				Uns Aflösung — de all wär ran<lb/>
+				Müßt dat in Ordnung bringen.<lb/>
+				\<lb/>
+				Wi hulpen nich bi disse Schläg<lb/>
+				Un dehr'n uck gern verzichten.<lb/>
+				Wi sung'n un fläut'ten unnerweg<lb/>
+				Un Loadwig kreeg dat Dichten. --<lb/>
+				\<lb/>
+				He harr all sied de Schlacht bi Wörth<lb/>
+				En plattdütsch Lied anfungen,<lb/>
+				Vier Wochen harr he drup studeert<lb/>
+				Un hüt was't em gelungen.<lb/>
+				<pb facs="../img/keller-1872/0030.jpg"/>
+				Up Randewuh müßt he nu uck<lb/>
+				Dat Ding tum Vörschien bringen;<lb/>
+				Ick heww't noch in mien Taschenbook<lb/>
+				Un will't Ju vör moal singen.<lb/>
+				==<lb/>
+				Lied von Köster Loadwig.<lb/>
+				==<lb/>
+				Melodie: Pithähneken! Pithähneken!<lb/>
+				Wat kümmst up unsen Hof.<lb/>
+				\<lb/>
+				Ach Luiken! ach Luiken! wo ward di dit nu goahn?<lb/>
+				Hett di denn Benedek nich feggt, dat wi nich Spoaß verstoahn?<lb/>
+				Turcos un Kugelspritzen<lb/>
+				Dat ward di all nich nützen;<lb/>
+				Ach Luiken! ach Luiken! wo ward di dit nu goahn.<lb/>
+				\<lb/>
+				Ach Luiken! ach Luiken! wo is dien Mac Mahon?<lb/>
+				De as de natte Pudel leep bi Weißenburg doavon,<lb/>
+				Du dacht'st, de süll uns freten,<lb/>
+				Nu is he utgereten;<lb/>
+				Ach Luiken! ach Luiken! uns schreckt keen Mac Mahon.<lb/>
+				\<lb/>
+				Ach Luiken! ach Luiken! dat is för dat kung'ner'n,<lb/>
+				Du warst woll nich in Königsbarg den Freden uns dikter'n,<lb/>
+				Du kannst to Hus man lopen,<lb/>
+				Sünst gift dat Schacht noah Noten.<lb/>
+				Ach Luiken! ach Luiken! loat di den Puckel schmer'n.<lb/>
+				\<lb/>
+				Ach Luiken! ach Luiken! dien Strampeln ist umsüß,<lb/>
+				So lang' bi uns noch scheeten deiht<lb/>
+				Kanon' un Noadelbüß --<lb/>
+				<pb facs="../img/keller-1872/0031.jpg"/>
+				So lang' wi noch kön'n fechten<lb/>
+				Blift dütsch de Rhein mit Rechten.<lb/>
+				Joa Luiken! joa Luiken! dat glöw mi ganz gewiß.<lb/>
+				\<lb/>
+				Ach Luiken! ach Luiken! wo wacklich ist dien Thron,<lb/>
+				De ward nich mehr to flicken sind, paß up, du krigst dien Lohn;<lb/>
+				Nu kannst Du man inpacken,<lb/>
+				Wi sind di up de Hacken.<lb/>
+				Ach Luiken! ach Luiken! dit kost't di dienen Thron." --<lb/>
+				==<lb/>
+				Son Dinger hett he veel noch schreb'n,<lb/>
+				He wull Poet nu waren --<lb/>
+				Un wenn he'n Stück Papier wo kreg'n,<lb/>
+				Denn dehr he't uck beklaren.<lb/>
+				\<lb/>
+				Na! as mit Loadwig sien Gedicht<lb/>
+				In Eckwerthsheim wi toagen,<lb/>
+				Dunn kreeg mi de imfahmte Gicht<lb/>
+				Ganz mörderlich bi'n Kroagen.<lb/>
+				\<lb/>
+				Ick müßte rin doa in't Loaz'reth;<lb/>
+				Dat dehr mi sehr verdreten,<lb/>
+				Wiel't groad diss' Doag veel geben hett<lb/>
+				Vör uns to haun un scheeten.<lb/>
+				\<lb/>
+				Den'n annern Dag bröcht Fichtenspohn<lb/>
+				Gesellschaft in mien Timmer.<lb/>
+				„Blessirten“ von uns' Batteljohn;<lb/>
+				Na nu dit bet Gewimmer.<lb/>
+				<pb facs="../img/keller-1872/0032.jpg"/>
+				Ick künn't nich hör'n, ick heel't nich ut,<lb/>
+				Un harr dat kost mien Leben;<lb/>
+				Ick säd tum Dokter: ick will rut<lb/>
+				Mien Rieten hett sich gewen.<lb/>
+				\<lb/>
+				Dat dit nich woahr wär, künn he sehn;<lb/>
+				Ick künn kum stoahn, kum krupen.<lb/>
+				Doch säd he blot: „na das ist schön,"<lb/>
+				He müßt mien'n Platz uck bruken.<lb/>
+				\<lb/>
+				Nu harrn wi immer tämlich wiet<lb/>
+				Noah Straßburg to marscheeren,<lb/>
+				Wo unse Lüd de ganze Tied<lb/>
+				Up de Trangscheen=Wach wären.<lb/>
+				\<lb/>
+				Doch schoaten würd nu mörderlich;<lb/>
+				Vör dat oll Bombardeeren,<lb/>
+				Künn man sien egen Woort oft nich<lb/>
+				Un keen Komando hören.<lb/>
+				\<lb/>
+				En Bomben=Ding flög bi uns rin,<lb/>
+				(Tum Glück oahn gliek to springen)<lb/>
+				En Attolrist — de dicht bi stünn --<lb/>
+				Säd: „töw! Di war ick bringen.<lb/>
+				\<lb/>
+				Un packt mit blote Händ' dat Deert<lb/>
+				Un schmet et rin in'n Groaben --<lb/>
+				Wo denn dat Beest uck gliek kreppeert —<lb/>
+				Doch künnt uns doa nich schoaden.<lb/>
+				<pb facs="../img/keller-1872/0033.jpg"/>
+				Ick harr den Bengel pussen mücht,<lb/>
+				Denn son Kuroasch is zünftig.<lb/>
+				He hett dat isern Krüz uck kriggt<lb/>
+				Un dat is uck vernünftig.<lb/>
+				\<lb/>
+				Uns' „Vierundreißiger" de süll'n<lb/>
+				Nu noah de oll Lünetten,<lb/>
+				Um doa de Groabens uttofüll'n,<lb/>
+				Dat wi kün'n röwer setten.<lb/>
+				\<lb/>
+				Se schleppten von de Iserboahn —<lb/>
+				Nu Schien'n un Holt in Massen,<lb/>
+				Un allerhand son ollen Kroam<lb/>
+				Wat sich doata dehr passen.<lb/>
+				\<lb/>
+				Nu öwerst güng en Scheeten los,<lb/>
+				Dat is nich to beschrieben,<lb/>
+				Denn in de Schanz, de Musch Franzos<lb/>
+				Wull den Besök nich lieden.<lb/>
+				\<lb/>
+				In'n ganzen Feldzug heww'ck nich mehr<lb/>
+				So veel Patron'n verschoaten<lb/>
+				As hüt, dat güng uck gruglich her;<lb/>
+				Se wull'n de Schanz nich loaten.<lb/>
+				\<lb/>
+				Doch wi wull'n mit Gewalt nu ran;<lb/>
+				Uns wär dat nu all öwer<lb/>
+				Un as de Oabend rückte an,<lb/>
+				Dünn güngt mit Hurrah röwer!<lb/>
+				<pb facs="../img/keller-1872/0034.jpg"/>
+				Ick wull de Erst sinn, leep vörut<lb/>
+				Mit Nack un Gesch un Wewer,<lb/>
+				Mit enmoal fall ick up de Schnut<lb/>
+				Un öwer mi güngt röwer.<lb/>
+				\<lb/>
+				Harr ick de Gicht nich hat in't Lief,<lb/>
+				Harr ick mi up woll rappelt;<lb/>
+				Nu öwerst wär ick veel to stief<lb/>
+				Un leeg nu doa un zappelt.<lb/>
+				\<lb/>
+				Uns' joagten de Franzosen rut<lb/>
+				Und nehmen fief Kanonen;<lb/>
+				Fründ Loadwig lacht mi noahsten ut<lb/>
+				As harr ick mi wullt schonen.<lb/>
+				\<lb/>
+				Wenn dat uck man sien Spoaß süll sinn,<lb/>
+				Ick künnt em nich vergeten,<lb/>
+				Wiel ick doarin to kidlich *) bin;<lb/>
+				Ick koakt em nich mehr't Eten.<lb/>
+				\<lb/>
+				Von Uns' wärn dre Mann licht blessert.<lb/>
+				Uns Äflösung käm ranner<lb/>
+				Un wi kün'n as sich dat gehört<lb/>
+				In uns' Qualeer nu wannern.<lb/>
+				\<lb/>
+				Den dreiuntwintigsten sülln wi.<lb/>
+				Nu wedder ümquateeren,<lb/>
+				\<lb/>
+				*) kitzlich.<lb/>
+				<pb facs="../img/keller-1872/0035.jpg"/>
+				Un de Nacht drup dunn müßten wi<lb/>
+				In de oll Schanz campeeren.<lb/>
+				\<lb/>
+				Doa was denn uck nich goode Tied;<lb/>
+				Ut Straßburg bumbardeerten<lb/>
+				De oll Franzosen eklich hüt,<lb/>
+				Wiel se woll Unroath spöhrten.<lb/>
+				\<lb/>
+				Wi rückten ehr to dicht all ran<lb/>
+				Dat wull ehr nich behoagen.<lb/>
+				„Dood" harren wi hüt enen Mann<lb/>
+				„Blesseert“ acht — to bekloagen.<lb/>
+				\<lb/>
+				Doch nu käm'n Liebes=Goaben an,<lb/>
+				De bröchten nieges Leben<lb/>
+				Un frischen Mood för alle Mann;<lb/>
+				Wat hett dat doa all gewen!<lb/>
+				\<lb/>
+				Wie kreg'n Toback un Strümp un Seep *)<lb/>
+				Un Wien un uck Eigarren;<lb/>
+				Uck Kongak, na de Kuckuk weet<lb/>
+				Wat wi noch Allens harren.<lb/>
+				\<lb/>
+				Wenn uns dat All uck nödig<lb/>
+				Freut hebb'n uns de Geschenken<lb/>
+				Doch all to hoopen nich so sehr,<lb/>
+				As dat's an uns dehrn denken.<lb/>
+				\<lb/>
+				*) Seife.<lb/>
+				<pb facs="../img/keller-1872/0036.jpg"/>
+				Uns wär to Mood, as wenn son Kind<lb/>
+				Sien Christ=Bescheerung kreegen,<lb/>
+				Wi acht'ten hüt nich Storm, nich Wind<lb/>
+				Un danzten rüm in'n Regen.<lb/>
+				\<lb/>
+				Den fiefuntwintigsten wär't schlimm,<lb/>
+				Wi harren groad to woaken *)<lb/>
+				Un Uhrich dacht in sienen Sinn:<lb/>
+				Sast moal en'n Utfall moaken.<lb/>
+				\<lb/>
+				Ditmoal güngt öwer uns nu her,<lb/>
+				Se dachten dörch to breken;<lb/>
+				Jedoch up sone Oart, doa wär<lb/>
+				Mit uns nu nich to spräken.<lb/>
+				\<lb/>
+				Dat seegen de Franzosen in;<lb/>
+				As se den Broaden roaken,<lb/>
+				Dunn kehrten se uck ganz ficks üm;<lb/>
+				Mit uns wär nischt to moaken.<lb/>
+				\<lb/>
+				Verlust up beiden Sieden wär<lb/>
+				Doabi blot ruter koamen,<lb/>
+				Un an Terreng — harrn ungefähr<lb/>
+				Wi dörtig Schritt uns noahmen.<lb/>
+				\<lb/>
+				Untroffzier Weg'ner harr mit mi<lb/>
+				Oahn Deckung stoahn — un schoaten;<lb/>
+				\<lb/>
+				*) Wachen.<lb/>
+				<pb facs="../img/keller-1872/0037.jpg"/>
+				So hunnertsechszig Schuß harrn wi<lb/>
+				Afgewt, dunn würd he droapen.<lb/>
+				\<lb/>
+				De Kugel harr den Kopp dörchbohrt.<lb/>
+				„„Mien Fru! mien armen Kinner!""<lb/>
+				Röp he — dat wär sien letztes Wort.<lb/>
+				Ick bröcht in't Schanz em rinner.<lb/>
+				\<lb/>
+				Mi würd doabi janz schlecht to Mood.<lb/>
+				Wat is son Menschenleben?<lb/>
+				Ick kenn sien arme Fru recht good<lb/>
+				Un heww ehr Noahricht gewen.<lb/>
+				==<lb/>
+				Den sößuntwintigsten wärt fein;<lb/>
+				Dunn kamen Liebes=Goaben<lb/>
+				Von den Berliner Hülfs=Verein;<lb/>
+				De wärn uns nich tum Schoaden.<lb/>
+				\<lb/>
+				So käm de „söb'nuntwintigst" ran,<lb/>
+				Hurrah!! wär dat en Leben,<lb/>
+				As endlich käm de Noahricht an:<lb/>
+				„De Feind wull sich ergeben!"<lb/>
+				\<lb/>
+				Na! nu hett sich denn etwas doahn.<lb/>
+				„Straßburg will cap'tuleeren!<lb/>
+				Von'n Münster weiht de witte Foahn!“<lb/>
+				Nischt anners wär to hören.<lb/>
+				<pb facs="../img/keller-1872/0038.jpg"/>
+				Na, son Halloh war ick nich mehr<lb/>
+				All miene Doag erleben;<lb/>
+				As wenn de wille Jagd los wär,<lb/>
+				Son Larm hett dat doa gewen.<lb/>
+				\<lb/>
+				Denn mang uns' Freud, doa mischt sich dat<lb/>
+				Wat Mitgeföhl mag heeten,<lb/>
+				Wi brukten nu de schöne Stadt<lb/>
+				Nich ganz in'n Grund to scheeten. —<lb/>
+				\<lb/>
+				Wi wüßten, dat se dütsch moal wär<lb/>
+				Un süll't uck weoder waren;<lb/>
+				Dat wär uns Freud — un nu de Ehr,<lb/>
+				Dat „wi" se noahmen harren.<lb/>
+				\<lb/>
+				„Joa endlich, endlich! Gott sei Dank!<lb/>
+				Wart sich dat Volk nu gewen,<lb/>
+				Mi duerte de Tied all lang;“<lb/>
+				Dat was de Red, von Jeden.<lb/>
+				\<lb/>
+				De Afschluß käm noch disse Nacht;<lb/>
+				Doags drup würd öwergewen.<lb/>
+				Wi müßten Morgens früh Klock acht<lb/>
+				Uns noah de Schanz begewen.<lb/>
+				\<lb/>
+				Doa sülln'w uns in Paroad upstell'n.<lb/>
+				Na nu vörher dit Putzen,<lb/>
+				Doavon is uck wat to vertell'n;<lb/>
+				'T ganz Nacht harrn’w rüm to murksen.<lb/>
+				<pb facs="../img/keller-1872/0039.jpg"/>
+				Na ’t Putzen deiht sich so gehör'n,<lb/>
+				Doch ditmoal harnw’t künnt spoaren,<lb/>
+				Denn as an Ort un Stell wi wärn,<lb/>
+				Seeg'n wi doch ut as Mohren.<lb/>
+				\<lb/>
+				Uns' Marsch güng öwer'n Zwiebelfeld;<lb/>
+				Dat wär nu wat tum Naschen,<lb/>
+				Wi hebb'n uns all wat rutter pöllt<lb/>
+				Un vollproppt uns de Taschen.<lb/>
+				\<lb/>
+				Doch wärn de Dinger mächtig groot<lb/>
+				Un schlecht noog to platzeeren;<lb/>
+				Nu harr'n wi doamit unse Noth<lb/>
+				Un süll'n uck stramm marscheeren.<lb/>
+				\<lb/>
+				Nu denkt ju disse Zoddelie,<lb/>
+				Dat Feld wär week *) von'n Regen,<lb/>
+				Dat wär groad son Marscheererie,<lb/>
+				As wenn de Gäus **) war'n dreben.<lb/>
+				\<lb/>
+				Nu öwerst towte uns' Major<lb/>
+				„Kreutz Himmel Donnerwetter!!<lb/>
+				Was haben denn die Kerls dort vor?<lb/>
+				Das wird ja immer netter.“<lb/>
+				\<lb/>
+				„Das soll Parademarsch hier sein!<lb/>
+				Mit Zwiebeln in den Taschen,<lb/>
+				\<lb/>
+				*) weich. **) Gänse.<lb/>
+				<pb facs="../img/keller-1872/0040.jpg"/>
+				Da schlag ein Donnerwetter drein!<lb/>
+				Ich werd' euch lehren naschen.“<lb/>
+				\<lb/>
+				Un nu leet he uns rüm turneer'n,<lb/>
+				Up den oll'n natten Acker,<lb/>
+				Mit Griffen moaken —, un Exzeern<lb/>
+				Hett he't uns moakt, de Racker.<lb/>
+				\<lb/>
+				Na endlich stellten wi uns an;<lb/>
+				Wi müßten presenteeren,<lb/>
+				Dunn rückten de Gefang'nen ran;<lb/>
+				Se nenn'n dat Defileeren.<lb/>
+				\<lb/>
+				Erst käm denn nu de Kummandant<lb/>
+				Und wat de Höchsten wären.<lb/>
+				„Von Werder“ uns' Genroal=Leut'nant,<lb/>
+				Dehr mit sien'n Gruß se ehren.<lb/>
+				\<lb/>
+				De Grotherzog von Boaden sprök<lb/>
+				Uck mit den Kummandanten.<lb/>
+				De Annern käm'n mi vör as Spök<lb/>
+				Un halw as Kummeganten. *)<lb/>
+				\<lb/>
+				De Kerls de wärn vull Wuth un Hohn<lb/>
+				Un wullen nich pareren;<lb/>
+				Ehr Offiziers harr'n noog to dohn,<lb/>
+				De Bengels to regeren.<lb/>
+				\<lb/>
+				*) Komödianten.<lb/>
+				<pb facs="../img/keller-1872/0041.jpg"/>
+				Se schlögen ehre Schassepohs<lb/>
+				Intwei in luter Stücken.<lb/>
+				So veel steht fest, son echt Franzos<lb/>
+				Hett ganz infoahmte Nücken.<lb/>
+				\<lb/>
+				Wi leeten söb'nteihndusend Mann<lb/>
+				Bi uns vörbi marscheeren<lb/>
+				Un noahsten sülln wi noch mit ran<lb/>
+				Un sülln se eskorteeren.<lb/>
+				\<lb/>
+				Doch wär'n doato noch Annern doa,<lb/>
+				Wi müßt vör allen Dingen,<lb/>
+				Nu ut de Stadt de letzten Poar<lb/>
+				Rut, un to Ordnung bringen.<lb/>
+				==<lb/>
+				Na, von den Jammer in de Stadt<lb/>
+				Will ick rein still man schwiegen;<lb/>
+				Ick wünscht, dat ick in'n Leb'n so wat<lb/>
+				Nich mücht to sehn mehr kriegen.<lb/>
+				Wi rückten uck gliek wedder af,<lb/>
+				Wielt vör uns keen Quateer doa gaf<lb/>
+				Torügg nu noah Hausbergen.<lb/>
+				\<lb/>
+				Von doa güngt nu noah Gongenheim;<lb/>
+				Doa sülln wi uns nu plägen.<lb/>
+				Na! wi harrn't doa uck würklich fein<lb/>
+				Un schön Quateer hett't gewen.<lb/>
+				<pb facs="../img/keller-1872/0042.jpg"/>
+				De Lüd de wärn doa würklich good,<lb/>
+				Se leeten uns dörchut nich Noth,<lb/>
+				Doavör hebb’n wi ehr hulpen.<lb/>
+				\<lb/>
+				Se harr'n uck noog vör uns to dohn,<lb/>
+				Ick hulp bi't Quetschenpressen,<lb/>
+				Mit Kücken un mit Fichtenspohn<lb/>
+				Un Loadwig dicht't wieldessen<lb/>
+				Sien Lieder hier, up dissen Krieg<lb/>
+				Un uck von unsen letzten Sieg,<lb/>
+				Dat möt ick vör Ju lesen.<lb/>
+				\<lb/>
+				Zum deutschen Sieg.<lb/>
+				Lied von Köster Loadwig,<lb/>
+				\<lb/>
+				Wie nun, ihr stolzen Franken,<lb/>
+				Gefällt euch der Besuch?<lb/>
+				Uns dünkt, ihr hättet Proben<lb/>
+				Von deutscher Art genug.<lb/>
+				Der Krieg, den euer Kaiser<lb/>
+				So frevelnd angefacht,<lb/>
+				Hat Jammer nur und Elend<lb/>
+				Euch in das Land gebracht.<lb/>
+				\<lb/>
+				Der Speer, den ihr geschleudert,<lb/>
+				Er ist zurückgeprallt,<lb/>
+				Euch selber arg zerfleischend<lb/>
+				Mit rächender Gewalt,<lb/>
+				Ihr habt den Brand entzündet,<lb/>
+				Der euch am Herzen zehrt,<lb/>
+				<pb facs="../img/keller-1872/0043.jpg"/>
+				Wie hat sich euer Hochmuth<lb/>
+				So jämmerlich bewährt.<lb/>
+				\<lb/>
+				Wie doch die Räuberhorden,<lb/>
+				Die ihr uns zugesandt,<lb/>
+				So blitzschnell deutschen Kriegern<lb/>
+				Den Rücken zugewandt;<lb/>
+				Und nur an wehrlos Kranken<lb/>
+				Hat sich ihr Muth gekühlt,<lb/>
+				Als sie zu ihrem Schrecken<lb/>
+				Das deutsche Schwert gefühlt.<lb/>
+				\<lb/>
+				Ihr werdet schwer uns büßen<lb/>
+				Den frechen Frevelmuth,<lb/>
+				Um Rache schreit zum Himmel<lb/>
+				Der deutschen Brüder Blut<lb/>
+				Ihr könnt uns nicht ersetzen<lb/>
+				So manch' zerriss'nes Band,<lb/>
+				Doch sollt zurück ihr geben<lb/>
+				Den Raub vom deutschen Land,<lb/>
+				\<lb/>
+				Ihr wollt zu Frankreichs Grenze<lb/>
+				Den alten deutschen Rhein --<lb/>
+				„Rein" soll auch Deutschlands<lb/>
+				Von fränkschen Söldnern sein,<lb/>
+				Stets Deutschlands Fuß im Nacken<lb/>
+				Muß Frankreich fühlen nun,<lb/>
+				So nur kann ganz Europa<lb/>
+				Im Schooß des Friedens ruhn.<lb/>
+				==<lb/>
+				<pb facs="../img/keller-1872/0044.jpg"/>
+				„Nu kiek moal, wat son Köster kann!<lb/>
+				Dat Ding dat mag ick lieden;<lb/>
+				Wetst wat, giww her Fründ Ballermann,<lb/>
+				Dat will ick mi afschrieben.<lb/>
+				Bin wedder Di gefällig uck;<lb/>
+				Nu drink man ersten noch en Schluck<lb/>
+				Un denn vertell man wierer."<lb/>
+				\<lb/>
+				I! wenn Du't mi man wedder bringst,<lb/>
+				Denn will ick Di't woll gewen;<lb/>
+				Ick weet, Fritz Block, dat Du gern singst<lb/>
+				Un heww noch ent upschreben;<lb/>
+				De Köster nennt dat „Parodie,"<lb/>
+				Dat Ding is noah de Melodie<lb/>
+				Von't Wacht an'n Rhein to singen.<lb/>
+				\<lb/>
+				„Na rut doamit! wi will'n moal hör’n,<lb/>
+				Dat kön'n wi all joa singen.<lb/>
+				Doch Jeder möt sien Kehl erst schmeer'n,<lb/>
+				Ballstädtsch möt Bier noch bringen;<lb/>
+				Du Varrer seggst den Text uns vör,<lb/>
+				Wi annern singen hinnerher.<lb/>
+				Na nu man los! un orndt'lich."<lb/>
+				\<lb/>
+				Köster Loadwig siene Parodie<lb/>
+				up de Wacht an'n Rhein.<lb/>
+				\<lb/>
+				Es braust der Sturm in dunk'ler Nacht;<lb/>
+				Ein Mutteraug' in Thränen wacht.<lb/>
+				<pb facs="../img/keller-1872/0045.jpg"/>
+				So fern vom heimathlichen Strand<lb/>
+				Der einz'ge Sohn in Feindesland.<lb/>
+				:,: Lieb Mutterherz, magst ruhig sein,<lb/>
+				In Gottes Hand steh' ich allein. :,:<lb/>
+				\<lb/>
+				Ich denke Dein im blut'gen Kampf<lb/>
+				Ich denke Dein im Pulverdampf,<lb/>
+				Du bist mir nah auf stiller Wacht,<lb/>
+				In schaurig' kalter Herbstes=Nacht.<lb/>
+				:,: Lieb Mutterherz, magst ruhig sein,<lb/>
+				In Gottes Hand steh' ich allein. :,:<lb/>
+				\<lb/>
+				In Gottes Hut, in seiner Hand,<lb/>
+				Für's große, deutsche Vaterland<lb/>
+				Steh'n deutsche Krieger felsenfest.<lb/>
+				Gott Deutschland nimmermehr verläßt.<lb/>
+				:,: Lieb Mutterherz, magst ruhig sein,<lb/>
+				In Gottes Hand steh' ich allein. :,:<lb/>
+				\<lb/>
+				Es bricht des Feindes blinde Wuth<lb/>
+				Am echten deutschen Heldenmuth.<lb/>
+				Es wankt der deutsche Krieger nicht,<lb/>
+				Bis ihm der Tod das Auge bricht.<lb/>
+				:,: Lieb Mutterherz, magst ruhig sein,<lb/>
+				In Gottes Hand steh' ich allein. :,:<lb/>
+				\<lb/>
+				Und ob im wilden Kampfgewühl<lb/>
+				Manch' Held für Deutschland's Ehre fiel;<lb/>
+				<pb facs="../img/keller-1872/0046.jpg"/>
+				Und ob auch mich die Kugel trifft,<lb/>
+				Lieb Mutterherz, verzage nicht.<lb/>
+				:,: Lieb Mutterherz, magst ruhig sein,<lb/>
+				In Gottes Hand steh' ich allein. :,:<lb/>
+				\<lb/>
+				Doch kehr' ich froh zu Dir zurück,<lb/>
+				Herzmutter, welch unendlich Glück!<lb/>
+				Dann ist's mit Frankreichs Macht vorbei<lb/>
+				Und Deutschland einig, stark und frei.<lb/>
+				:,: Lieb Mutterherz, magst ruhig sein,<lb/>
+				In Gottes Hand steh'n wir allein. :,:<lb/>
+				\<lb/>
+				„Kiek, dat is nett“ — säd Schnieder Plink --<lb/>
+				„Dat möt ick würklich seggen;<lb/>
+				Denn ick dehr uck up sone Ding<lb/>
+				Mi in mien Schlomsjoahr'n leggen,<lb/>
+				Un ick verstoah dat ganz genau;<lb/>
+				Dat Lied hett Sinn un is nich flau.<lb/>
+				Ick möt't am Besten weeten.“<lb/>
+				\<lb/>
+				I! — seggt nu Crischon — dat kann sind;<lb/>
+				Du hest woll Recht, Päth Schnieder.<lb/>
+				Uns' Hauptmann kreeg uck doavon Wind<lb/>
+				Un Loadwig würd nu Schriewer.<lb/>
+				Bien Toahlmeister, doa müßt he ran;<lb/>
+				De säd: dat wär so recht sien Mann<lb/>
+				Den Kerl den künn he bruken.<lb/>
+				<pb facs="../img/keller-1872/0047.jpg"/>
+				Ick würd nu mienen Köster los.<lb/>
+				Nu würd denn Crischon Kücken<lb/>
+				Mien Koak-Kamroad, dat wär famos,<lb/>
+				De Kerl söcht sienes Glieken.<lb/>
+				Denn wat dehr Koaken anbelang'n,<lb/>
+				Dat wüßt he prächtig antofang'n,<lb/>
+				Veel beter as de Köster.<lb/>
+				\<lb/>
+				De Bengel hett uns Eten moakt,<lb/>
+				De Fingern noah to lecken,<lb/>
+				Un Blomenkohl hett he uns koakt,<lb/>
+				De würd son Prinzen schmecken.<lb/>
+				De Wirthsfru, wo wi inquarteert,<lb/>
+				De hett von em noch koaken lehrt<lb/>
+				De kann mi dat betügen.<lb/>
+				==<lb/>
+				Uns Wirthslüd nehm'n uns mit to Bier,<lb/>
+				All Oabend güng'n wi kneipen. --<lb/>
+				Großvoater de vertellt denn hier<lb/>
+				Von oll Begebenheiten.<lb/>
+				\<lb/>
+				He harr den „grooten Kayser" deent,<lb/>
+				Wär mit noah Rußland toagen;<lb/>
+				Harr dunntomoal Berlin uck sehn<lb/>
+				Un denn kreeg he dat Kloagen.<lb/>
+				\<lb/>
+				Wo jitzt dat doch all anners wär<lb/>
+				He künn sich nich drin finnen<lb/>
+				<pb facs="../img/keller-1872/0048.jpg"/>
+				Dat Dütschland Frankreich twingen dehr,<lb/>
+				Dat künn he nich verwinnen.<lb/>
+				\<lb/>
+				Söß Doag lang lewt ick doa so nett,<lb/>
+				As in den deepsten Frieden.<lb/>
+				Dunn harr ick wedder in't Loazreth<lb/>
+				An de oll Gicht to lieden.<lb/>
+				\<lb/>
+				Dre Doag müßt ick so rümkampeer'n,<lb/>
+				Mit Schmerzen, tum kreppeeren,<lb/>
+				Dunn kreeg'ck (dörch't Fenster) wat to hör'n<lb/>
+				Von „noah Paris marscheeren."<lb/>
+				\<lb/>
+				Na dat güng doch mien Doag nich an,<lb/>
+				Ick süll hier liggen bliewen<lb/>
+				Un Uns' de süll'n oahn Ballermann<lb/>
+				Paris to sehen kriegen.<lb/>
+				\<lb/>
+				Mit enen Satz wär ick up't Been,<lb/>
+				Mi würd so licht to Herzen<lb/>
+				Un — hett de Düwel so wat sehn!<lb/>
+				Ick föhlte nischt von Schmerzen.<lb/>
+				\<lb/>
+				Ick güng dat ganz Loazreth nu rund<lb/>
+				Un weckte mien Gefährten;<lb/>
+				De wär'n mit enmoal all gesund,<lb/>
+				As von Paris se hörten. --<lb/>
+				\<lb/>
+				Nu öwerst wär dat sehr fitoal<lb/>
+				De Husdöhr wär toschloaten,<lb/>
+				<pb facs="../img/keller-1872/0049.jpg"/>
+				Wi moakten nu en Mordskandaol,<lb/>
+				Se süll'n uns ruter loaten.<lb/>
+				\<lb/>
+				Dunn endlich käm uns Wärter an,<lb/>
+				De wull nu rein beschwögen, *)<lb/>
+				He seeg uns vör Gespenster an,<lb/>
+				De doa herrümmer tögen.<lb/>
+				\<lb/>
+				He heel uns alle vör verrückt.<lb/>
+				Wi sülln to Bedd uns leggen,<lb/>
+				Un wenn wi uns nich orndtlich schickt,<lb/>
+				Wull he't den Dokter seggen.<lb/>
+				\<lb/>
+				Ick säd: ach holl doch Dienen Mund!<lb/>
+				Du hest nischt to besorgen;<lb/>
+				Du sühst joa wi sinn ganz gesund.<lb/>
+				„Na schön, denn töwt bet Morgen."<lb/>
+				\<lb/>
+				„Dat is joa hüt all düster Nacht,<lb/>
+				Ji kön’n doch hier noch schloapen,<lb/>
+				Dat is doch würklich unbedacht<lb/>
+				Dat son Komedg **) Ji moaken."<lb/>
+				\<lb/>
+				Dat seegen wi denn nu uck in,<lb/>
+				Hüt wär nischt mehr to moaken<lb/>
+				Un morgens käm de Dokter rin,<lb/>
+				De süll uns ruter loaten.<lb/>
+				\<lb/>
+				*) Ohnmächtig werden. **) Komödie.<lb/>
+				<pb facs="../img/keller-1872/0050.jpg"/>
+				He schüddelte den Kopp woll sehr;<lb/>
+				Dat wull em nich recht dünken,<lb/>
+				Dat kener von uns krank mehr wär<lb/>
+				De Meisten dehrn noch hinken.<lb/>
+				\<lb/>
+				Doch käm'n wi alle glücklich mit<lb/>
+				Un müßten gliek marscheeren<lb/>
+				Noah „Berstett," immer strammen Schritt,<lb/>
+				Wo uns' vörut all wären.<lb/>
+				\<lb/>
+				Noah „Vendenheim" müßt' wi noch goahn,<lb/>
+				Dunn brukt' wi nich mehr loopen;<lb/>
+				Doa steegen wi up't Iserbohn<lb/>
+				Mit luden Vivatroopen.<lb/>
+				==<lb/>
+				Noah Paris.<lb/>
+				==<lb/>
+				In'n zehnten Monat wär'n wi, sid acht Doagen,<lb/>
+				As unse Foahrt süll losgoahn noah Paris;<lb/>
+				Wi seten ingepäkelt in de Woagen<lb/>
+				Un't käm uns vör, as föhrten wi up't Is,<lb/>
+				Wat jeden Ogenblick tosoam'n künn breken,<lb/>
+				Wiel de oll Schien'n stell'nwies wär'n upgereten.<lb/>
+				Wo was dat koam'n?<lb/>
+				Wem harr dat doahn,<lb/>
+				Dat Volk! de Franktirörs -- de Buern,<lb/>
+				De öwerall up uns dehrn luern.<lb/>
+				<pb facs="../img/keller-1872/0051.jpg"/>
+				Wi föhrten jitzt nich Krieg mehr mit Saldoaten,<lb/>
+				Ne! Mordgesindel wär't, un Bummlertoakel.<lb/>
+				\<lb/>
+				Ick bin keen Hoasenfoot — un heww mien Leben<lb/>
+				Gewiß nich schont, wenn't heet: Freiwill’ge vor!!<lb/>
+				Doch wenn ick dacht: hier künnt en Unglück gewen,<lb/>
+				Denn strüwte sich binoah mi Hut un Hoar.<lb/>
+				Denn wat son Unglück up de Boahn deiht heeten<lb/>
+				Dat doh ick leider ut Erfoahrung weeten.<lb/>
+				Dat Gott erbarm!<lb/>
+				Wo süll dit war'n<lb/>
+				Wenn son Malöhr dehr hier passeeren,<lb/>
+				Wogegen sich keen Mensch künn wehren,<lb/>
+				Wat würd dat hier mang so veel Menschenleben<lb/>
+				Vör grooten Jammer un vör Elend gewen.<lb/>
+				\<lb/>
+				Wi dehren uck man sehr bedächtig föhren;<lb/>
+				Nich halw so flink, as sone Boahn sünst geht.<lb/>
+				'T wär Oabend, as erst in Brumath wi wären,<lb/>
+				Wo unse Zug denn öwernachten deht.<lb/>
+				Wi müßten uns nu erst to eten koaken,<lb/>
+				Un noahsten güng'n wi in de Woagens schloapen;<lb/>
+				Des Morgens früh,<lb/>
+				Dunn föhrten wi<lb/>
+				Noah — — Lünewill, -- glöw ick, deiht heeten,<lb/>
+				De Düwel kann de Noam'ns all weeten,<lb/>
+				Upschreben heww’ck de Tuhr, doch französch lesen<lb/>
+				Dat kön'n Ji glöb'n, dat het sien egen Wesen.<lb/>
+				<pb facs="../img/keller-1872/0052.jpg"/>
+				De Nacht würd wedder in de Woagens schloapen<lb/>
+				Un oahn Malöhr käm'n wi den Dag doa drup<lb/>
+				Dörch Nanzig, hinner Tuhl; hier süll'n wi koaken,<lb/>
+				Doch kum harr'n Füer wi -- un Fleesch doa up,<lb/>
+				Dunn füng de oll Maschien all an to fläuten<lb/>
+				Un't wär vörbi mit unse Herrlichkeiten.<lb/>
+				'T wär nichtswürdig!<lb/>
+				Wi müßt' in'n Stich<lb/>
+				Dat schöne warme Eten loaten,<lb/>
+				Wat erst halw joahr — in'n Dreck würd goaten.<lb/>
+				Dat Dömlichst wär, as wi instegen wär'n,<lb/>
+				Dunn güng't noch lang nich los mit Wiederföhr'n.<lb/>
+				\<lb/>
+				Org Mayn de säd: „de moaken uns tum Narren!<lb/>
+				Mi hungert — un ick stieg noch eenmoal ut<lb/>
+				I! denk ick, mag doch wat doa will drut waren,<lb/>
+				Un spring nu uck mit Crischon Kücken rut.<lb/>
+				Musch Kücken, mit sien Koakkunst kort entschloaten,<lb/>
+				Dehr flink uns Liebigsche Bulgongsupp moaken;<lb/>
+				Dat warmte doch.<lb/>
+				De Zug heel noch<lb/>
+				Un Jeder wull nu rutter springen<lb/>
+				Un noch ens Fleesch an't Füer bringen.<lb/>
+				Keen Mensch wull mehr up dat Komando hör'n,<lb/>
+				Dat jeden Ogenblick de Zug süll föhr'n.<lb/>
+				\<lb/>
+				Doch hulp dat nich, ’t güng los, wi föhrten wierer<lb/>
+				Un käm'n des Oabends noah ’ne groote Stadt,<lb/>
+				<pb facs="../img/keller-1872/0053.jpg"/>
+				Hier stärkten wi nu ersten unse Glieder;<lb/>
+				Wi heww'n doa Wien — un uck wat Warmes hat,<lb/>
+				Doch dürften wi de Woagens nich verloaten<lb/>
+				Un heww'n doarin de Nacht uck wedder schloapen.<lb/>
+				Dunn noah Schalong!<lb/>
+				Wo in'n Wagong<lb/>
+				Wi Kaffe — un uck Wittbrod kregen,<lb/>
+				Wat wi dörchut nich ungern seegen.<lb/>
+				Bet Nangtelg sinn wi föhrt, ununnerbroaken,<lb/>
+				Dunn müßten wi uns up de Stiebeln moaken.<lb/>
+				==<lb/>
+				Nu müßten wi stramm marscheeren,<lb/>
+				Dörch Städ' un Flecken ist goahn,<lb/>
+				Doa harr'n se up allen Wegen<lb/>
+				Uns uck all Schowernack doahn.<lb/>
+				\<lb/>
+				De Steendamm wär upgereten,<lb/>
+				De Brüggen intwei gesprengt;<lb/>
+				Groote Böm un Barrikaden<lb/>
+				De heww’n den Weg uns beengt.<lb/>
+				\<lb/>
+				Wi harren Kanon'n to begleiten<lb/>
+				Un noah Paris to spedeer'n,<lb/>
+				De wär'n kum vorwärts to bringen,<lb/>
+				So dehr'n se den Weg rungneer'n.<lb/>
+				\<lb/>
+				Dat künn uns öwerst nich schrecken,<lb/>
+				De Franzosen müßten ran<lb/>
+				<pb facs="../img/keller-1872/0054.jpg"/>
+				Un sülwst de Weeg torecht moaken,<lb/>
+				Wat ehr recht suer ankamm.<lb/>
+				\<lb/>
+				Wi sinn up verschieden Tuhren<lb/>
+				Un Companiewies marscheert,<lb/>
+				Un heww'n de franzö'schen Buern<lb/>
+				Dat pommersche Plattdütsch lehrt.<lb/>
+				\<lb/>
+				Doch dröpen wi schöne Stellen,<lb/>
+				Wo wi Nachts würd'n inquateert;<lb/>
+				Doa sinn wi mit schönes Eten<lb/>
+				Un gooden Wien uck trakteert.<lb/>
+				\<lb/>
+				Un wenn se't uns nich wull'n gewen,<lb/>
+				Denn hewwen wi requerert;<lb/>
+				Wi wullen doch hewwen to leben<lb/>
+				Un so as sich dat gehört.<lb/>
+				\<lb/>
+				Bi Versalg heww'n wi uns sammelt;<lb/>
+				Uns putzt un denn in de Stadt<lb/>
+				Geföhrt von unsen Kronprinzen<lb/>
+				Paroad vör den König hat.<lb/>
+				\<lb/>
+				Nu öwerst dit Ogenmoaken<lb/>
+				Von de Versalger — wär schön,<lb/>
+				So stramme groote Saldoaten,<lb/>
+				Harr'n se woll noch nich sehn.<lb/>
+				\<lb/>
+				Se dachten de Landwehr=Truppen<lb/>
+				Dat wären son Bummlers man,<lb/>
+				<pb facs="../img/keller-1872/0055.jpg"/>
+				As ehre Mobil=Gardenpuppen;<lb/>
+				Drüm schuhlten *) se uns so an.<lb/>
+				\<lb/>
+				Dat wär'n se sich nich vermooden<lb/>
+				Dat wi erst Kerntruppen wär'n,<lb/>
+				De gegen ehre Rothhosen<lb/>
+				Ganz hellisch afsteken dehrn.<lb/>
+				\<lb/>
+				Uck Moltk' un Bismark sich freuten,<lb/>
+				Se säden: „Fürwahr ein Staat<lb/>
+				Ist es — von diesen Leuten<lb/>
+				Zu sehen eine Parad'.<lb/>
+				\<lb/>
+				As wi bi Straßburg uphörten,<lb/>
+				So füng't nu hier wedder an;<lb/>
+				Wi harren Paris to beloagern,<lb/>
+				Wo dat blot schlimmer noch kamm.<lb/>
+				\<lb/>
+				Uns nu erst intoquateeren,<lb/>
+				Müßt noah Senkt=Schermeng wi goahn<lb/>
+				Ick würd in Quateer bi'n Discher<lb/>
+				Mit Crischon Kücken verschloahn.<lb/>
+				\<lb/>
+				De Discher, de harr dre Hüser<lb/>
+				Un't Quateer wär uck ganz good,<lb/>
+				Doch gew’t man wenig to eten;<lb/>
+				Mangunner leeden wi Noth.<lb/>
+				\<lb/>
+				*) schielten.<lb/>
+				<pb facs="../img/keller-1872/0056.jpg"/>
+				Doch noahsten käm'n wi bi'n Rentner,<lb/>
+				Doa harren wi't öwerst sien!<lb/>
+				Doa kreegen wi schönes Eten<lb/>
+				Un uck ganz prächtigen Wien.<lb/>
+				\<lb/>
+				De Rentner, de wär utreten<lb/>
+				Un dat wär för uns ganz good;<lb/>
+				Wi lewten mit sien Bedienten<lb/>
+				Nu fien up'n hoogen Foot.<lb/>
+				\<lb/>
+				Doch strammen Denst un Arbeit hett't hier gewen,<lb/>
+				Wi wären up de Been doa späd un früh.<lb/>
+				En'n Dag heww'n immer in Allarm wi legen<lb/>
+				Un denn en'n Dag up Posten un Repli.<lb/>
+				Twe Doag wär'n wi denn wedder in Quateer,<lb/>
+				Doch müßt wi exerzeer'n un ziel'n biher.<lb/>
+				\<lb/>
+				So käm de enuntwintigste Oktober --<lb/>
+				Wo de Franzos bi uns dörchbreken wull;<lb/>
+				Doch harren sich de Bengels sehr verrekent,<lb/>
+				Se kreg'n gehörig ehren Puckel vull.<lb/>
+				Blot de Granoaten von den Bullerjoahn *)<lb/>
+				Heww'n uns doabi ganz hellisch Schoaden doahn.<lb/>
+				\<lb/>
+				Wi leegen in Repli, dunn käm de Meldung<lb/>
+				Von uns Vörposten: dat de Feind anrückt.<lb/>
+				\<lb/>
+				*) Mont Valerien, scherzweise von unsern Pommern Bullerjoahn<lb/>
+				genannt.<lb/>
+				<pb facs="../img/keller-1872/0057.jpg"/>
+				„Na schön!" — seggt uns' Major — un up'n Flecken<lb/>
+				Würd'n de Franzosen wi entgegen schickt,<lb/>
+				Wi rückten öwer „Boschiwal" nu vör,<lb/>
+				Wiel de Franzos in „Malmesong" all wär.<lb/>
+				\<lb/>
+				Kum öwerst harrn wi Boschiwal in'n Rüggen,<lb/>
+				Dunn käm'n uck all Granoaten angesummt,<lb/>
+				Doatwischen knatterten de Mitralgösen<lb/>
+				Un Bullerjoahn — de hett den Baß to brummt.<lb/>
+				Von unse Lüd leeg'n dood all etlich doa,<lb/>
+				As wi den Feind vör uns erst würd'n gewoahr.<lb/>
+				\<lb/>
+				Nu güng'n wi öwerst wie son Ungewitter,<lb/>
+				In vullen Loopen un mit Hurrah los,<lb/>
+				Up enmoal heet dat: Holt! üm Gotteswillen!<lb/>
+				Wi scheeten unse eg'n Kam'roaden dood. --<lb/>
+				Glücklicherwies klärt sich de Irrthum up.<lb/>
+				Wärn doch Franzosen! un nu güng dat drup.<lb/>
+				\<lb/>
+				Krütz Batteljohn! wo kreeg'n de Kerls dat Loopen,<lb/>
+				As wi mit alle Macht nu rückten an.<lb/>
+				Komando hört wi nich, mit Hurrahroopen<lb/>
+				Drängt' wi de Kerls an ene Muer ran<lb/>
+				De doa den Park von Malmesong begrenzt<lb/>
+				Un hier heww’n wi de Herrn Zuawen stenzt.<lb/>
+				\<lb/>
+				Dat Dohr, dat wär to klein in de oll Muer,<lb/>
+				Nu müßten uns de Bengels hollen Stand;<lb/>
+				Wi kämen doa in't Handgemeng un farwten<lb/>
+				Roth mit Franzosenblood de Muerwand.<lb/>
+				<pb facs="../img/keller-1872/0058.jpg"/>
+				Gefangne kreeg'n wi hunnertföftig Mann,<lb/>
+				Wem nich dörch't Dohr dörch käm, de müßte ran.<lb/>
+				\<lb/>
+				Mi harr dat doabi eklich künnt bedreegen;<lb/>
+				Ick harr doa enen Bengel up't Viser,<lb/>
+				De ward gewoahr, dat ick groad los will drücken,<lb/>
+				Un schmitt sich an de Erd mit sien Gewehr<lb/>
+				Un moakt mi denn son jämmerlich Gesicht,<lb/>
+				As wull he segg'n: ach Gott! scheet doch blot nich.<lb/>
+				\<lb/>
+				Un ick loat von den Bengel mi begöschen<lb/>
+				Un will gemüthlich em gefangen nehm'n<lb/>
+				Up enmoal springt he up as wie son Tiger<lb/>
+				Un wie en Wetter hett he't Metz mang't Tähn.<lb/>
+				Ick wär as wie verduzt vör Schreck un Wuth,<lb/>
+				Un nu hoalt de Kujon mit't Metzer ut.<lb/>
+				\<lb/>
+				Kreutz Batteljohn! — denk ick — Di war ick lüchten;<lb/>
+				Ick bück mi un ehr he sich dat versehn,<lb/>
+				Pack ick em üm un schmiet em an de Muer,<lb/>
+				Dat ick doch denk, he breckt sich Hals un Been.<lb/>
+				Ick wull nu hen un nehm'n em't Metzer af,<lb/>
+				Dunn drüppt mi't Blood von mienen Kopp all raf.<lb/>
+				\<lb/>
+				Doch wär keen Tied sich lang an'n Kopp to foaten,<lb/>
+				Mit enmoal wär'n Gedräng üm mi herümm,<lb/>
+				Dat ick mi Platz müßt mit den Kolben moaken<lb/>
+				Un as up frieen Foot ick wedder bin,<lb/>
+				Röppt hinner mi uns' Michel Fichtenspohn:<lb/>
+				„Crischon! kumm mit! doa gift noch mehr to dohn.“<lb/>
+				<pb facs="../img/keller-1872/0059.jpg"/>
+				Doa harr he Recht! de meisten von't Franzosen<lb/>
+				Wär'n dörch de Muer koam'n, un rückten ut;<lb/>
+				De müßten wi ut Höflichkeit begleiten,<lb/>
+				Dat seeg joa sünsten unmanneerlich ut.<lb/>
+				Na dat heww’n wi ganz prächtig denn verstoahn,<lb/>
+				Se kreegen ehr Geleit bet Bullerjoahn'n.<lb/>
+				\<lb/>
+				Wenn sich de Kerls man blot ens harr'n ümkeken,<lb/>
+				Wo wenig von uns ehr up't Hacken wär'n,<lb/>
+				Denn harr'n se uns dat eklich künnt besorgen,<lb/>
+				Denn harr ganz licht dat Blatt sich künnt ümkehr'n.<lb/>
+				Doch doamit harr dat nu dörchut nich Noth,<lb/>
+				Se harr'n keen Tied — und ehre Angst wär groot.<lb/>
+				\<lb/>
+				Flink sind de Kerls, dat möt man ehr nu loaten,<lb/>
+				Vörut wenn't an dat Rettereeren geiht,<lb/>
+				Se wären wie en Wetter in de Festung<lb/>
+				Un doamit uck vör uns in Sicherheit.<lb/>
+				Up disse Tuhr kreeg’n wi noch twe Kanon'n<lb/>
+				Un nu wär hier vör uns nischt mehr to dohn.<lb/>
+				\<lb/>
+				Wi müßten nu torügg, up unsen Posten<lb/>
+				Un doa gewt en Stück Arbeit noch biher.<lb/>
+				Wi dehren doa noch söb'nteihn Mann erwischen<lb/>
+				Von dat oll Bummlerpack — de Franktiröhr.<lb/>
+				De Rackers harr'n uns wullt in'n Rüggen koam'n,<lb/>
+				Wenn de Pariser ditmoal uns harr’n schloahn.<lb/>
+				\<lb/>
+				De meisten wären Buern ut diss' Gegend,<lb/>
+				Uck Börgers ut Senkt=Schermeng doabi wär'n,<lb/>
+				<pb facs="../img/keller-1872/0060.jpg"/>
+				De Hallunken wär'n immer up den Posten,<lb/>
+				Wenn se dehr'n von enen Utfall wat hör'n,<lb/>
+				Gliek kreeg'n se denn ehre Waffen hervör<lb/>
+				Un schleeken *) sich heemlich hinner uns her. --<lb/>
+				\<lb/>
+				Mien Loch in'n Kopp barr ick binoah vergeten;<lb/>
+				Ick dehr keen Wehdoag mang den Trubel föhl'n,<lb/>
+				Nu füng dat öwerst hellisch an to brennen<lb/>
+				Un Crischon Kücken müßt nu ran un köhl'n.<lb/>
+				De wunnert nu — un foppt: „wat is denn los?<lb/>
+				Du bist in'n Kopp joa stoaken, as ne Gaus. **)"<lb/>
+				\<lb/>
+				„Na't is nich schlimm! nu kann doch keener seggen:<lb/>
+				Dat Du en'n oapen ***) Kopp nich hebben dehst,<lb/>
+				Du möst Di en poar Doag nu runner leggen,<lb/>
+				Denn bin ick sicher, dat gesund upstehst.“<lb/>
+				Du bist nich klook! — säd ick — dat wär joa nett!<lb/>
+				Um so en Quark goah ick nich in't Loaz'reth.<lb/>
+				\<lb/>
+				Doch käm dat anners as ick't mi heww dacht,<lb/>
+				Son Oart Wundfewer harr ick doavon kregen<lb/>
+				Un ganz verrückt heww ick de erste Nacht<lb/>
+				Campeert, un dre Doag oahn Besinnung legen.<lb/>
+				Dat wär woahrhaftig keene Kleinigkeit;<lb/>
+				Doch weeten Ji, dat Unkrut nich vergeiht.<lb/>
+				\<lb/>
+				Ick dacht gewiß: ick müßte ran, doch ne!<lb/>
+				’T is enmoal so, dat blot de Besten starwen;<lb/>
+				\<lb/>
+				*) schlichen. **) Gans. **) offenen.<lb/>
+				<pb facs="../img/keller-1872/0061.jpg"/>
+				So as uns' Leut'nant — Herr von Blankensee<lb/>
+				Un uck uns' goode Adjudant von Raven,<lb/>
+				De up den Kirchhof doa begroaben wär'n<lb/>
+				Wildeß ick müßt in dat Loaz'reth campeer'n.<lb/>
+				\<lb/>
+				Uns' Batteljohn harr doch so viertig Mann<lb/>
+				Verlust von dissen Utfall to bekloagen,<lb/>
+				Doch harr'n wi ditmoal uck en beten stramm<lb/>
+				Uns mit de Herr'n Franzosen rümmer schloagen.<lb/>
+				Dat isern Krüz käm uck — för vierteihn Mann<lb/>
+				Doaför am dörtigsten Oktober an.<lb/>
+				\<lb/>
+				Ick hewwt nich kreg'n, uck Crischon Kücken nich;<lb/>
+				Wi künnt unmöglich alltohoop doch kriegen,<lb/>
+				Doch Crischon Kücken boßte mächtig sich,<lb/>
+				Ick tröst't em nu un säd: he dürft man friegen,<lb/>
+				Wenn he gesund to Hus erst wedder wär,<lb/>
+				Denn harr he gliek sien Krüz, wat wull he mehr.<lb/>
+				\<lb/>
+				Un — säd ick — wat doabi noch mehr, oll Söhn:<lb/>
+				Wenn Du Di noahsten ersten warst verfriegen<lb/>
+				Un Diene Ollsch stiggt rupper noah den Böhn,<lb/>
+				Denn sühst Du doch uck gliek 'n Drachen stiegen;<lb/>
+				Un wenn se joahr erst backt un waschen deiht,<lb/>
+				Denn schwelgst Du ganz gewiß in Seeligkeit.<lb/>
+				\<lb/>
+				Dat schiente uck as lücht de Trost em in,<lb/>
+				Ick denk, mien Kücken is doamit tofreden;<lb/>
+				Doch hett de Bengel heemlich in sien'n Grimm<lb/>
+				Dit Woort mien Ollsch ganz ficks noah Hus henschreben.<lb/>
+				<pb facs="../img/keller-1872/0062.jpg"/>
+				Mien Ollsch schrew drupp: mi süll de Düwel hoal'n,<lb/>
+				Se wull — käm ick to Hus — mi da betoahl’n.<lb/>
+				\<lb/>
+				Anfangs November käm ick ut't Loaz'reth,<lb/>
+				Un gliek den ersten Dag uck up Vörposten<lb/>
+				Bi Boschiwal; na! doa wär’t öwerst nett,<lb/>
+				Den besten Wien den’t gift, kreeg'ck doa to kosten,<lb/>
+				Den harr'n wi up en Insel doa entdeckt,<lb/>
+				He leeg in olle Kellers deep versteckt.<lb/>
+				\<lb/>
+				Umschichtig würd nu ümmer röwer föhrt,<lb/>
+				Doch Bullerjoahn, de harr den Broaden roaken<lb/>
+				Un hett bi dat Geschäft uns oft verstört,<lb/>
+				Mit siene Bomben, un uck mit Granoaten.<lb/>
+				Wi müßten ümmer dat sehr schlau anfang'n,<lb/>
+				Denn he künn ganz good noah uns röwer lang'n.<lb/>
+				\<lb/>
+				Fief Gondels vull hebb'n wi uns röwer hoalt,<lb/>
+				Oll Bullerjoahn, de leet sien Bomben flitzen,<lb/>
+				Doch dröp he uns uck nich en enzig moal;<lb/>
+				Mit Hurrah schwenkten wi denn unse Mützen.<lb/>
+				Wi lachten öwer de Franzosen ehre Wuth<lb/>
+				Un drünken doabi unse Fässer ut.<lb/>
+				==<lb/>
+				Von doa güng't noah Mesong nu hen,<lb/>
+				Doa geewt en lustig Leben;<lb/>
+				Quateere heww’n wi doa doch hat,<lb/>
+				As't nahrens mehr deiht gewen.<lb/>
+				<pb facs="../img/keller-1872/0063.jpg"/>
+				De Hüser wär'n doa extrafien<lb/>
+				Uu fast gänzlich verloaten.<lb/>
+				De Inwoahners wär'n utgerückt<lb/>
+				Un harr'n de Döhr'n verschloaten.<lb/>
+				\<lb/>
+				Dat schoadte nich, wi wüßten Roath.<lb/>
+				De Döhr'n, de würd'n upbroaken<lb/>
+				Un denn würd sich bequem dat moakt<lb/>
+				Mit all de fienen Soaken.<lb/>
+				\<lb/>
+				Ick segg Ju, dat wär ene Pracht,<lb/>
+				Von luter Sammt un Sieden.<lb/>
+				Un rüken dehr son ganzes Hus<lb/>
+				Noah Parfüm'rien, von wieden.<lb/>
+				\<lb/>
+				De Speegels wär'’n noch moal so hoch,<lb/>
+				As ick int Läng doh mäten.<lb/>
+				Sophas un Bedden wär'n genog,<lb/>
+				Doch fün'n wi nischt to eten.<lb/>
+				\<lb/>
+				Wat hulp uns dat Porz'loan=Geschirr,<lb/>
+				De Dischdök un Salwgetten,<lb/>
+				De Teppichs un de sieden Röck,<lb/>
+				De Kroagen un Manschetten.<lb/>
+				\<lb/>
+				Harr'n wi en Tunn vull Hering fun'n<lb/>
+				Un Nudeln doato kregen,<lb/>
+				Denn harr'n wi, statt in’n sieden Bedd,<lb/>
+				Gern up'n Heustall legen.<lb/>
+				<pb facs="../img/keller-1872/0064.jpg"/>
+				Na Kücken säd to mi: „oll Jung!<lb/>
+				Nu will ick Di wat seggen,<lb/>
+				Ick war mi up den Sopha doa<lb/>
+				En beten rupper leggen.<lb/>
+				\<lb/>
+				Un Du kiek Di man üm in't Hus<lb/>
+				Un sök uns wat tum Koaken.<lb/>
+				Dat süll mi hellisch wunnern doch,<lb/>
+				Wenn hier nischt wär verstoaken.<lb/>
+				\<lb/>
+				Un kiek uck man in'n Keller noah,<lb/>
+				Viellicht findst wat tum naschen,<lb/>
+				Gewiß is etwas Wien noch doa.<lb/>
+				Hoal rupper en poar Flaschen.<lb/>
+				\<lb/>
+				Mi hungert as en Schäperhund,<lb/>
+				Ick war doch hier nich schmachten.“<lb/>
+				Doamit plumpst he up't Sopha rup,<lb/>
+				Dat de Sprungferrern krachten.<lb/>
+				\<lb/>
+				Org Mayn müßt nu mit Fichtenspohn<lb/>
+				Noah Brennholt rümmer ströpen,<lb/>
+				Un Nack un ick, wi wullen nu<lb/>
+				Uns wat to elen söken.<lb/>
+				\<lb/>
+				Na doamit harr'n wi nu keen Glück,<lb/>
+				So veel wi söken dehren.<lb/>
+				Doa wär doch in dat ganze Hus<lb/>
+				Keen Happen tum schnab'leeren.<lb/>
+				<pb facs="../img/keller-1872/0065.jpg"/>
+				„Dat heww'ck mi dacht," -- säd Kücken nu —<lb/>
+				„Dat ick dat sülwst möt moaken,<lb/>
+				Erst sall ick't ranner schleppen Ju<lb/>
+				Un denn möt ick't noch koaken.<lb/>
+				\<lb/>
+				To nischt sind Ii to bruken doch!<lb/>
+				Wat süll ut Ju woll waren,<lb/>
+				Wenn Ii as Lieferant un Koch<lb/>
+				Nich Crischon Kücken harren.<lb/>
+				\<lb/>
+				Sind Ji denn nich in'n Keller west?"<lb/>
+				„Dat bliwwt Di öwerloaten!"<lb/>
+				Säd Nack — „wenn Du so klook doch bist<lb/>
+				Kannst Du Di rinner moaken.<lb/>
+				\<lb/>
+				Hier gift dat kenen Keller nich."<lb/>
+				„I! wat Du seggst" — röppt Kücken<lb/>
+				„To son Hus süll keen Keller sinn?<lb/>
+				Ji kön'n man blot nich kieken."<lb/>
+				\<lb/>
+				„Wenn Du dat meinst, denn sök'n Di," —<lb/>
+				Säd Nack — „ick will nu schloapen,<lb/>
+				Ick war den Düwel mi von Di<lb/>
+				Hier runnerhunzen loaten."<lb/>
+				\<lb/>
+				„Na schön!" — seggt Kücken -- „'t geiht oahn Di,<lb/>
+				Doch will'n wi nich vergeten,<lb/>
+				Dat Du gewiß nischt kriegen deihst,<lb/>
+				Wenn wi wat Schön's war'n eten."<lb/>
+				<pb facs="../img/keller-1872/0066.jpg"/>
+				„Oll Twall!“ — schimpt Nack -- „Du hest noch nischt,<lb/>
+				Loat Di wat Schön's doch moalen.<lb/>
+				In dit Hus find'st wahrhaftig nischt,<lb/>
+				Womit deihst Du denn proahlen?"<lb/>
+				\<lb/>
+				„Na kumm!" — seggt Kücken -- „Ballermann,<lb/>
+				Wat will'n wi uns hier strieden,<lb/>
+				Ick segg Di: ick schaff uns wat an<lb/>
+				Un Nack sall nischt von kriegen.<lb/>
+				\<lb/>
+				Wi söken denn nu Allens dörch,<lb/>
+				Doch wär rein nischt to spöhren.<lb/>
+				Na! — segg ick — Kücken, paß man up,<lb/>
+				Du warst Di sehr blameeren.<lb/>
+				\<lb/>
+				„I!" seggt he — „dat Franzosen=Volk<lb/>
+				Leet Allens hier vermuern;<lb/>
+				Paß up! den Keller finn ick doch,<lb/>
+				Dat sall so lang nich duern."<lb/>
+				\<lb/>
+				Wi sökten up den Hof nu rüm;<lb/>
+				Mit enmoal röppt nu Kücken:<lb/>
+				„Ah! kiekst Du Koater ut de Luk;<lb/>
+				Kiek moal de Roasen=Stücken.<lb/>
+				\<lb/>
+				„Meinst Du, dat de doa wussen sind?<lb/>
+				Ne! de sinn rupper schmeten;<lb/>
+				Doa sinn de Fugen joa to sehn.<lb/>
+				Nu help mi man en Beten."<lb/>
+				<pb facs="../img/keller-1872/0067.jpg"/>
+				Wi rümten de Geschicht nu af.<lb/>
+				„De Kukuk sall mi hoalen!<lb/>
+				Wenn hier de Kellerdöhr nich steckt,<lb/>
+				Säd Kücken — „kiek de Boahlen.“<lb/>
+				\<lb/>
+				'T was richtig! Roasen, Sand un Bräd, *)<lb/>
+				Verdeckten hier de Döhren,<lb/>
+				De endlich hier von butten **) to<lb/>
+				Dehr'n rin noah'n Keller föhren.<lb/>
+				\<lb/>
+				Hier gew’t nu Wien un Mehl un Schmolt<lb/>
+				Un ingemoakte Soaken.<lb/>
+				„Na!" seggt nu Kücken — „sühst Du woll,<lb/>
+				Nu kön'n wi broad'n un koaken.<lb/>
+				\<lb/>
+				Erst mell nu unsen Fund man an;<lb/>
+				Doch seggst Du nischt to Nacken,<lb/>
+				Ick war derwiel von Mehl un Schmolt<lb/>
+				Uns schön'n Pankooken backen."<lb/>
+				\<lb/>
+				Na richtig! he hett Kooken backt<lb/>
+				Un ick müßt Kaffe koaken;<lb/>
+				Wo schön rök de Pankooken doch,<lb/>
+				Nack harr in'n Schloap von roaken.<lb/>
+				\<lb/>
+				He wull doch uck wat hewwen nu.<lb/>
+				„Joa woll!“ säd Crischon Kücken<lb/>
+				\<lb/>
+				*) Bretter. **) draußen.<lb/>
+				<pb facs="../img/keller-1872/0068.jpg"/>
+				„Et Du man Dinen fulen Speck<lb/>
+				Un drög Komisbrod=Stücken.<lb/>
+				\<lb/>
+				Verstehst, Fründ Nack? dat kümmt doavon,<lb/>
+				Von wegen Twall — un Proahlen.<lb/>
+				Loop Du man hen un sök Di wat;<lb/>
+				Sünst kannst Di uck wat moalen."<lb/>
+				\<lb/>
+				Na't wär man Spoaß. He hett sien Deel<lb/>
+				So as de Annern kreegen,<lb/>
+				Un kort: wi lewten extrafien,<lb/>
+				Solang as wi doa legen.<lb/>
+				\<lb/>
+				Uck kreeg'n wi von to Hus wat schickt;<lb/>
+				Dat wären putzig Soaken,<lb/>
+				Ick kreeg en linkes Hosenbeen,<lb/>
+				Wat süll ick doamit moaken.<lb/>
+				\<lb/>
+				Nack kreeg en halwe Unnerjack,<lb/>
+				Un ebenso Fründ Kücken;<lb/>
+				Wärn't nich twe rechte Schullern west<lb/>
+				Harr'n se't tohoop künnt flicken.<lb/>
+				\<lb/>
+				Na, ick verbruckt mien Hosenbeen<lb/>
+				To Lappen — un tum putzen,<lb/>
+				As endlich uck dat rechte käm<lb/>
+				Wat süll mi dat nu nutzen.<lb/>
+				\<lb/>
+				Ick wär so falsch un reet dat Ding<lb/>
+				Intwei, in luter Stücken,<lb/>
+				<pb facs="../img/keller-1872/0069.jpg"/>
+				De Annern lachten mi nu ut;<lb/>
+				Am meisten lachte Kücken.<lb/>
+				\<lb/>
+				Denn de harr sien halw Unnerjack<lb/>
+				De em noch fehlte — kregen,<lb/>
+				Un leet von unsen Schnieder sich<lb/>
+				Dat Ding tosoamen nägen.<lb/>
+				==<lb/>
+				De gooden Doag wär'n nu vörbi;<lb/>
+				Nu käm'n vör uns de schlimmen.<lb/>
+				Von Süden käm de Feind nu ran,<lb/>
+				Sien Hauptstadt to gewinnen.<lb/>
+				He wull sich twischen uns dörchschloahn<lb/>
+				Drüm müßt wi em entgegen goahn,<lb/>
+				Üm em den Weg to wiesen.<lb/>
+				\<lb/>
+				„Gambetta" — de in'n Luftballon<lb/>
+				Wär ut Paris rut floagen --<lb/>
+				Wull nu — mit Kinner un oll Lüd<lb/>
+				Uns all ut Frankreich schloagen;<lb/>
+				Dat harr am Enn uck los künnt goahn,<lb/>
+				Wenn de Lüd harr'n den Deenst verstoahn<lb/>
+				As inexzeert Saldoaten. --<lb/>
+				\<lb/>
+				He harr dat ganze Volk upreizt;<lb/>
+				Se käm'n in hellen Hoopen,<lb/>
+				Doch wärn'n dat keen Saldoaten nich,<lb/>
+				Se kreegen Schacht noah Noten.<lb/>
+				<pb facs="../img/keller-1872/0070.jpg"/>
+				En Unglück wär dat för dat Land:<lb/>
+				Dat Musch Gambetta siene Hand<lb/>
+				Doa kreeg mang dat Regeeren.<lb/>
+				\<lb/>
+				Doch harr'n wi Last genoog mit ehr,<lb/>
+				Se dehr'n sich good noog wehren,<lb/>
+				Wi müßten hell'sch up'n Posten sinn<lb/>
+				Un harr'n veel to marscheeren.<lb/>
+				Wi ströpten in de Krüz un Quer<lb/>
+				Doa ümmer in de Welt ümher,<lb/>
+				Un müßten düchtig hungern.<lb/>
+				\<lb/>
+				Schiffstwiback dehrn doa meistendehls<lb/>
+				Uns' ganze Kost utmoaken;<lb/>
+				De kloppt' wi mit'n Steen intwei,<lb/>
+				Sünst wärn's nich week to koaken,<lb/>
+				Dat Tügs wär hart as Felsensteen;<lb/>
+				Schmitt ener Ju son Ding an't Been,<lb/>
+				Denn möt Ii acht Doag hinken.<lb/>
+				\<lb/>
+				Quateere heww'n wi oft spottschlecht<lb/>
+				Doa in de Gegend kregen;<lb/>
+				Dat beste harr'n wi noch in Drö,<lb/>
+				Wo ick bi'n Gastwirth legen.<lb/>
+				Sien Broder wär gefangen noahm'n<lb/>
+				Un wär mit hen noah Danzig koam'n;<lb/>
+				De harr em denn nu schrewen:<lb/>
+				\<lb/>
+				Dat em dat doa ganz good gefeel,<lb/>
+				He künn sich nich bekloagen;<lb/>
+				<pb facs="../img/keller-1872/0071.jpg"/>
+				De preußische Gefangenschaft.—<lb/>
+				Dehr em ganz schön behoagen<lb/>
+				Un dat he ein versichern künn,<lb/>
+				De Preußen wär’n nich halw so schlimm,<lb/>
+				As se in Frankreich glöwten.<lb/>
+				\<lb/>
+				Dat harr sich denn woll in de Stadt<lb/>
+				Nu sehr herrümmer sproaken;<lb/>
+				Drüm wär'n de Lüd to uns so nett,<lb/>
+				Se dehr'n uns Allens moaken,<lb/>
+				Un freuten sich wer weet wo sehr,<lb/>
+				As up den Rüggmarsch wi bi ehr<lb/>
+				Uns wedder inquateerten.<lb/>
+				\<lb/>
+				Se kämen uns entgegen all,<lb/>
+				As wi torügg wärn koamen,<lb/>
+				Un jeder hett sich sienen Mann<lb/>
+				Gliek mit noah Hus hennoahmen.<lb/>
+				Mien Wirth sien Kinner sprüng'n ümher,<lb/>
+				As wenn ick woll ehr Unkel wär --<lb/>
+				Up den se dehren luern.<lb/>
+				\<lb/>
+				Bet Wiehnacht harr'n wi in de Welt<lb/>
+				Uns so herrümmer drewen,<lb/>
+				As wi in Drö Befehl heww'n kreeg'n<lb/>
+				Torüg uns to begewen.<lb/>
+				Wi wären uck all' up'n Hund,<lb/>
+				De meisten wären ungesund<lb/>
+				Un kener harr heel Stäweln.<lb/>
+				<pb facs="../img/keller-1872/0072.jpg"/>
+				Wi seegen as de Röwers ut,<lb/>
+				So wär'n wi afgereten;<lb/>
+				Wi sülln nu wedder vör Paris<lb/>
+				Verpusten uns en beten.<lb/>
+				Dat wär nu woll nich mehr<lb/>
+				Doch ehr wi henkäm’n, hett de Tied<lb/>
+				Uns lang genoog noch duert.<lb/>
+				\<lb/>
+				Wi müßten nu ümmer hen un her<lb/>
+				Doa bi Paris rümm hocken,<lb/>
+				Oft harr'n wi en jämmerlich Quateer;<lb/>
+				De Typhus un de Pocken,<lb/>
+				De wöhlten in de Städ' doa rümm,<lb/>
+				Vörut wär in de Gegend schlimm<lb/>
+				Dat veele Ungeziefer.<lb/>
+				\<lb/>
+				Wenigstens harr'n wi nu keene Noth<lb/>
+				Un Hunger mehr to lieden,<lb/>
+				Wat wi doa heww'n brukt, an Fleesch un Brod,<lb/>
+				Dat müßt Versalg bestrieden;<lb/>
+				Doa heww'n uns' Magazins wi hat<lb/>
+				Un wenn wi sünst noch brukten wat,<lb/>
+				Denn müßt' wi requereeren. --<lb/>
+				\<lb/>
+				Mangunner leet sich mit lichte Möh *)<lb/>
+				Son Höhner=Broaden klemmen;<lb/>
+				\<lb/>
+				*) Mühe.<lb/>
+				<pb facs="../img/keller-1872/0073.jpg"/>
+				Doch dehr dat oll dömlich Ferrerveeh<lb/>
+				De Uniform all kennen,<lb/>
+				Wenn wi in'n Dörp herrinner käm'n,<lb/>
+				Ret'rerte allens up de Böm<lb/>
+				Un moakte groot Spektoakel.<lb/>
+				\<lb/>
+				Uns' Wiehnachts=Bescheerung hewwen wi<lb/>
+				In'n Jannuar erst kreegen;<lb/>
+				Dat wär justement as bi „Schiw" wi<lb/>
+				In Standquateer heww'n legen.<lb/>
+				Ick kreeg en Piep un uck Toback,<lb/>
+				En Hoarbörst un ne Flasch Kongak,<lb/>
+				Un dre groot Päperkooken.<lb/>
+				==<lb/>
+				Uns König wär as Kaiser<lb/>
+				Von Dütschland proklameert,<lb/>
+				As noah Versalg wi kämen<lb/>
+				Un gliek würd'n allarmeert.<lb/>
+				Doa harren de Franzosen<lb/>
+				En'n Utfall wedder woagt;<lb/>
+				Doch heww'n wi de Rothhosen<lb/>
+				Flink noah Paris rin joagt.<lb/>
+				\<lb/>
+				Nu wär't mit de Pariser<lb/>
+				Doch all bedenklich sehr;<lb/>
+				De Soak käm ehr to muslich<lb/>
+				Un unnerkötig vör.<lb/>
+				<pb facs="../img/keller-1872/0074.jpg"/>
+				Gambetta mök veel Kosten,<lb/>
+				Bröcht unnütz Geld an'n Mann,<lb/>
+				Prinz Carl wär up'n Posten,<lb/>
+				De leet em doch nich ran. --<lb/>
+				\<lb/>
+				Wi bombardeerten mächtig<lb/>
+				Nu noah Paris herrin,<lb/>
+				Dat sich unmöglich länger<lb/>
+				Noch wehr'n un hollen künn.<lb/>
+				Se harr'n fast nischt to woagen<lb/>
+				Un to verleeren mehr,<lb/>
+				Denn öwerall geschloagen<lb/>
+				Wär dat franzö'sche Heer.<lb/>
+				\<lb/>
+				Wi wären lang noah Nangterr<lb/>
+				Intwischen ümquateert,<lb/>
+				As Utgangs Jannuar doa<lb/>
+				Dat Scheeten hett uphört;<lb/>
+				'T wär „Waffenstillstand" schloaten,<lb/>
+				Dre Wochen harr'n wi Ruh. --<lb/>
+				„Denn warn's woll Freden moaken" --<lb/>
+				So dachten wi't uns nu.<lb/>
+				\<lb/>
+				Un so is’t denn uck worden!<lb/>
+				De Waffenstillstand wär<lb/>
+				Noch en poar moal verlängert;<lb/>
+				Dunn harren wi de Ehr:<lb/>
+				In Paris intotrecken<lb/>
+				Un unse preuß'sche Foahn<lb/>
+				<pb facs="../img/keller-1872/0075.jpg"/>
+				Doa up de Forts to stecken,<lb/>
+				Uck up den Bullerjoahn!<lb/>
+				\<lb/>
+				Wi heww'n Paroad vör'n Kaiser<lb/>
+				Doa bi Paris noch hat,<lb/>
+				As wi dehr'n rinner rücken<lb/>
+				In de Franzosen=Stadt.<lb/>
+				Ick fünn doa enen Himmel<lb/>
+				Vull Seligkeit un Lust:<lb/>
+				Mi feel — mang dat Getümmel, --<lb/>
+				Mien Broder an de Brust.<lb/>
+				\<lb/>
+				Erst kün'n wi keen Woort reden.<lb/>
+				Jung! bist Du noch gesund?<lb/>
+				Dat bröcht wi endlich ruter,<lb/>
+				As wi ut enen Mund.<lb/>
+				Ick kann dat nich beschrieben:<lb/>
+				Wo uns to Mood Beid wär,<lb/>
+				Uns hier to seh'n to kriegen,<lb/>
+				Dat glöw’t wi nimmermehr.<lb/>
+				\<lb/>
+				Mien Broder, de mi footsten<lb/>
+				Doa in Paris harr kennt,<lb/>
+				Stünn uck bi't Garde=Landwehr<lb/>
+				Bi’t tweete Regiment.<lb/>
+				So lang in'n Krieg wi wären<lb/>
+				Wüßt' En von'n Annern nich,<lb/>
+				Nu müßt dat hier passeeren,<lb/>
+				Dat wi to sehn uns kriggt.<lb/>
+				<pb facs="../img/keller-1872/0076.jpg"/>
+				Wo oft harr'n wi mit Aengsten<lb/>
+				En an den Annern dacht:<lb/>
+				„Wat mag Dien Broder moaken?<lb/>
+				Of he noch leben mag?<lb/>
+				Viellicht is he all blewen<lb/>
+				Begroaben sien Gebeen<lb/>
+				Un ick krieg in mien Lewen<lb/>
+				Em denn nich mehr to sehn."<lb/>
+				\<lb/>
+				Nu denkt Ju doa moal rinner,<lb/>
+				Wo wi uns hewwen freut<lb/>
+				Dat wi uns doa so dröpen,<lb/>
+				Noch to: „gesund" all Beid.<lb/>
+				Wat kümmerte de Trubel<lb/>
+				Uns doa nu rund ümher,<lb/>
+				Wi heww’n vör unsen Jubel<lb/>
+				Nischt hört un sehen mehr.<lb/>
+				\<lb/>
+				Wi blew'n den Dag tosoamen<lb/>
+				Un kneipten mächtig rüm;<lb/>
+				Erst in Paris un noahsten<lb/>
+				In Nangterr, doa würd’t schlimm.<lb/>
+				Doa fün'n wi Köster Loadwig,<lb/>
+				De müßte nu mit ran;<lb/>
+				Uns wär dat ganz pomoadig<lb/>
+				Wat noahsten donoah kamm.<lb/>
+				\<lb/>
+				Wi hewwen mächtig pichel<lb/>
+				Un Unsinn moakt, hurrje!<lb/>
+				<pb facs="../img/keller-1872/0077.jpg"/>
+				Mi dehr doch von den Koater<lb/>
+				Dre Doag de Kopp noch weh,<lb/>
+				Un Köster Loadwigs Soaken,<lb/>
+				De seegen schnurrig ut,<lb/>
+				Bi em harr't Boahn sich broaken<lb/>
+				Bi em müßt't wedder rut.<lb/>
+				\<lb/>
+				Mien Broder wull nu röwer<lb/>
+				Früh Morg'ns noah sien Quateer,<lb/>
+				Doch müßt he bi mi bliewen,<lb/>
+				Wiel dat unmöglich wär; --<lb/>
+				Duhn *) noah Ruelg to loopen,<lb/>
+				Dat wär doch Unsinn west,<lb/>
+				Na, wi kreeg'n alltohopen<lb/>
+				Doaför dre Doag Arrest.<lb/>
+				\<lb/>
+				Dat wär nu groad nich ängstlich,<lb/>
+				Wi seeten drög un warm,<lb/>
+				Un brukten uns nich grämen,<lb/>
+				Dat wi keen Brennholt harr'n.<lb/>
+				Denn wat von Discher=Soaken **)<lb/>
+				Man ümmer brennboar wär,<lb/>
+				Harr'n wi verbrukt tum Koaken<lb/>
+				All lang in uns' Quateer.<lb/>
+				\<lb/>
+				Wi müßten noch campeeren<lb/>
+				Bet'n söb'nten März doarümm --<lb/>
+				\<lb/>
+				*) betrunken. **) Tischler=Sachen<lb/>
+				<pb facs="../img/keller-1872/0078.jpg"/>
+				Un dunn bet Rheims marscheeren,<lb/>
+				De Marsch wär öwerst schlimm.<lb/>
+				Herrgott! wär dat en Regen,<lb/>
+				Dat wär binoah to dull;<lb/>
+				Wi heww'n uns' Stäwel kreegen<lb/>
+				Doa stets von boaben vull.<lb/>
+				\<lb/>
+				Dat wär en gruglich Weder;<lb/>
+				De Weg wär en Morast,<lb/>
+				Dat wi doa dörch sinn koamen,<lb/>
+				Is to bewunnern fast.<lb/>
+				Wi dehr'n mang dat Gewimmel<lb/>
+				Riskeeren Arm un Been.<lb/>
+				Wi dankten Gott in'n Himmel<lb/>
+				As wi in Rheims ankäm'n.<lb/>
+				\<lb/>
+				Von Rheims ut dehr'n wi föhren<lb/>
+				Nu mit de Iserboahn.<lb/>
+				Wi sind noah Metz, Saarbrücken<lb/>
+				Un dunn noah Cöln henkoam'n,<lb/>
+				Hier, un in Braunschweig, dehren<lb/>
+				De Lüd uns extrafien<lb/>
+				Mit warme Kost trakteeren,<lb/>
+				Uck noahsten in Berlin.<lb/>
+				\<lb/>
+				Doch de Stettiner hewwen<lb/>
+				An uns dat Meiste doahn:<lb/>
+				Un heww'n uns ungeheuer<lb/>
+				Fründschaftlich upgenoahm’n.<lb/>
+				<pb facs="../img/keller-1872/0079.jpg"/>
+				Herrgott! wär dat en Jubel,<lb/>
+				Dat harr'n Ii blot müßt sehn!<lb/>
+				Wi blew’n bi dissen Trubel,<lb/>
+				De Nacht dörch up de Been.<lb/>
+				\<lb/>
+				Se harr'n up veele Stellen<lb/>
+				Vör uns doa broadt un koakt,<lb/>
+				Un harr'n to unsen Intug *)<lb/>
+				Sich mächtig' Umstänn moakt.<lb/>
+				Doags drupp würd'n wi entloaten,<lb/>
+				So Utgangs März is't west;<lb/>
+				Dunn heww'n wi öwerst soapen! --<lb/>
+				Nu wär’t för uns erst Fest. --<lb/>
+				\<lb/>
+				As unsen egen Kittel<lb/>
+				Wi anharrn, wärn’w erst frie,<lb/>
+				Nu dehrn wi uns doch freuen<lb/>
+				Dat de Geschicht vörbi.<lb/>
+				Wi harr'n dat wille Lewen<lb/>
+				Nu doch all herzlich satt,<lb/>
+				Drümm würd tum Besten gewen<lb/>
+				Wat Jeder noch hett hat.<lb/>
+				\<lb/>
+				Uns Wiewer wär'n fast aller<lb/>
+				Uns aftohoalen koam'n;<lb/>
+				Uck miene Ollsch hett footsten<lb/>
+				Mi in Beschlag doa noahm’n.<lb/>
+				\<lb/>
+				*) Einzug.<lb/>
+				<pb facs="../img/keller-1872/0080.jpg"/>
+				To Hus — käm'n Fritz — un Mienken<lb/>
+				Up mi drupp los gesprung’n-<lb/>
+				„Du! Vadder! uns' Kanienken,<lb/>
+				De hewwen föfteihn Jung'n!"<lb/>
+				\<lb/>
+				Wat sall ick noch berichten?<lb/>
+				Dat Anner weeten Ji.<lb/>
+				Dat sinn nu oll Geschichten,<lb/>
+				’T is good, dat’t nu vörbi.<lb/>
+				\<lb/>
+				So licht fäng'n de Franzosen<lb/>
+				Woll nich mehr mit uns an.<lb/>
+				Bismarck treckt ehr de Hosen<lb/>
+				Upstunds en Beten stramm. --<lb/>
+				\<lb/>
+				Doch ganz — dat kön'n Ji glöwen!<lb/>
+				Is't Füer noch nich ut.<lb/>
+				Se war'n en Beten töwen<lb/>
+				Un rappeln sich erst rut. --<lb/>
+				\<lb/>
+				Denn war'ns uns wedder flicken<lb/>
+				An't Tüg, mit ehren Muck.<lb/>
+				Se heww'n infoahmte Nücken<lb/>
+				Un de beholl'n se uck.<lb/>
+				\<lb/>
+				„Ick denk, se war’n sich höden," --<lb/>
+				Fängt Schnieder Plink nu an,<lb/>
+				„Dat kannst Du mi to glöwen<lb/>
+				Ick kenn dat, Ballermann.<lb/>
+				<pb facs="../img/keller-1872/0081.jpg"/>
+				Wenn se sich nu uck kränken<lb/>
+				Un müchten uns an't Kleed,<lb/>
+				Se war'n doch doaran denken,<lb/>
+				Wo ehr jitzund dat geht. --<lb/>
+				\<lb/>
+				Un wenn se't süll'n vergeten<lb/>
+				Un wull'n noah een poar Joahr<lb/>
+				Sich wedder mit uns meten,<lb/>
+				Denn sinn wi uck noch doa."<lb/>
+				\<lb/>
+				„So!! bist Du doa? dat freut mi!" --<lb/>
+				Fängt nu Fru Plinken an,<lb/>
+				De ehren Mann to hoalen,<lb/>
+				Nu mit de Riewkühl *) kamm.<lb/>
+				„Du bist mi groad de Rechte!<lb/>
+				Dat heet blot hier, bi'n Schluck,<lb/>
+				Doch nich bi de Franzosen,<lb/>
+				Infoahmte Zickenbuck!<lb/>
+				Wist Du to Hus Di scheeren,<lb/>
+				Du olle Liederjoahn!<lb/>
+				Sall ick Di up den Puckel<lb/>
+				Moal mit de Riewkühl koam'n?<lb/>
+				Wat hest Du rümm to driewen<lb/>
+				Di hier de halwe Nacht?<lb/>
+				Hest noch nich noog hüt soapen,<lb/>
+				Un Geld genoog verbracht?<lb/>
+				\<lb/>
+				*) Reibe=Keule.<lb/>
+				<pb facs="../img/keller-1872/0082.jpg"/>
+				Ick möt mi afmarachen<lb/>
+				To Hus, doa mang de Jöhr'n,<lb/>
+				Wieldeß Du hier in't Wirthshus<lb/>
+				Deihst Dien Verdeenst vertehr'n,<lb/>
+				Un wenn de Nacht dörch soapen<lb/>
+				Un dörchgebummelt is,<lb/>
+				Denn ward des Doags geschloapen;<lb/>
+				De Kundschaft lu'rt umsüß<lb/>
+				Up de bestellte Arbeit,<lb/>
+				Du olle Bummler Du!<lb/>
+				Denkst Du nich an Dien Kinner,<lb/>
+				Un nich an Diene Fru?<lb/>
+				Wenn Du man hier kannst sitten<lb/>
+				Un supen Di en Rusch,<lb/>
+				Doch ick war Di dat moaken,<lb/>
+				Kumm mi man blot to Hus!"<lb/>
+				\<lb/>
+				„Fru Ballstädtsch! Mutter Ballstädtsch!“<lb/>
+				Reep Plink nu, in sien Noth --<lb/>
+				„Um Himmelswillen moakt doch<lb/>
+				Mien Fru man wedder good.<lb/>
+				De hett hüt ehren Rappel,<lb/>
+				Wenn de ward üm sich schloahn,<lb/>
+				Dat is noch dre moal düller<lb/>
+				As wenn't Franzosen koam’n.<lb/>
+				\<lb/>
+				„Na hör'n se moal, Fru Plinken" --<lb/>
+				Seggt Crischon Ballermann --<lb/>
+				<pb facs="../img/keller-1872/0083.jpg"/>
+				„Wenn se dörchut will'n zanken<lb/>
+				Mit ehren lewen Mann,<lb/>
+				Kün'n se woll solang töwen,<lb/>
+				Bet erst to Hus he wär;<lb/>
+				Hier will sich dat nich schicken,<lb/>
+				Un nu! de Riewkühl her!!"<lb/>
+				\<lb/>
+				„Joa woll!" — säd nu Fru Plinken --<lb/>
+				„So fängt mit mi man an,<lb/>
+				Ji denken woll ick förcht mi?<lb/>
+				Ach ne, Fründ Ballermann!<lb/>
+				Wem mi de Kühl will nehmen,<lb/>
+				De kriggt ens mit in'n Kopp."<lb/>
+				„Loat doch de Hex tofreden,<lb/>
+				Crischon!" — seggt nu Fritz Block<lb/>
+				„Dat Wiew, de hett den Düwel!<lb/>
+				Wenn ick uns' König wär:<lb/>
+				Dehr ick so'n Oart verbruken<lb/>
+				In'n Krieg — as Franktiröhr."<lb/>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="id_keller-1871" xml:lang="nds">
+	<teiHeader>
+	    <fileDesc>
+	      <titleStmt>
+	        <title fldid="title">De Pommersche Landwehrmann Crischon in'n franz&#246;sischen Krieg. Plattd&#252;tsche Schosen</title>
+	        <author fldid="author">Ernst Keller</author>
+	        <respStmt>
+	          <resp n="transcription" fldid="transcription">Transkribus Print M1</resp>
+	          <resp n="revision" fldid="revision">n/a</resp>
+	          <resp n="normalization" fldid="normalization">n/a</resp>
+	          <resp n="tagging" fldid="tagging">Christian Chiarcos, University of Augsburg, Germany</resp>
+	        </respStmt>
+	        <!--funder fldid="funder"></funder-->
+	      </titleStmt>
+	      <sourceDesc>
+	        <biblStruct>
+	          <monogr> 
+	            <author fldid="monauthor">Ernst Keller</author>
+	            <title fldid="montitle">De Pommersche Landwehrmann Crischon in'n franz&#246;sischen Krieg. Plattd&#252;tsche Schosen</title>
+	            <edition fldid="monedition"/>
+	            <imprint>
+	              <publisher fldid="monpublisher">Dannenberg</publisher>
+	              <pubPlace fldid="monplace">Stettin</pubPlace>
+	              <date fldid="mondate">1871</date>
+	            </imprint>
+	          </monogr>
+	        </biblStruct>
+	      </sourceDesc>
+	    </fileDesc>
+	    <profileDesc> 
+	      <particDesc> 
+	        <listPerson> 
+	          <person id="ernst-keller">
+	            <name fldid="personname">Ernst Keller</name>
+	            <birth fldid="birth" when="1835">
+	              <placeName fldid="birthplace" geo="53.2531 14.4875">Gryfino (Greifenhagen)</placeName>
+	              <date fldid="birthdate">1835-03-13</date>
+	            </birth>
+	            <!--death>
+	            </death-->
+	            <langKnowledge>
+	              <langKnown n="first" tag="deu"/>
+	              <langKnown n="native" tag="nds"/>
+	            </langKnowledge>
+	            <sex fldid="sex" type="m"/>
+	            <age fldid="age">36</age>
+	            <occupation fldid="personoccupation">Tapezierer</occupation>
+	            <residence fldid="personresidence">Pyrzyce (Pyritz)</residence>
+	            <nationality fldid="nationality" key="DE"/>
+	          </person>
+	        </listPerson>
+	      </particDesc>
+	      <langUsage>
+	        <language fldid="textlang" ident="nds" dir="ltr"/>
+	      </langUsage>
+	      <textDesc>
+	        <channel fldid="textchannel" mode="written"/>
+	        <domain fldid="textdomain">poems</domain>
+	      </textDesc>
+	    </profileDesc>
+	    <encodingDesc>
+	      <projectDesc id="NMK">
+	        <title fldid="Nordm&#228;rkisch-Mittelpommersches Korpus (NMK)"/>
+	        <leader fldid="projectleader">Christian Chiarcos</leader>
+	        <desc fldid="projectdesc">Aufbau eines Korpus zur Dokumentation des Nordm&#228;rkischen sowie des nah verwandten Mittelpommerschen in Sachsen-Anhalt, Brandenburg, Vorpommern und dem heutigen Polen.
+	        Chiarcos, C. (2026). Towards the Morphological Annotation of North Markian (Low German). In Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026) (pp. 11699&#8211;11714). European Language Resources Association (ELRA). https://doi.org/10.63317/54xnswqy73gs.
+	        </desc>
+	      </projectDesc>
+	      <editorialDecl fldid="editorialdecl">
+	        Automatische OCR des Textteiles ohne manuelles Postprocessing. Automatisiertes POS Tagging.
+	      </editorialDecl>
+	    </encodingDesc>
+	  </teiHeader>
+	
+	<text>
+		<body>
+				<pb facs="../img/keller-1871/0001.jpg"/>
+				16<lb/>
+				De pommersche Landwehrmann mit siene Marschorrer.<lb/>
+				Wat is bi Crischon denn för'n Larm?<lb/>
+				Wat weent de Fru doa un de Kinner?<lb/>
+				Crischon hett Orrer, Gott erbarm!<lb/>
+				Sien Fru is krank; wat is woll schlimmer.<lb/>
+				„Wem nimmt sich Fru un Kinner an,"<lb/>
+				Dat steiht up sien Gesicht geschreben,<lb/>
+				Wenn uck keen Woort he reden kann,<lb/>
+				Wiel he de Orrer eben kreegen.<lb/>
+				He ballt blot grimmig siene Fust,<lb/>
+				Am lewsten mücht he gliek drin schloagen<lb/>
+				Un de Franzosen ehre Lust<lb/>
+				Tum Kriegspäl'n ut den Kop rut joagen.<lb/>
+				Nehmt Ju in Acht, Franzosenpack!<lb/>
+				De Düwel ward Ju dat wol danken,<lb/>
+				Dat rein ut bloten Schoawernack<lb/>
+				Ii fangen an mit uns to zanken.<lb/>
+				Man to, uns is dörchut nich bang',<lb/>
+				Wi Pommern schloagen good noch immer,<lb/>
+				Dat Schlimmste is man, dat so lang<lb/>
+				In Angst möt leben Fru un Kinner.<lb/>
+				Doch helpt dat nich, dat grote Mul,<lb/>
+				Wat de Franzos stets upgereten,<lb/>
+				Dat möt wi (nu man blot nich ful),<lb/>
+				Dat möt wi stoppen em en Beten.<lb/>
+				<pb facs="../img/keller-1871/0002.jpg"/>
+				Wat Orrer hier! De bruk ick nich,<lb/>
+				Ohn' Orrer wär' ick angetreden;<lb/>
+				Wenn de Franzos sien Schläg' moal kriggt,<lb/>
+				Wär ick gewiß to Hus nich bleben.<lb/>
+				Wes still, Marriek! Doa helpt nischt to,<lb/>
+				Frankreich möt erst gebändigt waren,<lb/>
+				Sünst war'n wi doch mien Doag nich froh,<lb/>
+				Napoljon hölt uns rein tum Naren.<lb/>
+				Uns König hett Geduld noog hat,<lb/>
+				Um to erhollen uns den Freeden,<lb/>
+				Nu hett he dat kung'neeren satt,<lb/>
+				Nu will'n wi moal ens anners reden.<lb/>
+				Nu will'n wi de Franzosen moal<lb/>
+				En Beten ehre Jack utkloppen,<lb/>
+				Dat is wahrhaftig en Skandoal,<lb/>
+				Dat wi so lang' uns leten foppen.<lb/>
+				Man frisch drup los, so fix as't geht,<lb/>
+				Nich lang' gefackelt un gewunnert,<lb/>
+				Un wo uns de Franzos blot steht,<lb/>
+				Doa mit den Kolben mang gedunnert.<lb/>
+				Drup! Jungens drup! Franzosen ran<lb/>
+				Ii söll'n de Pommern kennen lehren,<lb/>
+				Wenn dat man blot up uns kümmt an,<lb/>
+				Dann söll'n Ii Schoh un Strümp verleren.<lb/>
+				Von jugen twatschen Owermoth<lb/>
+				Sall Strunk un Steel nich öwrig blieben,<lb/>
+				De Hundsdoagshitt is ju nich good,<lb/>
+				De will'n wi ju tum Kopp rut drieben.<lb/>
+				Nu Mutter gif mi Diene Hand,<lb/>
+				Uns Herrgott ward uns woll behöden.<lb/>
+				„Mit Gott för König un Vaterland!“<lb/>
+				So is uns Spruch, dat will'n wi beden.<lb/>
+				<pb facs="../img/keller-1871/0003.jpg"/>
+				Un doamit goah'n wi drup un dran,<lb/>
+				Gern will'n wi Blot un Leben geben.<lb/>
+				Hoch! Dütschland hoch! Franzos kumm ran,<lb/>
+				Hurrah! Uns König de sall leben!<lb/>
+				Am 19. Juli 1870<lb/>
+				Crischon hett schreben.<lb/>
+				Mien lew Marriek!<lb/>
+				Dit to erleben,<lb/>
+				Dat har'ck nich dacht — hett Crischon schreben<lb/>
+				Ne dit is würklich to gelungen,<lb/>
+				Se hebb'n Napoljong afgefungen;<lb/>
+				Un ick was nich moal doa mit bi,<lb/>
+				Dat is to dull, dat argert mi!<lb/>
+				Ne! so wat möt mi uck passeeren,<lb/>
+				Wi möten hier bi Metz kampeeren<lb/>
+				Un denken em hier recht to foaten,<lb/>
+				Nu hett he sich all griepen loaten,<lb/>
+				Noch to mit achtzig Dusend Mann,<lb/>
+				Is dat Courosch? is dat Elan?<lb/>
+				Un denn will he as Kriegsheld gellen<lb/>
+				Un will uns noch dumm Tüch vertellen,<lb/>
+				As har he gern sich scheeten loaten<lb/>
+				Uns' Kugel haren blot nich droapen<lb/>
+				He hett sien Schnut, so dücht mi dat,<lb/>
+				Woll joarnich erst in't Füer hat.<lb/>
+				So veel steiht fest, har ick em kregen,<lb/>
+				Denn har dat doch woll Schacht würd geben;<lb/>
+				Ick har dat nich künnt öwerkommen,<lb/>
+				Ick har em mi erst förgenommen;<lb/>
+				Har ick em in de Finger hatt,<lb/>
+				Denn wär sien Fell nich mehr so glatt.<lb/>
+				<pb facs="../img/keller-1871/0004.jpg"/>
+				6<lb/>
+				Na schoadt uck nich, wat helpt dat reden,<lb/>
+				Ick bin am En' uck so tofreden:<lb/>
+				Mi dücht, he hett genog to büßen,<lb/>
+				Em quält sien egenes Gewissen,<lb/>
+				Doch dat kümmt woll noch erst drup an,<lb/>
+				Ob he Gewissen hebben kann.<lb/>
+				Denn wo is dat Gewissen bleben,<lb/>
+				As midden in den deepsten Freden<lb/>
+				De Kerls uns öwerrumpeln sullen<lb/>
+				Un. uns den Rhein wegstehlen wullen.<lb/>
+				Wenn Dütschland nich so fast har stoahn,<lb/>
+				Denn wär uns dat doch schlecht man goahn.<lb/>
+				De Turcos sinn as wilde Tiger,<lb/>
+				Harn wi de hatt bi uns as Sieger,<lb/>
+				Denn har ick nich noah hen mücht sehen,<lb/>
+				Wat all' för Jammer wär geschehen;<lb/>
+				Uns Herrgott is mit uns tum Glück,<lb/>
+				Nu ängst Di man nich mehr, Marriek.<lb/>
+				Recht schlimm kann dat nu nich mehr koamen<lb/>
+				Wi hebb'n to veel gefangen noamen,<lb/>
+				Un joa to veel sinn dod geschoaten,<lb/>
+				Ach Gott, wat is för Bloot gefloaten;<lb/>
+				Den Jammer sich recht antosehn,<lb/>
+				Doato gehört en Herz von Steen.<lb/>
+				Du warst woll ut de Zeitung weten,<lb/>
+				Wo wi uns mit dat Pack rümscheten,<lb/>
+				Un dat wi in den düllsten Regen<lb/>
+				Nachts up den Acker rümmer legen,<lb/>
+				Un dat wi denn so pudelnatt<lb/>
+				Nich moal recht wat to eten hatt.<lb/>
+				Doch will ick mi nich drüm bekloagen,<lb/>
+				Son Keerls as wi kön'n dat verdroagen,<lb/>
+				Ick bin man froh, mien lewes Leben,<lb/>
+				<pb facs="../img/keller-1871/0005.jpg"/>
+				7<lb/>
+				Dat Diene Krankheit sich hett geben,<lb/>
+				Un dat to Hus de Waiten rin,<lb/>
+				Un dat de Jung'ns gesund uck sinn.<lb/>
+				Mien Gruß un Dank an Crischon Bulten,<lb/>
+				Dat he Di bi den Waiten hulpen;<lb/>
+				He sall uck man bi't Nudeln helpen,<lb/>
+				Ick war' em noahsten dat entgelten;<lb/>
+				Französisch heet dat „rewanscher'n<lb/>
+				Paß up, ick war' Französch noch ler'n.<lb/>
+				Na nu möt ick Di doch noch schrieben,<lb/>
+				Dat wi bi Metz nich länger blieben;<lb/>
+				Wi hebben hüt all Orrer kregen,<lb/>
+				Un morgen sinn wi unnerwegen;<lb/>
+				Dat geiht nu up Paris drup los,<lb/>
+				Nu denk Di dissen Jubel bloß.<lb/>
+				Wenn Uns' man von Paris wat hören,<lb/>
+				Denn sinn se kum noch to regeeren,<lb/>
+				Denn müchten se Galopp hen lopen<lb/>
+				Un de Franzosen hau'n to hopen;<lb/>
+				Wenn noch so veel Franzosen stoahn,<lb/>
+				Mit Hurrah ward drup los gegoahn.<lb/>
+				Na nu, mien lewe Fru un Kinner,<lb/>
+				Nu blieft mi man gesund hübsch immer,<lb/>
+				Grüßt Fründschaft uck, un man bald schrieben<lb/>
+				Ick denk so lang' nich mehr to blieben;<lb/>
+				So Gott will bin ick bald bi Ju,<lb/>
+				Na nu Ädjüs mien lewe Fru.<lb/>
+				Am 12. September 1870.<lb/>
+				<pb facs="../img/keller-1871/0006.jpg"/>
+				— 8<lb/>
+				Crischon is blesseert.<lb/>
+				Mien lew Marriek!<lb/>
+				Dit hett sien Wesen;<lb/>
+				Mit't linker Poot schrift sich dat schlecht.<lb/>
+				Wenn Du nu dit man blot kannst. lesen<lb/>
+				Ick krieg dat kum alleen torecht.<lb/>
+				Mit de verdammten Schastepoten<lb/>
+				Hett nu doch richtig so'n Franzos<lb/>
+				Mi in den rechten Arm rin schoaten;<lb/>
+				Tum Glück is dat een Schrammschuß bloß.<lb/>
+				Ick heww em öwerst dat besulten.<lb/>
+				So'n pommersch Tachtel in't Gesicht<lb/>
+				Kreeg he von mi, as Crischon Bulten<lb/>
+				Dunn von sien schwarten Hingst hett kriggt.<lb/>
+				Uns Leut'nant sähr: „Laß Dich verbinden,<lb/>
+				Geh', melde Dich im Lazareth!“<lb/>
+				„I wat!" sähr ick, „dat ward sich finden,<lb/>
+				Erst köp'ck mi den’n, de schoaten hett."<lb/>
+				Un doamit leep ick nu twas öwer,<lb/>
+				Wo Musch Franzos in'n Groaben leeg,<lb/>
+				Un langte mi den Bengel röwer,<lb/>
+				De up französch erbärmlich schreeg.<lb/>
+				„Pardong, Musche!" so dehr he jüngeln,<lb/>
+				Dat heet to dütsch: „Schloag mi nich dood!<lb/>
+				„Joa töw!" sähr ick, „infahmte Schlüngel!"<lb/>
+				Un wischt em mit de linke Poot.<lb/>
+				Dunn kreeg ick em denn bi de Ohren,<lb/>
+				Un schleppte hinner mi em her:<lb/>
+				Doch har ick to veel Bloot verloren<lb/>
+				Un Musch Franzos sett' sich to Wehr.<lb/>
+				<pb facs="../img/keller-1871/0007.jpg"/>
+				9<lb/>
+				So balgen wi uns doa nu rümmer.<lb/>
+				Dunn kümmt tum Glück mit, noch dre Mann<lb/>
+				Uns Ploasterschmerer Gottlieb Brümmer,<lb/>
+				De uns nu Beid' in't Schlepptau namm.<lb/>
+				Nu dürft ick nich mehr mitmarscheeren,<lb/>
+				Un ligg hier krumm in't Feldlaz'reth<lb/>
+				un möt erst hören,<lb/>
+				Bi St. Georg; -<lb/>
+				Ob mi de Dokter loopen lett.<lb/>
+				Uns Kronprinz is mit siene Truppen<lb/>
+				Nu ganz dicht bi Paris all ran.<lb/>
+				Un ick sall nu rein still hier hucken<lb/>
+				Un kieken ruhig dat mit an.<lb/>
+				Lett mi de Dokter nich marscheeren,<lb/>
+				Denn riet ick ut, so veel steiht fest.<lb/>
+				Wo war' ick hier de Tied verleeren,<lb/>
+				Nu kümmt joa bi Paris dat Best.<lb/>
+				Dien Antwort loat man adresseren<lb/>
+				Gliek noa Paris — up Postrestant<lb/>
+				Wenn ick man erst den Arm künn röhren;<lb/>
+				Dat is nischt mit de linke Hand.<lb/>
+				De Strümp un Jack de heww ick kregen,<lb/>
+				Un Unnerhosen bruk ick nich.<lb/>
+				Dat Schicken loat man unnerwegen,<lb/>
+				De dämlich Post de kümmt oft nich.<lb/>
+				Toback heww ick uck noch to rooken,<lb/>
+				Doch krieg ick selten moal eens Bier.<lb/>
+				So'n pommerschen Pantüffel=Kooken<lb/>
+				Un dicke Arften gift nich hier.<lb/>
+				Wenn Du nu disse Uhl un Oapen<lb/>
+				Nich kriggst torecht gebokstabert,<lb/>
+				Loat Di den Kannidoaten roopen,<lb/>
+				Dat is'n Mann, de hett wat lehrt.<lb/>
+				1<lb/>
+				<pb facs="../img/keller-1871/0008.jpg"/>
+				10<lb/>
+				Segg Du man nischt to Crischon Bulten<lb/>
+				Von de Blessur an mienen Arm,<lb/>
+				Denn de vertellt dat unsen Schulten<lb/>
+				Un bringt ganz Brietzig in Allarm.<lb/>
+				De moaken denn doavon so'n Wesen,<lb/>
+				As leeg ick nu all up den Dood.<lb/>
+				Kann sinn, wenn dit Geklar Ii lesen,<lb/>
+				Dat denn mien Arm all werrer good.<lb/>
+				Denn war' ick mi Paris bekieken,<lb/>
+				Un war' doa rümmer moal spazer’n.<lb/>
+				Na nu Ädjüs, mien lew Marrieken!<lb/>
+				Nu grüß mi uck de beiden Jöhr'n.<lb/>
+				Grüß Pasters un den Kannidoaten;<lb/>
+				Grüß up französch: „Au röh wo ah.<lb/>
+				Du kannst Di't gliek verdütschen loaten;<lb/>
+				So'n bitz französch kann ick nu a.<lb/>
+				So! lew Marriek, nu wes tofreden,<lb/>
+				De Loadung har ick glücklich löscht.<lb/>
+				Mi is to Mooth, wenn ick heww schreben,<lb/>
+				As har'ck tein Wispel Arften döscht.<lb/>
+				Am 23. September 1870.<lb/>
+				Hurroh! Crischon hei't isern Krüz.<lb/>
+				Mien lew Marriek!<lb/>
+				Dit is to dull<lb/>
+				Ick schrew Di joa dre Sieden vull,<lb/>
+				Du hest den Breef nich kreegen?<lb/>
+				Na so wat läwt nich! Dit is nett.<lb/>
+				Ick schrew Di joa von't Foldloaz'reth,<lb/>
+				Wo so ick lang heww legen.<lb/>
+				<pb facs="../img/keller-1871/0009.jpg"/>
+				11<lb/>
+				Dien Angst de kann ick denken mi,<lb/>
+				Doch doamit is dat nu vörbi,<lb/>
+				Ick bin ganz goot to wegen.<lb/>
+				Acht Doag bin ick all wedder rut,<lb/>
+				Mien Arm is heel un uck de Schnut<lb/>
+				De uck wat af har kregen.<lb/>
+				Ick bin nu prächtig up'n Damm,<lb/>
+				Un war as preuß'sche Gardemann<lb/>
+				Mit de Franzosen reden.<lb/>
+				Ick scheet gewiß nich mehr vörbi,<lb/>
+				Denn mien Blessur de argert mi;<lb/>
+				Ick heww doa schön dran leden.<lb/>
+				Har ick nich so'ne prächt'ge Hut<lb/>
+				Tum Heel'n — denn wär gewiß de Schnut<lb/>
+				Sien Doag nich wedder worden.<lb/>
+				Uns' Hauptmann sähr: „Gesund zurück?<lb/>
+				Recht so, Christian! ich wünsch' Dir Glück;<lb/>
+				Du kriegst gewiß den Orden."<lb/>
+				Nu denk Di blot moal an, Marriek,<lb/>
+				Den Sunndag drup doa heww ick gliek<lb/>
+				Dat isern Krüz uck kregen.<lb/>
+				Uns' Kompanie har baiersch Bier<lb/>
+				Twe Fässer kregen, dat wär hier<lb/>
+				Een lustig Biwak=Leben.<lb/>
+				Marriek, dat Krüz an miene Brust,<lb/>
+				Dat is mien Stolz un miene Lust;<lb/>
+				Dat sall uns' Fritz moal arwen.<lb/>
+				Ick heww mi loawt, mit Herz un Hand<lb/>
+				För König un för't Voaterland<lb/>
+				To leben un to starwen.<lb/>
+				Wi wären bi St. Cloud quarteert,<lb/>
+				Dat is in Grund nu bombardeert,<lb/>
+				Doa stoahn de koahlen Muern.<lb/>
+				<pb facs="../img/keller-1871/0010.jpg"/>
+				12<lb/>
+				De Feind de is doch tämlich toag.<lb/>
+				Ick dacht gewiß nich all mien Doag,<lb/>
+				Dat dit so lang künn duern.<lb/>
+				Dat Rackertüg kriggt so veel Schacht,<lb/>
+				Fast alle Doag un alle Nacht,<lb/>
+				Un will sich doch nich gewen.<lb/>
+				Uns' König wull unnood Paris<lb/>
+				Bescheeten; doch dat is umsüß.<lb/>
+				Wi möten anners reden.<lb/>
+				Uns' Moltke mücht gern bombardeern<lb/>
+				Un ganz Paris in Schutt verkehr'n,<lb/>
+				Doch Bismarck will't nich lieden;<lb/>
+				He seggt: „mein lieber Herr Gen'ral,<lb/>
+				Das ist ganz schön, doch seh'n Sie mal<lb/>
+				Wo will'n wi noahsten blieben?<lb/>
+				Doa hett he Recht; Paris dat wär<lb/>
+				För'n Winter ’t beste Hauptquarteer,<lb/>
+				Wenn wi ’t man blot erst haren.<lb/>
+				Hier ligg'n wi bet an'n Hals im Dreck<lb/>
+				Un koamen joarnich von den Fleck;<lb/>
+				Paris hölt uns tum Narren.<lb/>
+				De Häupters moaken sich doavon,<lb/>
+				Denk Di blot an — per Luftballon,<lb/>
+				Doa sinn se nich to langen.<lb/>
+				Nu denk moal bitschen noah, Marriek;<lb/>
+				Du wetst doch gooden Roath sünst gliek,<lb/>
+				Ick mücht so'n Ding gern fangen.<lb/>
+				Die Rackers föhren krüz un quer<lb/>
+				Uns immer öwer'n Kopp ümher.<lb/>
+				Wo is dat woll to moaken?<lb/>
+				De Kerls de möten schlau doch sind,<lb/>
+				Se passen so sich af den Wind,<lb/>
+				Dat wi se nich kön'n foaten.<lb/>
+				<pb facs="../img/keller-1871/0011.jpg"/>
+				13<lb/>
+				Na loat se man, kümmt Tied, kümmt Roath,<lb/>
+				De Dütschen sinn doch as Saldoat<lb/>
+				De allergrötsten Helden.<lb/>
+				Wi war'n ehr dat besorgen noch;<lb/>
+				Paris dat krieg'n wi endlich doch,<lb/>
+				Denn war'ck mi wedder melden.<lb/>
+				Du wetst Marriek, ick heww Di lew,<lb/>
+				Doch eher kriggst Du keenen Breef,<lb/>
+				Bet ick Di so kann schrieben:<lb/>
+				„Marrieken, wetst Du ganz wat Niegs!<lb/>
+				Jitzt sinn wi glücklich in Paris,"<lb/>
+				Un doabi sall dat blieben.<lb/>
+				Wo geiht denn dat to Hus mit Di?<lb/>
+				Du schrifst joa man so'n Happen mi,<lb/>
+				Wat moaken unse Jöhren?<lb/>
+				Un hör Marriek, denk doch joa dran,<lb/>
+				Un goah bi Koopmann Junklaus ran,<lb/>
+				Wenn Ii noah Pyritz föhren.<lb/>
+				Denn grüß em schön un segg em man,<lb/>
+				„Dat ick den Bittern loaben kann"<lb/>
+				Ick loat mi uck bedanken.<lb/>
+				Dat is een richtig Moagenschluck,<lb/>
+				Kratzt nich to dull un warmt doch uck;<lb/>
+				Dat is wat för uns' Kranken<lb/>
+				Un denn froag up de Post man noah<lb/>
+				Un schimp man up de Wirthschaft doa,<lb/>
+				Wat sinn mi dat för Schosen.<lb/>
+				Kotz schlag! Holl still, schimp nich, Marriek;<lb/>
+				Mi föllt jitzt eben in tum Glück,<lb/>
+				De Breef — steckt in mien Hosen.<lb/>
+				As ick noaht Feldpost lopen wull,,<lb/>
+				Dunn regente dat groad so dull.<lb/>
+				Ick denk, töw noch een Bäten.<lb/>
+				<pb facs="../img/keller-1871/0012.jpg"/>
+				﻿14<lb/>
+				Dunn treckt ick mi drög Hosen an,<lb/>
+				Un noahsten dacht ick nich mehr dran;<lb/>
+				So heww ick dat vergeten.<lb/>
+				Na nu, mien allerlewst Marriek,<lb/>
+				Ick möt nu up Vörposten gliek,<lb/>
+				Dat heww'ck uck bald in'n Moagen.<lb/>
+				Ick wull, ick wär to Hus bi Di,<lb/>
+				Wenn Du uck manchmoal zankst mit mi,<lb/>
+				Dat lett sich ehr verdroagen.<lb/>
+				Doch nu läw woll mien Herzenswiew,<lb/>
+				Un mit de Jung's gesund hübsch bliew;<lb/>
+				Un segg Du man to Fritzen:<lb/>
+				Wenn he in't Schaul recht flietig is,<lb/>
+				Denn bring ick mit em von Paris<lb/>
+				Twee grote Kugelspritzen.<lb/>
+				Am 24. Oktober 1870.<lb/>
+				Crischon fängt Luftballons!<lb/>
+				un verleert doabi sien schöne Piep.<lb/>
+				Mien lew Marriek!<lb/>
+				Wat schrifst Du mi,<lb/>
+				Du glöwst, ick denk nich mehr an Di?<lb/>
+				Wo kannst Du dat woll glöwen.<lb/>
+				Ick heww Di dunn doch footsten seggt,<lb/>
+				Bet wi uns harr'n Paris toleggt,<lb/>
+				Wull ick mit Schrieben töwen.<lb/>
+				Nu duert mi dat uck to lang,<lb/>
+				Mi ward noah Di nu uck all bang;<lb/>
+				Doch wull mien Woort ick hullen.<lb/>
+				Wi heww'n Paris noch iimmer nich,<lb/>
+				Un bombardeeren söll'n wi nich;<lb/>
+				Dat sinn nu sone Schrullen.<lb/>
+				<pb facs="../img/keller-1871/0013.jpg"/>
+				15<lb/>
+				Mi dücht, uthungern dat geiht schlecht,<lb/>
+				Denn so'n Franzos, wat ett de recht;<lb/>
+				Joa, wenn dat Pommern wären!<lb/>
+				Wi har'n dat Fleesch up jeden Fall<lb/>
+				De ersten vierteihn Doag gliek all,<lb/>
+				Wi würden mehr vertehren.<lb/>
+				Doch so'n Franzos, dat Gott erbarm!<lb/>
+				De Kerls de heww'n joa man en Darm;<lb/>
+				Nu fäng'n se sich de Ratten;<lb/>
+				Behelpen sich mit Woatersupp<lb/>
+				Un freten dodig Padden up<lb/>
+				Un alle Hun'n un Katten.<lb/>
+				Un doabi leben se ganz nett.<lb/>
+				Oft gift dat denn uck Jackenfett<lb/>
+				Wenn se en'n Utfall moaken.<lb/>
+				Un wenn dat noch nich schaffen sull,<lb/>
+				Denn lögen se den Hals sich vull.<lb/>
+				So stoahn nu hier de Soaken.<lb/>
+				Wat uns belangt, dat geiht nu so,<lb/>
+				Wi kieken ganz gemüthlich to<lb/>
+				Un leggen uns up't Luern.<lb/>
+				Wi heww'n uns hüslich ingericht<lb/>
+				Un denken doch, dat de Geschicht<lb/>
+				Nich ewig mehr ward duern.<lb/>
+				Wi eten all Doag Fleesch mit Ries,<lb/>
+				Un denn ward to Verännerniß<lb/>
+				Ens Ries mit Fleesch gegeten.<lb/>
+				Doch manchmoal sinn wi sien gesinnt,<lb/>
+				Denn möt dat Arften=Worschtsupp sind;<lb/>
+				Dat is en niemodsch Eten.<lb/>
+				Dat Beste is en goder Schluck;<lb/>
+				So'n gift dat denn mitunner uck<lb/>
+				Bi uns' Fru Marketennern.<lb/>
+				<pb facs="../img/keller-1871/0014.jpg"/>
+				16<lb/>
+				Blot manchmoal treckt se em to lang<lb/>
+				Un gütt uns toveel Woater mang;<lb/>
+				Dat is nu nich to ännern.<lb/>
+				Wat mi blot argert, dat is man,<lb/>
+				Dat ick nu nich mehr rooken kann.<lb/>
+				Mien Piep de is in'n Himmel.<lb/>
+				Uns' Hauptmann sähr: „Crischon, Allons!<lb/>
+				Mich dünkt, dort fällt ein Luftballon,<lb/>
+				Flink nach mit Deinem Schimmel."<lb/>
+				Dat Ding har woll conträren Wind<lb/>
+				Un mücht uck woll anschoaten sind,<lb/>
+				Genog he purzelt runner.<lb/>
+				Ick brennt em noch ens up dat Fell,<lb/>
+				Allhand was ick uck all to Stell;<lb/>
+				Doa har ick denn mien Wunner.<lb/>
+				Dre Kerls de krabbelten sich rut;<lb/>
+				Den en'n, den haut ick up de Schnut,<lb/>
+				De Anner wull mi foaten;<lb/>
+				Doch kreeg he blot man miene Piep,<lb/>
+				Un wiel ick noah den drüdden griep,<lb/>
+				Möt ick de Piep em loaten.<lb/>
+				He blift gemüthlich in dat Schipp,<lb/>
+				De Wind geht los, un dat Geripp<lb/>
+				Fängt noch ens an to flegen.<lb/>
+				Ick künn nu nischt, as kieken to,<lb/>
+				Un was doabi man noch sehr froh,<lb/>
+				Dat ick twe Kerls har kreegen.<lb/>
+				Sühst Du, dat heww ick nu doavon,<lb/>
+				Mien schöne Piep per Luftballon<lb/>
+				Is rinner in de Wolken.<lb/>
+				Uns' Tambour seggt woll, 't is nich schlimm,<lb/>
+				Denn wenn dat erst bekannt ward sinn,<lb/>
+				Kreeg ick en Piep von Moltken.<lb/>
+				<pb facs="../img/keller-1871/0015.jpg"/>
+				17<lb/>
+				Wi krieg'n uck noch woll den Cujon,<lb/>
+				Wi heww'n en Luftballon-Kanon',<lb/>
+				Dat is Di rein tum Wälzen.<lb/>
+				Dat is en ganz putzlustig Ding,<lb/>
+				So lang, as wie Lebrenzens Kind,<lb/>
+				Schütt hoch — un geiht up Stelzen.<lb/>
+				Doch nu, Marrieken, nimm förlew,<lb/>
+				Ick denk. Du kriggst nu bald en Breef,<lb/>
+				De in Paris ward schreben.<lb/>
+				Denn doh ick Di noch Manches kund,<lb/>
+				Nu grüß de Bälg un blief gesund.<lb/>
+				Ädjüs! mien lewes Leben.<lb/>
+				Am 30. November 1870.<lb/>
+				Crischon up Onkel Bullerjoahn'.<lb/>
+				Na nu Marriek, mien Herzens-Fru,<lb/>
+				Wat seggst Du un wat meinst Du nu,<lb/>
+				Bist nu mit uns tofreden?<lb/>
+				Jitzt sinn wi Herrn hier von Paris<lb/>
+				Un warn noah all de Kümmerniß<lb/>
+				Nu moal ens bong hier leben.<lb/>
+				Drin sinn wi noch nich in de Stadt;<lb/>
+				Doa äten se sich nu erst satt<lb/>
+				Un moaken sich manierlich.<lb/>
+				Ehr Tostand is to jämmerlich,<lb/>
+				De Dütschen söll'n dat sehen nich;<lb/>
+				Dat is ehr to scharnierlich.<lb/>
+				Na uns kümmt dat uck nich drup an.<lb/>
+				Nu wi de Festung hewwen man,<lb/>
+				Nu sinn wi schön geborgen.<lb/>
+				Wi sitten sicher hier un fest;<lb/>
+				Wat nu noch fehlt, den letzten Rest,<lb/>
+				Ward Bismarck woll besorgen.<lb/>
+				<pb facs="../img/keller-1871/0016.jpg"/>
+				﻿18<lb/>
+				Dre Wochen hewwen wi nu Ruh;<lb/>
+				Dat is famos, ick segg Di Fru,<lb/>
+				Dat wi uck schlapp all wären.<lb/>
+				Denn dat infahmte Postenstoahn,<lb/>
+				Un ümmerto sich rümmerschloahn,<lb/>
+				Dat griept to dull an't Nären.<lb/>
+				Von dat Geknall un Bombardeer'n<lb/>
+				Doa kann ick hüt noch nich recht hör'n.<lb/>
+				Un nu erst de Franzosen.<lb/>
+				Mi dücht, nu glöb'n se ganz gewiß,<lb/>
+				Dat mit uns nich to spoaßen is.<lb/>
+				Dat Herz sackt ehr in't Hosen.<lb/>
+				Ick glöw nu is't mit ehr vörbi;<lb/>
+				Woto is uck de Schlächterrie,<lb/>
+				Kann Frankreich dat noch redden?<lb/>
+				Denn dat ehr dat doch nich gelingt,<lb/>
+				Dat Frankreich Dütschland nich betwingt,<lb/>
+				Doarup is licht to wedden.<lb/>
+				Dat Blatt dat hett sich mächtig wendt<lb/>
+				Wat nu de groot Natschon man nennt,<lb/>
+				Dat war'n de Dütschen wesen.<lb/>
+				Dat is nu eenmoal ganz gewiß,<lb/>
+				So woahr uns' König „Kaiser" is;<lb/>
+				Du hest dat doch all lesen?<lb/>
+				Ick segg Di, dåt wär een Halloh,<lb/>
+				Wi wär’n hier ganz unbännig froh,<lb/>
+				Wi schregen uns fast heiser<lb/>
+				Mit Vivatropen un Hurrah!<lb/>
+				Un Dütschland hoch! Viktoria!<lb/>
+				Hoch! lew de Dütsche Kaiser!<lb/>
+				Un as nu goar de grang Natschon<lb/>
+				Uns käm mit de Kap'tulatschon,<lb/>
+				Wüßt Keener sich to loaten.<lb/>
+				<pb facs="../img/keller-1871/0017.jpg"/>
+				19<lb/>
+				Vör luter Freud' und Seligkeit<lb/>
+				Heww'n wi bi de Gelegenheit<lb/>
+				Nich scharp — ne „Kubuld" schoaten.<lb/>
+				Ick müßt up Onkel Bullerjoahn<lb/>
+				Mitrup, üm doa de preuß'sche Foahn<lb/>
+				Mithelpen uptohissen.<lb/>
+				Ick segg Di, dat wär eene Lust,<lb/>
+				Wi leegen all uns an de Brust<lb/>
+				Mit Drücken un mit Küssen.<lb/>
+				Doch doa Du gern nu weeten wist,<lb/>
+				Wo uns dat ümmer goahn noch is,<lb/>
+				So kann ick Di blot schrieben:<lb/>
+				schlecht;<lb/>
+				Dat güng bald good, bald güng dat<lb/>
+				Wat Di doavon nich kloar is recht,<lb/>
+				Möt tum „Vertellen" blieben.<lb/>
+				Mi sülwst is noch ganz good to Moth,<lb/>
+				Wi leben jitzt all tämlich good<lb/>
+				Un hewwen uck to rooken.<lb/>
+				Mi hett dat ümmer noch so glückt,<lb/>
+				To Wiehnacht hett mi Sanft herschickt<lb/>
+				Ne Piep un Päperkoken.<lb/>
+				Acht Doag vör Wiehnacht kreg ick all<lb/>
+				De Unnerhosen un den Schall<lb/>
+				Von Di, mien lew Marrieken.<lb/>
+				Pannkoken käm von Bultens an,<lb/>
+				Blot stief gefroren was he man,<lb/>
+				Ick künn em nich recht bieten.<lb/>
+				Grüß man de Fründschaft krüz un quer.<lb/>
+				Dat Ii gesund sinn, freut mi sehr,<lb/>
+				Gott gäw, Ii blieben’t ümmer.<lb/>
+				Ick denk doch recht sehr veel an Ju,<lb/>
+				Vörut an Di, mien lewe Fru,<lb/>
+				Un an mien lewen Kinner.<lb/>
+				<pb facs="../img/keller-1871/0018.jpg"/>
+				20<lb/>
+				Ick mag fast goarnich schrieben mehr,<lb/>
+				Mi ward doabi dat Herz so schwer;<lb/>
+				Doch möten wi uns foaten.<lb/>
+				Wenn de Franzos erst is to Ruh,<lb/>
+				Denn is erst Tied för Kind un Fru;<lb/>
+				So lang sinn wi Saldoaten.<lb/>
+				Na möglich sinn wi bald so wiet,<lb/>
+				Denn is uck werrer anner Tied;<lb/>
+				Uns' Herrgott mag dat geben.<lb/>
+				Nu läw recht woll, mien Herzenswiew<lb/>
+				Mit sammt de Kinner,<lb/>
+				un denn bliew<lb/>
+				Mien lewes sötes Leben!<lb/>
+				Am 5. Februar 1871.<lb/>
+				Dunnerstag kümmt Crischon to Hus!<lb/>
+				Mien lew Marriek!<lb/>
+				Dit is to dull!<lb/>
+				Fritz Schwarten hört de Puckel vull;<lb/>
+				Ick heww em so vel beeden,<lb/>
+				Dat he Di bringen süll Besched,<lb/>
+				Wo mi dat in’t Loaz'reth hier geht,<lb/>
+				He süll Di Noahricht geben.<lb/>
+				Von Wobbermin is't doch nich wiet,<lb/>
+				Un is dat jitzt uck Ackertied,<lb/>
+				Dat müßt he doch besorgen.<lb/>
+				Na loat man sinn, mien lewes Kind,<lb/>
+				Bald war ick sülwen bi Ju sind,<lb/>
+				Ick reis' all öwermorgen.<lb/>
+				Ick bin in Rheims hier, in't Loaz'reth,<lb/>
+				Wo mi de Gicht festhollen hett,<lb/>
+				Doch nu hett sich dat geben.<lb/>
+				Ick harr en Rieten in dat Krüz,<lb/>
+				<pb facs="../img/keller-1871/0019.jpg"/>
+				21<lb/>
+				Ick künn nich liggen up den Stütz,<lb/>
+				Nich starben un nich leben.<lb/>
+				De Annern sinn mit Mann un Mus,<lb/>
+				All öwer vierteihn Doag to Hus,<lb/>
+				Un ick möt hier nu kranken,<lb/>
+				Un ängsten mi üm Fru un Kind,<lb/>
+				Anstatt bi Ju to Hus to sind<lb/>
+				Un Nudel uns to planten.<lb/>
+				Na annern Dunnerstag bin ick<lb/>
+				(Wenn süs mi good is noch dat Glück)<lb/>
+				Gewiß to Hus mien Lewen.<lb/>
+				Un wenn ick doaran denken doh,<lb/>
+				Denn ward mi doch üm't Herz so froh,<lb/>
+				As harr ’t groot Loos ick kregen.<lb/>
+				Denn sast Du sehn, mien lewe Fru,<lb/>
+				Denn war' ick jeden Oabend Ju<lb/>
+				Vertell'n von de Franzosen.<lb/>
+				Dat Land dat is hier wirklich schön,<lb/>
+				Wo lang is hier all Alles grön,<lb/>
+				In'n März gift hier all Rosen.<lb/>
+				Un billig Lewen is dat hier,<lb/>
+				„Wien" kost't nich mehr as baiersch Bier,<lb/>
+				Den bugen hier de Buern.<lb/>
+				Wenn Frankreich man blot pommersch wär,<lb/>
+				Treckt ick mit Fru un Kinner her,<lb/>
+				Dat süll so lang nich duern.<lb/>
+				Doch de Franzosen sinn joa twatsch!<lb/>
+				Un wat se reden, dat is quatsch,<lb/>
+				Sammt Sidden un Maneeren.<lb/>
+				Jitzt hau'n se sich enanner dod!<lb/>
+				Mi dücht, Napoljong deiht ehr noth<lb/>
+				De kann se blot regeeren.<lb/>
+				Paß Du man up! ick segg Di Frü,<lb/>
+				Dat Volk dat höllt nich eher Ruh<lb/>
+				<pb facs="../img/keller-1871/0020.jpg"/>
+				22<lb/>
+				Un is nich eh'r tofreden,<lb/>
+				Bet werrer kümmt so'n Lulu ran<lb/>
+				De ehr de Hosen treckt good stramm,<lb/>
+				Un de se good kann treden.<lb/>
+				De Dömlichsten sinn in Paris,<lb/>
+				Wat doa kum ut de Weeg rut is,<lb/>
+				Steiht as Gardist up Posten.<lb/>
+				An Arbiet denkt keen Minsch doa mehr,<lb/>
+				En Jeder lewt as Militär<lb/>
+				Up Regiments=Unkosten.<lb/>
+				Paris is süs so öbel nich<lb/>
+				So veel ick von to sehn heww kriggt,<lb/>
+				Is Allens schön un prächtig.<lb/>
+				Blot dat oll Volk dat döcht nich doa,<lb/>
+				An dat is nich en goodes Hoar;<lb/>
+				Falsch sinn se niederträchtig.<lb/>
+				De Stroaten sinn doa glubschen lang<lb/>
+				Un as en Schlidderboahn so blank,<lb/>
+				Doa stoahn uck „Kacheloaben“<lb/>
+				Mit grote noaklich Puppen up<lb/>
+				As. in Berlin, — uck Reuters drup<lb/>
+				De sehn narsch ut doa boaben.<lb/>
+				Ick har doa äwerst en Quarteer,<lb/>
+				As wenn ick unse Kronprinz wär,<lb/>
+				Un ebenso mien Schimmel.<lb/>
+				Ick woahnte doa in'n grötsten Krog<lb/>
+				Von ganz Paris, söß Stockwark hoch,<lb/>
+				Dat Hus langt halw in'n Himmel.<lb/>
+				De Krogwirth is en fründlich Mann,<lb/>
+				Wo de gefällig wesen kann,<lb/>
+				Doa is he up den Posten.<lb/>
+				Doch wat de dömlich Husknecht is,<lb/>
+				De dehr ken'n Happen nich ümsüs,<lb/>
+				De mök mi immer Kosten.<lb/>
+				<pb facs="../img/keller-1871/0021.jpg"/>
+				23<lb/>
+				Wat in Paris dat Beste wär,<lb/>
+				Dat was de Wirth von mien Quarteer,<lb/>
+				Künn etwas dütsch doch reden.<lb/>
+				Dat is mi so to Herzen goahn,<lb/>
+				Dat en Franzos mi künn verstoahn,<lb/>
+				As nischt in minen Leben.<lb/>
+				Ick sähr: „mong biljä de loschmang!"<lb/>
+				Dunn red't he mi up hochdütsch an:<lb/>
+				„Ick bitt sik nich scharnieren.<lb/>
+				Nur lustik spreken deuts Musche,<lb/>
+				Ick deutse Sprak kanz kut versteh;<lb/>
+				Ick können deuts parlieren.<lb/>
+				Na! denk ick, denn man immer to,<lb/>
+				Doch mit dat hochdütsch wetst Du jo,<lb/>
+				Dat hett sien Fies'matenten.<lb/>
+				Denn dat oll dömlich mir un mich,<lb/>
+				Dat kann ick uck so richtig nich,<lb/>
+				Dat is wat för Studenten.<lb/>
+				Indessen geiht dat halwegs doch<lb/>
+				Un is doch immer beter noch,<lb/>
+				As dat oll Kauderwelschen.<lb/>
+				Doch wär de Fründschaft sehr bald ut.<lb/>
+				Wi müßten joa gliek werrer rut;<lb/>
+				Dat argerte mi hellschen.<lb/>
+				Ick dacht, wi würden in Paris<lb/>
+				Acht Doag doch blieben ganz gewiß.<lb/>
+				Ick wull mi All's bekieken.<lb/>
+				Joa woll! Kum wär'n wi ingerückt,<lb/>
+				Dunn würd'n wi werrer ruter schickt.<lb/>
+				Dat kann ick nich begriepen.<lb/>
+				Doch sall mi dat ganz recht uck sinn,<lb/>
+				Wenn ick nu man to Hus erst bin.<lb/>
+				Denn loat ick Alles gellen.<lb/>
+				<pb facs="../img/keller-1871/0022.jpg"/>
+				﻿24<lb/>
+				Denn kann sich Frankreich ganz un joar<lb/>
+				Upfreeten noch mit Hut un Hoar<lb/>
+				Un up den Kopp sich stellen.<lb/>
+				Mit de Kriegskosten denk ick mi,<lb/>
+				Dat ward woll hinken segg ick Di;<lb/>
+				Von wegen de Mill'arden.<lb/>
+				Wenn hier keen anner Wirthschaft ward,<lb/>
+				Denn kriegen wi doavon en Quark;<lb/>
+				Denn ward dat holprig waren.<lb/>
+				Na nu Marrieken! denk doa dran,<lb/>
+				Tum Dunnerstag denn kümmt Dien Mann,<lb/>
+				Denn koakst Du mi geel Röben<lb/>
+				Mit Päkelfleesch — noah mienen Ju.<lb/>
+				Nu bliew gesund, mien lewe Fru!<lb/>
+				So lang möt wi noch töben.<lb/>
+				Am 24. April 1871.<lb/>
+				Nachdruck wird verfolgt.<lb/>
+				Druck von E. Giese in Pyritz.<lb/>
+				<pb/>
+		</body>
+	</text>
+</TEI>

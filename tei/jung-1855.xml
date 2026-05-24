@@ -1,0 +1,4691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="id_jung-1855" xml:lang="nds">
+	<teiHeader>
+	    <fileDesc>
+	      <titleStmt>
+	        <title fldid="title">Gedichte in plattdeutscher Mundart</title>
+	        <author fldid="author">Gustav Jung</author>
+	        <respStmt>
+	          <resp n="transcription" fldid="transcription">Transkribus Print M1</resp>
+	          <resp n="revision" fldid="revision">n/a</resp>
+	          <resp n="normalization" fldid="normalization">n/a</resp>
+	          <resp n="tagging" fldid="tagging">Christian Chiarcos, University of Augsburg, Germany</resp>
+	        </respStmt>
+	        <!--funder fldid="funder"></funder-->
+	      </titleStmt>
+	      <sourceDesc>
+	        <biblStruct>
+	          <monogr> 
+	            <author fldid="monauthor">Gustav Jung</author>
+	            <title fldid="montitle">Gedichte in plattdeutscher Mundart</title>
+	            <edition fldid="monedition">2. Ausgabe (1. Ausgabe 1849)</edition>
+	            <imprint>
+	              <publisher fldid="monpublisher">Wohlgemuth</publisher>
+	              <pubPlace fldid="monplace">Berlin</pubPlace>
+	              <date fldid="mondate">1855</date>
+	            </imprint>
+	          </monogr>
+	        </biblStruct>
+	      </sourceDesc>
+	    </fileDesc>
+	    <profileDesc> 
+	      <particDesc> 
+	        <listPerson> 
+	          <person id="gustav-jung">
+	            <name fldid="personname">Gustav Jung</name>
+	            <birth fldid="birth" when="1796">
+	              <placeName fldid="birthplace" geo="53.1497 12.1831">Pritzwalk</placeName>
+	              <date fldid="birthdate">1796-03-15</date>
+	            </birth>
+	            <death when="1892">
+	              <placeName geo="52.2715 11.8549">Burg bei Magdeburg</placeName>
+	              <date>1892-07-04</date>
+	            </death>
+	            <langKnowledge>
+	              <langKnown n="first" tag="deu"/>
+	              <langKnown n="native" tag="nds"/>
+	            </langKnowledge>
+	            <sex fldid="sex" type="m"/>
+	            <age fldid="age">53</age>
+	            <occupation fldid="personoccupation">Pfarrer</occupation>
+	            <residence fldid="personresidence">Werneuchen bei Bernau</residence>
+	            <nationality fldid="nationality" key="DE"/>
+	          </person>
+	        </listPerson>
+	      </particDesc>
+	      <langUsage>
+	        <language fldid="textlang" ident="nds" dir="ltr"/>
+	      </langUsage>
+	      <textDesc>
+	        <channel fldid="textchannel" mode="written"/>
+	        <domain fldid="textdomain">poems</domain>
+	      </textDesc>
+	    </profileDesc>
+	    <encodingDesc>
+	      <projectDesc id="NMK">
+	        <title fldid="Nordm&#228;rkisch-Mittelpommersches Korpus (NMK)"/>
+	        <leader fldid="projectleader">Christian Chiarcos</leader>
+	        <desc fldid="projectdesc">Aufbau eines Korpus zur Dokumentation des Nordm&#228;rkischen sowie des nah verwandten Mittelpommerschen in Sachsen-Anhalt, Brandenburg, Vorpommern und dem heutigen Polen.
+	        Chiarcos, C. (2026). Towards the Morphological Annotation of North Markian (Low German). In Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026) (pp. 11699&#8211;11714). European Language Resources Association (ELRA). https://doi.org/10.63317/54xnswqy73gs.
+	        </desc>
+	      </projectDesc>
+	      <editorialDecl fldid="editorialdecl">
+	        Automatische OCR des Textteiles ohne manuelles Postprocessing. Automatisiertes POS Tagging.
+	      </editorialDecl>
+	    </encodingDesc>
+	  </teiHeader>
+	
+	<text>
+		<body>
+				<pb facs="../img/jung-1855/0001.jpg"/>
+				Meinem<lb/>
+				theuren und innig verehrten Schwiegervater,<lb/>
+				dem<lb/>
+				Königl. General-Lotterie=Director a. D.<lb/>
+				Herrn Bornemann<lb/>
+				Ritter des rothen Adlerordens 2. Klasse,<lb/>
+				zu Berlin.<lb/>
+				Et is nu all ne goode Tiet,<lb/>
+				Dät wie uns kuum ens seh'n;<lb/>
+				Wie woahnen groade nich to wiet,<lb/>
+				Män — Jeder blift alleen.<lb/>
+				Hemm wie uns nu ook lang' nich seh'n,<lb/>
+				Wie woaren uns doch noah;<lb/>
+				Ick was ook keen Moal ganz alleen,<lb/>
+				Dien Bild — was bie mie doa.<lb/>
+				Denn as ick schreef dät lütge Book,<lb/>
+				Heb ick vöäl an Die dacht;<lb/>
+				Drüm breng' ick 't as Geschenk Die ook,<lb/>
+				Du häst ’t to Stanne bracht.<lb/>
+				<pb facs="../img/jung-1855/0002.jpg"/>
+				.<lb/>
+				Haar ick mie nich an Die geholl'n,<lb/>
+				Ick haar et nich gekunnt;<lb/>
+				Drüm loat hier mienen Dank Die zoll'n,<lb/>
+				He kümmt uut Herzensgrund.<lb/>
+				Nimm an dät Book, so good as't is,<lb/>
+				Un nimm doamit verleew;<lb/>
+				Wenn't Die gefeel, dät glöw' mie wiß,<lb/>
+				Dät wär' mie herzlich leew!<lb/>
+				G. Jung.<lb/>
+				<pb facs="../img/jung-1855/0003.jpg"/>
+				Meine Bitte.<lb/>
+				1. An die Leser.<lb/>
+				Wer lange nödigt, gift nich gärn,<lb/>
+				He mücht' et, seggt man, sülwst vertär'n:<lb/>
+				Dät bruukt keen Minsch von mie to glöwen,<lb/>
+				Dät würr mie just am meist bedröwen.<lb/>
+				Ick geb't jo goar to herzlich gärn,<lb/>
+				Un woll, Ii müchten ’t bald vertär'n,<lb/>
+				Ii leeten von mien Book nischt öäber:<lb/>
+				Ick — moakte mie dänn moal wä dröäber.<lb/>
+				Ick dischte Ju woll wä wat up,<lb/>
+				Un freu'te mie all sehr doadrup,<lb/>
+				— Brächt' ick Ju dänn wat to Gesichte,<lb/>
+				Et wär' Ju'n good Festdoagsgerichte.<lb/>
+				Hüüt breng' ick, as uprichtger Mann,<lb/>
+				Nu miene Herzens=Bidde an:<lb/>
+				Nehmt, Frünne, moal verleew mit Allen,<lb/>
+				Un loat't Ju, wat ick bracht, gefallen.<lb/>
+				Mie wär't so leew as't immer kann,<lb/>
+				Kreeg Ju noah mehr de Hunger ran:<lb/>
+				Ii söll'n Ju'n Moagen nich verderben,<lb/>
+				Un an to vöäl ook wiß nich sterben!<lb/>
+				<pb facs="../img/jung-1855/0004.jpg"/>
+				2. An die Leserinnen.<lb/>
+				Bracht' ick Ju hier wo wat to Nest,<lb/>
+				Wat bäter änners woll wär' west,<lb/>
+				Nehmt, Fru'ns, mie dät so öäbel nich!<lb/>
+				Watweet sönn Bu'r von'n hohgen Strich!<lb/>
+				Man kümmt nich vöäl rüm in de Welt,<lb/>
+				Froagt kuum: wat schickt sick? — wat gefällt?<lb/>
+				Man redt et hen, dät glöwt män wiß,<lb/>
+				As Een'n de Schnoabel wassen is.<lb/>
+				Un is't dänn ruut moal uuten Mund,<lb/>
+				Man weet kuum, of't Ju ook anstund;<lb/>
+				Alleen — ick mein' et herzlich good,<lb/>
+				Un moak' Ju wiß mit Fliet nich Noth.<lb/>
+				Ick mücht' unnode Ju vertöärn'n;<lb/>
+				Ick leew' jo Rosen, hemm s' ook Döärn:<lb/>
+				Wat blöh'n un ruuken de vöär All'n!<lb/>
+				Ju Rosen mücht' ick gärn gefall'n!<lb/>
+				19 JY5<lb/>
+				<pb facs="../img/jung-1855/0005.jpg"/>
+				Inhalts=Verzeichniß.<lb/>
+				Seite<lb/>
+				Das Haus Hohenzollern<lb/>
+				Was ist das für ein Mann, daß ihm Wind und<lb/>
+				Meer gehorsam ist?.<lb/>
+				Mein Vaterland<lb/>
+				Des Preußen Wunsch<lb/>
+				14<lb/>
+				Unser König..<lb/>
+				17<lb/>
+				Die Rundschau<lb/>
+				20<lb/>
+				Die National=Versammlung.<lb/>
+				29<lb/>
+				Von Gottes Gnaden<lb/>
+				﻿36<lb/>
+				Gebet für den König<lb/>
+				Die Verfassung vom 5. Dezember 1848<lb/>
+				Säbelregiment oder Pöbelregiment?<lb/>
+				46<lb/>
+				Der König soll leben!<lb/>
+				﻿50<lb/>
+				Mit Gott für König und Vaterland<lb/>
+				﻿52<lb/>
+				Die Preßfreiheit<lb/>
+				﻿54<lb/>
+				Die Steuerzahlung..<lb/>
+				Der Vorschlag<lb/>
+				Der Neubau<lb/>
+				*<lb/>
+				Die Bummler<lb/>
+				Zum neuen Jahre 1849<lb/>
+				78<lb/>
+				Es bleibt beim Alten<lb/>
+				Die Vorwahl<lb/>
+				Die Aufständischen<lb/>
+				Die deutsche Einheit<lb/>
+				93<lb/>
+				Der Artillerist<lb/>
+				Der Aufruhr<lb/>
+				98<lb/>
+				Wolf und Vogt.<lb/>
+				101<lb/>
+				Das Zündnadelgewehr<lb/>
+				105<lb/>
+				Die National=Versammlung in Stuttgart<lb/>
+				108<lb/>
+				Die Reichsregentschaft der National=Versammlung<lb/>
+				in Stuttgart<lb/>
+				111<lb/>
+				<pb facs="../img/jung-1855/0006.jpg"/>
+				—<lb/>
+				Die Sprengung des Rumpfparlaments<lb/>
+				Der Bauer<lb/>
+				Fünf Groschen<lb/>
+				Die Brille<lb/>
+				Sechs Pfennig<lb/>
+				Die Kesseljagd<lb/>
+				Der Jägerschmaus<lb/>
+				Das wilde Schwein<lb/>
+				Das Lob der Frauen<lb/>
+				Des Schulzen Noth<lb/>
+				Der rechte Vater<lb/>
+				Die Predigt<lb/>
+				* *<lb/>
+				Das Studiren<lb/>
+				Der Schulvorsteher bei der Schulprüfung<lb/>
+				Die Errungenschaft<lb/>
+				Abschied.<lb/>
+				* *<lb/>
+				19 JY59<lb/>
+				Seite<lb/>
+				115<lb/>
+				119<lb/>
+				123<lb/>
+				127<lb/>
+				131<lb/>
+				135<lb/>
+				139<lb/>
+				﻿148<lb/>
+				153<lb/>
+				﻿160<lb/>
+				﻿162<lb/>
+				169<lb/>
+				172<lb/>
+				﻿180<lb/>
+				183<lb/>
+				<pb facs="../img/jung-1855/0007.jpg"/>
+				Das Haus Hohenzollern.<lb/>
+				(Verfaßt d. 31. Dez. 1848.)<lb/>
+				Dät Hohenzollern is en Huus,<lb/>
+				En Königshuus, so as en Duus!<lb/>
+				Joa! sönne Hüüser gift't nich vöäl;<lb/>
+				Dät ärgert Mänchen grön un gäl,<lb/>
+				Groot mücht he et absluut nich hemm,<lb/>
+				Män gärn dät Hohenzollern kämm.<lb/>
+				Et helpt äm nischt, he schafft et nich,<lb/>
+				Noch höllt de olle Trüe Stich;<lb/>
+				Wie holl'n jo ständig, Dag un Nacht,<lb/>
+				Vöär unse Hohenzollern Wacht;<lb/>
+				Wie willn de ännern Keerls woll lehr'n,<lb/>
+				Uns' Königshuus to respecteer’n.<lb/>
+				Wat groot sall werr'n, dät is erst klein,<lb/>
+				Is Gott mit äm, werd et gedeihn<lb/>
+				Un waßt de Boom un moakt sick breet,<lb/>
+				Köhlt die sien Schadden ook den Schweet,<lb/>
+				Un sühst du siene Krone an,<lb/>
+				Freut sick dien Herz, so sehr et kann.<lb/>
+				<pb facs="../img/jung-1855/0008.jpg"/>
+				—<lb/>
+				— 2 —<lb/>
+				Je schönner siene Krone is,<lb/>
+				Je deeper sind de Worteln wiß,<lb/>
+				Je breeder siene Twiege sind,<lb/>
+				Je mächt'ger schüddelt se de Wind,<lb/>
+				Un kümmt dänn ook en Storm doaher,<lb/>
+				Fest steiht de Boom in goode Eer.<lb/>
+				Sönn Boom is unse Königshuus,<lb/>
+				Erst klein — moakt he sick all ganz kruus,<lb/>
+				Schleit siene Worteln wiet ümher,<lb/>
+				Woll öäber'n Rhein, an't Baltsche Meer,<lb/>
+				Un unner sienen Schadden roht<lb/>
+				En tapper Volk, un roht doa good.<lb/>
+				De erste Friedrich köfft de Mark,<lb/>
+				De Tweete? — höllt se iesenstark,<lb/>
+				Albrecht, sien Broder, un Johann“<lb/>
+				Dohn ook vöär’t Land, wat Jeder kann.<lb/>
+				Dänn heet et: „Jochim,5 höde Die,"<lb/>
+				„Wenn wie Die krieg'n, Die hangen wie."<lb/>
+				Alleen de stift't dät Kamm'rgericht<lb/>
+				Un scheert sick an keen'n Bösewicht;<lb/>
+				Joachim, Hektor tobenennt<lb/>
+				Hät dänn ook Luther's Lehr bekennt.<lb/>
+				Reg. v. 1415-1440. 2 Reg. v. 1440—1470. * Reg.<lb/>
+				v. 1470-86. Reg v. 1486-99. 5 Reg. v. 1499<lb/>
+				—1535. * Reg. v. 1535—71.<lb/>
+				<pb facs="../img/jung-1855/0009.jpg"/>
+				3<lb/>
+				Johann Georg' sorgt vöär den Bu'r,<lb/>
+				Vöär't Land Joachim Friedrich pur.<lb/>
+				Nn kümmt Johann de Sigismund,<lb/>
+				De moakt sien'n Will'n handgrieplich kund<lb/>
+				Erwt Prüßen, hinnerlett't den Soahn,<lb/>
+				Georg Wilhelm“ mütt vöäl uutstoahn;<lb/>
+				He blift bie harte Krieges=Tiet<lb/>
+				Von siene Wünsche goar to wiet.<lb/>
+				Noah drüttig Joahren Krieg un Pest,<lb/>
+				Doa kümmt von All'n de Allerbest,<lb/>
+				Doa is de groote Kurfürst koam,<lb/>
+				Herr Friedrich Wilhelms heet sien Noam,<lb/>
+				De hät de Schweden uppet Best<lb/>
+				Bie Fehrbellin' den Text gelest.<lb/>
+				Trü bleef äm't Volk in sienen Schmerz,<lb/>
+				Schreef up de Foahn, as't stund in't Herz:<lb/>
+				„Wie Bu're von geringen Good,<lb/>
+				„Wie deenen äm mit Good un Bloot<lb/>
+				Drüm wo he up de Fiende draff,<lb/>
+				Doa namm'n se gliek den Wannerstaff.<lb/>
+				Reg. v. 1571-98. * Reg. v. 1598—1608. 3 Reg.<lb/>
+				v. 1608-19. *) Anm. Man denke an die Ohrfeige!<lb/>
+				* Reg. v. 1619—40. Reg. v. 1640-88.<lb/>
+				Im<lb/>
+				Jahre 1675.<lb/>
+				11<lb/>
+				<pb facs="../img/jung-1855/0010.jpg"/>
+				4 -<lb/>
+				He moakte gründlich reenen Disch,<lb/>
+				Kamm wo en Fiend, dänn gung et risch,<lb/>
+				Mit Sensen, Flegeln dröäber her;<lb/>
+				Good stund äm bie de Dörflinger:<lb/>
+				Un haar sien Volk den Fiend verdräb'n,<lb/>
+				Moakt he ook All'n ganz licht dät Leb'n.<lb/>
+				De König Friedrich folgt doadrup,<lb/>
+				De sett't sick sülwst de Krone up,<lb/>
+				Un Friedrich Wilhelme spoart doato,<lb/>
+				Dät ook sien Soahn is herzlich froh,<lb/>
+				Dät he, wo man den Voader kränkt,<lb/>
+				Ook't rächen kann, so as he denkt.<lb/>
+				Wat segg' ick nu von'n Ollen Fritz?“<lb/>
+				Sien fürig Oog stroahlt as de Blitz,<lb/>
+				Et schleit vöär't Volk sien Herz so warm,<lb/>
+				Klook is sien Kopp un stark sien Arm,<lb/>
+				Hewft he den Krückstock un dät Schwert,<lb/>
+				Wat All's vöär Am sick dänn verföährt!<lb/>
+				Am krümmten in de söäben Joahrs<lb/>
+				De vöälen Fiend' ook nich en Hoar,<lb/>
+				Bie Proag, bie Roßbach“ schlog he se,<lb/>
+				Se leepen sick fast af de Teh,<lb/>
+				Reg. v. 1688-1713. 2 J. J. 1701.<lb/>
+				Reg. v.<lb/>
+				1713—40. * Reg. v. 1740—86.  Von 1756—<lb/>
+				63. I. J. 1757.<lb/>
+				<pb facs="../img/jung-1855/0011.jpg"/>
+				5 -<lb/>
+				Hät et bie Leuthen! öähr nich schenkt,<lb/>
+				Oähr't ook bie Zorndorf? ingedränkt.<lb/>
+				As nu de Krieg is uutgewest,<lb/>
+				Doa moakt he erst sick warm sien Nest;<lb/>
+				He namm sick siene Kinner vöär,<lb/>
+				Un sorgt as Voader dänn vöär öähr,<lb/>
+				He moakte groot nich bloot sien Land,<lb/>
+				Ook glücklich, dät is weltbekannt.<lb/>
+				De tweete Friedrich Wilhelm“ kamm<lb/>
+				Uut Hohenzollerns grooten Stamm,<lb/>
+				He hät dät Landrecht uns gegeb'n,<lb/>
+				Un Recht un Ornung vöärgeschräb'n.<lb/>
+				Noah äm kamm Friedrich Wilhelms dänn,<lb/>
+				Den wie jo den Gerechten nenn'n.<lb/>
+				De Herr, de gung so wunnerboar<lb/>
+				Mit Am dörch mänchet Unglücksjoahr;<lb/>
+				Wie hemm äm ständig doch biestoahn,<lb/>
+				Sind äm ook gärn to'r Siede goahn,<lb/>
+				Un reep Sien Volk de König up,<lb/>
+				Wie gungen up de Fiende drup.<lb/>
+				Bie d’Katzbach, Beer'n un Dennewitz<lb/>
+				Kamm't öäber se as wie de Blitz,<lb/>
+				J. J. 1757. 2 J. J. 1758. * J. J. 1763. * Reg.<lb/>
+				v. 1786—97. 5 Reg. v. 1797—1840. J. J. 1813.<lb/>
+				<pb facs="../img/jung-1855/0012.jpg"/>
+				6 —<lb/>
+				Bie Leipzig hemm wie se geschloan,<lb/>
+				Un't öähr ook in Paris gedoahn;<lb/>
+				Un sind se ook noaher wä koam,<lb/>
+				Wie schlog'n se wädder krumm un loahm.<lb/>
+				So word uns' Land ne groote Macht,<lb/>
+				Doato hät et de König bracht,<lb/>
+				Wie hemm, dät et uns All'n gefällt,<lb/>
+				Ook Ruhm gehat vöär alle Welt;<lb/>
+				Keen Kaiser, König därf wat seng'n,<lb/>
+				Se mütten't uns ook erst vöärbreng'n.<lb/>
+				As Voader hät he ook regeert,<lb/>
+				Un nie sien Herz von uns afkehrt,<lb/>
+				He hät den Freeden uns bewoahrt,<lb/>
+				Un jeden Dreier gärn gespoart,<lb/>
+				Dät män sien Volk in gooder Roh<lb/>
+				Wörr ook hier sienes Lebens froh.<lb/>
+				As nu sien felig Enne kamm,<lb/>
+				Sien Soahn ’t Regeeren" up sick namm;<lb/>
+				Wat hemm wie uns to Am gefreut,<lb/>
+				Dät et ook hüüt noch Keenen reut,<lb/>
+				De ’t män uprichtig sehen will,<lb/>
+				Wo good sien Herz is un sien Will.<lb/>
+				1 I. J. 1813.<lb/>
+				J. J. 1814. * J. J. 1815. * Im<lb/>
+				Jahre 1840.<lb/>
+				<pb facs="../img/jung-1855/0013.jpg"/>
+				7 —<lb/>
+				He hät sick uns ook ganz hengeb'n,<lb/>
+				Mit uns to sterben un to leb'n;<lb/>
+				Wie söll'n äm nu nich angehör'n?<lb/>
+				Un loaten uns dörch Ann're stör'n?<lb/>
+				Wat kann woll bäter syn vöär All'n,<lb/>
+				As wenn sick Först un Volk gefall'n?<lb/>
+				De Hohenzollern hemm't von Oll'n<lb/>
+				All öähre Tiet dörch so geholl'n;<lb/>
+				Wat Eener öähr versproaken moal,<lb/>
+				Holl'n mußt he ’t, moakt' et äm ook Quoal;<lb/>
+				Un woll'n se't hier un doa nich dohn,<lb/>
+				Se kreegen ständig öähren Lohn.<lb/>
+				Wat se von Annern dänn gewollt,<lb/>
+				Was richtig ook bie öähr as Gold;<lb/>
+				Hier gult et jo von Anfang an:<lb/>
+				En Woort, en Woort, en Mann, en Mann;<lb/>
+				„En Jeden ’t Sienigte" to geb'n,<lb/>
+				Dät is jo just öähr Woahlspruch bläb'n.<lb/>
+				Gerechtigkeit un Kriegesmoth,<lb/>
+				Beharrlichkeit in Noth un Dood,<lb/>
+				Ook Freedensleew un Voadersinn,<lb/>
+				Wo kannst Du dät woll bäter finn'n?<lb/>
+				Wo sick mit Gottesforcht dät poart,<lb/>
+				Doa is sönn Huus ook woll bewoahrt.<lb/>
+				<pb facs="../img/jung-1855/0014.jpg"/>
+				8 —<lb/>
+				Joa! joa! dät Hohenzollernhuus,<lb/>
+				Dät is un blift en Ehrenhuus;<lb/>
+				Drüm loat ick Friedrich Wilhelm leb'n,<lb/>
+				Den Gottes Gnoad uns jitzt gegeb'n:<lb/>
+				Wat He gefproaken as Sien Woort,<lb/>
+				Werd He ook holl'n an allen Oort.<lb/>
+				Was ist das für ein Mann, daß ihm Wind<lb/>
+				und Meer gehorsam ist?<lb/>
+				(Ev. Matth. 8, 23 ff. Verfaßt Anfangs Januar 1849.)<lb/>
+				As hier mit siene Jüngerschoar<lb/>
+				Noch unse Herr un Meister woar,<lb/>
+				Kamm he noah sien'n Gefall'n moal her,<lb/>
+				Un gung up't Galilä'sche Meer;<lb/>
+				He leggt sick nädder dänn un schleep,<lb/>
+				Derwiel dät Schipp up’t Woater leep.<lb/>
+				Ne Wiele gung et ook ganz good,<lb/>
+				Up't Schipp doa leed jo Keener Noth,<lb/>
+				Alleen — as et so wieder föhrt,<lb/>
+				Werd All's mit eenmoal upgestört,<lb/>
+				<pb facs="../img/jung-1855/0015.jpg"/>
+				— 9 —<lb/>
+				En Ungestüm störmt groot doaher,<lb/>
+				Un röhgt so up dät ganze Meex.<lb/>
+				Moal steeg dät Schipp wer weet wo hoch,<lb/>
+				Moal feel't wä, dåt et fast úmschlog;<lb/>
+				Et werd von Woater oft todeckt,<lb/>
+				As et in siene Noth fo steckt:<lb/>
+				Un as et nu will unnergoahn,<lb/>
+				All siene Jünger äm umstoahn.<lb/>
+				„Herr! help uns! wie verderben sünst;<lb/>
+				„Hier," schrei'n se, „wieken Minschenkünst."<lb/>
+				Doa steiht he up, bedräut den Wind,<lb/>
+				Doa süüselt et so sacht un lind<lb/>
+				Un kuum is män bekannt sien Will,<lb/>
+				Doa werd dät Meer all schwinne still.<lb/>
+				Se kieken äm verwunnert an,<lb/>
+				Un roopen: „Wat is dät vöär'n Mann,<lb/>
+				„Dät äm dät Meer un ook de Wind<lb/>
+				„So gliek nu all gehorsoam sind!<lb/>
+				Un rohig schiffen se mit äm,<lb/>
+				Se weeten, dät se'n bie sick hemm.<lb/>
+				Et gaff vöär uns ook moal ne Tiet,<lb/>
+				Wo't rohig was un oahne Striet;<lb/>
+				Wie satten ook ganz good un gär'n<lb/>
+				<pb facs="../img/jung-1855/0016.jpg"/>
+				10—<lb/>
+				In't Schipp mit unsen leewen Herrn,<lb/>
+				Doa kamm en grootet Ungestüm<lb/>
+				Im März, un kehrte Alles üm.<lb/>
+				Et bruust de Storm so höllisch her,<lb/>
+				Un wöhlt so up dät Lebensmeer,<lb/>
+				Dät Alle fast den Kopp verloar'n,<lb/>
+				As se sönn Schuckeln nu erfoahr'n;<lb/>
+				De Besten kreegen fast den Rest,<lb/>
+				Et stund jo Keener mehr recht fest.<lb/>
+				Derwiel dät hen un her so geiht,<lb/>
+				Doa is't, as of't Am nischt verschleit,<lb/>
+				De uns so lange good geföhrt,<lb/>
+				Un uns to leewen nie uphört;<lb/>
+				Fast sach et uut, as of he schleep,<lb/>
+				Wiel't Schipp dörch Wind un Wäder leep:<lb/>
+				As of he fehlt de Stüermann,<lb/>
+				De män dät Schipp regeeren kann.<lb/>
+				He oaber will dät män alleen,<lb/>
+				Dät se noch Alle letzt insehn,<lb/>
+				Dät oahne Am — dät Ding nich geiht,<lb/>
+				Mit Am — dät Voaderland besteiht.<lb/>
+				As nu de Storm män grötter wurr<lb/>
+				Ook't Wöhlen, Roasen un't Geknurr,<lb/>
+				<pb facs="../img/jung-1855/0017.jpg"/>
+				— 11 —<lb/>
+				Dät Voaderland fast unnergung,<lb/>
+				Et All doch an to bangen fung:<lb/>
+				Letzt word et ook de Dümmsten kloar,<lb/>
+				Helpt he uns nich, waßt de Gefoahr.<lb/>
+				Wat Am denn ichtens män vertru't,<lb/>
+				Hät ständig up den König schu't,<lb/>
+				Un wat Am herzlich leew gehat,<lb/>
+				Dät namm vöär't Muul nu ook keen Blatt;<lb/>
+				„Herr! help uns! sünst verderben wie:<lb/>
+				So schrä'n se. — He was all derbie.<lb/>
+				He hät uns ne Verfassung geb'n,<lb/>
+				— Gott moak Am sööt doavöär sien Leb'n!<lb/>
+				Dät he sien' Fiende all beschämt,<lb/>
+				Un rohig moakt, wat sick gegrämt:<lb/>
+				As He bedräut den Storm un't Meer,<lb/>
+				Doa word et still, ganz still ümher.<lb/>
+				Joa! alle Minschen stoahn nu still,<lb/>
+				As se nu hören, wat He will,<lb/>
+				Un kieken sick verwunnert an,<lb/>
+				Doa glöwte jo keen Minsch fast dran:<lb/>
+				Wo schlecht hemm wie den König kennt,<lb/>
+				As wie de Narr'n sind noahgerönnt!<lb/>
+				Jitzt roopen se uut Eenen Mund,<lb/>
+				Un moaken't alle Minschen kund:<lb/>
+				<pb facs="../img/jung-1855/0018.jpg"/>
+				12 —<lb/>
+				„Wat is uns' König vöär en Mann<lb/>
+				„Dät he sönn'n Storm beschwögen kann!<lb/>
+				„Wenn Am so Grootet möäglich is,<lb/>
+				„Is Gott mit Am, dät is gewiß! —<lb/>
+				„Is Gott mit Am, — sind wie mit Am,<lb/>
+				„Wie will'n keen'n ännern König hemm:<lb/>
+				„He föhrt uns dörch Gefoahr un Noth,<lb/>
+				„Wie hör'n Am an mit Good un Bloot;<lb/>
+				„He lewft vöär uns, sorgt vöär uns' Best,<lb/>
+				„Wie holl'n an Am, wie blieben fest!“ —<lb/>
+				<pb facs="../img/jung-1855/0019.jpg"/>
+				18 —<lb/>
+				Mein Vaterland.<lb/>
+				(Verfaßt im Februar 1849.)<lb/>
+				Mien Voaderland, mien Voaderland!<lb/>
+				Die hör' ick an mit Herz un Hand:<lb/>
+				O schriede furt up Diene Boahn!<lb/>
+				Loat fladdern Diene Siegesfoahn!<lb/>
+				Mien Voaderland mien Voaderland!<lb/>
+				Du allen Trüen wollbekannt!<lb/>
+				Ick bliebe früdig bie Die stoahn,<lb/>
+				Un müßt ick mit Die unnergoahn.<lb/>
+				Mien Voaderland, mien Voaderland!<lb/>
+				Lösch' uut! lösch' uut den Höllenbrand!<lb/>
+				Trett nädder düsse Nadderbrut!<lb/>
+				Wie hollen trülich bie Die unt.<lb/>
+				Mien Voaderland mien Voaderland!<lb/>
+				Schling' üm uns All' een Broderband!<lb/>
+				Dänn stoahn wie All' vöär eenen Mann,<lb/>
+				Geiht et mit Gott vöär'n König an.<lb/>
+				<pb facs="../img/jung-1855/0020.jpg"/>
+				14 —<lb/>
+				Mien Voaderland mien Voaderland!<lb/>
+				Von'n Rhein bät an den Ostseestrand!<lb/>
+				O loat uns Alle ständig Dien,<lb/>
+				Loat uns ook Königs Frünne syn! —<lb/>
+				Des Preußen Wunsch.<lb/>
+				(Verf. im August 1848.)<lb/>
+				Keem' upzund de olle Fritz<lb/>
+				Moal heraf von'n Himmelssitz,<lb/>
+				Glöw', he wörr' de Welt ümkehr'n,<lb/>
+				Un de Schreiers Mores lehr'n.<lb/>
+				Keem' he ook män ganz alleen,<lb/>
+				All dät Pack wär äm to kleen,<lb/>
+				Un de Keerls haar'n öähre Schand',<lb/>
+				Frie wär dänn dät Voaderland.<lb/>
+				Am was't ganze düütsche Riek,<lb/>
+				Am keen Kaiser, König gliek,<lb/>
+				Hät se jo to allerletzt,<lb/>
+				Afgemuckst un furtgehetzt.<lb/>
+				<pb facs="../img/jung-1855/0021.jpg"/>
+				— 15 —<lb/>
+				Dät is jitzt en Hundsgeblaff,<lb/>
+				Eener lös't den Annern af,<lb/>
+				T is bald nich mehr uuttostoahn,<lb/>
+				So kann dät nich länger goahn.<lb/>
+				Wat will'n denn de Köters uns?<lb/>
+				Doa schandeert uns Hinz un Kunz;<lb/>
+				Eener blafft den Annern up,<lb/>
+				Un toletzt schleit Alles drup.<lb/>
+				Un dät lied'n wie von dät Pack?<lb/>
+				Moakt män 'n Lock in öähren Sack!<lb/>
+				Dänn löppt alle Schmeer heruut,<lb/>
+				Un ook mit öähr Muul is't uut.<lb/>
+				Wat hemm düsse Schreiers woll<lb/>
+				Vöär uns doahn un vöär uns' Woll?<lb/>
+				Hemm uns bloot geruggeneert,<lb/>
+				'T Unnerste to boabenst kehrt.<lb/>
+				So könn'n wie nich mehr bestoahn,<lb/>
+				So mütt All's to Grunne goahn,<lb/>
+				So kann nischt nich mehr gedeihn,<lb/>
+				Keener sick sien's Lebens freu'n.<lb/>
+				Freeden will'n wie hemm in't Land,<lb/>
+				Eenigkeit in jeden Stand,<lb/>
+				Un Gerechtigkeit mütt syn,<lb/>
+				Sünsten schleit de Düwel drin.<lb/>
+				<pb facs="../img/jung-1855/0022.jpg"/>
+				16 —<lb/>
+				Kannst Du sülwer nu nich koam,<lb/>
+				Wiel Du Dienen Sitz genoahm,<lb/>
+				Wo't vöäl bäter is as hie<lb/>
+				Oller Fritz, so höre mie.<lb/>
+				Schick uns eenen klooken Mann,<lb/>
+				De dät All's regeeren kann,<lb/>
+				De ’t in Ornung Alles brengt,<lb/>
+				Un't to Roh un Freeden lenkt.<lb/>
+				Stärk' uns unsen leewen Herrn,<lb/>
+				Dät de Keerls äm goar nix scheer'n,<lb/>
+				Stärk' äm siene Voaderhand,<lb/>
+				Dät he höllt dät Voaderland.<lb/>
+				Denn dät Pack is ganz to dull,<lb/>
+				In de Städ' is't ganz von vull,<lb/>
+				Keener will wat dohn, män hemm',<lb/>
+				Eener män den Annern kämm’.<lb/>
+				Leewer Gott, Du häst so lang<lb/>
+				Immer uns geholl'n de Stang,<lb/>
+				Schluut nich uut uns uut Dien Herz,<lb/>
+				Uns tum Segen moak den März.<lb/>
+				Moak uns frie von unse Noth,<lb/>
+				Giww uns ook dät däglich Brot,<lb/>
+				Loat uns All im Rieke Dien<lb/>
+				Die, wie sünst, befoahlen syn! —<lb/>
+				<pb facs="../img/jung-1855/0023.jpg"/>
+				— 17 —<lb/>
+				Unser König.<lb/>
+				(Verfaßt im November 1848.)<lb/>
+				Uns' König is en tapprer Mann,<lb/>
+				He moakt sick all de Sporen an,<lb/>
+				Schnallt sick den Säbel üm dät Lief,<lb/>
+				Un steiht so stramm, so stolt un stief,<lb/>
+				Sett't sick dänn up den Fedderhoot,<lb/>
+				Un stiggt up't Peerd; - nu werd et good.<lb/>
+				Uns' König is en broawer Mann,<lb/>
+				He kickt sick erst de Fiende an,<lb/>
+				Dänn nimmt he se sick uppet Koarn,<lb/>
+				Dät se ook bald sien' Macht erfoahr'n;<lb/>
+				Joa, moakt he sick erst eenmoal up,<lb/>
+				Dänn geiht et ook von boaben drup.<lb/>
+				Uns' König is en wieser Mann,<lb/>
+				De immer weet, of he't ook kann,<lb/>
+				De sick de Sach' erst öäberleggt,<lb/>
+				To rechter Tiet sien Woort dänn<lb/>
+				seggt;<lb/>
+				Dät Keener et noaher beduurt,<lb/>
+				Hät äm de Tiet to lang erst dnurt.<lb/>
+				2<lb/>
+				<pb facs="../img/jung-1855/0024.jpg"/>
+				18 -<lb/>
+				Uns' König is en klooker Mann,<lb/>
+				He süht sick erst de Sachen an,<lb/>
+				Un weet he erst män, wo se stoahn,<lb/>
+				Dänn is he ook all up de Boahn;<lb/>
+				He kickt sick dänn nich lang erst üm,<lb/>
+				He geiht drup los, — wat froagt he drüm!<lb/>
+				Uns' König, en gerechter Mann,<lb/>
+				Gift Jeden, wat he lieden kann;<lb/>
+				De Gooden is he immer good,<lb/>
+				De Bösen krieg'n de Schwärenoth;<lb/>
+				Un wer äm nich gehorken will,<lb/>
+				Den stoppt he’t Muul un moakt äm still.<lb/>
+				Uns' König is en gooder Mann,<lb/>
+				He nimmt sick sienes Volkes an,<lb/>
+				Vergitt ook nie de Armen nich,<lb/>
+				Un is to öähr barmherziglich;<lb/>
+				He weet, dät he up Tritt un Schritt<lb/>
+				Den leewen Gott vertreden mütt.<lb/>
+				Uns' König is en leewer Mann,<lb/>
+				Is fründlich gegen Jedermann;<lb/>
+				Kümmst Du to äm, he hört Die gärn<lb/>
+				Erwies't sick Die as gnäd'gen Herrn,<lb/>
+				Un sühst Du äm in't Ooge rin,<lb/>
+				Du müttst nu eenmoal good äm syn.<lb/>
+				<pb facs="../img/jung-1855/0025.jpg"/>
+				19 —<lb/>
+				Uns' König is en grooter Mann,<lb/>
+				He föhlt, dät he oahn Gott nischt kann;<lb/>
+				Wiel he von Gott män All's will hemm,<lb/>
+				Is Gottes groote Gnoad mit äm<lb/>
+				He geiht mit Gott sien'n schwoaren Gang,<lb/>
+				Un Gott mit äm sien Lebelang.<lb/>
+				Joa tapper, broav un wies’ un klook<lb/>
+				Is he, gerecht, good, leew, groot ook;<lb/>
+				Wer hät sönn'n König so as wie?<lb/>
+				He koam moal her un wies' äm mie! —<lb/>
+				Drüm will ick ook von Herzen gäru<lb/>
+				Am ehr'n as König un as Herrn.<lb/>
+				2*<lb/>
+				<pb facs="../img/jung-1855/0026.jpg"/>
+				20 —<lb/>
+				Die Rundschau.<lb/>
+				(Verfaßt im September 1848.)<lb/>
+				Wat dät bedrifft, mien leewer Mann<lb/>
+				Dät ick Am uut sall leggen,<lb/>
+				Wo't zund woll uutsüht üm un an,<lb/>
+				Dät lett sick schwoar so seggen;<lb/>
+				T is jo up't ganze Erdenrund<lb/>
+				Jitzt, glöw He’t män, ganz kunterbunt.<lb/>
+				Wo't uutsüht up de ganze Welt,<lb/>
+				Dät will He doch nich weeten?<lb/>
+				Woll ick dät seng'n, wo't is bestellt,<lb/>
+				Doa wörr' ick fehl oft scheeten:<lb/>
+				Et brummt woll Mäncher wat in'n Boart<lb/>
+				Von düt un dät, ’t hät doch nich Oart.<lb/>
+				Wenn wie män wüßten, wo’t hier steiht,<lb/>
+				Wie wüßten mehr, as good is,<lb/>
+				Et summt un brummt jo, wie ’t itzt geiht,<lb/>
+				Un lärmt noch mehr, as noth is:<lb/>
+				Kuum is et still an düssen Oort,<lb/>
+				Glieks hört man wä, dät ’t doa rumort.<lb/>
+				<pb facs="../img/jung-1855/0027.jpg"/>
+				21<lb/>
+				Wat itzt se dohn in Oaferka,<lb/>
+				Wo noah wie vöär se roben,<lb/>
+				In Oasien un Amerika,<lb/>
+				Wo se noch letzt sick schroben,<lb/>
+				Wat in Neuholland se gedoahn,<lb/>
+				Dät scheert uns nix, dät loat'n wie goahn.<lb/>
+				Män wo bie uns hier werd dulleert,<lb/>
+				Geschrä'n, gepucht, geröbert,<lb/>
+				Gesengt, gebrennt, geruggeneert,<lb/>
+				Geschoat'n un rümgestöbert,<lb/>
+				Dät is all goar nich to beleb'n<lb/>
+				Hemm will'n se All, keen Minsch will geb'n.<lb/>
+				Dät Düllste von dät Dulle is:<lb/>
+				'T is so in alle Lanne;<lb/>
+				Nix steiht mehr fest, nix is mehr wiß:<lb/>
+				Se weren All to Schanne.<lb/>
+				Wo man ook henhörkt, balgt man sick,<lb/>
+				Un liggt in d' Hoar sick fuustendick.<lb/>
+				Sönn Fru'nsminsch, wenn't ne Jumfer is,<lb/>
+				De hät ook öähre Mucken,<lb/>
+				Ne Olle erst hät öähre Riss,<lb/>
+				Nog kann de nie nich schlucken,<lb/>
+				Un geiht et de in'n Kopp moal rüm,<lb/>
+				Un goar in't Lief, dänn is't erst schlimm.<lb/>
+				<pb facs="../img/jung-1855/0028.jpg"/>
+				22<lb/>
+				Nu hemm se in de School mie lehrt,<lb/>
+				Europa wär sönn Mäken,<lb/>
+				Up d' Koart, doa stünn se män verkehrt;<lb/>
+				So däh de Köster spräken:<lb/>
+				Dänn is't keen Wunner, wenn’t so steiht,<lb/>
+				Dät All's verkehrt hier bie uns geiht.<lb/>
+				Is't woahr nu, dät se'n Jumfer is,<lb/>
+				(Mientwegen will ick't lieden,)<lb/>
+				Ne olle is et dänn gewiß,<lb/>
+				Dät därf keen Minsch afstrieden,<lb/>
+				Ne reene? — na! dät weet ick nich,<lb/>
+				Se hemm se Alle uppen Strich.<lb/>
+				„Von Kopp to Fööten!" heet et jo,<lb/>
+				So will'n wie't denn ook moaken,<lb/>
+				Beschrieben will dät Ding ick so<lb/>
+				Dörch alle Tung'n un Sproaken,<lb/>
+				Dät Am de Kopp ganz döämlich werd,<lb/>
+				He sülwst nich weet, steiht noch de Erd.<lb/>
+				Dät Boabenst von de Jumfer is<lb/>
+				Heet Portegal mit Noamen,<lb/>
+				Ne Huwe; na, un däs gewiß,<lb/>
+				Nu mütt dät Spoanien koamen,<lb/>
+				Dät moakt, (wo't Eenen doch bedrücht!<lb/>
+				Vöär de Tiet noch en good Gesicht.<lb/>
+				<pb facs="../img/jung-1855/0029.jpg"/>
+				— 28 —<lb/>
+				Ick weet nich, wat He doavon höllt,<lb/>
+				Wenn Fru'ns dät Huus regeeren,<lb/>
+				Mie is't, hät He sick't Lief verköllt,<lb/>
+				As soll Am 'n Wief koreeren;<lb/>
+				Nä! wo't wat antofoaten gift,<lb/>
+				Doa deiht en Mann noth, doabie blift’t.<lb/>
+				Na! süht He! doa hemm Fru'ns ’t Regeer'n<lb/>
+				'T sind twee unschull'ge Dinger,<lb/>
+				Doa deiht de Den, de Den koj'neer'n,<lb/>
+				Keen Mann süht up de Finger:<lb/>
+				Doa is't denn all mien Lew so west,<lb/>
+				Et spookt un rookt dörch't ganze Nest.<lb/>
+				In Frankriech, dät is öähre Brust,<lb/>
+				Doa möäg'n se gärne fräten,<lb/>
+				Dät is nu Am, wie mie bewußt,<lb/>
+				Man kann to vöäl ook äten:<lb/>
+				Un geiht dät Rülpsen erst moal an,<lb/>
+				Weet Keener, wo et ennen kann.<lb/>
+				Doa woll'n se nu en Insehn hoan,<lb/>
+				Se soll'n dät loaten blieben;<lb/>
+				Doa gung et los, de hemm sick schloan,<lb/>
+				Dät is nich to beschrieben:<lb/>
+				De König reet unt vöät dät Pack,<lb/>
+				Jitzt knufft un pufft se 'n Kaff=in=Sack.*)<lb/>
+				*) Anmerkung: Cavaignac.<lb/>
+				<pb facs="../img/jung-1855/0030.jpg"/>
+				24 —<lb/>
+				Twee Arme hät sönn Minsch as wie,<lb/>
+				Een'n linken un een'n rechten;<lb/>
+				T was woll in England rohig nie,<lb/>
+				Doch deiht män Welschland fechten;<lb/>
+				Doa oaber geiht et ganz to dull,<lb/>
+				Von boaben is't bät unnen vull.<lb/>
+				De Midden will'n den Poapst woll hemm',<lb/>
+				He schried't män vöär to wenig,<lb/>
+				De Boaben will'n dät Ostriek kämm',<lb/>
+				De Unnern öähren König,<lb/>
+				Brummt zund un knurrt öähr Berg nich so,<lb/>
+				Up d’ Insel geiht ’t up Mordio.<lb/>
+				So wie et mit de Arme is,<lb/>
+				So is't ook dichte drunner,<lb/>
+				De links doa holl'n de König wiß,<lb/>
+				Rechts kreeg'n se sick moal unner,<lb/>
+				In Belgien un in't Neederland<lb/>
+				Is't handlich, ook in't Schweizerland.<lb/>
+				Is't Herz gesund, dänn schoadt't Am nix,<lb/>
+				Stiggt't Am ook moal to Koppe,<lb/>
+				Dänn helpt Am, Fründ, as wie der Blix,<lb/>
+				Glieks eene Hoffmannsdroppe:<lb/>
+				Pucht oaber dät to stark un luut,<lb/>
+				Kümmt woll en Schlag, un wupp! is't unt.<lb/>
+				<pb facs="../img/jung-1855/0031.jpg"/>
+				25 —<lb/>
+				Dät Düütschland is dät Jumfernherz,<lb/>
+				Dät mütt wat Grootet sinnen,<lb/>
+				Unrohig is et allerwärts<lb/>
+				Kann sick noch goar nich finnen;<lb/>
+				Künn dät erst frie un früdig schloan,<lb/>
+				Würr' et ook woll de Jumfer goahn.<lb/>
+				Dät ook in sönnen Jumfernlief<lb/>
+				Noch Lung' un Leber sitten,<lb/>
+				Jä mehr noch, werd oahn mien Bedriew<lb/>
+				He sülwst sick seng'n; denn midden<lb/>
+				Mank dät Gebeen, mank Kopp un Hals<lb/>
+				Doa liggt in'n Buuk jo't Annre alls.<lb/>
+				Dät Prüßen gung in Düütschland up,<lb/>
+				Doa word de Buuk noch vuller;<lb/>
+				In Posen gung et düchtig drup,<lb/>
+				In Ungern woll noch duller;<lb/>
+				De Pol'n, Krooat'n, Siebenbörg'n,<lb/>
+				Wer weet, ob de sick nich noch wörg'n?!<lb/>
+				De Hinnerst, dät is de Törkei,<lb/>
+				Doa dohn se mänchmoal brummen,<lb/>
+				De Griechen moak'n ook moal ’n Geschrei,<lb/>
+				Doch deiht et bald verstummen,<lb/>
+				Un knurrt un brummt et ook in't Lief,<lb/>
+				Et höllt sick doch noch handlich stief.<lb/>
+				<pb facs="../img/jung-1855/0032.jpg"/>
+				— 26 —<lb/>
+				Wenn't mie in'n Buuk moal rümmer geiht,<lb/>
+				Dänn wärm' ick mie den Moagen,<lb/>
+				Mie dücht, wat sönnen Keerl good deiht,<lb/>
+				Würr' ook sönn Minsch behoagen;<lb/>
+				De — hät sick bloot ne Schört vöärhang'n:<lb/>
+				Ob öähr dät helpt, sall mie verlang'n.<lb/>
+				Zund is et schlimmer noch geworr'n,<lb/>
+				Ganz kribblig word de Däne<lb/>
+				Um Schleswig=Holsteen hemm vöär Zorn<lb/>
+				Se knirscht män mit de Tähne:<lb/>
+				Un hemm se jo de Dänen schloan,<lb/>
+				De Ratzen sind up't Woater goahn.<lb/>
+				De Schweden keemen angeflitzt,<lb/>
+				To Hülp' ook de Norwegen;<lb/>
+				Jitzt werd jo Allens upgehitzt,<lb/>
+				Glieks will'n se Alls uutfegen;<lb/>
+				Män — as man dacht, nu geiht et drup,<lb/>
+				Doa hört de Krieg geschwinne up.<lb/>
+				De Knee hemm se sick so gestärkt:<lb/>
+				Wer weet, of't so werd blieben?<lb/>
+				Dät oaber hemm se sick woll märkt,<lb/>
+				Se mütten't änners drieben:<lb/>
+				So blift et nich, dät werd wä schlimm,<lb/>
+				Kehr'n se dät Ding nich gänzlich üm.<lb/>
+				<pb facs="../img/jung-1855/0033.jpg"/>
+				27<lb/>
+				Wat nu de Beene, Fründ, bedrifft,<lb/>
+				Un beede Fööt bät unnen,<lb/>
+				Doa kümmt woll'n Annrer, de beschrift,<lb/>
+				Wo Rußland is gesunnen;<lb/>
+				Dät blift jo Alls uns togedeckt,<lb/>
+				Wiel een Rock män dät Alls verstäkt.<lb/>
+				Bloot hinnen hangt sönn Schwanz noch dran,<lb/>
+				De werd towiel'n gelüftet,<lb/>
+				Dät hört sick sööt, ook suur moal an,<lb/>
+				So as et groade düftet;<lb/>
+				Doch is de Stank to groot ens west,<lb/>
+				Dänn blieb'n se schullig uns den Rest.<lb/>
+				Von unnen kamm de Kollra ook<lb/>
+				So mälig rupgetoagen;<lb/>
+				He kann sick denken, wat vöär'n Spook<lb/>
+				De Jumfer kreeg in'n Moagen!<lb/>
+				Dät fehlt öähr noch to öähre Loos,<lb/>
+				Nun gung't von unn'n un boaben los! —<lb/>
+				Nu stell He moal dät Minsch sick vöär,<lb/>
+				As ick se Am beschräben!<lb/>
+				Dät kullert, bullert jo in öähr,<lb/>
+				Kuum hät se noch dät Leben:<lb/>
+				Wat dät sall wer'n! ick weet et nich,<lb/>
+				Mie deiht se leed ganz mörderlich.<lb/>
+				37<lb/>
+				<pb facs="../img/jung-1855/0034.jpg"/>
+				28 —<lb/>
+				Wenn nich de rechte Docter kümmt,<lb/>
+				Un deiht an'n Puls öähr föhlen<lb/>
+				Oähr nich verschrift, wat in se nimmt,<lb/>
+				Dät Bloot öähr aftoköhlen;<lb/>
+				Dänn helpt keen Huw', keen Schört, keen Rock,<lb/>
+				Dänn piept se woll upit letzte Lock.<lb/>
+				Ick denk, mien Fründ wie wünschen öähr,<lb/>
+				Dät se mag bald genesen;<lb/>
+				Et kümmt mie frielich mänchmoal vöär,<lb/>
+				As wär't mit öähr gewesen:<lb/>
+				Alleen — wie stoahn in Gottes Hand,<lb/>
+				He sörg vöär öähr un unse Land.<lb/>
+				Wenn he dät Ding mit Macht angrippt,<lb/>
+				Hät't good mit uns beschloaten,<lb/>
+				Dänn kann, wenn ook dät Schipp moal wippt,<lb/>
+				De Storm et doch nich foaten;<lb/>
+				Loat He uns tru'n den grooten Mann,<lb/>
+				De Wind un Meer beschwögen kann!<lb/>
+				<pb facs="../img/jung-1855/0035.jpg"/>
+				29 —<lb/>
+				Die National=Versammlung.<lb/>
+				(Verfaßt im November 1848.)<lb/>
+				Ick heb all lang mit miene Fru<lb/>
+				Rüm doctert un koreeret,<lb/>
+				Letzt werd man oaber ook ganz schu,<lb/>
+				Werd man so groff balbeeret:<lb/>
+				Wat hemm de Keerls öähr all verschräb'n!<lb/>
+				De hät öähr düt, de dät ingeb'n,<lb/>
+				Un kuum is Eener weggewest,<lb/>
+				Doa satt de Annre all in't Nest.<lb/>
+				Se namm et ook gedullig in,<lb/>
+				— Wat will sönn Fru ook moaken?<lb/>
+				’T was oft woll nich noah öähren<lb/>
+				Sinn,<lb/>
+				De — wußten good to stroaken!<lb/>
+				En Jeder sprack et öähr so vöär;<lb/>
+				Verschräw' he wat, dät hülpe öähr,<lb/>
+				Jä! uut de Pull wär't noch nich runt,<lb/>
+				Dänn wär't all mit de Krankheit uut.<lb/>
+				Dät sind män Alles Löägen west,<lb/>
+				Dät is jo Alls so bläben;<lb/>
+				De Fru bleef ständig in öähr Nest,<lb/>
+				So vöäl se ook verschräben.<lb/>
+				<pb facs="../img/jung-1855/0036.jpg"/>
+				30.<lb/>
+				Ja! wenn ick sall uprichtig syn,<lb/>
+				Se kamm män immer wieder rin;<lb/>
+				Letzt wurr ick sülwer ook ganz dull,<lb/>
+				Up't Fenster stund jo Pull up Pull.<lb/>
+				Erst — gung et öähr noch handlich good,<lb/>
+				As se noch nischt innoamen;<lb/>
+				Et schient, as wörr't öähr ook to'r Noth<lb/>
+				Oahn Medezin bekoamen:<lb/>
+				Nu frielich! ’t was up allen Fall<lb/>
+				Oähr good to Moth nich öäberall,<lb/>
+				Alleen — dät was so wiet nich her,<lb/>
+				De linke Siet bloot schmerzte öähr.<lb/>
+				Toerst — gung et noch immer an,<lb/>
+				Doa leet sick nich vöäl seggen;<lb/>
+				Ook wat — gewennte se sick dran,<lb/>
+				Woll sick de Schmerz nich leggen:<lb/>
+				Alleen as se nu doato kümmt,<lb/>
+				Un Droppen öäber Droppen nimmt,<lb/>
+				Doa treckt von d' linke Siet de Schmerz<lb/>
+				Män höhger rup fast bät an't Herz.<lb/>
+				Dät word dänn mänchmoal ganz to schlimm,<lb/>
+				'T was kuum noch antosehen;<lb/>
+				Ick dacht, gung't öähr in't Lief so rüm,<lb/>
+				Nu is't mit öähr geschehen.<lb/>
+				Wenn ick dänn ook tum Docter leep,<lb/>
+				Un schwinn to siene Künste greep,<lb/>
+				<pb facs="../img/jung-1855/0037.jpg"/>
+				31 —<lb/>
+				Wat kunn ick doa woll bäters dohn?<lb/>
+				Unglücks genog haar ick so schon.<lb/>
+				Ick weet nich, wo se män to kamm,<lb/>
+				Word öähr nu wat verschräben,<lb/>
+				Dät se't von Jeden ook innamm,<lb/>
+				Un kost't öähr fast dät Leben:<lb/>
+				Ick glöw, dät kamm woll doavon her,<lb/>
+				Et steeg män mehr to Koppe öähr,<lb/>
+				Se muchte letzt ook kuum alleen,<lb/>
+				Wat öähr woll good wär, noch insehn.<lb/>
+				Kümmt nu de Krankheit erst an't Herz,<lb/>
+				Stiggt se ook hoch to Koppe,<lb/>
+				Dänn werd jo grötter män de Schmerz,<lb/>
+				Dänn helpt nich Drank,-nich Droppe:<lb/>
+				Geiht dänn de Oaden nich bald uut,<lb/>
+				Schmitt sick de Krankheit sülwst oft ruut;<lb/>
+				Drüm, dacht ick, wie will'n ’t moal afwoahr'n,<lb/>
+				Dänn könn'n wie Möh un Geld noch spoar’a.<lb/>
+				Wie hemm denn ook ganz lange woahrt,<lb/>
+				Et solle bäter weren;<lb/>
+				Hemm sünst ook woll de Möh nich spoart,<lb/>
+				Se — kreeg män mehr Beschweren.<lb/>
+				Letzt säh'n wie uns denn Alle an,<lb/>
+				Un frog'n uns, wat dät weren kann;<lb/>
+				Alleen — keen Minsch, de wußte Roath,<lb/>
+				Toletzt — word ick ook ganz kasproat.<lb/>
+				<pb facs="../img/jung-1855/0038.jpg"/>
+				32 —<lb/>
+				Doa is denn letzt en Docter koam'n,<lb/>
+				— Ick mütt den Mann woll loaben,<lb/>
+				De sach se sick in Gottes Noam'n,<lb/>
+				Von unnen an båt boaben;<lb/>
+				De meint: „De Fru! — de mütt up't Land,<lb/>
+				„Dät is jo Gott un d' Welt bekannt,<lb/>
+				„Wo’t goar to sehr unrohig is,<lb/>
+				„Doa werd en Kranker kränker wiß.<lb/>
+				„Wer so as de doanädder liggt,<lb/>
+				„De därf in d' Stadt nich blieben;<lb/>
+				„Wenn se de Dood nu unnerkriggt,<lb/>
+				„Dänn helpt uns keen Verschrieben:<lb/>
+				„Mit öähre Nerwen steiht et schlimm,<lb/>
+				T geiht öähr in't ganze Lief jo rüm,<lb/>
+				„Kriggt se uns hier moal'n grooten Schreck,<lb/>
+				„Dänn liggt se uns ook glieks in'n Dreck.<lb/>
+				„Dät kümmt jo hier ganz licht ens vöär,<lb/>
+				„Dät se moal rüm dulleeren;<lb/>
+				„Dänn gift et Lärm, ook Knuff mankher,<lb/>
+				„Wenn se so rüm regeeren:<lb/>
+				„Keem' nu sönn Klump noch goar erst her,<lb/>
+				„Un stellt' sick up hier vöär de Döär,<lb/>
+				„Gäw' et Spetoakel dänn vullup,<lb/>
+				„Ick glöw, se gůng’ uns groade drup.<lb/>
+				Doa gung ick denn to miene Fru,<lb/>
+				Un heb se vöäl gebäden:<lb/>
+				<pb facs="../img/jung-1855/0039.jpg"/>
+				33<lb/>
+				„Doh mie et to Gefall'n doch nu,<lb/>
+				„Du häst so vöäl all läden:<lb/>
+				„Du sast jo män up't Land ruutgoahn,<lb/>
+				„Doa werd et mit die bäter stoahn,<lb/>
+				„Du sast män sehn, doa is et still<lb/>
+				„Doa werd et good - un ook ganz hill."<lb/>
+				Up d'eene Siet, — doa woll se hen,<lb/>
+				Up d' ännre, — woll se blieben;<lb/>
+				Moal lagg se still, moal ruckt se dänn,<lb/>
+				'T is nich good to beschrieben:<lb/>
+				Ach Gott! et fatt mien armet Wief<lb/>
+				De Unroh goar to sehr in't Lief;<lb/>
+				De reet se hen un reet se her,<lb/>
+				Un hadde keene Gnoad mit öähr.<lb/>
+				Nu oaber word et erst recht schlimm,<lb/>
+				Ick sach't mit Angst un Beben;<lb/>
+				Moal schrä se los, schmeet sich moal rüm,<lb/>
+				Kunn sterben nich, nich leben:<lb/>
+				Dät was ne Noth! man glöwt et nich,<lb/>
+				Et was doch goar to jämmerlich! —<lb/>
+				Wat deiht man, geiht et Eenen so,<lb/>
+				In siene Angst denn nu derto? -<lb/>
+				Oähr Tostand röhgt noch Annre up,<lb/>
+				T geiht Vöäle noch to Herzen;<lb/>
+				Jä! Mänche feelen súlwst doadrup,<lb/>
+				To linnern öähre Schmerzen,<lb/>
+				<pb facs="../img/jung-1855/0040.jpg"/>
+				34 —<lb/>
+				Un meinten, wenn se sülwer keem'n,<lb/>
+				Un öährer orndlich sick annehm'n,<lb/>
+				Dänn würr et mit öähr bäter goahn,<lb/>
+				Un et nich so vertwiefelt stoahn.<lb/>
+				De Docter oaber hät geseggt,<lb/>
+				De Roh wär öähr dät Beste;<lb/>
+				He hät et streng mie upgeleggt:<lb/>
+				„Dät holl He jo hůbsch feste,<lb/>
+				„Meint Eener et ook noch so good,<lb/>
+				„He brengt öähr män noch gröttre Noth:<lb/>
+				„Loat He jo Keenen jitzt to öähr,<lb/>
+				„Un wenn et sülwst de Düwel wär!"<lb/>
+				Twee oaber haar'n ’t sick vöärgenoam,<lb/>
+				Se woll'n et doch versööken;<lb/>
+				De sind denn, Gott weet wo, herkoam,<lb/>
+				In Still'n öähr wat to reeken:<lb/>
+				Dät solle bäter woll anschloan,<lb/>
+				Alleen — se sind doch ook bald goahn,<lb/>
+				Se säh'n se an, namm'n öähren Paß,<lb/>
+				Un mit öähr — bleef et, as et was.<lb/>
+				De Eene haar den Rapps nu goar,<lb/>
+				Dörch Sümpartie to heelen:<lb/>
+				Ick glöw, dät dät sönn Rappschoart woar,<lb/>
+				Ick — mag nischt mit äm deelen;<lb/>
+				De spöälte keen uprichtig Spöäl,<lb/>
+				He wußt de Annern goar to vöäl!<lb/>
+				<pb facs="../img/jung-1855/0041.jpg"/>
+				35 —<lb/>
+				Wer Annern goode Lehren gift,<lb/>
+				De kiek män erst, wo he’t bedrift.<lb/>
+				He sä, dät he et good verstünn,<lb/>
+				So annen Puls to föhlen,<lb/>
+				Dät he hier ook woll wat upfünn,<lb/>
+				Dät heete Bloot to köhlen:<lb/>
+				He wörr, so vöäl as ick vernoam'n,<lb/>
+				As Freedensboade wädder koam'n. -<lb/>
+				De Keerl sach mie män nich noah uut,<lb/>
+				He haar woll bloot 'ne groote Schnuut.<lb/>
+				De Annre was en Baß=von=Mann,<lb/>
+				De däh mie good gefallen;<lb/>
+				De sach se sick ganz rohig an,<lb/>
+				Un sprack ook gued to Allenz<lb/>
+				He meint: „Et is woll frielich schlimm,<lb/>
+				„Alleen scheert Ju to vöäl nich drüm!<lb/>
+				„Werd't ook mit öähr woll gliek nich good,<lb/>
+				„To groot is doch noch nich de Noth.<lb/>
+				„Et werd woll'n bitschen langsoam goahn,<lb/>
+				„Man mütt et sacht afwoahren;<lb/>
+				„Bliewft män bie Juen Docter stoahn,<lb/>
+				„De werd se woll bewoahren.<lb/>
+				„Kümmt se in d' reene Luft herunt,<lb/>
+				„Doa geiht öähr nich de Oaden uut,<lb/>
+				„Un werd se frie hier von de Haft,<lb/>
+				„Kriggt se wä in de Knoaken Kraft."<lb/>
+				<pb facs="../img/jung-1855/0042.jpg"/>
+				36 —<lb/>
+				Drüm is't ook woll dät Allerbest,<lb/>
+				— Se mütt sick moal drin finnen,<lb/>
+				—<lb/>
+				Wie trecken ruut män uut dät Nest,<lb/>
+				Wat will'n wie uns besinnen?<lb/>
+				Hier is et doch män immer so<lb/>
+				Doa buuten hät se goode Roh,<lb/>
+				Doa is de Luft gesund un reen,<lb/>
+				Doa könn'n wie’t dänn ganz sacht afsehn. —<lb/>
+				Von Gottes Guaden.<lb/>
+				(Verfaßt im November 1848.)<lb/>
+				Von Gottes Gnoaden bin ick doch<lb/>
+				Dät, wat ick bin un bliewf't ook noch,<lb/>
+				Un woll'n ’t ook Vöäle hinnerdrieb'n,<lb/>
+				Von Gottes Gnoaden wer ick't blieb'n.<lb/>
+				Hollt, Lüüde! dät moal wiß un fest,<lb/>
+				Ick bin 'n ganz schlechter Keerl gewest,<lb/>
+				Ick heb so vöäle Minschen schunn'n,<lb/>
+				Mie nich an Gott un Recht gebunn'n.<lb/>
+				<pb facs="../img/jung-1855/0043.jpg"/>
+				37 —<lb/>
+				Et leet sick vöäl doavon vertell'n;<lb/>
+				Ick will Ju dät män noch vermell'n,<lb/>
+				Ick heb so Schlimmet vöärgenoam,<lb/>
+				Letzt bin ick up d' Galeeren koam.<lb/>
+				Doa oaber bin ick in mie goahn,<lb/>
+				Un heb mit Gott mien' Tiet untstoahn,<lb/>
+				Un was ick erst en Schinnerknecht,<lb/>
+				Gott hulp mie letzt doch wä torecht.<lb/>
+				Jitzt, dät is Gott un d' Welt bekannt,<lb/>
+				Jitzt heb ick Huus un Hof un Land,<lb/>
+				Ook eene Fru, un de is good,<lb/>
+				Un Kinner nog, as Melk un Bloot.<lb/>
+				Ick bin nu nich so döämelich,<lb/>
+				Dät heb ick doch dörch mie woll nich?<lb/>
+				Nä! doabie blieb ick feste stoahn:<lb/>
+				Dät hät bloot Gottes Gnoade doahn.<lb/>
+				Helpt sönnen Keerl, as mie, nu Gott,<lb/>
+				Un moakt all miene Fiend' tum Spott,<lb/>
+				Wat werd he nich den König dohn!<lb/>
+				De is von Gottes Gnoaden schon.<lb/>
+				Am werd ook Gottes Gnoad biestoahn,<lb/>
+				Dät Alles noch werd good uutschloan;<lb/>
+				Dät, Lüüde! is un blift mien Sinn,<lb/>
+				Von Gottes Gnoaden mütt he syn.<lb/>
+				<pb facs="../img/jung-1855/0044.jpg"/>
+				38<lb/>
+				„Von Gottes Gnoaden mükt He syn!"<lb/>
+				So reepen All nu hinnerdrin,<lb/>
+				Un schwinn sind se doabie un schrieb'n:<lb/>
+				„Von Gottes Gnoaden mücht He blieb'n!“<lb/>
+				Gebet für den König.<lb/>
+				Am 29. November 1848.<lb/>
+				Ick heb vöär unsen leewen Herrn,<lb/>
+				Die oft all, Gott, gebäden;<lb/>
+				Du sühst et jo ook goar to gärn,<lb/>
+				Un häst et woll geläden.<lb/>
+				Un heb ick Am an't Herz Die leggt,<lb/>
+				Du häst mie ook erhöret;<lb/>
+				Häst frielich mie in Angst ook brächt,<lb/>
+				Haarst Du Am wat inröhret.<lb/>
+				Alleen Du moaktest et wä good,<lb/>
+				Am gaff jo Diene Gnoade,<lb/>
+				Blift de Am män, dänn hät't nich Noth,<lb/>
+				Dänn deiht Am Keener Schonde.<lb/>
+				<pb facs="../img/jung-1855/0045.jpg"/>
+				39 —<lb/>
+				Hemm ook de ollen Schinnerknecht'<lb/>
+				Am lästert un schandeeret,<lb/>
+				Du häst Am doch sien goodet Recht<lb/>
+				Erholl'n un Am geehret.<lb/>
+				Hüüt oaber heb ick't Herz so vull,<lb/>
+				Ick mütt et Die uutschütten,<lb/>
+				Ick glöw, et wörr ook janz to dull,<lb/>
+				Hörst Du nich miene Bidden.<lb/>
+				Giff Am en Herz, recht wies' un warm,<lb/>
+				Vull Königes=Gedanken,<lb/>
+				Ook tappern Moth un starken Arm,<lb/>
+				Un loat Sien Volk nich wanken!<lb/>
+				Giff Am noah Diene Voadergnoad<lb/>
+				Ook Deener, trü' un feste,<lb/>
+				De ständig weeten gooden Roath,<lb/>
+				Wat Am un uns dät Beste.<lb/>
+				Erholl Am en getrostet Herz<lb/>
+				Un giff Am doato Segen,<lb/>
+				Dät Am Sien Volk, noah Sienen Schmerz,<lb/>
+				In Leewe kümmt entgegen.<lb/>
+				Erholl Am Siene goode Fru,<lb/>
+				Se is Am goar to nödig,<lb/>
+				Was fief un twintig Joahr all nu,<lb/>
+				In Leew Am jo erbödig.<lb/>
+				<pb facs="../img/jung-1855/0046.jpg"/>
+				40<lb/>
+				Joa, leewer Gott, Du werst et dohn,<lb/>
+				Werst Die nich lang bedenken;<lb/>
+				Nich woahr? Du blifst Sien Schild un Lohn,<lb/>
+				Un werst de Keerls nischt schenken? -<lb/>
+				Die Verfassung vom 5. Dezember 1848.<lb/>
+				(Verfaßt im Dezember 1848.)<lb/>
+				Wo ick up hofft in mienen Herzen,<lb/>
+				Dät hemm wie nu, un oahne Schmerzen,<lb/>
+				Woran so Vöäl ümsünst gekoakt,<lb/>
+				Hät d' König nu alleen gemoakt.<lb/>
+				De Keerls hemm doa so lang gesäten,<lb/>
+				Geschrä'n un ’t groote Muul upräten;<lb/>
+				Ick — bliebe ständig doabie stoahn:<lb/>
+				Wat kamm an't Licht? wat hemm se doahn?<lb/>
+				Doa hät män Eener'n Ännern bäten,<lb/>
+				Joa Eener'n Ännern fast upfräten,<lb/>
+				Letzt hemm se sick denn ook vertär't;<lb/>
+				So as man schmeert, man jo ook föährt.<lb/>
+				<pb facs="../img/jung-1855/0047.jpg"/>
+				41 —<lb/>
+				Dät fund sick erst män ganz allmälig,<lb/>
+				Letzt wurr'n se borst'ger dänn un wählig;<lb/>
+				Et schmeckte öähr dät Aten good,<lb/>
+				An Geld! — doa leed jo Keener Noth.<lb/>
+				Is öähr noch wat in'n Weg sünst koamen,<lb/>
+				Dät hemm se ook ganz gärn mitnoamen;<lb/>
+				Mie sülwst is dät in d' Stadt passeert,<lb/>
+				Doa heb ick se ook kennen lehrt.<lb/>
+				Letzt bin ick moal heringefoahren,<lb/>
+				Un haar to'n Kist dät Strick verloaren,<lb/>
+				Ook Pinnen fehlten mie derto;<lb/>
+				Dät döägt up d' Post nich, brengt man’t so.<lb/>
+				Uns' Preestern haar se mie mitgeben,<lb/>
+				De haar an öähre Söähn' geschräben;<lb/>
+				„Is ook de Post, seggt se, wat wiet,<lb/>
+				„Brengt se män hen to rechter Tiet!"<lb/>
+				Doa roop ick schwinn noah miene Frünne,<lb/>
+				Of Eener wo, wat noth wär, fünne:<lb/>
+				Doa kümmt ook all to mie en Mann,<lb/>
+				De sach sick erst sien Sackuhr an.<lb/>
+				Dänn moakt he schwinn sick an de Kiste,<lb/>
+				As of he Alls ganz good all wüßte,<lb/>
+				Schleit Pinnen rin, binnt fest se to,<lb/>
+				Un geiht mit af: — dät gung män so.<lb/>
+				<pb facs="../img/jung-1855/0048.jpg"/>
+				42 —<lb/>
+				Ick mußt mit äm doch dröäber spräken,<lb/>
+				Worüm he noah de Uhr haar käken.<lb/>
+				„Nu!" seggte dänn de goode Mann,<lb/>
+				„Um näg'n Uhr geiht de Sitzung an.<lb/>
+				„Doa därf ick nich as Linker fehlen,<lb/>
+				„Sünst würr'n mie d' Annern good ankehlen;<lb/>
+				„Alleen — ick goah den Weg jo lang,<lb/>
+				„Doa doh ick gärn noch düssen Gang." —<lb/>
+				Dät hemm de Keerls sick män vöärnoamen,<lb/>
+				Dät se to vöäle Geller koamen;<lb/>
+				Je länger nu de Sache duur't,<lb/>
+				Je düller weren wie beluur’t.<lb/>
+				Doa is et män erst bie versehen,<lb/>
+				— Un drüm is't Unglück ook geschehen,<lb/>
+				Dät se öähr hemm glieks togeseggt:<lb/>
+				„Dree Doahler wer'n Ju uutgebrächt.<lb/>
+				Erst — kunn sick Mäncher nich drin sinnen,<lb/>
+				Un mußt sick up sien Glück besinnen;<lb/>
+				As öähr dree Doahler dänn geschmeckt,<lb/>
+				Hemm se män noch noah mehr geleckt.<lb/>
+				Dät soll öähr länger good noch schmecken,<lb/>
+				Drüm dähn se alle Lüüd' afschrecken;<lb/>
+				Et soll bie öähr alleene stoahn,<lb/>
+				Wo’t soll mit de Verfassung goahn.<lb/>
+				<pb facs="../img/jung-1855/0049.jpg"/>
+				43<lb/>
+				Doa hemm se düt un dät androagen,<lb/>
+				Dät se män reden künn'n un froagen;<lb/>
+				„Dät is ganz dringend!" heet et dänn:<lb/>
+				So gung een Dag noah'n ännern hen.<lb/>
+				Of se dät dåhden, wat se söllen,<lb/>
+				Of, wat se moakten, künne gellen,<lb/>
+				Dät gung se wieder jo nischt an,<lb/>
+				Dree Doahler kreeg jo doch de Mann!<lb/>
+				Dät hät mie glieks all nich gefallen,<lb/>
+				word schlimmer jo ook män mit Allen,<lb/>
+				Se sähn; „Je wen’ger wie hier dohn,<lb/>
+				„Je grötter werd jo unse Lohn."<lb/>
+				Drüm hemm se Wööre nog gesproaken,<lb/>
+				Dät se d' Verfassung män nich moaken!<lb/>
+				Drüm hemm se Alles upgeregt,<lb/>
+				Un Vöälen noch de Köpp verdrehgt.<lb/>
+				Nimmt man sick doagwies an de Lüüde<lb/>
+				Gelt dät Gesetz jo oahn Gestriebe:<lb/>
+				„So as de Arbeit, is de Lohn",<lb/>
+				Vöäl kriegen de, de vöäl ook dohn.<lb/>
+				Man deiht dät ook woll so inrichten,<lb/>
+				— Sünst föhr'n se Eenen in de Fichten, —<lb/>
+				Den besten Lohn, den kriggt de af,<lb/>
+				De sick de gröttste Möhe gaff.<lb/>
+				<pb facs="../img/jung-1855/0050.jpg"/>
+				44<lb/>
+				So haar'n se't ook mit öähr söll'n moaken,<lb/>
+				Dänn haar'n se nich so vöäl gesproaken,<lb/>
+				Dänn haar'n se ook wat vöär sick bracht,<lb/>
+				Un sick beielt mit ganzer Macht.<lb/>
+				Alleen — sall't Geld tum Fliet bloot twingen,<lb/>
+				Werd uns nich groad vöäl Goods gelingen;<lb/>
+				Wen oaber’t Herz to d' Arbeit drift,<lb/>
+				Ook oahne Geld woll Goodes stift.<lb/>
+				Drüm kunn öähr Werk ook nich geroaden,<lb/>
+				Se dähn uns män den gröttsten Schoaden,<lb/>
+				Se hemm dät ganze Land gegnält,<lb/>
+				Wiel öähr en Herz vull Leewe fehlt.<lb/>
+				Wat hemm se sick üm't Volk gescheeret!<lb/>
+				Word öähr män Geld up Geld bescheeret;<lb/>
+				Letzt goahn up eenen Dag se hen,<lb/>
+				Vöär drüttig — hoal'n se't Geld sick dänn.<lb/>
+				Wie sind doch ook woll keene Narren,<lb/>
+				Dät se vöär nischt so't Geld inscharren;<lb/>
+				De Keerls sind doabie noch nich fuul,<lb/>
+				Un hemm all wå dät gröttste Muul.<lb/>
+				Drüm will'n wie Gott von Herzen danken<lb/>
+				Vöär unses Königes Gedanken,<lb/>
+				Vöär siene Wiesheit, Leew' un Macht,<lb/>
+				Dät he dät groote Werk vullbracht.<lb/>
+				<pb facs="../img/jung-1855/0051.jpg"/>
+				45 —<lb/>
+				Von äm, den wie ook nischt gegeben,<lb/>
+				Is sönn Verfassung nädderschräben,<lb/>
+				Dät Keenen in de ganze Welt<lb/>
+				Woll keene so as de gefällt.<lb/>
+				„Haar to Sien Volk he ehr män sproaken!" —<lb/>
+				Dät leet sick woll nich ehr so moaken:<lb/>
+				Sülwst as de Heiland is gekoam,<lb/>
+				Hemm äm jo Vöäl nich angenoam.<lb/>
+				Drüm mütt ick mienen König loaben,<lb/>
+				He hät erst doa sien' Stimm' erhoaben,<lb/>
+				As Alle säh'n, he is de Mann,<lb/>
+				De uns alleen noch helpen kann.<lb/>
+				He hulp; — un Alle stoahn verwunnert,<lb/>
+				Dät he so Alls glieks nädderdunnert<lb/>
+				Joa, unse König is de Mann,<lb/>
+				De ook den Storm beschwögen kann! --<lb/>
+				<pb facs="../img/jung-1855/0052.jpg"/>
+				46 —<lb/>
+				Säbelregiment oder Pöbelregiment?<lb/>
+				Gespräch. (Verf. im Dezbr. 1848.)<lb/>
+				Bist Du woll moal Saldoat gewest?<lb/>
+				Du kammst woll ruut nich uut dät Nest,<lb/>
+				Häst Die woll nich de Welt besehn,<lb/>
+				Wat hinner d' Berg' vöär Ding' geschehn?<lb/>
+				„Wer seggt Die dät? — So groad as Du,<lb/>
+				„Holl' ick mie frielich nich mehr nu;<lb/>
+				„Ick goah wat krumm all un wat scheef,<lb/>
+				„Mie sind Saldoaten doch noch leew.<lb/>
+				Dänn segg mie moal, wat vöär Dien Deel,<lb/>
+				Am besten Die upzund gefeel,<lb/>
+				Haar'n wie en Säbel=Regiment,<lb/>
+				Haar'n wie goar'n Pöbel=Regiment?<lb/>
+				„Uns' Regiment, wo ick heb stoahn,<lb/>
+				„Hät mit de Säbels good drinschloan;<lb/>
+				„Wo wie sind öäber se gekoam,<lb/>
+				„Hemm schwinn de Fiende Afschied noahm.“ —<lb/>
+				<pb facs="../img/jung-1855/0053.jpg"/>
+				— 47 —<lb/>
+				Wie hemm öähr ook nischt Leews gedoahn,<lb/>
+				Wo wie sind up öähr losgegoahn;<lb/>
+				Hemm sick de Fiende wo gesett't,<lb/>
+				Hemm wie öähr immer ens versett't.<lb/>
+				„Haar't Regiment sick moal upstellt,<lb/>
+				„Kamm dänn de Fiend ook angeprellt,<lb/>
+				„Wie — heeben düchtig up öähr in;<lb/>
+				„Se moakten furt, - un dät ganz schwinn.<lb/>
+				Kamm't Regiment mit Säbels an,<lb/>
+				Doa stört'te Alles Mann vöär Mann,<lb/>
+				Wat unse Säbels nich erwischt,<lb/>
+				Word als Gefangner upgesischt.<lb/>
+				„Sind wie so stolt dänn upmarscheert,<lb/>
+				„Un hemm de Fiende Mores lehrt,<lb/>
+				„Dänn wies't et sick noah jeden Sieg,<lb/>
+				„De Ornung moakt uns stark in'n Krieg.<lb/>
+				Good is en Säbelregiment,<lb/>
+				Wenn wo en blood'ger Krieg losbrennt;<lb/>
+				Wenn wo de goode Ornung wiekt,<lb/>
+				Werd nich ümfünst sönn Säbel striekt.<lb/>
+				„Dät denk ick ook; wer tähmt sönn'n Schuft,<lb/>
+				„Wenn he nu Lüüde knufft un pufft?<lb/>
+				„De nich Gesetz, nich Ornung will'n,<lb/>
+				„De müchten öähren Moth män still'n."<lb/>
+				<pb facs="../img/jung-1855/0054.jpg"/>
+				— 48 —<lb/>
+				Nu oaber! ’n Pöbelregiment!<lb/>
+				Häst Du dät ook woll all gekennt? -<lb/>
+				Doa is de Pöbel, de regeert,<lb/>
+				Von Säbels werd doa nischt gespört!<lb/>
+				„Doa hät woll Jeder eenen Stock,<lb/>
+				„Un Jeder sienen eegnen Rock? —<lb/>
+				„Dät süht gewiß ganz poplich uut<lb/>
+				„Treckt to d' Paroad' sönn Schwarm heruut!“<lb/>
+				Nu woll! — se hemm doch öähren Will'n!<lb/>
+				Se könn'n sick jo ook wat inbill'n!<lb/>
+				Je wen'ger se nu'n Annrer ehrt,<lb/>
+				Je eher wer'n de Keerls verkehrt.<lb/>
+				„Dänn schloan de Keerls ook woll glieks to?<lb/>
+				„Mit Drupschloan, doa rejeer’n se jo;<lb/>
+				„Kümmt öähr dät Doodschloan män nich in!<lb/>
+				„Sünst mücht et woll up't Schlimmste syn."<lb/>
+				Se hemm de Frieheit jitzt to All'n,<lb/>
+				Se dohn ook, wat öähr deiht gefall'n;<lb/>
+				Un wat öähr nich gefällt, mütt furt,<lb/>
+				So lang werd jo geputscht un purrt.<lb/>
+				„Doa is man ständig jo geploagt,<lb/>
+				„Un as sönn armet Reh gejoagt,<lb/>
+				„Weet nich, geiht man to Roh to Nacht,<lb/>
+				„Of nich ne Katzmusik werd bracht."<lb/>
+				<pb facs="../img/jung-1855/0055.jpg"/>
+				49 —<lb/>
+				Bleef't bie d' Musik, dänn güng't noch an!<lb/>
+				Se moaken sick an't Huus ook ran,<lb/>
+				Se plünnern ’t uut, hemm ook all Strick,<lb/>
+				Un bräken gärne Eenen ’t Gnick.<lb/>
+				„Kotz Himmeldusend Zapperment!<lb/>
+				„Dät is en Pöbelregiment?<lb/>
+				„Doa schleit jo sülwst de Důwel drin!<lb/>
+				„Wo könn'n de Keerls sönn Schufte syn?"<lb/>
+				Wo nich Gesetz, nich Ornung is,<lb/>
+				Doa kümmt ook Mord un Doodschlag wiß,<lb/>
+				Un immer kümmt toerst de ran,<lb/>
+				De sick erwies't as broawer Mann.<lb/>
+				„Joa! joa! Den breng'n se erst affied;<lb/>
+				„Sünst is't vöärbie mit öähre Tiet.<lb/>
+				„Nä! leewer'n Säbelregiment<lb/>
+				„Doch, as sönn Pöbelregiment."<lb/>
+				Regeert de Säbel ook wat scharp,<lb/>
+				Un schmeckt he Mänchen woll wat sarp,<lb/>
+				Haut he ook to, he schůtzt doch ook,<lb/>
+				Moakt uns en Schuft wo Schmook un Spook.<lb/>
+				„Dät is ook woahr; — wär'n Alle good,<lb/>
+				„Haar't mit de Frieheit keene Noth;<lb/>
+				„Hemm Schufte oaber dät Regeer'n,<lb/>
+				„Mag Gott in Gnoad'n sick to uns kehr'n!"<lb/>
+				<pb facs="../img/jung-1855/0056.jpg"/>
+				—<lb/>
+				—<lb/>
+				— 50 —<lb/>
+				Der König soll leben!<lb/>
+				(Verfaßt im Dezember 1848.)<lb/>
+				De König sall leben!<lb/>
+				Juchheißa! juchhe!<lb/>
+				Ick mütt äm erheben:<lb/>
+				Wer däh et nich? he? —<lb/>
+				Ick ehre den König, he ehret ook mie;<lb/>
+				Mien König sall leben! doa blieb' ick doabie.<lb/>
+				De König sall leben!<lb/>
+				Juchheißa! juchhe!<lb/>
+				Dät Herz Am to geben,<lb/>
+				Dät freuet mie je.<lb/>
+				Ick leewe den König, he leewet ook mie;<lb/>
+				Mien König sall leben! doa blieb' ick doabie.<lb/>
+				De König sall leben!<lb/>
+				Juchheißa! juchhe!<lb/>
+				De Luft sall män beben!<lb/>
+				Sünst dåh et uns weh.<lb/>
+				Ick true den König, he tru't jo ook mie;<lb/>
+				Mien König sall leben! doa blieb' ick doabie.<lb/>
+				<pb facs="../img/jung-1855/0057.jpg"/>
+				51 —<lb/>
+				De König sall leben!<lb/>
+				Juchheißa! juchhe!<lb/>
+				Ick rank mie as Reben<lb/>
+				An Am in de Höh.<lb/>
+				Ick hoff up den König, he hofft jo up mie;<lb/>
+				Mien König sall leben! doa blieb' ick doabie.<lb/>
+				De König sall leben<lb/>
+				Juchheißa juchhe!<lb/>
+				Am höret mien Streben,<lb/>
+				Mien Woll un mien Weh.<lb/>
+				He sorget as Voader, as König vöär mie;<lb/>
+				Mien König sall leben! doa blieb' ick doabie.<lb/>
+				De König sall leben!<lb/>
+				Juchheißa! juchhe!<lb/>
+				Un will He mien Leben,<lb/>
+				Ick segg vok nich: ne!<lb/>
+				Am höret mien Alles, nischt höret mehr mie;<lb/>
+				Mien König sall leben! doa blieb' ick doabie. — —<lb/>
+				<pb facs="../img/jung-1855/0058.jpg"/>
+				— 52 —<lb/>
+				Mit Gott für König und Vaterland.<lb/>
+				(Verfaßt im Mai 1849.)<lb/>
+				Kumm her, mien Soahn, o mien leewer Soahn,<lb/>
+				Du sast all morgen noah Potsdam goahn!<lb/>
+				Doa woahnt Dien König; an Am holl fest!<lb/>
+				De Prüß'sche Trü' is doch ’t Allerbest.<lb/>
+				Du bleefst woll gärn noch bie Diene Oll'n,<lb/>
+				Wie haar'n ganz gärn Die ook noch beholl'n;<lb/>
+				Alleen wie stoahn, — dät is jo bekannt, —<lb/>
+				Mit Gott vöär König un Voaderland.<lb/>
+				Sühst Du den König, dänn nick Am to,<lb/>
+				Un weß so recht moal von Herzen froh!<lb/>
+				Dät is en König, as he mütt syn,<lb/>
+				Schluut Am recht deep innet Herz Die rin!<lb/>
+				Du bist en Keerl jo ook as en Duus,<lb/>
+				Woarst good as Soahn hier in't ganze Huus;<lb/>
+				Du steihst ook wiß in Dien Ehrenstand<lb/>
+				Mit Gott vöär König un Voaderland.<lb/>
+				<pb facs="../img/jung-1855/0059.jpg"/>
+				53 -<lb/>
+				En Schuft, de König un Volk verlett,<lb/>
+				Schandeert un ständig sick wäddersett't;<lb/>
+				Wer Gott un Ollern un't Land hät leew,<lb/>
+				Ook sienen König getrü verbleef.<lb/>
+				In Gottes Noamen drüm goah Du hen,<lb/>
+				Dät sy Dien Woahlspruch båt an Dien Enn:<lb/>
+				Ick stried' as Prüße mit Herz un Hand<lb/>
+				Mit Gott vöär König un Voaderland.<lb/>
+				Un geiht et dänn in de Schlacht hennin,<lb/>
+				Stoah wiß, mien Soahn, un weß hinnerdrin!<lb/>
+				Un will'n de Fiende Ju Platz nich moak'n,<lb/>
+				frisch drup geschloan män up Bräm un Knoak'n!<lb/>
+				Un nimmt Die Gott in getrüe Hoot,<lb/>
+				Un helpt, mien Soahn, Die dörch Noth un Dood,<lb/>
+				Dänn lewst un sterwst Du in jeden Stand<lb/>
+				Mit Gott vöär König un Voaderland.<lb/>
+				<pb facs="../img/jung-1855/0060.jpg"/>
+				- 54 —<lb/>
+				Die Preßfreiheit.<lb/>
+				(Verfaßt im November 1848.)<lb/>
+				Fru, lang' mie moal den Kohfoot her!<lb/>
+				Dät is nich mehr to lieden,<lb/>
+				Dät geiht all wä de Krüz un Quer<lb/>
+				Von alle beede Sieden;<lb/>
+				Hier — koam'n de Schwiene uns up't Feld,<lb/>
+				Doa — fritt dät Wild, wat ’t Tüg män höllt.<lb/>
+				Künnst Du moal unse Knollen sehn,<lb/>
+				Wat doa is ruutgewöhlet,<lb/>
+				Wo sick up't Feld de Hirsch' un Rehn<lb/>
+				Oähr Möthken hemm geköhlet;<lb/>
+				Du sä'st gewiß to Dienen Oll'n:<lb/>
+				Nä! Mann, dät is nich uuttoholl'n.<lb/>
+				Den Eddelmann hemm se et letzt<lb/>
+				Ganz driest un scharp geheeten,<lb/>
+				Werd up sien Wild nich bäter hetzt,<lb/>
+				Dänn wer'n se sülwst et scheeten;<lb/>
+				Un wat dänn is vöär Schoaden doahn,<lb/>
+				Doavöär mütt he alleen instoahn.<lb/>
+				<pb facs="../img/jung-1855/0061.jpg"/>
+				55 —<lb/>
+				De Keerls, de hören oaber nich,<lb/>
+				Se loaten ’t leewer schlieken,<lb/>
+				Moal — schimpen se ganz lästerlich,<lb/>
+				Dänn — loaten se't wä strieken:<lb/>
+				Ick glöw, de Förster is sönn Hund,<lb/>
+				De sprickt äm ook män bloot to'm Mund.<lb/>
+				T is frielich woll sien gröttster Schoad,<lb/>
+				Werd All's nu rungeschoaten,<lb/>
+				Alleen man werd ook ganz kasproat,<lb/>
+				Dohn se uns so anfoaten:<lb/>
+				Se hemm uns ook to groff bedöhrt,<lb/>
+				Un lang' nog bie de Näs rümföhrt.<lb/>
+				Sönn Grönrock is ook en Hallunk,<lb/>
+				Kann he nen Bu'rn beluuren,<lb/>
+				Am kann't, reekt he moal up den Schlunk,<lb/>
+				Ook nie nich lang' nog duuren:<lb/>
+				Kann he män ichts wat up uns finn'n,<lb/>
+				He deiht nischt Leewers, as uns schinn'n.<lb/>
+				Ick heb äm oaber good anföhrt,<lb/>
+				Dumm loat ick mie nich moaken,<lb/>
+				Sönn Supp', as ick äm ingeröhrt,<lb/>
+				Mütt he erst lehren koaken;<lb/>
+				He kaut all lang', he kriggt ’t nich klein,<lb/>
+				’T werd åm ook nich von Himmel schnei'n.<lb/>
+				<pb facs="../img/jung-1855/0062.jpg"/>
+				— 56 —<lb/>
+				As ick in't Fröhjoahr ruuter tog,<lb/>
+				Up unse Feld to plögen,<lb/>
+				Satt ick bie't Fröhstück uppen Plog,<lb/>
+				Un leet et mie genögen:<lb/>
+				Doa sach ick uppen Eickboomtack'n<lb/>
+				En Nest, to hoch nich groade, hack'n.<lb/>
+				Ick kreep herup, ick glitschte uut,<lb/>
+				Un — denk Die! — feel herunner;<lb/>
+				Ick föhlte woll, mie bloodt' de Schnuut,<lb/>
+				Doch namm mie dät män Wunner,<lb/>
+				As ick mie nu noahgroad besunn,<lb/>
+				Dät ick ook goar nischt sehen kunn.<lb/>
+				De Eickboom is ganz holl gewest,<lb/>
+				Doa bin ick rin gekegelt,<lb/>
+				Et heel ganz hart, dät uut dät Nest<lb/>
+				Ick kamm wä ruutgesegelt;<lb/>
+				Doch as ick erst wä buuten was,<lb/>
+				Dacht ick: „Dät is en gooder Paß.<lb/>
+				Schwinn leep ick nu noah Huuse hen,<lb/>
+				Un hoalt mie Soag' un Fiele,<lb/>
+				Häst nich gesehn, doa soagt' ick dänn<lb/>
+				Nich vöär de lange Wiele;<lb/>
+				Un eh ick ’t dacht, up Knall un Fall,<lb/>
+				Haar ick en Schillerhuus ook all.<lb/>
+				<pb facs="../img/jung-1855/0063.jpg"/>
+				57<lb/>
+				Doa heb ick dänn mänch' eene Nucht<lb/>
+				Dät vöäle Wild beluuret<lb/>
+				Mie hät, bät ick wat upgebracht,<lb/>
+				De Tiet nie lang nich duuret<lb/>
+				De Förster hät sick afgeschunn'n,<lb/>
+				Gefloocht, geschwoar'n un — doch nischt funn'n.<lb/>
+				Dät Schillerhuus heb ick so moakt,<lb/>
+				Dät ’t Keener weet to finnen,<lb/>
+				Will ick moal rin, — werd ’t upgehoakt,<lb/>
+				Will ick, — kann ick verschwinnen,<lb/>
+				Vöäruut, wenn d' Luft nich reene is,<lb/>
+				Un d' Förster denkt, he hät mie wiß.<lb/>
+				Hät de dänn moal nen Knall gehört,<lb/>
+				Un kümmt dänn angebörstet,<lb/>
+				Nä! dät is doch ganz unerhört,<lb/>
+				Wat he noah Rache dörstet<lb/>
+				Köhlt' he an mie moal sienen Moth,<lb/>
+				Ick glöw’, he schlög’ mie muusedood.<lb/>
+				Sönn Rackern, Floochen un Schandeern,<lb/>
+				Dät lett sick nich vertellen;<lb/>
+				Letzt däh he sülwst bie't Ummekehr'n,<lb/>
+				— Ick satt in'n Boom, — mie mellen,<lb/>
+				Wat he mie dåh, kreeg he mie moal;<lb/>
+				Ick dacht: „Dät Die de Düwel hoal!"<lb/>
+				<pb facs="../img/jung-1855/0064.jpg"/>
+				58 —<lb/>
+				De Eddelmann kamm ook geprescht,<lb/>
+				Dät Fell mie to versoahlen,<lb/>
+				Haar'n se mie dät Moal wat uutlöscht,<lb/>
+				Ick haar ’t müßt good beioalen:<lb/>
+				Letzt sungen se öähr ollet Lied,<lb/>
+				Un spracken von de jitzge Tiet.<lb/>
+				De Eddelmann hät dänn vertellt,<lb/>
+				Dät se de Stür'n un Goaben<lb/>
+				Jitzt afdohn will'n un ook vermellt,<lb/>
+				He künn dät goar nich loaben;<lb/>
+				Wer weet, wat mehr noch wörr vöärnoam,<lb/>
+				Jitzt wär ook Preßfrieheit all koam.<lb/>
+				„Preßfrieheit!" dacht ick, dät wär good,<lb/>
+				Dänn woll'n wie se woll kriegen,<lb/>
+				Dänn haar et mit uns keene Noth,<lb/>
+				Dänn soll'n se sick woll schmiegen. —<lb/>
+				Tum Glück sind se dänn wieder goahn,<lb/>
+				Ick heb mie sacht noah Huuse schloan.<lb/>
+				Dät gung mie nu in'n Kopp herüm,<lb/>
+				Dät, dacht ick, müttst du weeten.<lb/>
+				Ick gung noah d' Stadt un froagte drüm,<lb/>
+				Of 't Preßfrieheit soll heeten:<lb/>
+				„Preßfrieheit," seggten Vöäl in d' Stadt,<lb/>
+				„Hemm wie jo’n ganze Wiel all hat."<lb/>
+				<pb facs="../img/jung-1855/0065.jpg"/>
+				59 —<lb/>
+				Drüm heet et jitzt: „Worst wädder Worst!"<lb/>
+				So sind wie All gesunnen,<lb/>
+				Werd ichtens wo uut siene Forst<lb/>
+				Bie uns en Schwien gefunnen,<lb/>
+				Wie scheeten et ganz hielig dood,<lb/>
+				Keem He, — He kreeg de Schwärenoth.<lb/>
+				Hät uns de Eddelmann gepreßt,<lb/>
+				Nu pressen wie äm wädder,<lb/>
+				Hät he uns sünst den Text gelest,<lb/>
+				Nu koam'n wie äm up't Lädder:<lb/>
+				Wie will'n moal sehn, wer't bäter kann,<lb/>
+				En Buer oder 'n Eddelmann! —<lb/>
+				<pb facs="../img/jung-1855/0066.jpg"/>
+				— 60 —<lb/>
+				Die Steuerzahlung.<lb/>
+				(Verfaßt im November 1848.)<lb/>
+				Gemeende! ’t fehlt doch Keener hüüt?<lb/>
+				Ick will Ju moal wat seggen;<lb/>
+				So as't mie in de Welt uutsüht,<lb/>
+				Wer'n se uns nischt upleggen:<lb/>
+				Ick glöw, dät se tofreeden sind,<lb/>
+				Wenn man sick mit sien Geld infinnt.<lb/>
+				Et heet woll zund, ’t werd Mänch's uphör'n,<lb/>
+				Se wer'n uns Stü'rn erloaten,<lb/>
+				Ick würr't ook änners gärn upföhrn,<lb/>
+				Wär't änners all beschloaten;<lb/>
+				Alleen — dät sehn Ii sülwer in,<lb/>
+				Doa kann ick Ju to Will'n nich syn.<lb/>
+				Ick denk, so as wie't jitzt gedoahn,<lb/>
+				So will'n wie't ook noch moaken;<lb/>
+				Sall et dänn künftig änners goahn,<lb/>
+				Werd mie ’t ook woll gestoaken:<lb/>
+				Dänn holl'n wie ook geschwinne au,<lb/>
+				Un Jeder toalt, so vöäl he kann.<lb/>
+				<pb facs="../img/jung-1855/0067.jpg"/>
+				61 —<lb/>
+				De Ornung deiht de Welt regeer'n,<lb/>
+				Un mütt se ook regeeren;<lb/>
+				Wie könn'n doch nich de Welt ümkehr'n,<lb/>
+				Un gröttre Herren lehren!<lb/>
+				Hemm wie uns' Schulligkeit gedoahn,<lb/>
+				Dänn mag et ook, as Gott will, goahn.<lb/>
+				„Gevadder Schulte! dät is good,<lb/>
+				„So as Du häst gesprogken,<lb/>
+				„Et haar ook wieder keene Noth,<lb/>
+				„Wenn wie't, as Du wist, moaken:<lb/>
+				„Alleen — ick seh dät goar nich in,<lb/>
+				„Dät nu dåt groad ook so můtt syn.<lb/>
+				„Ick heb von Vöäle all gehört,<lb/>
+				— „'T werd Jeder ook befinnen,<lb/>
+				„Se wär'n all lang' nog angeföhrt,<lb/>
+				„Nu — würr'n se sick besinnen:<lb/>
+				„Den Amtmann, sä'n se, gäb'n se nischt,<lb/>
+				„De haar dähr d' Oogen nog uutwischt.<lb/>
+				„Un wär' et vöäl un müßt' et syn,<lb/>
+				„Woll'n se de Hälft' äm toalen,<lb/>
+				„Dät, düchte öähr noah öähren Sinn,<lb/>
+				„Künn he sick von öähr hoalen:<lb/>
+				„Drüm schloag ick Ju un'n Schulten vöär,<lb/>
+				„Wie geben män de Hälfte dähr.<lb/>
+				<pb facs="../img/jung-1855/0068.jpg"/>
+				62<lb/>
+				Sönn Vöärschlag is nich dumm gewest,<lb/>
+				De mußt öähr woll gefallen;<lb/>
+				„Dät," schrä'n se glieks, „dät is ook ’t Best,<lb/>
+				„Joa! dät gefällt uns Allen:<lb/>
+				„Wat söll'n wie ook dät Ganze geb'n,<lb/>
+				„Bie d' Hälfte lett't sick bäter leb'n.<lb/>
+				„„Dät Halwe, mein'n Ii, will'n Ii toal'n?<lb/>
+				„„Dät Halwe öähr noch schenken?<lb/>
+				„„Ick heb,"" sprack Wulf, „„mien Geld nich stoahl'n,<lb/>
+				„ „Doa wer ick nich an denken.<lb/>
+				„„Wat hemm se vöär uns' Geld denn doahn?<lb/>
+				„„Hemm se nich All's hier loaten goahn?<lb/>
+				„ „Of noch so vöäl gestüert werd,<lb/>
+				„„As jitzund is gegeben,<lb/>
+				„„Vöäruut, werd nich so vöäl vertär't,<lb/>
+				„„Ook nich so vöäl geschräben:<lb/>
+				„ „Dät froagt sick noch, dát glöw ick nich,<lb/>
+				Stich.<lb/>
+				„„Dänn höllt 't ook mit öähr Stür nich<lb/>
+				„„Et gifft jo nog all hier un doa,<lb/>
+				„ „De will'n ook goar nischt geben,<lb/>
+				„„Et dohn sick jo all wiet un noah,<lb/>
+				„ „Doawädder Vöäl erheben:<lb/>
+				„„Drüm schloag ick Ju un'n Schulten vöär,<lb/>
+				"A<lb/>
+				„„Wie geben düt Moal gogr nischt öähr<lb/>
+				<pb facs="../img/jung-1855/0069.jpg"/>
+				63 —<lb/>
+				De Vöärschlag is noch bäter west,<lb/>
+				Doa schmunzelten se Alle;<lb/>
+				„Dät is ook," schrä'n se, „'t Allerbest<lb/>
+				„Süss hemm se uns in d' Falle;<lb/>
+				„Wat De erst eenmoal hemm genoam,<lb/>
+				„Werd nich wä rin in'n Büdel koam!"<lb/>
+				„„Wat!""<lb/>
+				schreech de Jüngst', „„up unse Siet<lb/>
+				„„Hät't nie nich fehlt an Goghn,<lb/>
+				„ „Wie hemm betoalt ganz lange Tiet,<lb/>
+				„ „Doa mütt uns' Fiend uns loaben;<lb/>
+				„ „Un hät de Schult wat uutgeschräb'n,<lb/>
+				„„Hät Jeder ’t Sienigte gegeb'n.<lb/>
+				„ „Wer arbeit't, is sien Lohn ook werth,<lb/>
+				„ „So deiht de Schrift uns lehren;<lb/>
+				„„Hier geiht jo Alles män verkehrt,<lb/>
+				„ „Wie mütten ’t moal ümkehren:<lb/>
+				„ „Hemm wie — de Oberkeit ernährt,<lb/>
+				„„Is't billig, — dät se uns bescheert.<lb/>
+				„ „Wie hemm vöär alle unse Geld<lb/>
+				„„Jitzt ook noch nischt gekrägen,<lb/>
+				„„Se hät verlangt, wat öähr gefällt,<lb/>
+				„„Uns' Büdel uuttofegen;<lb/>
+				„ „Dät Geben — was up unse Siet,<lb/>
+				„„To geb'n — is nu an öähr de Tiet.<lb/>
+				<pb facs="../img/jung-1855/0070.jpg"/>
+				— 64 —<lb/>
+				„„Drüm, Frünne, is mien Roath de best,<lb/>
+				„ „Se sall'n nu uns wat toalen,<lb/>
+				„ „Ick denk, stoahn wie män wiß un fest,<lb/>
+				„ „Uns sall keen Düwel hoalen;<lb/>
+				„ „Wie will'n moal sehn, wer uns wat deiht,<lb/>
+				„„Dohn wie män süss uns' Schulligkeit!"“<lb/>
+				De Vöärschlag is de allerbest,<lb/>
+				Doa lacht öähr ’t Herz im Liewe;<lb/>
+				En Jeder heel sien'n Büdel fest,<lb/>
+				Un sprack tum Schulten: „Schriewe,<lb/>
+				„Se hemm de Stü'rn so lang indräb'n,<lb/>
+				„Se söll'n uns nu wat wädder geb'n."<lb/>
+				„„Gemeende!"" sprack de Schulte drup,<lb/>
+				„„Doato kann ick nischt seggen;<lb/>
+				„„Ick legg Ju keene Goaben up,<lb/>
+				„„Ick därf ook keen' upleggen:<lb/>
+				„ „Of dät werd goahn, as Ji't anfang'n,<lb/>
+				„ „Dät sall mie doch alleen verlang'n!"" —<lb/>
+				<pb facs="../img/jung-1855/0071.jpg"/>
+				— 65 —<lb/>
+				Der Vorschlag.<lb/>
+				(Verfaßt im November 1848.)<lb/>
+				Gevadderslünde! koamt män ran!<lb/>
+				Wie sind hüüt ganz alleene;<lb/>
+				Et geiht dät bloot uns Bu're an,<lb/>
+				Wat soll doa ’t ganz Gemeene!<lb/>
+				Ii weeten, wo't jitzunder is<lb/>
+				Mit unse kleene Lüüde;<lb/>
+				Wie Bu're holl'n woll stief un wiß,<lb/>
+				Doa gift et keen Gestriede.<lb/>
+				Breng' ick wat vöär, Ii seggen nischt,<lb/>
+				Ii toal'n, so as ’t geschräben;<lb/>
+				Würr De nich öäber't Muul gewischt,<lb/>
+				Dät wär nich to beleben.<lb/>
+				Koam wie dänn Alle moal tosamm,<lb/>
+				Un gift et wat to toalen,<lb/>
+				Doa röhgt sick jeder Luusekamm,<lb/>
+				As würr' äm ’t Geld gestoahlen.<lb/>
+				<pb facs="../img/jung-1855/0072.jpg"/>
+				66 —<lb/>
+				Wie, mein'n se, hemm de Schüne vull,<lb/>
+				Wie könn'n woll licht wat geben,<lb/>
+				Vöär öähr — doa würr’ et jitzt to dull,<lb/>
+				Se hädden kuum dät Leben! —<lb/>
+				Nu kickt moal öähre Fruens an,<lb/>
+				Goahn de ens wo to Dööpe!<lb/>
+				Wer sönnen Stoat sick köpen kann,<lb/>
+				De hät ook wiß noch Knööpe!<lb/>
+				Hemm wie nich ’t Schoolhuus grötter baut?<lb/>
+				Wer hät de meisten Kinner?<lb/>
+				Von uns, wenn ’t noch so vöäl uuthaut,<lb/>
+				Geiht kunm de Hälft' herinner.<lb/>
+				Un kümmt et to ’t Betoalen dänn,<lb/>
+				Doa will keen Minsch wat geben,<lb/>
+				Se brächten ’t gärne noch doahen,<lb/>
+				’T würr män von uns indräben.<lb/>
+				Dät sehn Ii nu woll sülwer in,<lb/>
+				So kann dät Ding nich blieben;<lb/>
+				Mie kamm nu doa wat innen Sinn,<lb/>
+				Dät will ick Ju beschrieben.<lb/>
+				Ii könn'n Ju dänn dät öäberleng'n<lb/>
+				Un Jue Meinung seggen;<lb/>
+				Wo Eener weet wat vöärtobreng'n,<lb/>
+				Kann he ’t uns jo uutleggen.<lb/>
+				<pb facs="../img/jung-1855/0073.jpg"/>
+				67 —<lb/>
+				Ii hemm doch All' de Schrift gelest,<lb/>
+				As ’t in Egypten koamen,<lb/>
+				Wo König Foaro hät up ’t Best<lb/>
+				De Juden sick vöärnoamen.<lb/>
+				Wo he se hät mit Arbeit ploagt,<lb/>
+				Un öähr to dohn gegeben,<lb/>
+				Wo Keenen dät an't Herze noagt,<lb/>
+				Un se män mehr sick heben.<lb/>
+				Wo sick dät Volk hät grülich mehrt,<lb/>
+				He sülwst hät Forcht gekrägen;<lb/>
+				Dät kamm, he moakt et män verkehrt,<lb/>
+				Drüm bracht et keenen Segen.<lb/>
+				Haar he öähr keene Arbeit geb'n,<lb/>
+				Dänn wurr'n se nich so wählig,<lb/>
+				Dänn kunn he ook gerohig leb'n,<lb/>
+				Versoop ook nich so schmälig.<lb/>
+				Wie sehn ’t hüüt Doags jo in de Stadt:<lb/>
+				Wer moakt dät gröttst Spetoakel?<lb/>
+				De d' meiste Arbeit hemm gehat,<lb/>
+				Dät is dät düllste Toakel.<lb/>
+				Doa heb ick dänn bie mie gedacht,<lb/>
+				Wie will'n dät änners moaken,<lb/>
+				Wie wer'n sünst hielig uutgelacht,<lb/>
+				Hemm wie wo wat verbroaken.<lb/>
+				6*<lb/>
+				<pb facs="../img/jung-1855/0074.jpg"/>
+				68 —<lb/>
+				Wie geb'n öähr keene Arbeit nich!<lb/>
+				Loat ’t se sick män wat söken!<lb/>
+				Schandeern se uns ook lästerlich,<lb/>
+				Se möägen ’t sick versöken!<lb/>
+				Gefällt et öähr dänn hier nich mehr,<lb/>
+				Dänn wer'n se woll ruuttrecken;<lb/>
+				Wie — wer'n uns nich noah öähr so sehr,<lb/>
+				As Foaro d' Hälf' uutrecken.<lb/>
+				Kamm he in't roode Meer drüm üm,<lb/>
+				Wie — blieben gärn to Huuse,<lb/>
+				Wie scheer'n uns jo den Düwel drüm,<lb/>
+				Dänn sind wie los de Muuse:<lb/>
+				De fratten doch män von uns' Fett,<lb/>
+				Un gungen immer wieder:<lb/>
+				Dänn schlöppt man rohig wä in’t Bedd,<lb/>
+				Un hät nich so vöäl Nieder.<lb/>
+				Wie hemm de Frieheit jitzt erholl'n,<lb/>
+				Uns kann keen Minsch wat seggen,<lb/>
+				Un, wenn wie Preßfrieheit beholl'n,<lb/>
+				Will'n wie't öähr woll uutleggen.<lb/>
+				Keen' Arbeit! — Doabie blieb' ick stoahn,<lb/>
+				Süff werd de Noth män grötter,<lb/>
+				Süss weren, loaten wie't so goahn,<lb/>
+				Wie moagrer, se män fetter.<lb/>
+				<pb facs="../img/jung-1855/0075.jpg"/>
+				69 —<lb/>
+				Holl'n wie nich Alle jitzt tosamm,<lb/>
+				Un pressen öähr wat duller,<lb/>
+				Dänn waßt öähr immer mehr de Kamm,<lb/>
+				Un jedet Lock werd vuller.<lb/>
+				Letzt könn'n wie noch een Schoolhuus bau'n;<lb/>
+				Wo lang' werd dät denn duuren? -<lb/>
+				Dänn hemm wie immerto to klau'n;<lb/>
+				Söll'n de uns wä beluuren? — —<lb/>
+				„Dät, Schulte, is en gooder Roath,<lb/>
+				„Wie söll'n ook immer geben;<lb/>
+				„Du moakst doch Alles wädder groad,<lb/>
+				„Süss wär’t nich to beleben.<lb/>
+				„Dät Jeder oaber Stich nu höllt!<lb/>
+				„Holl'n wie män All' tosammen;<lb/>
+				„Dänn geiht't mit öähr in alle Welt,<lb/>
+				— —<lb/>
+				„Dänn wer'n se bald uutschrammen."<lb/>
+				<pb facs="../img/jung-1855/0076.jpg"/>
+				- 70 —<lb/>
+				Der Neubau.<lb/>
+				Eine wahre Anekdote.<lb/>
+				(Verfaßt im November 1848.)<lb/>
+				Na koamt! Dät is ne schwoare Tiet,<lb/>
+				Wo wie itzund in leben,<lb/>
+				De Preester will üp siene Siet,<lb/>
+				Uns sienen Roath moal geben;<lb/>
+				He leet mie hüüt Vöärmiddag seng'n,<lb/>
+				He haar uns moal wat vöärtobreng'n.<lb/>
+				Drüm schickt ick gliek den Knüppel rüm,<lb/>
+				— Man kann jo doch nich weeten! —<lb/>
+				'T geiht äm woll wat in'n Kopp herüm,<lb/>
+				Dät güng' vielicht uns flöten:<lb/>
+				T hät sick ook Keener jo besunn'n,<lb/>
+				Ii hemm Ju hüüt ook All' infunn'n.<lb/>
+				Wat mein'n Ii, will'n wie gliek hengoahn?<lb/>
+				He leet et mie all seggen,<lb/>
+				Wörr' et uns Alle woll anstoahn,<lb/>
+				Woll he't uns gliek vöärleggen;<lb/>
+				To Middag wär’ he wiß to Huus<lb/>
+				Am wär' et recht noah'n Middagsschmuus.<lb/>
+				<pb facs="../img/jung-1855/0077.jpg"/>
+				71 —<lb/>
+				„Ick dächte Schult, wie güngen hen,<lb/>
+				„Nu sind wie moal tosammen,<lb/>
+				„Verschuwen wie't, et mücht am Enn<lb/>
+				„Doch Mäncher uns uutschrammen:<lb/>
+				„Will et de Preester gärne hemm,<lb/>
+				„Wat söll'n wie uns doawädder strämm?"<lb/>
+				„ „Wie sind doabie!"“ so schreit de Klump<lb/>
+				Un moakt sick up de Beene;<lb/>
+				De Schult vöäran; — dät is keen Lump,<lb/>
+				De sörgt woll vöär ’t Gemeene:<lb/>
+				Un as se nu tum Preester koam'n,<lb/>
+				Hät he se fründlich upgenoam'n.<lb/>
+				„Ii hemm et, Frünne, woll all hört,<lb/>
+				„Wo't in Berlin is koamen;<lb/>
+				„Dät hät uns All jo upgestört,<lb/>
+				„As wie et hemm vernoamen;<lb/>
+				„Alleen et is nu moal geschehn,<lb/>
+				„Wat nu? — dät woll'n wie hüüt moal sehn.<lb/>
+				„Wat doa is Alles afgebrennt,<lb/>
+				„Dät werd Ju d' Zeitung lehren,<lb/>
+				„Wo se doa sind tosamm gerönnt,<lb/>
+				„Um Alles ümtokehren,<lb/>
+				„Se d' Stroatenploaster nich moal schont;<lb/>
+				„'T wär vöäl to seng'n, wenn't sick män lohnt.<lb/>
+				<pb facs="../img/jung-1855/0078.jpg"/>
+				72 —<lb/>
+				„Doa is geschoaten mit Kanon'n!!<lb/>
+				„Dät könn'n Ii Ju woll denken,<lb/>
+				„Wo de öähr grootet Muul updohn<lb/>
+				„Doa wer'n se Keen'n nischt schenken;<lb/>
+				„Doa is denn düchtig losgebrennt<lb/>
+				„Un ook mänch grootet Huus afbrennt.<lb/>
+				„Dät hät den König leed gedoahn,<lb/>
+				„Et gung äm doch to Herzen,<lb/>
+				„Letzt leet he ’t Kriegsvolk ruutergoahn,<lb/>
+				„De Börger solln't verschmerzen;<lb/>
+				„Doa is, as mie en Fründ et lehrt,<lb/>
+				„Upzund nu Alles ümmekehrt.<lb/>
+				„Et is en Unglück vöär dät Land,<lb/>
+				„Stört't Alles so tosammen,<lb/>
+				„Geiht goar dät ganze Voaderland<lb/>
+				Woll up in Kriegesflammen;<lb/>
+				„Keem'n in dät Unglück wie herin,<lb/>
+				„Dät wörr nich to beschrieben syn.<lb/>
+				„Is nu en Huus moal afgebrennt,<lb/>
+				„Dänn helpt nich Hüül'n un Schreien,<lb/>
+				„Un werd ook noch so vöäl geflennt,<lb/>
+				„Doa werd et nich von Neien;<lb/>
+				„Doa mütt en Jeder Hand anleng'n,<lb/>
+				„Will he’t wå up de Beene breng'n.<lb/>
+				<pb facs="../img/jung-1855/0079.jpg"/>
+				73 —<lb/>
+				„Dät Land, dät is sönn Stoatsgebüüd',<lb/>
+				„Dät mütt wie helpen bauen,<lb/>
+				„Doa mütten wie nu, leewe Lüüd',<lb/>
+				„Uns nich erst lang' verschnauen;<lb/>
+				„Jitzt heet et: Hübsch doato gedoahn!<lb/>
+				„Sind Vöäle to, dånn werd et goahn." —<lb/>
+				Kuum woar'n de Bu're up de Stroat,<lb/>
+				Doa seggt de Schult to Allen:<lb/>
+				„Is in sönn Noth nu unse Stoat,<lb/>
+				„Dänn werd et In gefallen,<lb/>
+				„Wie moaken ’t, as de Preester seggt;<lb/>
+				„Dät is doch ook woll Allen Recht?<lb/>
+				„Dät is jo Ju, as mie bekannt,<lb/>
+				„Dät sehn Ii all von Wieden,<lb/>
+				„Kümmt Uprohr, Brand erst in dät Land,<lb/>
+				„Dänn koam'n ook schlimme Tieden:<lb/>
+				„Drüm is et good, wie sind nu schwinn<lb/>
+				„Vöär'n änner Dörp ook hinnerdrin.<lb/>
+				„Dät wie nu All noah d' Kalkberg' goahn,<lb/>
+				„Dät mücht' ick nich anroaden;<lb/>
+				„Ick will mie ook nich groad vöärschloan,<lb/>
+				„Alleen, ’t is doch geroaden,<lb/>
+				„Wenn 'n Poar vöär All dät öäbernehm'n,<lb/>
+				„Un sick glieks to de Reis' bequem'n."<lb/>
+				<pb facs="../img/jung-1855/0080.jpg"/>
+				74 —<lb/>
+				Dree Depenteerten gungen dänn,<lb/>
+				Von wegen dät Gemeene,<lb/>
+				Noah d' Bergamt mit den Schulten hen,<lb/>
+				Un putzten reen de Beene:<lb/>
+				Dänn kloppten se ganz propper an,<lb/>
+				Sönn Bu'r is ook keen grobber Mann.<lb/>
+				„Herr Roath!" so sprack de Schulte schlu,<lb/>
+				„Wenn Se ’t nich öäbel nehmen,<lb/>
+				„Wie koam'n von uns' Gemeene nu,<lb/>
+				„Un woll'n uns to bequemen:<lb/>
+				„Wat Eener kann, to wat vöär'n Lohn,<lb/>
+				„Doa will'n wie ook de Fohren dohn.<lb/>
+				„Uns' Preester hät uns hüüt geseggt,<lb/>
+				„Wo't in Berlin wär' koamen,<lb/>
+				„Wo't Stoatsgebüüd' in Asch wär leggt,<lb/>
+				„Un zund dät wörr vöärnoamen,<lb/>
+				„Dät nu de groote Bau mit Macht<lb/>
+				„Ganz schwinn wörr wä to Stanne bracht.<lb/>
+				„Doa mütt doch Kalch ganz vöäl to syn,<lb/>
+				— „Se wer'n äm hier doch nehmen! —<lb/>
+				„Doa müchten wie, so is uns' Sinn,<lb/>
+				„De Kalchfohr'n öäbernehmen:<lb/>
+				„Un wenn Se will'n, un günn'n uns dät,<lb/>
+				„Wörr de Kuntract glieks upgesett't." — —<lb/>
+				<pb facs="../img/jung-1855/0081.jpg"/>
+				— 75 —<lb/>
+				Die Bummler.<lb/>
+				(Verfaßt im November 1848.)<lb/>
+				Wo sind denn nu de Bummlers hen?<lb/>
+				De schuen sick woll goar am Enn?<lb/>
+				Vertrecken sick wat hier un doa,<lb/>
+				Un woahren woll wä bät dernoah?<lb/>
+				Wat Düwel! koamt! bewieset Ju!<lb/>
+				Erst woar'n Ii jo so klook un schlu!<lb/>
+				Mit Jue Klookheit is't woll uut?<lb/>
+				De Schluen — holl'n jitzt öähre Schnuut.<lb/>
+				Erst heet et: Töwt! Ii sall'n uns koam,<lb/>
+				Wie schloan Ju Alle krumm un loahm! —<lb/>
+				Dät Milletär was nich so dumm,<lb/>
+				Et kamm, — Ji schlog'n et noch nich krumm.<lb/>
+				Ii wer'n et ook noch krumm nich schloan,<lb/>
+				Joa goar to gärn bie Siede goahn,<lb/>
+				Un seng'n: — dät Ii män nischt erwischt, —<lb/>
+				„Doht uns män nischt, wie dohn Ju nischt!“<lb/>
+				<pb facs="../img/jung-1855/0082.jpg"/>
+				76 —<lb/>
+				Mänch Eener, reet't Ji't Muul so up,<lb/>
+				Dacht woll, Ii schloan äm düchtig drup:<lb/>
+				Un nu! — jitzt hemm Ji't jo ganz hill,<lb/>
+				Nu sind Ii jo ganz muusestill.<lb/>
+				Ii sind de rechten Keerdels mie,<lb/>
+				Mit Jue Grootdohn is't vöärbie,<lb/>
+				Ii hemm de Börger män genärrt,<lb/>
+				Hemm Ii dät Muul so wiet upsperrt.<lb/>
+				Burrbarsch to syn, — is wiet de Fiend<lb/>
+				Dät kann en Narr ook, as't mie schient,<lb/>
+				Wer tapper is, — hät keen groot Muul,<lb/>
+				Bie't Drinschloan, — doa is he nich fuul.<lb/>
+				Jitzt haar'n Ii söll'n vöär Oogen leng'n,<lb/>
+				Dät Ii nich bloote Wöör' vöärbreng'n,<lb/>
+				Dät Ii nich Good, nich Bloot will'n spoar'n,<lb/>
+				Un Ju de Frieheit will'n bewoahr'n.<lb/>
+				Ii woll'n de Frieheit män beholl'n,<lb/>
+				As Bummlers so herúm to troll'n;<lb/>
+				As Ii de Frieheit Ju uutleng'n,<lb/>
+				Kann se uns keenen Segen breng'n.<lb/>
+				Wie will'n de woahre Frieheit hemm,<lb/>
+				Drüm loaten wie uns nich mehr kämm;<lb/>
+				Wo Frieheit is, mütt Ornung syn,<lb/>
+				Sünst kehrt statt Frieheit Frechheit in.<lb/>
+				<pb facs="../img/jung-1855/0083.jpg"/>
+				77 —<lb/>
+				So was't bie Ju ganz dicke schon,<lb/>
+				Nu hemm Ii doavöär Juen Lohn;<lb/>
+				Wär'n Ii hübsch still un rohig west,<lb/>
+				Dänn kamm Ju Keener in Ju Nest.<lb/>
+				Will'n Ji't nu oaber goar nich lied'n,<lb/>
+				Dänn koamt moal her! dänn will'n wie stried'n!<lb/>
+				Jitzt steiht vöär Ju de rechte Mann,<lb/>
+				Fangt et mit Am moal orndlich an!<lb/>
+				Hemm Ii moal Ju to wrangeln Lust,<lb/>
+				Dät is de rechte Wrangel just;<lb/>
+				Ick glöw, kümmt ’t to de Wrangelei,<lb/>
+				He drückt de Ribben Ju entwei.<lb/>
+				Drüm dücht mie, dohn Ii ook ganz klook,<lb/>
+				Ii moaken nich mehr sönnen Spook,<lb/>
+				Un geiht et Ju wat hart ook an,<lb/>
+				Moakt Ju män an de Arbeit ran!<lb/>
+				Wer flietig is, - de hät sien Brot,<lb/>
+				Wer ehrlich is, — de litt nich Noth,<lb/>
+				Wer wat versteiht, — de kümmt ook an,<lb/>
+				Wer rohig is, — den loawet man.<lb/>
+				Dät Bummeln, dät is goar to schlimm,<lb/>
+				Drüm bummelt jo nich mehr so rüm!<lb/>
+				Et föhrt gewiß, dät glöwt mie män,<lb/>
+				Toletzt doch an keen goodet Enn.<lb/>
+				<pb facs="../img/jung-1855/0084.jpg"/>
+				78 —<lb/>
+				Zum neuen Jahre 1849.<lb/>
+				(Verfaßt Anfangs Januar 1849.)<lb/>
+				Vöärbie is nu dät olle Joahr,<lb/>
+				Dät so vull Sorg' un Unroh woar;<lb/>
+				Ick segg' un bliebe doabie noch,<lb/>
+				En Schaltjoahr is en Schalkjoahr doch.<lb/>
+				Schlimm gung't uns to d' Franzosentiet,<lb/>
+				De König mit dät Volk was wiet,<lb/>
+				Ook keene Hülpe sünsten noah,<lb/>
+				De Fiend in'n Oogenblick ook doa.<lb/>
+				Nu keene Fru un Moagd in't Huus,<lb/>
+				De koakte wat vöär Mann un Muus,<lb/>
+				De Schwestern kreegen beed' en Schreck,<lb/>
+				Un leeten mie alleen in'n Dreck.<lb/>
+				Mit Voadern bleef ick ganz alleen,<lb/>
+				Keen Fru'nsminsch leet in't Huus sick sehn,<lb/>
+				Un seggt ick: „Helpt mie in de Noth!"<lb/>
+				Heet't glieks: „De Fiende schloan uns dood.<lb/>
+				<pb facs="../img/jung-1855/0085.jpg"/>
+				79 —<lb/>
+				De Fiende kammen angeprescht<lb/>
+				— Se hemm uns nich wat afgedröscht;<lb/>
+				Wie — woaren fründlich hübsch to öähr,<lb/>
+				Un sett'ten, wat wie haar'n, öähr vöär.<lb/>
+				Doa satt öähr Hauptmanu in de Eck;<lb/>
+				To äm — was ick ganz frie un keck:<lb/>
+				Dät was en gooder, leewer Mann,<lb/>
+				De keek sick All's so rohig an.<lb/>
+				Ick würr de Annern Unrecht dohn,<lb/>
+				Gäw' ick öähr hier nen schlechten Lohn,<lb/>
+				Ick heb mit Keenen mie vergnurrt;<lb/>
+				All'n ännern Dag, — doa woar'n se furt.<lb/>
+				Volk kamm noaher to uns noch nog,<lb/>
+				Et namm uns Keener — Peer un Plog;<lb/>
+				Et heel woll hart; en Fiend in't Land<lb/>
+				Is immer schlimm, dät is bekannt.<lb/>
+				Alleen — et leet sick öäberstoahn,<lb/>
+				Et gung ook, joa! et mußte goahn;<lb/>
+				Alleen et gung män doarüm good:<lb/>
+				Et moakte Keener 'n Annern Noth.<lb/>
+				As Frünne heel'n wie fest tosamm,<lb/>
+				Un wenn moal wo en Unglück kamm,<lb/>
+				Gliek stund dänn Eener 'n Ännern bie,<lb/>
+				Hüüt hulp ick den, he morgen mie.<lb/>
+				<pb facs="../img/jung-1855/0086.jpg"/>
+				A<lb/>
+				80 —<lb/>
+				De Eenigkeit, de moakte stark,<lb/>
+				Drüm was dät All's uns män en Quark;<lb/>
+				Wie hemm ’t nich mit de Fiende holl'n,<lb/>
+				Nä! nä! wie bleeben jo de Oll'n.<lb/>
+				Wat hemm wie oft gebett't vöär Am,<lb/>
+				Wie woll'n wä unsen König hemm!<lb/>
+				Letzt hät uns denn ook Gott erhört,<lb/>
+				Un uns den König wä toföhrt.<lb/>
+				Un mit den König kamm in't Land,<lb/>
+				—<lb/>
+				Dät is uns Oll'n noch woll bekannt,<lb/>
+				De güldne Freeden un de Roh:<lb/>
+				Wänn werd et doch woll wädder so? -<lb/>
+				Wenn wie uns jitzt de Welt ansehn,<lb/>
+				Man müchte blood'ge Thränen ween'n;<lb/>
+				Kuum tru't een Fründ den Annern noch,<lb/>
+				Dåt is dät gröttste Unglück doch.<lb/>
+				De Voader weet nich, hät he'n Soahn,<lb/>
+				De Bu'r nich, — werd äm d'Knecht biestoahn,<lb/>
+				Un Eener kickt den Annern an,<lb/>
+				Of he äm ook woll glöwen kann.<lb/>
+				Dät, Kinner, dät moakt Keenen froh,<lb/>
+				Geiht et in't niee Joahr wä so;<lb/>
+				Drüm loat ’t uns all wä Frünne syn,<lb/>
+				Sünst koam wie in groot Unglück rin.<lb/>
+				<pb facs="../img/jung-1855/0087.jpg"/>
+				81 —<lb/>
+				Mit Gott loat ’t uns de Sach' anfang'n,<lb/>
+				Dänn wer'n wie ook doato gelang'n,<lb/>
+				Dät wie't von keenen Hunnsfott lied'n,<lb/>
+				Will he hier wädder'n König stried'n.<lb/>
+				Vöär'n König un vöär’t Voaderland<lb/>
+				Loat't All uns syn mit Herz un Hand!<lb/>
+				Dohn wie dänn, wat uns Gott gebütt,<lb/>
+				Schützt he uns ook up Tritt un Schritt. —<lb/>
+				Es bleibt beim Alten.<lb/>
+				Eine wahre Anekdote.<lb/>
+				(Verfaßt im Januar 1849.)<lb/>
+				Dät will'n wie doch ook erst noch sehn! -<lb/>
+				Wie höden nu nich mehr alleen<lb/>
+				Up unse Feld un unsen Ploan,<lb/>
+				Nu sall et ook up Herrschafts goahn!<lb/>
+				Dät is Ju All'n doch wollbekannt,<lb/>
+				So is't zund dörchet ganze Land,<lb/>
+				Jitzt hät keen Minsch vöär'n Annern Recht,<lb/>
+				Jitzt sind wie Alle glieke schlecht.<lb/>
+				<pb facs="../img/jung-1855/0088.jpg"/>
+				—<lb/>
+				82<lb/>
+				Wenn dät vöär uns un d' Herrschaft gelt,<lb/>
+				Is’t mit dät Veeh ook so bestellt,<lb/>
+				Dät hät de Frieheit nu ook wiß,<lb/>
+				To höden, wo’t am besten is.<lb/>
+				As wie von een gesepareert,<lb/>
+				Hät sick keen Minsch an uns gekehrt,<lb/>
+				Wie — wär'n noch hüüt geruggeneert,<lb/>
+				Wär nich tosamm wä fepåreert.<lb/>
+				Dunn moakten se't, as't öähr behoagt,<lb/>
+				Doa hät de Herrschaft nich noah froagt,<lb/>
+				Dät beste Land hemm se uns noam;<lb/>
+				Hüüt soll'n se uns män wädder koam!<lb/>
+				Hüüt würr'n se't ook nich mehr verlang'n,<lb/>
+				Wie würr'n öähr'n Brotkorf höhger hang'n!<lb/>
+				Un soll't ook noch so lange duur'n,<lb/>
+				Wie leeten uns nich wä beluur'n.<lb/>
+				Hemm se dät Land uns nu genoam,<lb/>
+				Dänn kann ook unse Veeh drup koam,<lb/>
+				Et fritt de Herrschaft lang' nich af,<lb/>
+				Wat dät Gemeen to vöäl öähr gaff.<lb/>
+				Dät will'n wie nu de Herrschaft seng'n,<lb/>
+				Un ’t öähr tosamm ganz driest vöärbreng'n;<lb/>
+				Ick denk, wie sind nu Alle hier,<lb/>
+				Wie moaken öähr moal heet dät Fü'r.<lb/>
+				<pb facs="../img/jung-1855/0089.jpg"/>
+				83<lb/>
+				Wat will He gegen uns alleen!<lb/>
+				Uns' Recht mütt He letzt sülwst insehn;<lb/>
+				Un will He't nich, dänn twing'n wie Am,<lb/>
+				Wie will'n et eenmoal nu so hemm. —<lb/>
+				De Bu're moaken All sick up,<lb/>
+				Un goahn dänn to de Herrschaft rup,<lb/>
+				Se stell'n öähr öähre Sache vöär,<lb/>
+				Un seng'n öähr, wat öähr Wille wär’.<lb/>
+				Se wunnern sick dänn ook ganz sehr,<lb/>
+				As nu de Herrschaft seggt to öähr:<lb/>
+				„Dät, Kinner, finn' ick ook ganz recht,<lb/>
+				„Dät moaken Ii gewiß nich schlecht.<lb/>
+				„Joa! joa! koamt män mit Jue Hood<lb/>
+				„Up miene Hödung, dät is good;<lb/>
+				„Ju Veeh, dät moak ick Ju bekannt,<lb/>
+				„Werd up mien Feld nich mehr gepannt.<lb/>
+				„De Kleene mütt tum Grooten koam,<lb/>
+				„Ju Veeh werd gärn von mie upnoam;<lb/>
+				„Alleen dät sehn Ii sülwer in,<lb/>
+				„Ii mütten dänn ook billig syn.<lb/>
+				„Fritt Jue Veeh bie mie sick satt,<lb/>
+				„Un finnt up miene Hödung wat,<lb/>
+				„Dänn wer'n ook, wenn se to Ju koam,<lb/>
+				„Von Ju de Kleenen wiß upnoam.<lb/>
+				<pb facs="../img/jung-1855/0090.jpg"/>
+				84 —<lb/>
+				„Vöär Alle heb ick nich genog,<lb/>
+				„Heb ick vöäl Land ook unnern Plog,<lb/>
+				„Un griepen Ii öähr unnern Arm,<lb/>
+				„Dänn, söll'n Ii sehn, blift Keener arm.<lb/>
+				„Ick will ’t de Kleenen män gliek seng'n,<lb/>
+				„Un wat Ii will'n, öähr foorts vöärbreng'n;<lb/>
+				„De wer'n sick freu'n, dät Ii dät will'n,<lb/>
+				„Un öähr ook öähr Verlangen still'n!<lb/>
+				„Dänn köfft sick Mäncher noch ne Koh,<lb/>
+				„Un dankt et Ju ganz sehre froh,<lb/>
+				„Dät Ii de Frieheit ook vöär äm,<lb/>
+				„Un Gliekheit will'n vöär Alle hemm." —<lb/>
+				Dät was nu just nich unfe Will,<lb/>
+				Se, gnädger Herr, hemm ’t ook to hill,<lb/>
+				Dät, glöwen wie, dät werd nich goahn,<lb/>
+				So — hemm wie nich dät Ding verstoahn.<lb/>
+				Würr män de Annern dät to Deel,<lb/>
+				Wat uns hier ganz noah Recht tofeel,<lb/>
+				Dänn is et letzt woll ’t Allerbest,<lb/>
+				Et blift män All's so, as et west,<lb/>
+				Keem'n uns de Kleenen wo up't Land,<lb/>
+				Dät gäw jo glieks män Pand up Pand;<lb/>
+				Wie — wer'n keen Veeh up Herrschafts drieb'n,<lb/>
+				Dänn mag et män bie'n Ollen blieb'n.<lb/>
+				<pb facs="../img/jung-1855/0091.jpg"/>
+				— 85 —<lb/>
+				Die Vorwahl.<lb/>
+				Eine Unterredung.<lb/>
+				(Verfaßt im Februar 1849.)<lb/>
+				„Nu segg mie moal! wen wählen wie?"<lb/>
+				Weet ick et? — doanoah froag' ick Die!<lb/>
+				„Dät erste Moal, doa gung ’t uns schlecht."<lb/>
+				Werd et dät tweete Moal män recht!<lb/>
+				Wat hemm de Keerls uns All's versproak'n!<lb/>
+				Keem'n se män ran, se woll'n ’t woll moak'n.<lb/>
+				So as et was, so bleef et ook,<lb/>
+				Dät was män nischt as Schmook un Spook.<lb/>
+				„Wat meinst Du woll to unsen Herrn!<lb/>
+				„Nähm' dät Gemeene den woll gärn?"<lb/>
+				Worüm nich goar! doa keemst Du öähr,<lb/>
+				Dät glöw mie män, gewiß verquer.<lb/>
+				De Herr, de günnt uns ook nich wat!<lb/>
+				Twee Holtdoag' hemm wie sünst gehat,<lb/>
+				Hät he uns eenen nicht genoam?!<lb/>
+				Mit den, doa därfst Du öähr nich koam.<lb/>
+				<pb facs="../img/jung-1855/0092.jpg"/>
+				86 —<lb/>
+				„Dät is woll woahr, doa häst Du Recht,<lb/>
+				„Dät was to uns von äm ook schlecht,<lb/>
+				„Doa hät he'n grooten Buck geschoat'n,<lb/>
+				„Dät haar he doch söll'n blieben loat'n.<lb/>
+				„Nu werd ook Keener von nns Oll'n<lb/>
+				„Bie d' Woahl up Moandag up äm holl'n: —<lb/>
+				„Alleen — wen denkst Du wählen wie?<lb/>
+				„Wat dücht woll to den Preester Die?“<lb/>
+				Den Schwartrock? — ne! den nehm'n wie nich!<lb/>
+				Doa holl'n Die keene Teine Stich!<lb/>
+				He moakt et oaber ook to kruus;<lb/>
+				Lett he uns woll de Jung's to Huus?<lb/>
+				Dät sall män immer in de School!<lb/>
+				Doavon — werd noch nicht fett de Kohl;<lb/>
+				De mütten ook wat Anners lehr'n,<lb/>
+				Un könn'n nich bloot an äm sick kehr'n.<lb/>
+				„Ob Die de Möller woll gefällt?<lb/>
+				„Dät, glöw ick, wär doato en Held." —<lb/>
+				Na! hör! doa keemst Du öähr schön an,<lb/>
+				Du weetst doch! wo de matten kann!<lb/>
+				De Keerl drift mit uns Düwelsspöll,<lb/>
+				Veer Schäpel brengst Du up de Möll;<lb/>
+				Gift he Die veerthalf wä torügg,<lb/>
+				Dänn is et noch en Dusendglück.<lb/>
+				<pb facs="../img/jung-1855/0093.jpg"/>
+				87 —<lb/>
+				„Dänn mütten wie uns to bequem'n,<lb/>
+				„Den Kröger män doato to nehm'n;<lb/>
+				„Wie koam'n doa so jo oft tosamm,<lb/>
+				„Wenn uns de Dorst wat öäberkamm."<lb/>
+				De Keerl! dät wär doch oaber dull!<lb/>
+				De gütt Een'n ’t Beerglas nich moal vull;<lb/>
+				En Jeder will doch ook sien Recht,<lb/>
+				Is ook sien Beer un Fusel schlecht.<lb/>
+				„Jä! Vaddersmann! dånn segg Du ’t moal!<lb/>
+				„Dät Wählen — is doch ook ne Quoal.<lb/>
+				„Wo koam'n wie ruut woll uut de Schmeer?<lb/>
+				„Ick weet nu würklich Keenen mehr.“ —<lb/>
+				Et gift woll Lüüde hier noch nog,<lb/>
+				Keen Bu'r will män nich von sien Plog,<lb/>
+				Versüümen deiht sick Keener gärn,<lb/>
+				Un Geld — will ook keen Minsch vertär'n.<lb/>
+				Geiht man uut siene Würthschaft ruut,<lb/>
+				Gliek is ’t ook mit de Ornung uut,<lb/>
+				Un hemm wie hier Versüümniß hat,<lb/>
+				Dänn gift uns Keener ook nich wat.<lb/>
+				„Dät segg ick jo! Keen dummer Mann<lb/>
+				„Därf't ook nich syn! dät geiht nich an:<lb/>
+				„Sall he doa vöär uns' Dörp wat seng'n,<lb/>
+				„Mütt he ’1 ook weeten uuttoleng'n.<lb/>
+				<pb facs="../img/jung-1855/0094.jpg"/>
+				— 88 -<lb/>
+				„'T sind Keerls hier nog, wie hemm ’t erfoahr'n,<lb/>
+				„De keen Moal nich bähr Muulwerk spoar'n;<lb/>
+				„Dät geiht in Eenen immer furt,<lb/>
+				„As of sönn Wockenrad so schnurrt.<lb/>
+				„Wat breng'n se vöär? — Däs Alles nischt!<lb/>
+				„De — hemm noch nich en Kräwft gefischt!<lb/>
+				„All öähre Wöör', — ’t is goar nischt dran!<lb/>
+				„Nu kiek Die erst de Keerls moal an!<lb/>
+				„Wist Du vielicht den Schuieder hemm?<lb/>
+				„De — deiht uns so all Dook nog klemm;<lb/>
+				„Gifst Du den Fischer Diene Stimm,<lb/>
+				„Dänn, glöw ick, würr' et erst recht schlimm.<lb/>
+				„De Keerl! dät is jo'n Dummekroat,<lb/>
+				„De brengt uns letzt tum Hochverroath;<lb/>
+				„Wie oaber holl'n an'n König fest,<lb/>
+				„Ick denk, dät is ook ’t Allerbest.<lb/>
+				„Wer erst up unsen König schimpt,<lb/>
+				„Am lästert, siene Ehre nimmt,<lb/>
+				„Sönn'n Keerl seh ick erst goar nich an;<lb/>
+				Furt mit sönn'n Schuft! däs nich mien Mann!<lb/>
+				„Nu kiek Die in dät Dörp moal üm!<lb/>
+				„Un drehgst Du teinmoal Die herüm<lb/>
+				„Du müttst de Veer in't Oog beholl'n,<lb/>
+				„Wiel se up unsen König holl'n.<lb/>
+				<pb facs="../img/jung-1855/0095.jpg"/>
+				— 89.<lb/>
+				„Un wer up unsen König höllt,<lb/>
+				„De hät sien Sach up wat gestellt;<lb/>
+				„De ännern Keerls, kickst Du se an,<lb/>
+				„Doa is toletzt ook goar nischt dran.<lb/>
+				„De reden uns wat Dummet vöär,<lb/>
+				„Un mäncher Dumme — glöwt et öähr;<lb/>
+				„Toletzt sind wie män angeföhrt,<lb/>
+				„Hemm uns de Keerls män erst bedöhrt.<lb/>
+				„Drüm loat uns hübsch tosammen holl'n,<lb/>
+				„Dät wie hier Roh in't Dörp beholl'n,<lb/>
+				„Nehm'n erst de Wöhler öäberhand,<lb/>
+				„Dänn kümmt dät Unglück öäber't Land!<lb/>
+				Däs woahr! — alleen wen wähl'n wie denn?<lb/>
+				Man werd ganz dumm in'n Kopp am Enn;<lb/>
+				Letzt — mütten wie uns doch bequem'n,<lb/>
+				De Veere män doato to nehm'n.<lb/>
+				Wenn se uns' Königs Frünne syn,<lb/>
+				Dänn breng'n se uns letzt noch wat in;<lb/>
+				De ännern Keerls! — doa häst Du Recht,<lb/>
+				Mit de, — doa werd et noch ganz schlecht.<lb/>
+				Wat werd sick unse König freu'n,<lb/>
+				Könn'n uns de Keerls nich mehr so dräu'n!<lb/>
+				Nu — will'n wie woll de Rackers krieg'n,<lb/>
+				Nu werd de goode Sache sieg'n!<lb/>
+				<pb facs="../img/jung-1855/0096.jpg"/>
+				90 —<lb/>
+				Män Eener — kunn et nich alleen,<lb/>
+				Doa leet sick jo keen Enn afsehn;<lb/>
+				Jitzt oaber werd et good vöär't Land,<lb/>
+				Jitzt hemm wie Bu'r de Oäberhand!<lb/>
+				Die Aufständischen.<lb/>
+				(Verfaßt im Mai 1849.)<lb/>
+				Dät also will'n de Keerls uns breng'n?<lb/>
+				Den König söll'n wie sülwst afseng'n?<lb/>
+				Wat sind dät vöär Dullhuusgeschichten,<lb/>
+				De Repoblik will'n se uprichten?<lb/>
+				De Hunnsdoag' sind jo noch nich koam,<lb/>
+				De Hitt' hät se woll all benoam?<lb/>
+				T is öähr woll goar in'n Kopp gestägen,<lb/>
+				Un vöär de Tiet verbrennt de Brägen?<lb/>
+				Haar'n noch de Keerls wat länger woahrt,<lb/>
+				Steeg mehr vielicht noch öähre Oart;<lb/>
+				Wie können Gott nich nog vöär danken,<lb/>
+				Erfoahrn so fröh. wie öähr' Gedanken.<lb/>
+				<pb facs="../img/jung-1855/0097.jpg"/>
+				91 —<lb/>
+				Dät schleek jitzt so in Still'n herüm,<lb/>
+				Man dacht', nu werd et nich mehr schlimm;<lb/>
+				Alleen, nischt werd so sien gespunnen,<lb/>
+				Et kümmt doch endlich an de Sunnen.<lb/>
+				Se hemm sick sülwer öäbernoam,<lb/>
+				Sind noch to fröh an't Licht mit koam;<lb/>
+				Nu lehrt woll Mäncher bäter kieken,<lb/>
+				Werd äm de Nacht von d' Oogen wieken.<lb/>
+				De Frieheit — roopen se uns uut,<lb/>
+				De Eenheit — hemm se in de Schnuut;<lb/>
+				Un doabie weeten se to knechten,<lb/>
+				Un allet Eegne antofechten!<lb/>
+				Wat öähr Befehl is, sall man dohn,<lb/>
+				Wat nich mit öähr geiht, kriggt sien'n Lohn,<lb/>
+				Wer, wat se will'n, nich gliek will geben,<lb/>
+				Den goahn de Keerls jo sülwst an’t Leben.<lb/>
+				De Frieheit will'n se woll män hemm,<lb/>
+				Mit Unheel All's to öäberschwemm;<lb/>
+				De Frieheit will'n se woll inföhren,<lb/>
+				Dät wie uns rücken nich un röhren?! —<lb/>
+				Nä! poplich is ne Repoblik,<lb/>
+				Doa sind gejoagte Rehn wie gliek;<lb/>
+				An Jägers fehlt et nie un Hunnen,<lb/>
+				Doa würr'n wie erst recht düchtig schunnen.<lb/>
+				<pb facs="../img/jung-1855/0098.jpg"/>
+				92 —<lb/>
+				Een Gott is in de ganze Welt,<lb/>
+				De All's drüm ook tosammen höllt;<lb/>
+				Wenn vöäle wär'n, wat wörr dät weren!<lb/>
+				Wie heel'n't nich uut vöär Angstbeschweren.<lb/>
+				Oahn Würth besteiht ook nich en Huus;<lb/>
+				Wer sorgte woll vöär Mann un Muus?<lb/>
+				Wenn Jeder sick woll öäberheben,<lb/>
+				Dät wörr ne schöne Würthschaft geben!<lb/>
+				Een König mütt in't Land ook syn,<lb/>
+				Sünst pöäkeln se in't Fatt uns in;<lb/>
+				Dät Vöäle 'n Brei ganz licht verderben,<lb/>
+				Bruukt man erst Keenen intokerben.<lb/>
+				Drüm söll'n de Keerls uns hier moal koam,<lb/>
+				Se kreegen't in dree Düwels Noam;<lb/>
+				Wer uns woll unsen König nehmen<lb/>
+				Bruukt sick üm Koppnöät nich to grämen! —<lb/>
+				<pb facs="../img/jung-1855/0099.jpg"/>
+				93 —<lb/>
+				Die deutsche Einheit.<lb/>
+				(Verfaßt im Mai 1849.)<lb/>
+				Ick heb bie mie all mänchmoal dacht,<lb/>
+				Letzt weren wie noch untgelacht;<lb/>
+				Wat was dät erst vöär’n groot Geschwög!<lb/>
+				Man sprack sick jo den Mund fast drög.<lb/>
+				Dät soll jo Alles eens dunn syn;<lb/>
+				'T kamm Alles in een Fatt herin,<lb/>
+				’T was, wat et was; se haarn't ganz hill:<lb/>
+				Na! — ’t was ook erst noch handlich still.<lb/>
+				Män — as se't Fatt nu to will'n moak'n,<lb/>
+				Is öähr de Krone weggebroak'n;<lb/>
+				Uns' König will sien Kron' beholl'n,<lb/>
+				Se — mütten mit öähr Kron' aftroll'n.<lb/>
+				Oähr Kaiserkrone antonehm'n,<lb/>
+				Doa kann he sick nich to bequem'n;<lb/>
+				NNe Sprosse will he doch nich wer'n,<lb/>
+				De Repoblik uns to bescheer'n! —<lb/>
+				<pb facs="../img/jung-1855/0100.jpg"/>
+				94 —<lb/>
+				Doa oaber geiht nu't Wöhlen an!<lb/>
+				Un Jeder wöhlt, so sehr he kann;<lb/>
+				Wat erst so unnernänner lagg,<lb/>
+				Wöhlt schwinn sick ruut, dät Ungemach!<lb/>
+				De Kleinste — moakt den gröttsten Lärm'n,<lb/>
+				De kann nich nog rümschwirr'n un schwärm'n;<lb/>
+				Un de sick erst tosamm haar'n schloan,<lb/>
+				De will'n nu uutenänner goahn.<lb/>
+				Wenn ick mien Voaderland anseh,<lb/>
+				Ach Gott! wat deiht mien Kopp dänn weh!<lb/>
+				Wo is dät een'ge düütsche Land?<lb/>
+				Mie bloodt dät Herz üm't Voaderland.<lb/>
+				Ii hemm doch erst so groot gedoahn,<lb/>
+				T sall All's in Düütschland jo upgoahn!<lb/>
+				Un nu! nu rieten Ji't voneen!<lb/>
+				Wer kann doavon dät Enn afsehn?!<lb/>
+				Wo is de Eenigkeit, gebläb'n?<lb/>
+				Wer hät den Freeden uns verdräb'n?<lb/>
+				Wer hät dat Unglück öäber Nacht,<lb/>
+				Den Uprohr uns in't Land gebracht?<lb/>
+				Wo kann de Eenigkeit bestoahn,<lb/>
+				Wenn Eener'n Annern deiht dood schloan!<lb/>
+				Haar'n Ji de Eenigkeit gewollt,<lb/>
+				Haar'n Ji de Försten ehren sollt.<lb/>
+				<pb facs="../img/jung-1855/0101.jpg"/>
+				95 —<lb/>
+				Män Unstriet, Knechtschaft brengen Ji,<lb/>
+				Doa sind Ji ganz geschwinn derbie;<lb/>
+				Ii Wöhler still'n up allen Fall<lb/>
+				Män Juen Hochmoth öäberall.<lb/>
+				Ach Gott! wenn ick mien Volk anseh,<lb/>
+				Wo deiht mien Kopp un Herz dänn weh!<lb/>
+				Wie brengen uns in Schimp un Schand,<lb/>
+				Verderben öäber't Voaderland.<lb/>
+				Un doabie, wer haar dät gedacht!<lb/>
+				Wer'n wie von't Uutland uutgelacht;<lb/>
+				Wie hemm von Eenigkeit geschrä'n,<lb/>
+				Nu wiesen wie uns sülwst de Tähn’!<lb/>
+				Et klafft un knurrt jo, wat he kann,<lb/>
+				All Eener'n Ännern schmälig an;<lb/>
+				Un kann he tokoam, bitt he to,<lb/>
+				Et geiht jo los up Mordio.<lb/>
+				Wo kümmt sönn hunnsföttsch willer Sinn<lb/>
+				Mit eenmoal in dät Volk herin?<lb/>
+				Wo könn'n wie doa woll Bröder werr'n,<lb/>
+				Wenn wie uns so herümmerterr'n?<lb/>
+				Keen Freede kümmt nich in dät Land,<lb/>
+				Kümmt Leew' un Totrau'n nich to Stand;<lb/>
+				Loat't uns doch mit de Försten goahn,<lb/>
+				Dät se bie uns, wie bie öähr stoahn!<lb/>
+				<pb facs="../img/jung-1855/0102.jpg"/>
+				96 —<lb/>
+				De Eenigkeit bloot moakt uns stark,<lb/>
+				Sünst is't de Fiende män en Quark,<lb/>
+				Derwiel wie in de Hoar' uns ling'n,<lb/>
+				Uns allehope to betwing'n.<lb/>
+				Der Artillerist.<lb/>
+				Anecdote aus dem Dänenkriege.<lb/>
+				(Verfaßt im Juni 1849.)<lb/>
+				„De Keerls! de holl'n sick doch kasproat!<lb/>
+				„Wie dähn öähr woll noch nich vöäl Schoad;<lb/>
+				„Wie will'n öähr oaber ’t Fell versoahl'n,<lb/>
+				„De — sall jo All de Schinder hoal'n!“<lb/>
+				Kuum hät he’t seggt, doa stört’t he hen.<lb/>
+				„De is doa wesen!" heet et dänn;<lb/>
+				Am was de Pickelhuw wegschoat'n,<lb/>
+				Doa hemm se äm dänn liggen loat'n.<lb/>
+				De Annern sind denn flink derbie,<lb/>
+				Un bruuken öähre Artoll'rie;<lb/>
+				Dät Scheeten hört ook goar nich up,<lb/>
+				De Dänen — holl'n ook schmälig drup.<lb/>
+				<pb facs="../img/jung-1855/0103.jpg"/>
+				97 -<lb/>
+				Dät geiht män immer hen un her;<lb/>
+				Doa röppt mit ens et hinner öähr;<lb/>
+				„Na, Kinner! wo wiet sind Ii denn?<lb/>
+				Verwunnert kieken se doahen.<lb/>
+				„Wat! Broder, bist Du noch nich dood?<lb/>
+				„Wie sind hier ofsig zund in Noth,<lb/>
+				„Wie hemm ook jitzt so vöäl to dohn,<lb/>
+				„Kuum sind genog vöär uns' Kanon’.<lb/>
+				„Wie hülpen Die jo goar to gärn,<lb/>
+				„Wie mütten uns män höllisch wehr'n;<lb/>
+				„Du müttst absluut noch, Broder, woahr'n,<lb/>
+				„Uns' Hülp sast Du noaher erfoahr’n." —<lb/>
+				Doa krüppt he still hen noah de Stadt;<lb/>
+				Se geben vöär sien' Wund' äm wat,<lb/>
+				Verbinnen äm ook Alles good,<lb/>
+				Doa litt he nich mehr sönne Noth.<lb/>
+				As Alles oaber färig is,<lb/>
+				Moakt he sick up wä, dät is wiß.<lb/>
+				„Wohen? — ’t hät doa nich sönn Gefoahr!"<lb/>
+				„„Nä! hört! wie sind noch nich ganz kloar."“ —<lb/>
+				Doa krüppt he nu up alle Veer,<lb/>
+				Den Groaben lang, un ielt sick sehr;<lb/>
+				Wat freut he sick, as he nu schütt,<lb/>
+				—<lb/>
+				Dät letzt de Fiend inpacken mütt!-<lb/>
+				<pb facs="../img/jung-1855/0104.jpg"/>
+				98 —<lb/>
+				Wat Ii ook seng'n von't Prüß'sche Heer,<lb/>
+				Sönn Broawen gift et noch vöäl mehr;<lb/>
+				Mit Gott steiht Jeder in sien Stand<lb/>
+				Vöär'n König un vöär't Voaderland.<lb/>
+				Der Aufruhr.<lb/>
+				(Verfaßt im Juni 1849.)<lb/>
+				So wat hät man doch nie nich hört!<lb/>
+				De Keerls sind all as ganz verstört;<lb/>
+				Koam'n Schufte doa, un red'n wat her,<lb/>
+				Se sind so dumm un glöben't öähr.<lb/>
+				Wo kann woll doa en Land bestoahn,<lb/>
+				Will ’t Volk nich mit de Försten goahn?<lb/>
+				Wo kann dät Landeswoll gedeih'n,<lb/>
+				Wenn ständig se „Verroath!" män schrei'n?<lb/>
+				Hemm wie to uns keen Totrau'n nich,<lb/>
+				Hemm alle Vöss' uns uppen Strich;<lb/>
+				Un Vösse, dät is jo bekannt,<lb/>
+				Gift et ganz vöäl in unse Land.<lb/>
+				<pb facs="../img/jung-1855/0105.jpg"/>
+				99<lb/>
+				Man süht et mänchen Voss nich an,<lb/>
+				Wo roth he is un vicheln kann;<lb/>
+				Deiht uns sien Schwänzeln erst gefall'n,<lb/>
+				Dänn is't vöärbie ook mit uns All'n.<lb/>
+				Ick haar et all mien Lew nich glöw't;<lb/>
+				Mie hät et ook ganz sehr bedröw't,<lb/>
+				Dät sülwst in't eegne Voaderland<lb/>
+				Et Uprohr gift un Kriegesbrand!<lb/>
+				Ick dacht, dät wie so dumm nich wär'n,<lb/>
+				Un leeten uns so groff anschmeer'n,<lb/>
+				Dät wie nich gliek ook seggten Topp!<lb/>
+				Verkielt' uns Eener moal den Kopp.<lb/>
+				Wat will'n de Keerls, de so wat dohn? -<lb/>
+				Se will'n doch ook woll öähren Lohn.<lb/>
+				Wat will'n se mit de roode Foahn'? —<lb/>
+				'T sall woll up Dood un Leben goahn!<lb/>
+				Un geiht et los, un ’t geiht dänn schlimm,<lb/>
+				Dänn scheer'n de Keerls sick vöäl doadrüm;<lb/>
+				Se rieten uut un moaken furt,<lb/>
+				De boaden ’t uut, de se uppurrt.<lb/>
+				Un süht man in de Kassen noah,<lb/>
+				Sind keene Geller nich mehr doa:<lb/>
+				Doa is't de Keerls bloot drüm to dohn,<lb/>
+				Un wie — hemm Schimp un Schand tum Lohn.<lb/>
+				<pb facs="../img/jung-1855/0106.jpg"/>
+				100<lb/>
+				In Breslau — is ’t jo dull gewest,<lb/>
+				Ook Düsseldorp, dät Uprohrnest,<lb/>
+				In Elberfeld, —<lb/>
+				’t was sünst so good!<lb/>
+				Doa gung’t up Leben un up Dood.<lb/>
+				Se hemm se oaber sick vöärnoam!<lb/>
+				T werd öähr nich innen Kopp wä koam:<lb/>
+				Groot was in Elberfeld de Quoal,<lb/>
+				Doa hemm se nog vöär't eene Moal.<lb/>
+				Letzt — sind se schwinn män ruutgetreckt,<lb/>
+				As't Milletär kamm angetreckt:<lb/>
+				Un wat mie hät ganz sehr gefreut,<lb/>
+				De Börger hemm sick sülwst befreit.<lb/>
+				De sind dänn to Verstand wä koam,<lb/>
+				As öähr de Keerls hemm ’t Geld afnoam;<lb/>
+				Haar'n se gliek öähr'n Verstand gehat,<lb/>
+				Dänn gaff ’t so wat nich in de Stadt.<lb/>
+				Jitzt grieven sick de Bu're se,<lb/>
+				Un Mänchen deiht de Kopp all weh;<lb/>
+				Wer nu nich goar to döämlich is,<lb/>
+				De is koreert, dät is gewiß.<lb/>
+				Dät uns et oaber nich so geiht,<lb/>
+				Will'n wie hoch holl’n de Oberkeit;<lb/>
+				Un will en Keerl öähr wädderstoahn,<lb/>
+				Will'n wie gliek uppen Kopp äm schloan.<lb/>
+				<pb facs="../img/jung-1855/0107.jpg"/>
+				101 —<lb/>
+				Dänn blift et rohig innet Land<lb/>
+				Dänn gift et nich sönn Kriegesbrand,<lb/>
+				Dänn wer'n wie Alle, Jung'n un Oll'n,<lb/>
+				Ook unse Huus un Hof beholl’n.<lb/>
+				Wolf und Vogt.<lb/>
+				(Verfaßt im Juni 1849.)<lb/>
+				En Wulf is doch en höllisch Beest,<lb/>
+				Vöäruut kümmt he wat wiet gereest!<lb/>
+				Dänn is sönn Deert so hungrig jo,<lb/>
+				Wo he wat süht, gliek bitt he to.<lb/>
+				Dät mütt äm so in'n Moagen grimm'n,<lb/>
+				Un de Kaldun'n tosammen frümm'n,<lb/>
+				Dät he sien Wuth ook gliek uutlett,<lb/>
+				Wo sick män ichts wat wäddersett'’t.<lb/>
+				Sönn Währwalf schont ook Keenen nich,<lb/>
+				Hät he män erst wat uppen Strich;<lb/>
+				Un wenn et sülwst dät Höchste is,<lb/>
+				He ritt et raf, dät is gewiß.<lb/>
+				<pb facs="../img/jung-1855/0108.jpg"/>
+				102 —<lb/>
+				Kann he doa siene Gall' uutloat'n,<lb/>
+				Un an de Kehl wo möäglich foat'n,<lb/>
+				Dät is äm sönn gefunn'net Frät'n,<lb/>
+				Doa werd dänn All's ook gliek terrät'n.<lb/>
+				Je blood'ger is sien falscher Sinn,<lb/>
+				Je blood'ger werd sien Muul ook syn;<lb/>
+				To bieten is sönn Beest nich fuul,<lb/>
+				Am steiht de Schuum män so vöär't Muul.<lb/>
+				Et is nu moal en Wulf mit Noam,<lb/>
+				Uut Breslan hen noah Frankfort koam;<lb/>
+				De hät, — dät mie't kuum Eener glöwt,<lb/>
+				Doa'n Rachen ook gliek wiet upklöwt.<lb/>
+				Et sind doa, so as ick sünst lest,<lb/>
+				Vöärher all Wille nog gewest;<lb/>
+				Alleen nu hät ook All's uphört,<lb/>
+				De hät dät ganze Nest upstört.<lb/>
+				Wat is dät vöär'n Getrampel west!<lb/>
+				De hemm gelärmt, geschrä'n up't Best!<lb/>
+				Den Rieksverweser hät he't boad'n,<lb/>
+				De, meint he, haar dät Land verroad'n.<lb/>
+				De künn, dät müßt he öähr män lehr'n,<lb/>
+				Nu nich Prowiser mehr regeer'n;<lb/>
+				As voagelfrie woll'n se äm gliek<lb/>
+				Erklär'n dörch't ganze düütsche Riek.<lb/>
+				<pb facs="../img/jung-1855/0109.jpg"/>
+				— 103 —<lb/>
+				Wer lett sönn'n Wulf woll gärn in'n Stall?<lb/>
+				Kotz Wäder! dät gaff moal'n Trawall!<lb/>
+				En Vogt, de will't absluut nich lied'n,<lb/>
+				De mußt vöär siene Hoode stried'n.<lb/>
+				Wat hemm de Keerls sick runn gemoakt!<lb/>
+				Fast haar'n se sick wat afgeboakt.<lb/>
+				Dät Schimpen, Roasen un Dulleer'n,<lb/>
+				Dät woll ook goar nich erst uphör'n.<lb/>
+				De Pesserdent, de klingelt woll,<lb/>
+				Dät All's doch eenmoal still syn soll;<lb/>
+				Alleen — et hört jo Keener drup:<lb/>
+				Män letzt, doa hört de Lärm doch up.<lb/>
+				As düss den Wulf to'r Ornung röppt,<lb/>
+				Dät män doch All's noch good aflöppt;<lb/>
+				Doa seggt äm de mit grobber Schnuut:<lb/>
+				„Doa moak ick mie ook goar nischt druut."<lb/>
+				As nu de Vogt noch nich is still,<lb/>
+				Bloot sick nich mit äm scheeten will,<lb/>
+				Wiel sönn Pistol in't Lief doch schleit,<lb/>
+				De Lärm von Frischen losgoahn deiht.<lb/>
+				Sönn Vogt, dät glöw' ick sülwer ook,<lb/>
+				Moakt mit dät Muul bloot Höllenspook;<lb/>
+				Sönn Wulf ritt oaber'u Rachen up!<lb/>
+				Doa goah de Důwel ook so drup! -<lb/>
+				<pb facs="../img/jung-1855/0110.jpg"/>
+				104 —<lb/>
+				Un as ’t nu wädder los is goahn,<lb/>
+				De Vogt äm nich woll Rede stoahn,<lb/>
+				Doa kann de Düss nich nog nu schrei'n:<lb/>
+				— —<lb/>
+				„Dät wär'n gemeene Schimperei'n.“<lb/>
+				Herr Jes! wat word nu vöär'n Tumult!<lb/>
+				Doa haar ook Keener nich Geduld:<lb/>
+				„Herunner!" schrä'n nu All tosamm;<lb/>
+				Mien Wulf — dät goar nich öäbel namm.<lb/>
+				De Pesserdent, de lüüdte woll,<lb/>
+				Dät he nu endlich ’t Muul holl'n soll;<lb/>
+				He moakt noch moal up düsse Stunn<lb/>
+				Am ens ganz orndlich ook herunn.<lb/>
+				Sönn Wulf hät män en dicket Fell;<lb/>
+				Wat scheert sick de üm sönne Schell!<lb/>
+				He seggt et öähr denn wä ganz luut,<lb/>
+				„Doa moakt he sick ook goar nischt druut.<lb/>
+				Wat glöwen denn woll alle De?<lb/>
+				Förcht't sick en Wulf denn vöär en Reh?*)<lb/>
+				Doa leggt he’t jo män bloot drup an,<lb/>
+				Dät he'n bie Siede brengen kann.<lb/>
+				*) Anm. Bekanntlich hieß der Präsident der Reichs¬<lb/>
+				versammlung in Frankfurt am Main Reh; ihm<lb/>
+				folgte in seinem Amte als Präsident des nach Stutt¬<lb/>
+				gart abziehenden Rumpfparlaments der Reichstags¬<lb/>
+				Abgeordnete Löwe aus Kalbe, ein Preuße!<lb/>
+				<pb facs="../img/jung-1855/0111.jpg"/>
+				— 105: —<lb/>
+				Nu — is en Löw' uut Kalwe koam,<lb/>
+				De'n Pesserdentenstohl innoam;<lb/>
+				Wer weet, of't nu werd bäter stoahn?<lb/>
+				Vöär't Erst — will'n se noah Stuttgart goahn. —<lb/>
+				Das Zündnadelgewehr.<lb/>
+				Auftritt in Dresden.<lb/>
+				(Verfaßt im Juni 1849.)<lb/>
+				Doa stoahn de Keerls, de Höllenbrut!<lb/>
+				De moaken sick jo goar nischt druut;<lb/>
+				Un geiht de ganze Stadt ook drup,<lb/>
+				De hör'n jo nich mit Scheeten up.<lb/>
+				Wie will'n öähr moal de Bicht verhör'n,<lb/>
+				Wat dohn se alle Welt upstör'n!?<lb/>
+				Wenn wie öähr moal dät Fell versoahl'n,<lb/>
+				Sall'n se ens düchtig Lehrgeld toal'n.<lb/>
+				Woahrt noch! Wie will'n se bald bekehr'n,<lb/>
+				Ick will män erst ’t Gewehr probeer'n;<lb/>
+				Wie weeten noch nich, wo wie't stell'n,<lb/>
+				Dänn oaber — sall'n se't ook entgell'n.<lb/>
+				<pb facs="../img/jung-1855/0112.jpg"/>
+				106 —<lb/>
+				Mit öähr Gewehr lang'n se nich her;<lb/>
+				Dät — kümmt uns woll so wiet nich vöär:<lb/>
+				Alleen — so öäber't Woater hen<lb/>
+				Doa will et wat, — dät glöwt mie män!<lb/>
+				De Elbe is hier all wat breet,<lb/>
+				Dät Woater treckt ook, as et heet;<lb/>
+				Drüm stoahn se doa un kieken her,<lb/>
+				As of't en Kinnerspöll män wär. — —<lb/>
+				As dät de Untroffzier geseggt,<lb/>
+				Hät he't Gewehr all angeleggt;<lb/>
+				He schütt; — et fällt män vöär de Tiet<lb/>
+				De Schott in't Woater, — ook nich wiet.<lb/>
+				Doa lachen dröäben De äm unt,<lb/>
+				Un hemm noch goar ne lose Schnuut;<lb/>
+				He stellt un leggt, so schwinn he kann,<lb/>
+				Dänn dät Zündnoadelwehr wä an.<lb/>
+				De Kugel schleit all wieder rin;<lb/>
+				Nu weet he ook, wo et mütt syn,<lb/>
+				Un lachen se äm wädder nut,<lb/>
+				Doa moakt he sick erst recht nischt druut.<lb/>
+				Schwinn schütt he nu tum dridden Moal;<lb/>
+				Doa schient et, moakt he öähr wat Quoal,<lb/>
+				Et löppt doa Alles hen un her,<lb/>
+				Wer weet, he kamm öähr woll verquer?<lb/>
+				<pb facs="../img/jung-1855/0113.jpg"/>
+				— 107 —<lb/>
+				Schwinn röppt he dänn: „Mit Nummer Dree!"<lb/>
+				Kotz Blitz nich moal! nu scheeten se! -<lb/>
+				Dät is Die oaber dänn gegoahn!<lb/>
+				Doa bleef Die ook nich Eener stoahn.<lb/>
+				So yull de ganze Platz erst woar,<lb/>
+				Dät haar doa doch to groot Gefoahr;<lb/>
+				So vöäl se erst de Düss' uutlacht,<lb/>
+				Se reeten uut mit ganzer Macht.<lb/>
+				De Schloßplatz was Die gliek so reen,<lb/>
+				Et leet sick keen Upröhrer sehn;<lb/>
+				Se hemm, so good as't wolle goahn,<lb/>
+				Sick noah de Barrekoaden schloan.<lb/>
+				De Prüßen sind öähr noahgegoahn,<lb/>
+				Un hemm se uut de Hüüser schloan;<lb/>
+				Ook von de Barrekoaden bracht,<lb/>
+				Noch eher as't de Keerls moal dacht.<lb/>
+				Vertwiewelt hemm sick Een'ge wehrt,<lb/>
+				Un Dresden Unglücks nog bescheert;<lb/>
+				De Annern, groad dät düllste Pack,<lb/>
+				De moaken furt mit Hack un Mack.<lb/>
+				Erst oaber nehmen se sick Geld,<lb/>
+				So vöäle Säck, as öähr gefällt;<lb/>
+				Se könn'n doch dät ümsünst nich dohn!<lb/>
+				Ook Wöhler will'n jo öähren Lohn.<lb/>
+				<pb facs="../img/jung-1855/0114.jpg"/>
+				108<lb/>
+				De Stadt, de freut sick oaber moal,<lb/>
+				Is se nu los de Düwelsquoal;<lb/>
+				Wat sind de Prüßen good upnoam! -<lb/>
+				Na! sind öähr good to Pass' ook koam. — —<lb/>
+				Die National=Versammlung in Stuttgart.<lb/>
+				(Verfaßt im Juni 1849.)<lb/>
+				Joa! ’t is doch en änner Ding!<lb/>
+				Mit en Löwen geiht et flink;<lb/>
+				Hewft sick de von't Loager up,<lb/>
+				Schleit he'n Schwanz, un geiht dänn drup.<lb/>
+				Mit en Reh hät et nich Oart,<lb/>
+				Den waßt jo nich moal de Boart;<lb/>
+				Werd dät Wild àm dånn to kruus<lb/>
+				Blift he leewer män to Huus.<lb/>
+				Nä! sönn'n Löwen loaw' ick mie,<lb/>
+				De verlett de Hoode nie<lb/>
+				Un wenn't ook män hunnert sind,<lb/>
+				Joa! dva is he ook nich blind!<lb/>
+				<pb facs="../img/jung-1855/0115.jpg"/>
+				109<lb/>
+				Dohn män wat doa'n Hals upklöw'n,<lb/>
+				Gift et Lärm all kuum to glöw'n;<lb/>
+				Bröll'n se dänn moal Alle to,<lb/>
+				Schüddert et un bewft män so.<lb/>
+				Wat doa in de Nächde is,<lb/>
+				Förcht't sick, dät is woll gewiß;<lb/>
+				Un is Mänchet ook wat wiet,<lb/>
+				Dänn is 't doch ganz schlimme Tiet.<lb/>
+				Schwerebrett! sönn Elephant<lb/>
+				Is woll groot, dät is bekannt,<lb/>
+				Oaber wenn so Vöäle koam<lb/>
+				Werd et åm doch schlimm bekoam.<lb/>
+				Kümmt sönn Eenhorn öähr verquer,<lb/>
+				Is dät Volk gliek hinnerher,<lb/>
+				Is sönn Büffel ook wat stark,<lb/>
+				I! dät is öähr män en Quark.<lb/>
+				Brummt en Bär wo dörchen Wald,<lb/>
+				Blitz un Schlag! den hemm se bald;<lb/>
+				Moakt sick goar en Peerd heruut,<lb/>
+				Stickt et öähr ook in de Schnuut.<lb/>
+				Is sönn Wild dänn eenmoal schlimm,<lb/>
+				Wöhlt et sülwer Bööme üm;<lb/>
+				Breckt doa nich bloot Twiege af,<lb/>
+				Nä! doa finnet All's sien Graff.<lb/>
+				<pb facs="../img/jung-1855/0116.jpg"/>
+				110 —<lb/>
+				Süht en Voagel sick nich vöär,<lb/>
+				Sind se doa sülwst hinnerher;<lb/>
+				Hemm äm, dät is öähr jo nischt,<lb/>
+				Bie't Klafitken gliek erwischt.<lb/>
+				Lett en Oadler sick goar sehn,<lb/>
+				Sind se Alle up de Been',<lb/>
+				Wat se doa noah lungern deiht,<lb/>
+				Nä! dät öäber Alles geiht!<lb/>
+				Kreegen se den bie de Klau'n,<lb/>
+				Wörr'n se äm ook gliek terkau'n;<lb/>
+				Doa bleef, glöw' ick, goar nischt dran,<lb/>
+				Jeder beete, wat he kann.<lb/>
+				Oaber de is klööker noch,<lb/>
+				As de Alle, glöw' ick doch;<lb/>
+				Süht se sick von boaben an,<lb/>
+				Kümmt erst, wenn et Tiet is, ran.<lb/>
+				Wo en Oas is, weet man jo,<lb/>
+				Sammeln sick de Oadler to;<lb/>
+				Wer'n de Keerls in sick terfall'n,<lb/>
+				Wer'n se'n Oadler doch tofall'n.<lb/>
+				Wo he siene Fäng' inschleit,<lb/>
+				Keenen mehr de Kopp weh deiht;<lb/>
+				Un de König von boaben raf,<lb/>
+				Brengt den Löwen innet Graff.<lb/>
+				<pb facs="../img/jung-1855/0117.jpg"/>
+				— 111 —<lb/>
+				Die Reichsregentschaft der National¬<lb/>
+				Versammlung in Stuttgart.<lb/>
+				(Verfaßt im Juni 1849.)<lb/>
+				So is't Recht! weßt jo nich fuul!<lb/>
+				Riet't män düchtig up dät Muul!<lb/>
+				Sallt moal sehn, as Ji't anfang'n,<lb/>
+				Werd et bald tum Enn gelang'n.<lb/>
+				Wat sall'n Rieksverweser noch!?<lb/>
+				Doa verwes't dät Riek jo doch;<lb/>
+				Wenn De ook so goar nischt deiht,<lb/>
+				Alles Eenen flöten geiht.<lb/>
+				Sett't äm män ganz orndlich af,<lb/>
+				Brengt åm ens good uppen Draff!<lb/>
+				Doa nich lang äm noch gestroakt!<lb/>
+				Glieks män reenen Disch gemoakt!<lb/>
+				Sind Ii hen noah Stuttgart goahn,<lb/>
+				Werd he sick ook woll furtschloan;<lb/>
+				Oahne Ju — kann he nischt dohn,<lb/>
+				Kann doch doa alleen nich roh'n!?<lb/>
+				<pb facs="../img/jung-1855/0118.jpg"/>
+				112 —<lb/>
+				'T kümmt mie frielich woll so vöär,<lb/>
+				As of ’t äm so Recht nich wär;<lb/>
+				Oaber wiet nog hät he't bracht,<lb/>
+				T was so nischt mit siene Macht.<lb/>
+				Worüm woll he ook nich hör'n?!<lb/>
+				Leet he sick woll eenmoal stör'n?<lb/>
+				Nu is äm ganz Recht geschehn,<lb/>
+				Geiht nu ook wiß ganz alleen.<lb/>
+				Hemm Ii Den erst afgesett't,<lb/>
+				Un Ju sülwst dänn ingesett't,<lb/>
+				Doa söll'n Ji't erst moal probeer'n,<lb/>
+				Wo't is schön, sönn Riek regeer'n!<lb/>
+				Wenn Ii düchtig Geld män hemm!<lb/>
+				Loat't den Römer*) sick wat strämm!<lb/>
+				Kann et nu ook ens erfoahr'n<lb/>
+				Geiht åm jitzt sien Deenst verloar'n!<lb/>
+				Hemm Ii Geld, hemm Ii ook Macht,<lb/>
+				Dänn werd All's to Stanne bracht;<lb/>
+				Hemm Ji Geld, hemm Ii en Heer,<lb/>
+				Doa bangt Ju män nich doavöär!<lb/>
+				Geld, dät moakt jitzt Alles glatt,<lb/>
+				Moakt de Frieheitshelden satt,<lb/>
+				Schafft Gehorsoam, Jedschwor af,<lb/>
+				Brengt dät ganze Land in Draff.<lb/>
+				*) Anm. Erster Württembergscher Minister.<lb/>
+				<pb facs="../img/jung-1855/0119.jpg"/>
+				113 —<lb/>
+				Oaber! — ’t fällt mie män so in,-<lb/>
+				Wenn dät Geld nu all werd syn? —<lb/>
+				Geld, dät moakt et män alleen;<lb/>
+				Hemm Ii Ju ook good vöärsehn?<lb/>
+				Kielt Ju moal den Fickler*) an!<lb/>
+				Schoad' män üm den broawen Mann!<lb/>
+				Twee — sind all noah Boaden goahn,<lb/>
+				Un hät kuum noch moal wat doahn!<lb/>
+				Haar'n se äm män nich erwischt,<lb/>
+				Haar he öähr wat Goods updischt!<lb/>
+				Geld haar he genog in'n Sack,<lb/>
+				Sick to köpen Hack un Mack.<lb/>
+				Hemm Ji Geld nog mitgebracht,<lb/>
+				Störtten Ji de Landesmacht;<lb/>
+				Wat sick De doa woll inbill'n,<lb/>
+				Denken, dät Ii öähr Geld will'n!<lb/>
+				Jo nich! — gewt öähr leewer wat!<lb/>
+				Stoppt se vull un moakt se satt!<lb/>
+				Stärken Ii öähr öähren Moag'u,<lb/>
+				Werd öähr Ju Regeer’n behoag'n.<lb/>
+				Fief Regenten sall'n nu syn,<lb/>
+				Doa schloa ick von Herzen in!<lb/>
+				Eener kann dät nich alleen,<lb/>
+				Dät kann ook en Narr insehn.<lb/>
+				*) Kam nach Württemberg, um für Baden zu werben.<lb/>
+				10<lb/>
+				<pb facs="../img/jung-1855/0120.jpg"/>
+				—<lb/>
+				114 —<lb/>
+				Hemm fief Sinne wie nich All'?<lb/>
+				Däs doch good up allen Fall!<lb/>
+				Haar uns Gott män Eenen geb'n,<lb/>
+				Wär' et goar nich to beleb'n.<lb/>
+				Eener hört nu, wo et steiht,<lb/>
+				’N Annrer süht dänn, wo et geiht;<lb/>
+				Ruukt de Dridde dänn wohen,<lb/>
+				Schmeckt de Veert' et letzt am Enn.<lb/>
+				Föhlt de Fieft' öähr uppen Toahn,<lb/>
+				Na! dänn kann et los ook goahn;<lb/>
+				Hemm wie doch sief Finger ook<lb/>
+				An de Hand, gift et dänn Spook.<lb/>
+				Drüm Koroasche män gehat!<lb/>
+				Hemm Ii Stuttgart erst, de Stadt,<lb/>
+				Kümmt dät ganze Land Ju noah,<lb/>
+				Reutling hoch! dåt is all doa!<lb/>
+				Hübsch män gooden Moth beholl'n!<lb/>
+				Un de Lüüde fest geholl'n!<lb/>
+				Goahn Ii Hunnert öähr vöäran,<lb/>
+				Löppt Ju noah jo, wat män kann.<lb/>
+				Schrei'n Ii de dänn düchtig an,<lb/>
+				Woagt sick Keener an Ju ran;<lb/>
+				Wer will Trübruch woll begoahn!?<lb/>
+				Wer'n Ju Alle wiß biestoahn.<lb/>
+				<pb facs="../img/jung-1855/0121.jpg"/>
+				115 —<lb/>
+				Nå! wat kümmt dänn vöär 'ne Tiet!<lb/>
+				Wär se män nich mehr so wiet!<lb/>
+				Wenn män nich Ju öäber Nacht<lb/>
+				Unglück öäber'n Hals werd bracht!<lb/>
+				Mie hät důsse Nacht so dröömt,<lb/>
+				’T haar'n fief Peere sick geböömt,<lb/>
+				Schmeeten öähre Rüters raf,<lb/>
+				Un öähr Enne was — dät Graff! — —<lb/>
+				Die Sprengung des Rumpfparlaments.<lb/>
+				(Verfaßt im Juli 1849.)<lb/>
+				Kron' un Lunsekamm<lb/>
+				Paßt nich good tosamm.<lb/>
+				Wat! — Ii will'n dät Land regeeren?<lb/>
+				Un de ganze Welt umkehren?<lb/>
+				Wat! — wie söll'n noah Ju uns richten,<lb/>
+				Un Ii föhr'n uns in de Fichten?!<lb/>
+				Loopt mie doch! loopt! loopt!<lb/>
+				Hemm Ju nog geprobt.<lb/>
+				Schickt män Ju'n Befehl!<lb/>
+				Schreit Ju af de Kehl!<lb/>
+				10*<lb/>
+				<pb facs="../img/jung-1855/0122.jpg"/>
+				— 116 —<lb/>
+				Peucker lett sick nich bedöhren,<lb/>
+				Schleswig werd nich up Ju hören;<lb/>
+				Wer'n Ju schonst bie'n Kroagen foaten,<lb/>
+				Wenn Ii fönn dumm Tüg erloaten.<lb/>
+				Moaken Ji ’t to dull,<lb/>
+				Löppt Ju Fatt bald vull.<lb/>
+				Afgesett't is bald!<lb/>
+				Als Ii schrei'n in'n Wald,<lb/>
+				Schrei'n de Annern oaber wädder,<lb/>
+				Koam'n Ju dänn woll uppet Lädder;<lb/>
+				Wer'n Ju ook nich länger lieden,<lb/>
+				Wiß Ju öähren Soal afschnieden,<lb/>
+				Dät Ii leewer goahn,<lb/>
+				Könn'n Ji't nich uutstoahn.<lb/>
+				Wat Ii Fief uns mell'n,<lb/>
+				Sall alleen män gell'n?<lb/>
+				Wenn Ii Württemberg upröhren,<lb/>
+				König un Menisters stören,<lb/>
+				Alle Hochverräther nömen,<lb/>
+				De bie'n Schwanz nich't Peerd uptömen:<lb/>
+				Doa söll'n wie noah dohn?<lb/>
+				I! wer seggt dät schon!?<lb/>
+				T gift woll vöäle Narr'n,<lb/>
+				De in'n Dreck rinkarr'n!<lb/>
+				De Ju vöäle Hochs! toschreien,<lb/>
+				Sülwst ook Juen Fiend bedräuen,<lb/>
+				<pb facs="../img/jung-1855/0123.jpg"/>
+				117 —<lb/>
+				De de Kamm deiht schmälig wassen,<lb/>
+				Wo't in öähren Kroam will passen:<lb/>
+				Oaber — glöwt öähr nich!<lb/>
+				T höllt mit öähr nich Stich.<lb/>
+				Kiekt! es fehlt öähr bloot<lb/>
+				Sehr an Geld un Good;<lb/>
+				Müchten gärn ook to wat koamen,<lb/>
+				Hemm drüm Jue Part jo noamen:<lb/>
+				Denken, hemm se'n ook verkloaget,<lb/>
+				Roabe*) blift doch unverzoaget,<lb/>
+				Werd öähr nich affeng'n,<lb/>
+				Wenn Ji ’t to wat breng’n.<lb/>
+				Oaber Schwerebrett!<lb/>
+				Wenn nu ’t Geld noahlett?!<lb/>
+				Dänn is 't uut mit öähre Roopen,<lb/>
+				Dänn will ick nich sehn dät Loopen;<lb/>
+				Wer'n Ju'n Rüggen All tokehren,<lb/>
+				Wer'n sick nich mehr um In scheeren!<lb/>
+				Jeder blift to Huus,<lb/>
+				Moakt sick nich mehr kruus. —<lb/>
+				Heb ick ’t nich geseggt?<lb/>
+				T geiht Ju letzt noch schlecht!<lb/>
+				*) Anmerkung. Raveaux, Reichtags=Abgeordneter und<lb/>
+				Mitglied der Regentschaft.<lb/>
+				<pb facs="../img/jung-1855/0124.jpg"/>
+				118 —<lb/>
+				Hemm se Ju Ju' Rietboahn noamen,<lb/>
+				Wo wer'n Ji tosamm nu koamen?<lb/>
+				Haar'n Ii män wat bäter räden,<lb/>
+				Haar'n se Ju so groff nich träden:<lb/>
+				Män — to groot gedoahn,<lb/>
+				Kann nich lang' bestoahn.<lb/>
+				Heidi! in de Welt,<lb/>
+				Wat de Düwel höllt,<lb/>
+				Geiht et nu noah alle Sieden,<lb/>
+				Wer kunn so wat lange lieden!<lb/>
+				Woll'n Ii sülwst de Pfalz un Boaden<lb/>
+				Hööden erst vöär allen Schoaden,<lb/>
+				Fall'n Ii, glöw' ick fast,<lb/>
+				Oähr ook noch to'r Last.<lb/>
+				Ach! dät arme Land!<lb/>
+				’T is jo weltbekannt!<lb/>
+				Wat litt dät nich all vöär Schoaden!<lb/>
+				Hät sick good wat upgeloaden!<lb/>
+				Wöhlt doa so all mäncher Fremme;<lb/>
+				Kümmt wiß wieder in de Klemme,<lb/>
+				Wer'n Ii doahen goahn,<lb/>
+				Doa Ju Riek upschloan.<lb/>
+				Düütsche! Prüßen ran!<lb/>
+				Moakt Ju moal ens dran!<lb/>
+				Dät Ii moal de Keerls upstöbern,<lb/>
+				Oähr versolten moal dät Röbern!<lb/>
+				<pb facs="../img/jung-1855/0125.jpg"/>
+				119 —<lb/>
+				Werd de Bäddeldanz anfangen,<lb/>
+				Wer'n Ii Ju dät Volk bald langen;<lb/>
+				Dänn werd goode Tiet,<lb/>
+				Sind De erst bie Siet! -<lb/>
+				Der Bauer.<lb/>
+				(Verfaßt im Oktober 1848.)<lb/>
+				T is mie so goahn, as ’t Allen geiht,<lb/>
+				Wenn man sick vöäl in d' Welt rümschleit;<lb/>
+				Ick heb et good gehat un schlimm,<lb/>
+				Dät Glück, dät geiht nu moal rundüm.<lb/>
+				Ick heb, is et to schlimm gekoam,<lb/>
+				Mie ’t nich to sehr to Sinne noam;<lb/>
+				Ick heb mien Sach up Gott gestellt,<lb/>
+				De hulp mie immer dörch de Welt.<lb/>
+				He föhrt Die, dacht ick in mien'n Sinn,<lb/>
+				Wenn he 't män will, dörch Dick un Dünn;<lb/>
+				Hät he et öäber Die beschloat'n,<lb/>
+				Werd he Die nich drin sitten loat'n.<lb/>
+				<pb facs="../img/jung-1855/0126.jpg"/>
+				120 —<lb/>
+				So heb ick mie mit Gott getröst't;<lb/>
+				He hät mie ook uut All's erlöst,<lb/>
+				Hät mie as Voader biegestoahn,<lb/>
+				Wat Gott deiht, is jo wollgedoahn.<lb/>
+				Towiel'n is ’t frielich schlimm gegoahn,<lb/>
+				T was mänchmoal kuumhen uuttostoahn;<lb/>
+				Doch bin ick män gedöh gewest,<lb/>
+				Satt ick doch letzt in't warme Nest.<lb/>
+				Bloot moal, dacht ick, nu is't vöärbie,<lb/>
+				Nu helpt keen Minsch, keen Heiland Die;<lb/>
+				Dät was, as mie mien Wief verleet:<lb/>
+				Doch was't toletzt so lang as breet.<lb/>
+				Se woar woll groad nich to veracht'n,<lb/>
+				De moakte Worst bie't Schwieneschlacht'n!<lb/>
+				Vergnöglich atten wie't ook up;<lb/>
+				Et gung to vöäl män immer drup.<lb/>
+				Un'n Foaden hät se Die gespunn'n!<lb/>
+				So sien werd sellen eeuer funn'n;<lb/>
+				Se schleep män Oabends gliek bie in,<lb/>
+				Dät kribb'lt mie dänn in mienen Sinn.<lb/>
+				Ook Höhner hät se nog gehat;<lb/>
+				Wat dät Tüg oaber Gerste fratt!<lb/>
+				Se hemm woll Eier ook geleggt,<lb/>
+				En Windei hät se oft gebrächt.<lb/>
+				<pb facs="../img/jung-1855/0127.jpg"/>
+				— 121 —<lb/>
+				Na! Köhe haar se söss in'n Stall,<lb/>
+				An Botter fehlt't män öäberall;<lb/>
+				Woll ick mie moal 'ne Stulle schmeer'n,<lb/>
+				Ick kunn se all mit ens vertär'n.<lb/>
+				Un stund se in de Köäk bie't Fü'r,<lb/>
+				Bie't Koaken heel se't Holt nich dü’r.<lb/>
+				Dåt was ne Lust! so bloakt de Kien;<lb/>
+				Kamm ’t uppen Disch, et fratt keen Schwien.<lb/>
+				Kort heb ick mie geranzjoneert,<lb/>
+				Un mie to'n änner Wief bekehrt;<lb/>
+				Na, Engel sind se frielich nich,<lb/>
+				De oaber — höllt Die bäter Stich.<lb/>
+				Das doch ne ganze annre Oart!<lb/>
+				De geiht so sööt mie um den Boart,<lb/>
+				De schimpt, schandeert nich dörch dät Huus,<lb/>
+				Un koakt wat Rechts vöär Mann un Muus.<lb/>
+				Hät se't moal märkt, wat good mie schmeckt,<lb/>
+				Gliek is de Disch von vull gedeckt;<lb/>
+				Se weet allbott wat Goods to koak'n,<lb/>
+				Wie loat'n nischt öäbrig as de Knoak'n.<lb/>
+				Mütt ick tum Fröhstück rinner goahn,<lb/>
+				Gliek hät se Ei'r in d' Pann geschloan;<lb/>
+				Se brengt se mie vergnöglich rin,<lb/>
+				Sall ick denn nich vergnöͤglich syn?<lb/>
+				11<lb/>
+				<pb facs="../img/jung-1855/0128.jpg"/>
+				122 —<lb/>
+				Kruns lecken sick de Köh' in'n Stall,<lb/>
+				Melk, Botter gift et öäberall,<lb/>
+				De Pött' sind alle vull von Käs,<lb/>
+				He müfft so sööt mie in de Näs.<lb/>
+				Koam ick noah Huus, wenn ick geplögt,<lb/>
+				Nä! wat se fründlich is un schwögt!<lb/>
+				Un bin ick moal ens dörchgeweekt,<lb/>
+				Schwinn werd drög Tüg mie von öähr reekt.<lb/>
+				Un Oabends sitt'n wie bie'n Kamin,<lb/>
+				Se spinnt so flietig un so fien;<lb/>
+				Se weet so vöäl Die to vertell'n,<lb/>
+				Up jede Froag' wat to vermell'n.<lb/>
+				Heb ick et sünst ook schlimm gehat,<lb/>
+				Jitzt moakt mie Gott in Gooden satt;<lb/>
+				Un doabie blieb' ick eenmoal stoahn,<lb/>
+				Wat Gott deiht, is doch woll gedoahn.<lb/>
+				Ick wer et nu so recht erst inn,<lb/>
+				Hät man ne Fru noah sienen Sinn,<lb/>
+				Dät, wenn ’t bie Roh un Freeden blift,<lb/>
+				Nischt Sööters et up Eeren gift.<lb/>
+				Haar ick sönn'n Jung'n uu noch an'n Disch,<lb/>
+				Puusbackig, kruus von Hoar un frisch,<lb/>
+				Sönn Mäken ook as Melk un Bloot,<lb/>
+				Dänn seggt ick erst: „So is et good."<lb/>
+				<pb facs="../img/jung-1855/0129.jpg"/>
+				123 —<lb/>
+				Na! wat nich is, dät kann noch werr'n,<lb/>
+				T kümmt ook nich gliek mit ’t Muulupsperr'n;<lb/>
+				Män Gott getru't! he is nich wiet,<lb/>
+				He weet alleen de rechte Tiet! -<lb/>
+				Fünf Groschen.<lb/>
+				(Verfaßt im November 1848.)<lb/>
+				Jitzt will'n de Keerls doch All' nischt dohn!<lb/>
+				En Jeder will män gooden Lohn;<lb/>
+				Un hät he ook nich Möhe hat,<lb/>
+				He mütt doch vull ook hemm un satt.<lb/>
+				Ick loat et mie ganz good gefall'n,<lb/>
+				Un so is't, glöw ick, ook bie All'n,<lb/>
+				Grippt Eener siene Sach good an,<lb/>
+				Betoal' ick äm as broawen Mann.<lb/>
+				Alleen — is he so dröäber her,<lb/>
+				As of't en Pappenstäl män wär<lb/>
+				Nimmt he't män licht, is Alls äm nischt,<lb/>
+				Hät he't woll noch nich recht erwischt.<lb/>
+				11*<lb/>
+				<pb facs="../img/jung-1855/0130.jpg"/>
+				124 —<lb/>
+				Hät he nu Möh' un Arbeit hat,<lb/>
+				Dänn nehm' ick ook vöär't Muul keen Blatt,<lb/>
+				Ick loaw' gärn sien' Geschicklichkeit,<lb/>
+				Un toal' äm miene Schulligkeit. —<lb/>
+				Letzt dohn mie moal de Tähne weh,<lb/>
+				Ick föhlt 't bät an de kleinste Teh;<lb/>
+				Ick holl't ook nu nich länger uut,<lb/>
+				Ick denk, de Toahn, de mütt heruut.<lb/>
+				Ick goah noah d' Stadt hen tum Balbeer,<lb/>
+				De froagt doa erst sönn Bitschen her;<lb/>
+				Dänn foatt he an, as of't nischt wär,<lb/>
+				Un lacht un kickt dänn so an d' Eer.<lb/>
+				Ick denk, et sett ’t de goode Mann<lb/>
+				Sien Insterment noaher erst an,<lb/>
+				He hät dät jitzt woll so män doahn,<lb/>
+				Dät he ook weet, wo d' Toahn werd stoahn.<lb/>
+				Ick moak dät Muul nu wädder up,<lb/>
+				He oaber kickt nich moal doadrup.<lb/>
+				He nimmt sick all wat Anners vöär,<lb/>
+				Un kickt ook mänchmoal noah de Döär.<lb/>
+				Dät kümmt mie nu so schnoaksch doch vöär;<lb/>
+				Letzt roop ick: „Kümmt He denn nich her?<lb/>
+				„Ritt He mie denn den Toahn nich uut?“<lb/>
+				„„Doa liggt he jo, de is all ruut."" —<lb/>
+				<pb facs="../img/jung-1855/0131.jpg"/>
+				125<lb/>
+				Ick foat in't Muul mie ook nu rin;<lb/>
+				De Keerl hät Recht! dät mütt so syn;<lb/>
+				Ick kiek in d' Stuw' mie wat ümher,<lb/>
+				Doa liggt de Toahn ook an de Eer.<lb/>
+				Doa frog ick dänn den gooden Mann,<lb/>
+				Wat he doavöär woll nehmen kann?<lb/>
+				Ick denk, de hät Die woll vöär'n Narr'n,<lb/>
+				As he sief Gröschen will inscharr'n.<lb/>
+				Ick dacht, Du häst Die woll verhört,<lb/>
+				Doa wärst Du doch to groff bedöhrt;<lb/>
+				„Wo vöäl, sä ick, hemm Se doch seggt?"<lb/>
+				„„Fief Gröschen wer'n mie upgeleggt.""<lb/>
+				„Fief Gröschen? heb ick recht verstoahn?" —<lb/>
+				„„Nu frielich! änners kann't nich goahn."" —<lb/>
+				„Fief Gröschen also?" — „„Däs all doa,<lb/>
+				„„Wat fröggt He denn noch lang' dernoah!"" -<lb/>
+				„Nu! kost't so vöäl un mütt et syn,<lb/>
+				„Dänn geb ick't ook un schick mie drin;<lb/>
+				„Alleen, dät weet ick wiß un woahr,<lb/>
+				„Dät et vöär'n Joahr doch änners woar.<lb/>
+				„Doa bin ick ook in d' Stadt rinkoam,<lb/>
+				„Doa hät mie 'n Annrer moal vöärnoam;<lb/>
+				„Ick was vöär Tähnweh ganz kasproat,<lb/>
+				„De oaber — bracht mie dänn glieks Gnoad.<lb/>
+				<pb facs="../img/jung-1855/0132.jpg"/>
+				126 —<lb/>
+				„Alleen de fatt den Toahn moal an!<lb/>
+				„Et was en grooter, starker Mann;<lb/>
+				„He leet nich los, he hät getreckt,<lb/>
+				„Dät äm de Schweet so runner leckt.<lb/>
+				„He reet mie d' ganze Stuw' herüm,<lb/>
+				„Un scheert sick üm de Möh nich drüm,<lb/>
+				„He kreeg äm denn toletzt ook ruut<lb/>
+				„Ick — toalt äm män fief Gröschen uut.<lb/>
+				„Dät sach ick, wat de von mie namm,<lb/>
+				„Dät äm dät ook ganz good tokamm;<lb/>
+				„Alleen — yöär nischt so vöäl to nehm'n,<lb/>
+				„Doa soll He doch benoah sick schäm'n!" —<lb/>
+				Ick schmeet den Keerl dät Geld nu hen,<lb/>
+				Un greep schwinn to de Döäre dänn;<lb/>
+				„Tis," dacht ick, „jitzt so in de Welt,<lb/>
+				„Vöär nischt nehm'n se dät meiste Geld!“<lb/>
+				<pb facs="../img/jung-1855/0133.jpg"/>
+				— 127 —<lb/>
+				Die Brille.<lb/>
+				(Verfaßt im November 1848.)<lb/>
+				Nimmt Michel jitzt sick 't Amtsblatt vöär,<lb/>
+				Lest he uns wat as goar nischt her<lb/>
+				Wat hät he sünst mit d' Oogen pliert,<lb/>
+				Un dät Papier män so anstiert!<lb/>
+				Jitzt — geiht äm ’t glieks uut ’t Muul heruut,<lb/>
+				Wenn he män kuum de Schrift anschu't.<lb/>
+				Kann dät sönn Brille nu alleen,<lb/>
+				Dät man doadörch de Schrift kann sehn,<lb/>
+				Dänn, dacht ick, wist du nich anstoahn,<lb/>
+				Un ook män noah de Stadt hengoahn;<lb/>
+				Dät is doch good vöär Jedermann,<lb/>
+				Wenn man dät Amtsblatt lesen kann.<lb/>
+				Ick moak nu noah de Stadt mie up,<lb/>
+				Un fall denn ook hier gliek doadrup,<lb/>
+				Du geihst up d' Eck in'n Loaden rin,<lb/>
+				Doa wer'n jo ook woll Brillen syn;<lb/>
+				De Mann verköfft jo mäncherlei,<lb/>
+				He hät ook Brill'n woll vöälerlei.<lb/>
+				<pb facs="../img/jung-1855/0134.jpg"/>
+				﻿128<lb/>
+				Ne dü're — bruukt et nich to syn,<lb/>
+				Sönn Ding brengt Eenen jo nischt in;<lb/>
+				Doato hät se jo Jedermann<lb/>
+				Bloot, dät man doadörch lesen kann;<lb/>
+				Ick will ook wieder nischt von öähr,<lb/>
+				Un doamit greep ick noah de Döär.<lb/>
+				Ick bracht denn ook den gooden Mann<lb/>
+				Hier gliek nu mien Anliggen an;<lb/>
+				De froagte erst de Krüz un Quer<lb/>
+				Noah düt un dåt, so hen un her:<lb/>
+				Letzt stellt he mie dänn groad an't Licht,<lb/>
+				Un keek mie stier so in't Gesicht.<lb/>
+				„Joa!" seggt he dänn, „dät is all good,<lb/>
+				„An sönne Brill'n lied' ick nich Noth;<lb/>
+				He seit't mie ook all een' up d' Näs,<lb/>
+				Un fröggt, of ick dät woll all läs'?<lb/>
+				Doabie höllt he mie vöär'n Papier,<lb/>
+				Noch grötter, as dät Amtsblatt hier.<lb/>
+				Ick kieke hen un kieke her,<lb/>
+				T kümmt mie woll schwart vöär d’ Oogen vöär;<lb/>
+				Ick foat dät Blatt ook sülwer an,<lb/>
+				Of ick vielicht dänn lesen kann:<lb/>
+				Letzt roop ick: „Doadörch les' ick nich,<lb/>
+				„Doa werd mie jo as schwiemelich.<lb/>
+				<pb facs="../img/jung-1855/0135.jpg"/>
+				129 —<lb/>
+				He reekt ne aͤnnre mie doadrup;<lb/>
+				Düt Moal — sett ick se fülwer up.<lb/>
+				Ick denk, deihst Du et moal alleen,<lb/>
+				Werst Du vielicht wat bäter sehn.<lb/>
+				Et was ook as vöärher ümsünst;<lb/>
+				„Hier, segg ick, „wieken Siene Künst'."<lb/>
+				Doa langt he all ne dridde vöär,<lb/>
+				Wischt schwinn se af, un reekt se her.<lb/>
+				„De, Fründ, de paßt gewiß Am good,<lb/>
+				„Doa hät dät Lesen keene Noth.<lb/>
+				„Sett He sick de", seggt he, „ens up,<lb/>
+				„Un kiek He hier moal groade drup!"<lb/>
+				De Mann kickt mie ganz döämlich an,<lb/>
+				As ick ook nu nich lesen kann.<lb/>
+				„Na!" seggt he dänn bie't Wiedergoahn,<lb/>
+				„Dät kann ick würklich nich verstoahn.<lb/>
+				As ick keen Moal good' Antwoort gaff,<lb/>
+				Quält sick de Mann ganz sehre af.<lb/>
+				Letzt froagt mie dänn de goode Mann,<lb/>
+				Of ick denn ook woll lesen kann?<lb/>
+				Ick denk, de Keerl is woll nich klook;<lb/>
+				Ick seggt et äm ganz dick denn ook:<lb/>
+				„Wat billt He, Fründ, sick denn woll in,<lb/>
+				„Wat kümmt Am denn in'n Kopp hennin?<lb/>
+				<pb facs="../img/jung-1855/0136.jpg"/>
+				180 —<lb/>
+				„Wenn ick dät Lesen all verstünn',<lb/>
+				„Un oahne Brille lesen künn'<lb/>
+				„Glöwt He, dät ick sönn Narre wär,<lb/>
+				„Un brächt mien Geld Am doato her,<lb/>
+				„Dät ick as mäncher Dummerjoahn<lb/>
+				„Bloot müchte mit ne Brille goahn?<lb/>
+				„Weß He män sülwer nich sönn Mann,<lb/>
+				„Un seh He mie vöär'n Schoapskopp an!<lb/>
+				„He denkt woll ook, wie hemm dät Geld,<lb/>
+				„Dät 't Am hier män in'n Büdel fällt?<lb/>
+				„Will ick dörch bloote Gläser sehn,<lb/>
+				„Heb ick jo Schiewen nog alleen!“<lb/>
+				<pb facs="../img/jung-1855/0137.jpg"/>
+				- 131 —<lb/>
+				Sechs Pfennige.<lb/>
+				(Verfaßt im December 1848.)<lb/>
+				Ick will män hüüt hen noah de Stadt,<lb/>
+				Un hoalen Die dät Botterfatt;<lb/>
+				Man lehn't sick so wat woll een Moal,<lb/>
+				Män nich to oft, dät moakt jo Quoal.<lb/>
+				Häst Du ’t denn nich den Böttcher seggi,<lb/>
+				Dät he ’t ook bald to Stanne brächt?<lb/>
+				Dät is jo doch all lang' nog her,<lb/>
+				Ick dächt, dät dät all färig wär?<lb/>
+				Ick loat mie dänn ook gliek balbeer'n;<lb/>
+				Ick wer män doa bie Schmetts inkehr'n:<lb/>
+				Doa woahnt dicht bie, so as ick hör,<lb/>
+				Jo jitzt en düchtiger Balbeer. —<lb/>
+				De Bu'r, de moakt sick up de Been';<lb/>
+				Erst mütt he doch noah't Fatt hensehn:<lb/>
+				He freu't sick, as en gooder Mann,<lb/>
+				Dät he et Muttern mitbreng'n kann.<lb/>
+				<pb facs="../img/jung-1855/0138.jpg"/>
+				132 —<lb/>
+				Dänn geiht he ook bie'n Koopmann rin,<lb/>
+				Doa geeten se äm 'n Schlücksken in;<lb/>
+				Dänn köfft he sick noch düt un dät,<lb/>
+				Is froh ook, dät he Sträken hät.<lb/>
+				Letzt kehrt he nu in'n Gasthof in,<lb/>
+				Un geiht dänn bie'n Balbeer ook rin;<lb/>
+				He leggt äm sien Verlangen vöär,<lb/>
+				Dät he woll gärn den Boart los wär.<lb/>
+				„Worüm nich?" seggt dänn de Balbeer,<lb/>
+				„Sett He sick uppen Stohl män her!<lb/>
+				„Dät is jo bald, mien Fründ, geschehn,<lb/>
+				„Loat He doch sienen Boart moal sehn!<lb/>
+				„Doa wer'n wie bald mit färig syn: —<lb/>
+				„Mie fällt män dät doabie noch in,<lb/>
+				„Sall ick vöär'n Gröschen Am balbeern,<lb/>
+				„Will He söss Penning män bescheer'n?“<lb/>
+				I! — denkt de Bu'r, — geiht dät so licht,<lb/>
+				Gew' ick söff Penning män den Wicht;<lb/>
+				Ick mußt hüüt so so vöäl all ran,<lb/>
+				Geld will hier so män Jedermann.<lb/>
+				Sönn bitschen Schuum, wat he doa schleit,<lb/>
+				Womit he öäber'n Boart mie geiht,<lb/>
+				Doa kümmt ’t äm doch woll nich drup an,<lb/>
+				Dät Metz — is so vöär Jedermann.<lb/>
+				<pb facs="../img/jung-1855/0139.jpg"/>
+				183 —<lb/>
+				„Balbeer He vöär söss Penning män!"<lb/>
+				Röppt drup de Bu'r un sett't sick hen.<lb/>
+				Flink moakt dät Dook äm üm de Mann,<lb/>
+				Un schleit ook Schuum all, wat he kann.<lb/>
+				Mit ’t Metz moakt he moal hen un her,<lb/>
+				As of dät goar nich nödig wär;<lb/>
+				Dänn hät he't glieks den Bu'r gedoahn,<lb/>
+				Dät äm de Oogen öäbergoahn.<lb/>
+				As äm dät Metz de Backen stroakt,<lb/>
+				Un he dät Kinn äm reene moakt,<lb/>
+				Dät gung woll noch wat handlich an,<lb/>
+				Dät drog ook noch en harter Mann.<lb/>
+				As he den Hals sick dänn vöärnimmt,<lb/>
+				Un mit dät Metz an d' Gorgel kümmt,<lb/>
+				As he åm schinnt un bloodig kratzt,<lb/>
+				Doa wär' de Bu’r fast losgeplatzt.<lb/>
+				He twung sick oaber as en Mann,<lb/>
+				Of he et woll noch uutholl'n kann;<lb/>
+				He beet de Tähne fest tosamm,<lb/>
+				As he nu unner d' Näs äm kamm.<lb/>
+				De foatt nu de Balbeer ook an,<lb/>
+				Dät he äm good balbeeren kann!<lb/>
+				He putzt äm nu den Boart so af,<lb/>
+				Dät dät den Bu'r den Gnickpump gaff.<lb/>
+				<pb facs="../img/jung-1855/0140.jpg"/>
+				— 134 —<lb/>
+				Dät was to vöäl doch vöär dät Geld!<lb/>
+				Dät Woater äm uut d' Oogen fällt,<lb/>
+				Von d' Backen loopen so de Thrän'n,<lb/>
+				Dät he letzt mütt ganz luut upstöähn'n.<lb/>
+				Kuum kann de Bu'r vöär Schmerz upstoahn,<lb/>
+				Un langsoam noch an't Fenster goahn;<lb/>
+				Doa winselt, hüült en Hund un schreit,<lb/>
+				Dät et dörch Mark un Been äm geiht.<lb/>
+				„Ach Gott!" röppt he däun hinnerher,<lb/>
+				As nu de Hund deiht so verquer,<lb/>
+				„Gewiß häst Du'n Balbeer hier funn'n,<lb/>
+				„De Dieookvöärsöss Penningschunn'n!"<lb/>
+				<pb facs="../img/jung-1855/0141.jpg"/>
+				— 135 —<lb/>
+				Die Kesseljagd.<lb/>
+				(Verfaßt im Januar 1849.)<lb/>
+				Veer Bu're un fief Hoasen,<lb/>
+				Dät loat ick mie gefall'n!<lb/>
+				Dät geiht jo as gebloasen,<lb/>
+				Wo gliek so Vöäle fall'n!<lb/>
+				Twec Bu're — dood geschoaten!<lb/>
+				Twee — beede Been' entwei!<lb/>
+				De Düwel weet to foaten<lb/>
+				Bie sönne Jägerei! —<lb/>
+				Moal kammen vöäle Lüüde<lb/>
+				Tosammen innen Krog;<lb/>
+				Doa gift et oft Gestriede,<lb/>
+				Mankher ook — Prügel nog.<lb/>
+				Man hört doa ook vermellen,<lb/>
+				Wat in de Welt vöärgeiht,<lb/>
+				Un lett sick gärn vertellen,<lb/>
+				Gift Eener good Bescheid.<lb/>
+				<pb facs="../img/jung-1855/0142.jpg"/>
+				— 136 —<lb/>
+				Hüüt hörten Alle nippe<lb/>
+				Ook Meister Heldten to;<lb/>
+				Gung’t moal wo up de Kippe,<lb/>
+				Doa drunk he ens derto.<lb/>
+				„Dät Jagdgesetz is geben,<lb/>
+				„Frie is dät Joagen nu!<lb/>
+				„De Keerls hemm't hier ook dräben,<lb/>
+				„Doa word jo Alles schu.<lb/>
+				„'T gung nich bloot mank de Knollen,<lb/>
+				„'T gung öäber't ganze Feld:<lb/>
+				„Was dät woll uuttohollen? —<lb/>
+				„Dät stört!" — sprack Meister Heldt.<lb/>
+				„Nu will'n wie moal ens joagen!<lb/>
+				„Loat't rohn moal Juen Plog!<lb/>
+				„Dät sall uns woll behoagen!<lb/>
+				„'T gift Hoasen hier noch nog.<lb/>
+				„Wie stell'n sönn Käteldrieben<lb/>
+				„Von alle Sieden an;<lb/>
+				„Dät Ju, wer ick't beschrieben,<lb/>
+				„Dät Herz män puckern kann.<lb/>
+				Geseggt! gedoahn! Se geben<lb/>
+				Up Moandag sick dät Woort:<lb/>
+				„Doa werd sick wat erheben!<lb/>
+				„Gejoagt werd nu up Moord!“<lb/>
+				<pb facs="../img/jung-1855/0143.jpg"/>
+				187<lb/>
+				Et moaken sick de Bu're<lb/>
+				All tiede uppen Weg;<lb/>
+				Se stell'n sick up de Lu're,<lb/>
+				Un drieben vöär sick weg.<lb/>
+				Se drieben mälig wieder,<lb/>
+				De Krees werd all ganz dicht,<lb/>
+				Dät Wild bewt as en Schnieder;<lb/>
+				Nu — dücht et öähr ganz licht.<lb/>
+				„Scharp uppet Koarn genoamen!"<lb/>
+				Schreit Meister Heldt doadrup.<lb/>
+				Se hemm't sick good vöärnoamen,<lb/>
+				Se geben ’t öähr vullup.<lb/>
+				Piff! Puff! Paffl Puff! geschoaten!<lb/>
+				Dät haar jo keene Noth.<lb/>
+				T hät Keener fehlen loaten;<lb/>
+				Fief Hoasen — woaren dood.<lb/>
+				Twee Bu're feelen nädder,<lb/>
+				De woar'n ook muusedood;<lb/>
+				Twee'n schööten se up't Lädder,<lb/>
+				De haaren groote Noth.<lb/>
+				Veer Bu're un fief Hoasen,<lb/>
+				De brachten se noah Huus;<lb/>
+				Nu gung't an't Hüül'n un Roasen<lb/>
+				Dät was doch All'n to kruus!<lb/>
+				12<lb/>
+				<pb facs="../img/jung-1855/0144.jpg"/>
+				138 —<lb/>
+				„Jä! jä! Ii will'n nich hören,<lb/>
+				Sprack drup de Schulte Kloar<lb/>
+				„Dät werd gewaltig stören<lb/>
+				„Nu werd de Tiet erst schwoar! -<lb/>
+				„Nu helpt nich Schrei'n un Schwögen;<lb/>
+				„Sülwst Noaber Michel schoot<lb/>
+				„Statt's Hoasen hüüt bie't Plögen<lb/>
+				„Sien'n besten Ossen dood.<lb/>
+				„Dät werd noch bäter koamen!<lb/>
+				„Jitzt moak'n Ii Annern Noth;<lb/>
+				„Letzt schütt in Düwels Noamen<lb/>
+				„Sick Mäncher sülwst noch dood.<lb/>
+				„Et gaff all blood'ge Hänne,<lb/>
+				„Ook blood’je Köppe nog;<lb/>
+				„Dät werd nich good am Enne,<lb/>
+				„Verlett de Bu'r den Plog!“ —<lb/>
+				<pb facs="../img/jung-1855/0145.jpg"/>
+				— 139 —<lb/>
+				Der Jägerschmaus.<lb/>
+				(Verfaßt im Februar 1849.)<lb/>
+				—<lb/>
+				Blitz Element! dät haar moal Oart!<lb/>
+				Hüüt hemm wie nich dät Pulwer spoart:<lb/>
+				Joa! sönne Jagd! dät is en Fest!<lb/>
+				Wie sind ens hinnerher gewest!<lb/>
+				Noah d' Arbeit, Kinner, is good rohn!<lb/>
+				Nu will'n wie uns to good wat dohn:<lb/>
+				Doabie kann Jeder dänn vertell'n,<lb/>
+				Un uns, wat äm passeert, vermell'n.<lb/>
+				So good, dät segg ick hier vöär All'n,<lb/>
+				Hät mie et lange nich gefall'n! --<lb/>
+				Wat Düwel oaber! - seggt mie moal,<lb/>
+				Wo is denn unse Tiregoal? —<lb/>
+				As wie bie Struzeberg gesoagt,<lb/>
+				Doa heb ick noch noah äm gefroagt;<lb/>
+				Doa heet et jo, et güng' äm good,<lb/>
+				Wat sick män sehn leet, schöbt' he dood.<lb/>
+				12*<lb/>
+				<pb facs="../img/jung-1855/0146.jpg"/>
+				140 —<lb/>
+				Wo blift uns' Fründ so lange denn?<lb/>
+				Tum Joagen is ’t to späd am Enn!<lb/>
+				He is woll uppen Anstand bläb'n,<lb/>
+				Derwiel wie hemm noah Huus gedräb'n.<lb/>
+				Koamt, Kinner, stoaht nu Juen Mann!<lb/>
+				Moakt Ju ook good an't Aten ran!<lb/>
+				Uns' Mutter, de versteiht to koak'n,<lb/>
+				De werd öähr Sach' hüut ook woll moak'n! - —<lb/>
+				As All's bie't beste Schmuusen was,<lb/>
+				Brummt dörchet Huus wat as en Baß,<lb/>
+				Un in de Stuwe tratt herin<lb/>
+				Mien Tiregoal, dät mußt so syn.<lb/>
+				„Dät kann mie Keerls!“ reep he to All'n,<lb/>
+				„Tum Besten nich von Ju gefall'n;<lb/>
+				„Derwiel ick schiffe dörchen See, -<lb/>
+				„Doa schmuusen Ii hier, as ick seh.<lb/>
+				„„Wat! Fründ?! He is up't Woater goahn?<lb/>
+				„„Bleef He nich uppen Anstand stoahn?<lb/>
+				„„Bill He sick dänn män ook nich in,<lb/>
+				„„Dät wie hier ganz so döämlich syn!""<lb/>
+				„Ick moak Am keenen Firlefax!<lb/>
+				„Sönn Keerl! — weet nich von Kix un Kar,<lb/>
+				„Un ritt dât Muul so groot all up!<lb/>
+				„Schloa't Am doch düchtig ens wat drup! -<lb/>
+				<pb facs="../img/jung-1855/0147.jpg"/>
+				141 —<lb/>
+				„Ick stoah doa, so as ick woll doh,<lb/>
+				„Wat breet de Beene, — ’t was woll so!<lb/>
+				„Doa kümmt, Kotz Dusend Zapperment!<lb/>
+				„En Kieler up mie losgerönnt.<lb/>
+				„Ick legge an, — ick män alleen,<lb/>
+				„Dät Beest is mie all mank de Been',<lb/>
+				„Un eh ick et mie doa verseh,<lb/>
+				„Doa is't mit mie all rin in'n See.<lb/>
+				„Ick sett män schwinn den Hoahn in Roh,<lb/>
+				„Un griepe noah de Borsten to;<lb/>
+				„Ick drück de Küülen düchtig ran,<lb/>
+				„Dät et mie nich afschmieten kann.<lb/>
+				„Haar ick mien Fangmetz bie mie hat,<lb/>
+				„Dänn gaff ick äm woll eher wat;<lb/>
+				„Män midden innen See doadrin,<lb/>
+				„Doa mußt ick ganz gerohig syn.<lb/>
+				„De Kieler schnuwte ganz to dull,<lb/>
+				„Bie't Schwemmen planscht he mie wat vull;<lb/>
+				„Alleen — he bracht mie good an't Land,<lb/>
+				„Bloot wat vergreep ick mie de Hand.<lb/>
+				„Doa gaff ick äm denn goode Nacht,<lb/>
+				„Wiel he mie dörchen See gebracht;<lb/>
+				„Haar ick mie nich en Woagen noam,<lb/>
+				„Ick wär' so schwinn noah Huus nich kaam.<lb/>
+				**<lb/>
+				—<lb/>
+				<pb facs="../img/jung-1855/0148.jpg"/>
+				﻿142<lb/>
+				„„Dät glöw' de Düwel! Sönne Foahrt!<lb/>
+				„„Dät hemm Ii woll vöär uns upspoart!<lb/>
+				„„Män her! — sind Ji wat buuten natt,<lb/>
+				„„Dänn gewft män ook den Moagen wat!<lb/>
+				„„Hemm Ii de Fööte wat verküllt,<lb/>
+				„„Drinkt ens! dät Glas werd wä gefüllt!<lb/>
+				„„Wo't uns hät goahn, dät söll'n Ii hör'n;<lb/>
+				„„Loat't Ju nich in In Aten stör'n!<lb/>
+				„„Hüüt is geschoaten! segg ick Ju,<lb/>
+				„„Twee Fohren vull — so innen Nu!<lb/>
+				„„Tum Droagen gung et goar nich an;<lb/>
+				„„Hüüt heel sick All's moal orndlich ran.<lb/>
+				„„Ick sülwst, — ick schoot jo ganz alleen<lb/>
+				„„Twee, glöw ick, oder goar dree Rehn,<lb/>
+				„„Tein Hoasen, Höhner ook un Vöss,<lb/>
+				„„Ick glöw, et woaren öährer söss.<lb/>
+				„„Et lagg ganz dicke üm mie vull,<lb/>
+				„„Ick was hüüt oaber ook ganz dull,<lb/>
+				„„Ick schonte nich, — wo ick wat sach,<lb/>
+				„„Et mie ook all to Fööten lagg.<lb/>
+				„„Letzt schoot ick ook män immerto,<lb/>
+				„„Ick leet dät Wild un mie nich Roh,<lb/>
+				„„In fief Minuten, Tiregoal!<lb/>
+				„„Veer Vöss un Hoasen mit eenmoal!""<lb/>
+				<pb facs="../img/jung-1855/0149.jpg"/>
+				— 13 —<lb/>
+				„Wat! Dunnerwäder, Element!<lb/>
+				„So oft hemm Ji drup losgebrennt?!<lb/>
+				„Bliewft mie mit Jue Löägen wiet!<lb/>
+				„Dät Loaden! — wat?! — dät kost't ook Tiet!"<lb/>
+				„„Wat! loaden! loaden! — däs män nischt! -<lb/>
+				„„Bie't Loaden werd keen Wild erwischt;<lb/>
+				„„Ick was so dull un upgebracht,<lb/>
+				„„An't Loaden heb ick goar nich dacht.<lb/>
+				„„Geschoaten män! drup losgebrennt!<lb/>
+				„„Kamm mie wat in't Gehege rönnt;<lb/>
+				„„Tum Loaden haar ick keene Tiet,<lb/>
+				„„Dänn was dät Wild, wer weet wo wiet!"" — —<lb/>
+				„Dät sall Fründ Striekow uns moal lehr'u!<lb/>
+				„Wie mütten äm as Meister ehr'n.<lb/>
+				„He lebe, hoch! dät Glas to'r Hand!<lb/>
+				„Sönn Meister is noch nich bekannt!<lb/>
+				„„Bloot een Moal,"" fung he dänn wä an,<lb/>
+				„„Mußt ick hüüt, mie tum Arger, ran,<lb/>
+				„„Doa moakt' ick ook, de Düwel hoal!<lb/>
+				„„— ’T kümmt füss nich vöär, — nen Pudel moal!<lb/>
+				„„Ick haar just miene Büsse vöär,<lb/>
+				„„Un moaki mie öäber't Loaden her,<lb/>
+				„„Doa kamm ganz kort rechts achter mie<lb/>
+				„„En schmäl'ger Hirsch vöär mie vöärbie.<lb/>
+				<pb facs="../img/jung-1855/0150.jpg"/>
+				144 —<lb/>
+				„„Ick schloa äm fast den Bräm entwei,<lb/>
+				„„Un lang' all hen noah sien Geweih,<lb/>
+				„„Doa schmitt he sick all rechts herüm,<lb/>
+				„„Un scheert sick um den Schlag nich drüm.<lb/>
+				„„An'n grooten Groaben stutzt he wat,<lb/>
+				„„Aha! denk ick, de is all matt;<lb/>
+				„„Ick hinnerher — groad up äm to, —<lb/>
+				„„Doa sett't he dröäber, — ’t was män so!<lb/>
+				„„Ick woll äm doch nich foahren loat'n,<lb/>
+				„„Ick springe to, åm aftofoat'n;<lb/>
+				„„As ick groad öäber'n Groaben bin,<lb/>
+				„„Doa sach ick erst mien Unglück in.<lb/>
+				„„De Groaben was mie doch to breet,<lb/>
+				„„Dät Röäberspringen word mie leed;<lb/>
+				„„Kort heb ick mie geressolveert,<lb/>
+				„„Un bin dänn schwinn wä ümmekehrt."“<lb/>
+				„De Düwel ook! dät, Striekow, geiht?" —<lb/>
+				„„Worüm nich?""<lb/>
+				gift äm De Bescheid,<lb/>
+				„„Deiht Die wat leed, dänn kehrst Du üm,<lb/>
+				„„Dänn werd et doch noaher nich schlimm. —<lb/>
+				„„Dät ärgert mie män goar to sehr,<lb/>
+				„„Ick sach hüüt keenen Hirschen mehr;<lb/>
+				„„Wär' mie män eener noch gekoam,<lb/>
+				„„Ick haar'n mie uppet Koarn genoam.""<lb/>
+				<pb facs="../img/jung-1855/0151.jpg"/>
+				145 —<lb/>
+				„Kümmt Die dät Glück, dänn holl't hübsch fest!<lb/>
+				„Du bist doabie nich klook nog west;<lb/>
+				„Haarst Du't män moakt, as't nödig is,<lb/>
+				Sprack Förster Stoahl, „Du haarst äm wiß.<lb/>
+				„Schlu mütt man bie dät Joagen syn,<lb/>
+				„Sünst is de Düwel hinnerdrin;<lb/>
+				„Mit Klookheit bie de Antenjagd<lb/>
+				„Heb ick et all ganz wiet gebracht.<lb/>
+				„De Ante scheert sick vöäl doadrüm,<lb/>
+				„Stoahn, goahn üm't Woater Ii herüm;<lb/>
+				„Vöäl bäter werd et ook nich stoahn,<lb/>
+				„Wenn Ii to Koahn up't Woater goahn.<lb/>
+				„Letzt deiht dät Beste noch de Hund,<lb/>
+				„Moakt he Ju öähren Standoort kund;<lb/>
+				„Moakt oaber't Beest sien' Sach' nich good,<lb/>
+				„Dänn hemm Ii erst recht groote Noth.<lb/>
+				„Ick — bruuk nich Hund, ick bruuk nich Koahn,<lb/>
+				„Deep rin in't Woater doh ick goahn;<lb/>
+				„Ick weet et dänn so antofang'n,<lb/>
+				„Dät ick se mie kann mälig lang'n.<lb/>
+				„Ick moak mie dänn an öähr ganz still,<lb/>
+				„Un nehm' so vöäle, as ick will;<lb/>
+				„De fettsten uut de ganze Brut<lb/>
+				„Söök' ick mie von de Anten uut!" —<lb/>
+				13<lb/>
+				<pb facs="../img/jung-1855/0152.jpg"/>
+				146 —<lb/>
+				„„De fettsten? Fründ? — wo geiht dät to? —<lb/>
+				„„So vöäl Ji will'n? — Dät is män so! —<lb/>
+				„„Man is jo froh, kümmt man öähr an,<lb/>
+				„„Un nimmt gärn, wat man kriegen kann.""<lb/>
+				„Ick stülp mie'n hollen Körbiskopp<lb/>
+				„Mit Muul un Oogen öäber'n Kopp;<lb/>
+				„Den stäk' ick bloot uuc't Wogter ruut,<lb/>
+				„Doa holl ick et ganz lange unt.<lb/>
+				„Ick schwemme dänn ganz sacht doaher,<lb/>
+				„Wutsch! bin ick middenmang mank öähr;<lb/>
+				„Ick kiek' mie dänn de Anten an,<lb/>
+				„Wo ick tomeist se foaten kann.<lb/>
+				„Heb ick se mie dänn good besehn,<lb/>
+				„Dänn blift et doabie nich alleen;<lb/>
+				„Wo ick en gooden Broaden ruuk,<lb/>
+				„Doa föhl' ick lies' öähr unnern Buuk.<lb/>
+				„Un sind se dänn män handlich good,<lb/>
+				„Dänn hät et wieder keene Noth;<lb/>
+				„Ick bin dänn ook ganz schwinn doabie,<lb/>
+				„Un stäk' se in de Jagdtasch' mie.<lb/>
+				„Ick foat so unner't Woater sacht,<lb/>
+				„Se Stück vöär Stück mit Wollbedacht,<lb/>
+				„Un treck se an de Stänner raf; —<lb/>
+				„Dät gift nich moal'n Gerüüsche af.<lb/>
+				—<lb/>
+				<pb facs="../img/jung-1855/0153.jpg"/>
+				147 —<lb/>
+				„Se kieken sick wat schu letzt an,<lb/>
+				„Ick oaber — kehr' mie nich doadran;<lb/>
+				„Nich von de Stelle wiek' ick wiß,<lb/>
+				„As bät dick vull mien Jagdtasch' is."<lb/>
+				„„Wat dät vöär dulle Löägen sind!<lb/>
+				„„Dät glöwt äm jo keen Minschenkind!<lb/>
+				„„De Keerl, de gift et uns vullup,<lb/>
+				„„De binnt uns düchtig hüüt wat up!<lb/>
+				„„Ick moak et sünst ook groad nich schlecht,<lb/>
+				„„Bie äm — döägt' ick nich moal as Knecht!<lb/>
+				„„Ick reekt' äm't Woater nich to Dank:<lb/>
+				„„De blift uns' Meister lebenslang!""<lb/>
+				Se satten lange noch bie'n Schmuus,<lb/>
+				Letzt wurr'n de Köpp' öähr dick un kruus;<lb/>
+				Se wußten All' wat to vertell'n,<lb/>
+				Wat se gedoahn, groot to vermell'n.<lb/>
+				Se puchten All' up öähre Kraft,<lb/>
+				Wat se öähr Lebenstiet all schafft;<lb/>
+				Un as se woll'n noah Huuse goahn,<lb/>
+				Kunn Keener up de Beene stoahn.<lb/>
+				13*<lb/>
+				<pb facs="../img/jung-1855/0154.jpg"/>
+				148 —<lb/>
+				Das wilde Schwein.<lb/>
+				(Verfaßt im Februar 1849.)<lb/>
+				De Luders hemm in unse Knoll'n<lb/>
+				Sick doch wä ganz gefährlich holl'n!<lb/>
+				Dät kann doch länger nich so duur'n,<lb/>
+				Wie mütten doch moal een't beluur'n.<lb/>
+				Moak Die to Oabend män torecht,<lb/>
+				Sönn willet Schwien is ook nich schlecht;<lb/>
+				Wie will'n et woll wat schlu anfang'n,<lb/>
+				Dät wie ook moal doato gelang'n.<lb/>
+				Nimm Die män, Hans, ne Karre mit,<lb/>
+				Dät man noaher sick ook nich schnitt;<lb/>
+				Hemm wie uns erst en Kieler schoat'n,<lb/>
+				Will'n wie en ook nich liggen loat'n. —<lb/>
+				Se moaken sick to Oabend furt;<lb/>
+				Erst — werd noch mit de Fru gegnurrt,<lb/>
+				Dänn — kriggt de Knecht noch siene Schell,<lb/>
+				Dät he de Karr' nich hät to'r Stell.<lb/>
+				<pb facs="../img/jung-1855/0155.jpg"/>
+				149 -<lb/>
+				Et was ne schöne helle Nacht,<lb/>
+				Se hemm ganz lange Tiet tobracht;<lb/>
+				Et kümmt keen Hoas, keen Voss, keen Schwien,<lb/>
+				Dät moakt öähr letzt all groote Pien.<lb/>
+				As se nu lange doa gewoahrt,<lb/>
+				Un keene Möh ook nich gespoart,<lb/>
+				Doa kümmt letzt doch en Schwien gerönnt;<lb/>
+				He hät äm gliek up’t Fell ook brennt.<lb/>
+				He draff et oaber ook so good,<lb/>
+				Dät muckste nich, et was gliek dood;<lb/>
+				Dänn hemm se't up de Karre noam,<lb/>
+				Un sind ook good noah Huuse koam.<lb/>
+				De Keerls, denkt nu de goode Mann,<lb/>
+				Sind doch am Enn schwinn hinnerdran;<lb/>
+				Kümmt De wo wat nich richtig vöär,<lb/>
+				Glieks sind se doa, de Lungerer.<lb/>
+				Keem' mie sönn Jäger hier in't Huus,<lb/>
+				Un brächt' uns dånn um unsen Schmuus;<lb/>
+				Dät wär' jo doch nich uuttostoahn:<lb/>
+				Na woahrt! Ii söll'n mie good afgoahn!<lb/>
+				He geiht dänn rin bie siene Fru,<lb/>
+				De springt uut't Bett so innen Nu.<lb/>
+				„Wat wist Du," seggt se, „denn all moak'n?<lb/>
+				„Sall ick Die'n Tasse Kaffe koak'n?" —<lb/>
+				<pb facs="../img/jung-1855/0156.jpg"/>
+				150 —<lb/>
+				„„Nischt koak'n! — Treck Die schwinn wat an,<lb/>
+				„„Loop mit dät Kind tum Noabersmann,<lb/>
+				„„Un loat Die doa von Keenen sehn!<lb/>
+				„„Ick bliew hier unnerdeß alleen.""<lb/>
+				„Wat häst Du vöär? mien leewer Mann,<lb/>
+				„Kiek doch! dät geiht jo goar nich an;<lb/>
+				„Dät Kind, dät is jo noch to kleen,<lb/>
+				„Wat wist Du denn hier ganz alleen?“ —<lb/>
+				„„Loop!"" seggt he dänn all wat vergnurrt,<lb/>
+				„„Loop! segg ick Die, un moak nu furt!<lb/>
+				„„Süust geiht de beste Tiet verloar'n,<lb/>
+				„„Du sast et jo noaher erfoahr'n."" —<lb/>
+				Se geiht dänn mit dät Kind ook af,<lb/>
+				Dät öähr de Mann ganz ielig gaff,<lb/>
+				Se sach wat schu sick noah äm üm;<lb/>
+				Wat hulp et öähr? he was wat schlimm.<lb/>
+				Dänn röppt he all nogh sienen Hans:<lb/>
+				„Foat moal dät Schwien an hie en Schwanz,<lb/>
+				„Ick wer et män bie'n Kopp anfoat'n;<lb/>
+				„De Keerls! de söll'n et uns woll loat'n!" —<lb/>
+				Se lengn't nu in de Busse*) rin.<lb/>
+				„Doa sall'n de Keerls et wiß nich finn'n;<lb/>
+				„Nu loat se män in Gottes Noam<lb/>
+				„To uns in't Huus herinner koam!" —<lb/>
+				*) Anm. Busse für Wiege.<lb/>
+				<pb facs="../img/jung-1855/0157.jpg"/>
+				— 161 —<lb/>
+				He twingt dät Schwien noch up ne Mütz',<lb/>
+				Kickt dänn noah buuten dörch ne Ritz',<lb/>
+				Treckt sick noch schwinn den Schloaprock an,<lb/>
+				Un sett't sick an de Busse ran.<lb/>
+				Doa werd et all in't Huus wat luut,<lb/>
+				He — kickt nich unt de Stuwe ruut;<lb/>
+				He weet all, wat de Förster will,<lb/>
+				He moakt dät kleine Kind jo still.<lb/>
+				As düss nu dörch de Döäre kickt,<lb/>
+				Hät he: „Bsch! bsch!" äm togenickt;<lb/>
+				„Bsch! bsch! bsch! bsch! Wat will'n Ji hemm?<lb/>
+				„Bsch! bsch! bsch! bsch!" röppt he up äm.<lb/>
+				„Bsch! bsch! Weckt mie dät Kind nich up!<lb/>
+				„Bsch! bsch! bsch! bsch!" röppt he doadrup;<lb/>
+				„Wie hemm de ganze Nacht nich schloap'n,<lb/>
+				„Ick bin ganz duuslig, as besoap'n.<lb/>
+				„Bsch! bsch! bsch! bsch! Koamt jo nich rin!<lb/>
+				„Bsch! bsch! bsch! bsch! 't schlöppt sünst nich in;<lb/>
+				„'T hät kuum de Oogen togedoahn,<lb/>
+				„Ii könn'n sünst, wo Ii will'n, hengoahn."<lb/>
+				„„Wie will'n,"" seggt de, „„hier moal tosehn,"" — —<lb/>
+				„Herr Jes! — bsch! bsch! — nich so geschrä'n!"——<lb/>
+				„„Of hier wo wat nich richtig is?<lb/>
+				„„Ii moaken jo ganz dulle Riss’!""<lb/>
+				<pb facs="../img/jung-1855/0158.jpg"/>
+				152 —<lb/>
+				„Bsch! bsch! Joa! joa! söökt, wo Ii will'n!<lb/>
+				„En Minsch kaun sick jo vöäl inbill'n;<lb/>
+				„Bsch! bsch! bsch! bsch! Schluut't Alles up,<lb/>
+				„Goaht ook sülwst uppen Böähn herup.<lb/>
+				„Bsch! bsch! bsch! bsch! Dät kümmt ganz licht<lb/>
+				„Dät Een'n — bsch! bsch! — sönn Woahn ansicht;<lb/>
+				„Koamt hier mie män — bsch! bsch! — nich rin!<lb/>
+				„Dänn is't all good, dänn mag't ook syn!" —<lb/>
+				De Förster söckt denn oaber hüüt<lb/>
+				Ook Alles dörch mit siene Lüüd';<lb/>
+				He bleef nich bie dät Huus bloot<lb/>
+				stoahn,<lb/>
+				He is noah Schün' un Ställ' ool<lb/>
+				goahn.<lb/>
+				As he nu oaber goar nischt funn,<lb/>
+				Doa gung he af mit siene Hunn';<lb/>
+				He haar äm gärn sick vöärgenoam,<lb/>
+				Kunn äm män nich to Liewe koam.<lb/>
+				Mien Busser lacht sick in de Fuust,<lb/>
+				Dät he den Förster so bemuust;<lb/>
+				„Wer mie will in sien' Schlinge foahn,<lb/>
+				„Mütt, sä he, „tieder all upstoahn!" —<lb/>
+				<pb facs="../img/jung-1855/0159.jpg"/>
+				— 158<lb/>
+				Das Lob der Frauen.<lb/>
+				(Verfaßt im März 1849 zur Jubelfeier eines Freundes.)<lb/>
+				Doa helpt doch nu moal Alles nischt,<lb/>
+				Werd uns ook öäber't Muul ens wischt;<lb/>
+				De Fruens, Kinner, sind doch good,<lb/>
+				Wat leeden wie nich sünst vöär Noth!<lb/>
+				Nich moal nen Strump künn'n wie antehn,<lb/>
+				De Fruens strick'n am uns alleen;<lb/>
+				Mänch Schäper kümmt woll hinnerdrin,<lb/>
+				Wie — könn'n män nich All' Schäper syn.<lb/>
+				Geb ick den Schnieder nu dät Dook,<lb/>
+				Moakt he mie Rock un Bucksen ook;<lb/>
+				Alleen — wer nähgt dät Hemde mie?<lb/>
+				Mien Fru is't jo! dät weeten Ji.<lb/>
+				Dät nähgt se oahne alle Pien<lb/>
+				So bunt Ju oaber un so sien!<lb/>
+				De Annern könn'n 't nich nog ansehn;<lb/>
+				Däs woll ne Noath! de lett sick sehn!<lb/>
+				<pb facs="../img/jung-1855/0160.jpg"/>
+				154<lb/>
+				Den Flass doato hemm wie gewunn'n,<lb/>
+				Den Foaden — hät se sülwst gespunn'n,<lb/>
+				Un Linnwand wewt un bleekt se Ju!<lb/>
+				'T geiht doch nischt öäber sönne Fru!<lb/>
+				Un Sönndags — mütt ick vöär öähr stoahn,<lb/>
+				Will ick hen noah de Kerke goahn;<lb/>
+				Mien Speegel is jo män wat kleen,<lb/>
+				Se — is mien Speegel dänn alleen.<lb/>
+				Se kämmt mie dänn dät Hoar so glatt,<lb/>
+				Un moakt et hier un doa wat natt;<lb/>
+				Se binnt mie ook dät Halsdook üm,<lb/>
+				Un drehgt mie rechts un links moal rüm.<lb/>
+				Hät se mie dänn torecht gemoakt,<lb/>
+				Un mie dänn woll de Backen stroakt,<lb/>
+				Na! kickt! ick bin jo ook keen Russ',<lb/>
+				Ick geb öähr dänn nen derben Puß.<lb/>
+				Koam ick dänn uut de Kerke ruut,<lb/>
+				Hät se all lang' noah mie uutschu't;<lb/>
+				Kuum tred' ick in de Stuwe rin,<lb/>
+				Mütt uppen Disch ook’t Aten syn.<lb/>
+				Dät, segg ick, koakt se Ju so good,<lb/>
+				Wie lieden an Apptiet nich Noth;<lb/>
+				Wie putzen Alles Ju so reen,<lb/>
+				Dät is ne Lust mit antosehn.<lb/>
+				<pb facs="../img/jung-1855/0161.jpg"/>
+				155 —<lb/>
+				Wat moakten wie woll oahne Fru? —<lb/>
+				Wer reenigte un waschte Ju? —<lb/>
+				Dät wär' vöär Jungen un vöär Oll'n,<lb/>
+				Jo goar nich, glöw' ick, uuttoholl'n!<lb/>
+				Un't ganze Huus, wer höllt et reen? —<lb/>
+				'T is män de Fru, dås jo to sehn;<lb/>
+				De weeten Seepe woll to koak'u,<lb/>
+				Uns ook den Kopp moal reen to moak'n!<lb/>
+				Hemm se uns oaber'n Kopp gewasch'n,<lb/>
+				Flink gift et wädder wat to nasch'n;<lb/>
+				Sönn' Fru, dät weet en Jeder jo,<lb/>
+				De brengt doch, wo se will, uns to!<lb/>
+				Jä! jä! is uns de Kopp warm moakt,<lb/>
+				Uns ook woll mit de Kratzbörst stroakt,<lb/>
+				En Puß! en Schmatz. - ’t is wädder good,<lb/>
+				Un Kooken gift et dänn statts Brot,<lb/>
+				Wat will man dohn? — wat sall man seng'n<lb/>
+				Letzt fritt man't up, wat se uns breng'n;<lb/>
+				Un sind wie woll erst wat verguurrt,<lb/>
+				Wie putzen't up, — dänn is et furt.<lb/>
+				Se weeten’t doch wä good to moak'n,<lb/>
+				Sind borstig wie, uns glatt to stroak'n;<lb/>
+				De Fruens! — de verstoahn et all,<lb/>
+				Wenn't ook nich immer woahr syn sall.<lb/>
+				<pb facs="../img/jung-1855/0162.jpg"/>
+				—<lb/>
+				— 156 —<lb/>
+				Woto ne Fru sünst good noch is,<lb/>
+				Ick weet et woll, dät glöwt mie wiß;<lb/>
+				Et lett sick män nich All's so seng'n,<lb/>
+				Un hier vöär alle Lüüd' uutleng'n.<lb/>
+				Alleen — dät könn'n Ii All' mie glöw'n,<lb/>
+				Un glöwt Ji't nich, würr't mie bedröw'n;<lb/>
+				Dät segg ick hier vöär Allen Ju:<lb/>
+				En Mann is goar nischt oahne Fru.<lb/>
+				Drüm loat ick alle Fruens leb'n,<lb/>
+				Ick mücht' öähr alle Ehre geb'n;<lb/>
+				En Schuft is, de se ook nich ehrt,<lb/>
+				Deis ook keene Fru nich werth.<lb/>
+				Vöär alle Fru'ns geiht oaber vöär<lb/>
+				— Drüm hät se hüüt de gröttste Ehr,<lb/>
+				—<lb/>
+				De unsen Jubeloar so stroakt,<lb/>
+				Un öähre Sach' so good hät moakt.<lb/>
+				Se sall vöär alle Fruens leb'n!<lb/>
+				Drüm loat't de Gläser uns upheb'n!<lb/>
+				Se lebe hoch! de goode Fru!<lb/>
+				Un bliebe lange noch so gluh!<lb/>
+				<pb facs="../img/jung-1855/0163.jpg"/>
+				— 157 —<lb/>
+				Des Schulzen Noth.<lb/>
+				(Verfaßt im April 1849.)<lb/>
+				Vöäle Köppe, vöäle Sinne!<lb/>
+				I! — dät geiht nich so geschwinne!<lb/>
+				Nä! dät moakt ganz vöäle Noth,<lb/>
+				Alle unner eenen Hoot!<lb/>
+				Den — deiht düt, den — dät gefallen,<lb/>
+				Mäncher — wädderstritt ook Allen,<lb/>
+				Düsser — will't den Oogenblick,<lb/>
+				Jenner — is en fuuler Strick.<lb/>
+				T will all wat mit so vöäl Lüüden,<lb/>
+				Glöwt! et hät wat to bedüüden;<lb/>
+				Keenen moakt man ’t nich to Dank,<lb/>
+				Un doa sitt man middenmang!<lb/>
+				Geiht et nu erst an't Betoalen,<lb/>
+				Mücht' se All' de Schinder hoalen!<lb/>
+				Dänn fängt moal ’t Schandeeren an,<lb/>
+				Jeder schimpt, so sehr he kann.<lb/>
+				<pb facs="../img/jung-1855/0164.jpg"/>
+				168 —<lb/>
+				Joa! wenn se bloot hör'n von Geben,<lb/>
+				Deiht sick all'n Schandoal erheben;<lb/>
+				Erst — schwieg' ick geloaten still,,<lb/>
+				Wenn keen Minsch nich geben will.<lb/>
+				Loat se düchtig räsonneeren,<lb/>
+				Mänchmoal sülwst mie kojeneeren;<lb/>
+				Denk, hemm Ii Ju heesch geschrä'n,<lb/>
+				Hör'n Ii sülwst up so to schmäh’n.<lb/>
+				Weeten se nischt mehr to seggen,<lb/>
+				Deiht de Lärm sick all wat leggen;<lb/>
+				Na! dänn fang' ick oaber an,<lb/>
+				Moak se runn moal, wat ick kann.<lb/>
+				Loat se nich to Woort mehr koamen<lb/>
+				Schimp se uut in Düwels Noamen;<lb/>
+				Geb et öähr dänn ook vullup,<lb/>
+				Un hör' mit en Trump dänn up.<lb/>
+				Hunnsfott! segg ick, werd geheeten,<lb/>
+				De hier Oel in't Fü'r will geeten;<lb/>
+				Goodet Woort finnt goode Statt,<lb/>
+				Nu heb ick dät Schimpen satt.<lb/>
+				Haaren Ii wat bätre Grünne,<lb/>
+				Dät man doadrup ingoahn künne,<lb/>
+				Würr' ook ehr de Sache goahn,<lb/>
+				Seh bloot, — dät Ji'k nich verstoahn.<lb/>
+				<pb facs="../img/jung-1855/0165.jpg"/>
+				159 —<lb/>
+				Kort un good! wer nischt will geben,<lb/>
+				Kann jo män noah Huus sick heben!<lb/>
+				Wat Ii hier bie mie nich toal'n,<lb/>
+				Werd de Exekuter hoal'n.<lb/>
+				Loat't den Keerl ook wat verdeenen!<lb/>
+				Ick verdenk et jo ook Keenen;<lb/>
+				Wer'n Ii äm wat öfter geb'n,<lb/>
+				Kann de Mann ook eher leb'n.<lb/>
+				Letzt dohn se sick All' besinnen,<lb/>
+				Sick mit öähr Gebühr infinnen;<lb/>
+				Brummt un knurrt ook Mäncher noch,<lb/>
+				Letzt — gift he de Goaben doch! -<lb/>
+				<pb facs="../img/jung-1855/0166.jpg"/>
+				— 160 —<lb/>
+				Der rechte Vater.<lb/>
+				(Verfaßt im April 1849.)<lb/>
+				Kumm moal ganz schwinn, mien leewer Soahn!<lb/>
+				Du sast gliek noah de Stadt hengoahn;<lb/>
+				Moak Die torecht, beiele Die,<lb/>
+				Du kůmmst to späd sůnst, glöw et mie!<lb/>
+				„Wat sall ick denn doa in de Stadt? —<lb/>
+				„Ick heb dät Loopen nu bald satt;<lb/>
+				„Ick sall doa ständig röäber goahn,<lb/>
+				„Ick heb dát jo so oft all doahn."<lb/>
+				I Jung'! wat fällt Die oaber in!<lb/>
+				Den Oogenblick weß hinnerdrin!<lb/>
+				Sünst — wer ick mie an goar nischt kehr'n,<lb/>
+				Un Die moal dät Gehorken lehr’n.<lb/>
+				„I wat! dät kann ook Stoffel dohn,<lb/>
+				„De will sick so män ständig rohn!<lb/>
+				„Dät is jo goar nich uuttoholl'n,<lb/>
+				„Will'n Ii äm immer inbeholl'n." —<lb/>
+				<pb facs="../img/jung-1855/0167.jpg"/>
+				101 —<lb/>
+				Wo kannst Du, Bengel, mie so koam?!-<lb/>
+				Die, Racker, schloa ick krumm un loahm;<lb/>
+				Du geihst mie gliek nu noah de Stadt!<lb/>
+				Holl't Muul! — fünst geb ich Die noch wat.<lb/>
+				Dät haar ick söll'n mien'n Voader beed'n!<lb/>
+				Dät haar he jo mien Lew nich läd'n;<lb/>
+				So wat kamm bie uns goar nich vöär,<lb/>
+				Wie — woaren jo gliek hinnerher.<lb/>
+				„Däs ook woll'n rechter Voader west!<lb/>
+				„De hät wat Rechts woll'n Text Ju lest!<lb/>
+				„Ii moaken ’t hier jo innet Huus<lb/>
+				„Doch ook mit uns ganz dull un kruus.<lb/>
+				Du Schoapskopp! red' mie nich so wat!<lb/>
+				Wie — hemm 'n ganz ännern Voader hat;<lb/>
+				De wußt uns bäter to regeer'n,<lb/>
+				Un leet sick nich so cojeneer'n! —<lb/>
+				14<lb/>
+				<pb facs="../img/jung-1855/0168.jpg"/>
+				— 162 —<lb/>
+				Die Predigt.<lb/>
+				(Verfaßt im Juni 1849.)<lb/>
+				Ii hemm ’t woll, Kinner, all vernoam,<lb/>
+				T is nu mit äm tum Enne koam;<lb/>
+				De olle Preester is nu dood,<lb/>
+				Wat moaken wie doa in de Noth?<lb/>
+				So kann et doch mit uns nich blieben,<lb/>
+				Wie mütten üm en Ännern schrieben.<lb/>
+				„Wat froagen De denn noah de Buur'n!<lb/>
+				„Dät werd," seggt Wulf, „wä lange duur'n;<lb/>
+				„Werd öäber't Joahr hier Eener syn? -<lb/>
+				„Doa sind se so nich hinnerdrin!<lb/>
+				„Gäw ’t män wo Stüern intodrieben,<lb/>
+				„Doa wörr'n se bald en Breef drüm schrieben!<lb/>
+				„Dät oaber! brengt se nich in Draff,<lb/>
+				„Doa gift et jo nischt vöär se af;<lb/>
+				„Un wenn wie sülwer män nischt seng'n,<lb/>
+				„Dänn dohn se All's sick good uutleng'n:<lb/>
+				„Drüm will'n wie’t ook alleen bedrieben,<lb/>
+				„Un von den Preester nischt öähr schrieben." -<lb/>
+				<pb facs="../img/jung-1855/0169.jpg"/>
+				163 —<lb/>
+				I! seggt de Schult, Du bist nich klook,<lb/>
+				Wo denkst Du hen, wo geiht dåt ook!?<lb/>
+				Wie mütten doch en Preester hemm,<lb/>
+				Wist Du alleen Die wädder strämm?<lb/>
+				Wie mütten ’t groad ganz sehr bedrieben,<lb/>
+				Un glieks den Zupperndent et schrieben.<lb/>
+				„Dät dohn wie nich, seggt Wulf doadrup,<lb/>
+				„Dät hört jitzt, glöw' ick, Alles up;<lb/>
+				„Wie bruuken keenen Preester mehr,<lb/>
+				„Doa holl'n wie Alle drup ganz sehr:<lb/>
+				„Wie will'n dät Predd’gen sülwst moal drieben,<lb/>
+				„Doa bruukst Du nich erst drüm to schrieben.<lb/>
+				„Doa könn'n wie ook noch Vöälet spoar'n,<lb/>
+				„'T geiht uns jitzt so so vöäl verloar'n;<lb/>
+				„Dät könn'n wie licht jo Sönndags dohn,<lb/>
+				„Wenn wie von unse Arbeit rohn:<lb/>
+				„’T werd Die so good ook, as uns Allen,<lb/>
+				„Wenn Du wat spoarst, ganz wollgefallen!" — —<lb/>
+				De Schult will frielich erst nich ran,<lb/>
+				De Annern kehr'n sick män nich dran.<lb/>
+				„Häst Du to vöäl, doh Du't alleen,<lb/>
+				„Dänn kannst Du oaber ook tosehn!<lb/>
+				„Wie will'n nu oahne Preester blieben,<lb/>
+				„Un moal dät Ding alleen bedrieben.<lb/>
+				14*<lb/>
+				<pb facs="../img/jung-1855/0170.jpg"/>
+				161 —<lb/>
+				„Dät Dööpen, wenn et doato kümmt,<lb/>
+				Seggt Wulf, „wenn't Keener öäbernimmt,<lb/>
+				„Dät doh ick groade ganz alleen,<lb/>
+				„Dät heb ick vöäle Moal all sehn;<lb/>
+				„Ick mußt wo oft nen Poath afgeben,<lb/>
+				„Un Kinner uut de Dööpe heben.<lb/>
+				„Begroaben! dät is ook nich schwoar,<lb/>
+				„Doa hät et goar nich erst Gefoahr;<lb/>
+				„De Köster mütt jo so all sing'n,<lb/>
+				„Am werd dät Annre ook geling'n:<lb/>
+				„Wenn wie en bitschen äm toleggen,<lb/>
+				——<lb/>
+				„Doa werd he ook nich Ne! to seggen."<lb/>
+				Dät müchte syn, seggt drup de Schult,<lb/>
+				Alleen, wenn ichts mien Woort wat gult,<lb/>
+				Nu seggt mie moal, wer preddigt denn?! -<lb/>
+				Schwiggt mie doch still! wo will'n Ji hen! —<lb/>
+				Dät Insehn hät jo ook en Dummer<lb/>
+				Dät moakt uns gliek den gröttsten Kummer!<lb/>
+				„Nu!" seggt dänn Voss, „doato is Roath,<lb/>
+				„Doato paßt jo de Köster groad;<lb/>
+				„De hät uns jo all oft wat lest,<lb/>
+				„He moakt sien' Sach' ook uppet Best:<lb/>
+				„De werd sick woll ganz gärn bequemen,<lb/>
+				„Dät Preddigen to öäbernehmen.<lb/>
+				<pb facs="../img/jung-1855/0171.jpg"/>
+				165 —<lb/>
+				„Schickt män to äm un loat't äm hoal'n!<lb/>
+				„Ick sitt hier so all as up Koahl'n;<lb/>
+				„Ick heb hüüt noch so vöäl to dohn,<lb/>
+				„Doa oaber därfen wie nich rohn:<lb/>
+				„Doa werd nu eenmoal nischt vöär noamen,<lb/>
+				„Dät mütt nu erst in Ornung koamen!" -<lb/>
+				Se schicken gliek tum Köster hen,<lb/>
+				De kümmt dånn ook am letzten Enn;<lb/>
+				Se breng'n åm nu de Sache vöär,<lb/>
+				Un seng'n äm öähr Anliggen her:<lb/>
+				Alleen — he will sick nich bequemen,<lb/>
+				Dät Preddigen to öäbernehmen.<lb/>
+				„Ii weeten doch up allen Fall,<lb/>
+				„Ick deene gärn Ju öäberall,<lb/>
+				„Ii hemm't ook oft von'n Preester hört,<lb/>
+				„Ick heb mien Amt ganz good geföhrt;<lb/>
+				„Alleen dät kann ick nich bedrieben<lb/>
+				„Watdienes Amts nich is, loat blieben!"<lb/>
+				As he't absluut nu nich will dohn,<lb/>
+				— Ook sülwst nich vöär en goodet Lohn,<lb/>
+				Doa geben se't äm to verstoahn,<lb/>
+				Doa künhn e män noah Huuse goahn;<lb/>
+				Se dähden 't doch in Gottes Noamen<lb/>
+				He soll öähr oaber ook nich koamen!<lb/>
+				<pb facs="../img/jung-1855/0172.jpg"/>
+				﻿166<lb/>
+				„Wer" fröggt dänn Wulf, „wer nimmt et an,<lb/>
+				„Un moakt sick an dät Predd'gen ran?<lb/>
+				„Haar ick dät Dööpen nich all noam<lb/>
+				„Ick däh et glieks in Gottes Noam;<lb/>
+				„Alleen — to vöäl kann ick nich nehmen,<lb/>
+				„'T mütt sick en Annrer to bequemen. —<lb/>
+				Ei kickt dänn Eener 'n Annern an,<lb/>
+				Alleen — et will nich Eener ran;<lb/>
+				Un wiel sick Keener mellen will,<lb/>
+				Doa seggt dänn Wulf: „Nu weßt moal still!<lb/>
+				„Ick wer Ju moal wat Klookes seggen,<lb/>
+				Wer't bäter weet, kann't uns vöärleggen.<lb/>
+				„Uns' Preester moakt Joahr in Joahr uut<lb/>
+				„Sick ook jo groade nischt doadruut,<lb/>
+				„He las uns ’t Evangel'gen vöär,<lb/>
+				„Un las dänn siene Preddigt her;<lb/>
+				„Doa hät nischt Fremmes uns gestöret,<lb/>
+				„Wie hemm ganz gärn ook togehöret.<lb/>
+				„Un schleep man in de Kerk moal in<lb/>
+				„Man was dänn gilek doch wädder drin;<lb/>
+				„Gung Eenen ook fülwst wat verloar’n,<lb/>
+				„Man kunn't en änner Moal erfoahr'n:<lb/>
+				„So hät he't vöäle Joahr' jo dräben,<lb/>
+				„Un — ’t is hier All's in Ornung bläben.<lb/>
+				<pb facs="../img/jung-1855/0173.jpg"/>
+				— 167 —<lb/>
+				„Sien Preddigtbook, dät is wiß doa,<lb/>
+				„Doa koam' wie Keenen nich to noah,<lb/>
+				„Dät hoal'n wie uns, un lesen 't vöär<lb/>
+				„Dät Preddigtbook, dät hört hierher!<lb/>
+				„Wie hemm so lange noah gehöret,<lb/>
+				„Dät uns ne ännre Preddigt störet.<lb/>
+				„Ick — bruuke frielich nich dät Book,<lb/>
+				„So — is't woll mit den Schulten ook;<lb/>
+				„Ick — un noch Mäncher von de Oll'n,<lb/>
+				„Hät dät jo lang' in'n Kopp beholl'n:<lb/>
+				„Alleen — ’t is bäter vöär de Jungen,<lb/>
+				„Doa werd de Blödigkeit mit twungen.<lb/>
+				„Drängt sick nu Keener doato ran,<lb/>
+				„Dänn fängt et mit den Schulten an,<lb/>
+				„De beeden Schöppen folgen dänn<lb/>
+				„So geiht et dörch bät an dät Enn;<lb/>
+				„Un sind wie dänn moal dörchgekoamen,<lb/>
+				„Geiht et von vöärn' in Gottes Noamen.<lb/>
+				De Schult will frielich nich up hör'n,<lb/>
+				Se oaber loaten sick nich stör'n;<lb/>
+				Se will'n nu eenmoal ehr nich rohn,<lb/>
+				He sall un mütt toerst et dohn:<lb/>
+				He hät et bähr dänn letzt versproaken,<lb/>
+				He will 't den nächsten Sönndag moaken.<lb/>
+				<pb facs="../img/jung-1855/0174.jpg"/>
+				168 —<lb/>
+				As he nu up de Kanzel steiht,<lb/>
+				Ook't good mit ’t Evangel'gen geiht;<lb/>
+				Dät lest he öähr so driest ook vöär,<lb/>
+				As of äm dät män goar nischt wär;<lb/>
+				Dänn hät to predd'gen he anfangen,<lb/>
+				Un wußt to't Erst' ook to gelangen.<lb/>
+				„Ii sind" sprickt dänn de goode Mann,<lb/>
+				„Ii sind", so sett't he wädder an,<lb/>
+				—<lb/>
+				„Ii sind", seggt he tum dridden Moal;<lb/>
+				Doa moakt et Wulwen all wat Quoal;<lb/>
+				„Wat", mütt he sienen Noaber froagen,<lb/>
+				—<lb/>
+				„Wat werd den Schulten denn behoagen?"<lb/>
+				As de tum veerten Moal doadrup<lb/>
+				„Ii sind" dänn seggt, doa steiht he up:<lb/>
+				„Wat sind wie dänn," schreit he äm to,<lb/>
+				„Dåt segg mie moal! wat redst Du so?!" —<lb/>
+				„„Schoapsköppe sind Ii, will'n Ji't weeten,<lb/>
+				„„De sick ganz groff anföhren leeten.<lb/>
+				„„Ii denken, dät dät män so geiht,<lb/>
+				„„Wenn man hier up de Kanzel steiht;<lb/>
+				„„Nä! nä! dät geiht nu eenmoal nich,<lb/>
+				„„Wie moaken uns män lächerig:<lb/>
+				„„Wie mütten uns en Preester hoalen,<lb/>
+				„„Un föll'n wie äm ook mehr noch toalen!"" —<lb/>
+				<pb facs="../img/jung-1855/0175.jpg"/>
+				— 169 —<lb/>
+				Das Studiren.<lb/>
+				(Verfaßt im Juli 1849.)<lb/>
+				Ick weet nich, wat de Köster will,<lb/>
+				De sy doch jitzt män muusestill!<lb/>
+				De Mann moakt uns doa so vöäl Kohl,<lb/>
+				De Jung's sall'n ständig in de School!<lb/>
+				Dät geiht doch nich! Wo will denn dät,<lb/>
+				Wenn man nich siene Jungens hät!<lb/>
+				Sall'n de män in de School ringoahn,<lb/>
+				Doa kann de Würthschaft nich bestoahn.<lb/>
+				De bruuken nich so vöäl to lehr'<lb/>
+				Se söllen jo ook nich stodeer'n;<lb/>
+				Wat Mienen moal werd nödig syn,<lb/>
+				Dät knöp' ick äm alleen woll in.<lb/>
+				Wenn nu sönn Jung' nich plögen lehrt,<lb/>
+				Nich weet, wo he mit ’t Veeh handteert,<lb/>
+				De Köster werd äm doch nischt geb'n!? —<lb/>
+				Wo sall sönn Keerl denn moal von leb'n! - —<lb/>
+				15<lb/>
+				<pb facs="../img/jung-1855/0176.jpg"/>
+				170. —<lb/>
+				„Doa häst Du, Vadder, ook ganz Recht,<lb/>
+				„Wie hemm't doch ook to wat gebrächt;<lb/>
+				„Därf Eener hier in't Dörp upstoahn,<lb/>
+				„Un seng'n, et haar mit uns nich goahn?<lb/>
+				„Dät soll uns doch een Minsch moal seng'n<lb/>
+				„Wie woll'n ’t äm änners woll vöärbreng'n;<lb/>
+				„Wie hemm uns' Sache wiß verstoahn;<lb/>
+				„Un — wat sind wie in d' School ringoahn?!<lb/>
+				„Du weetst et jo, wie woar’n tosamm,<lb/>
+				„Wie hulpen uns, wenn wo wat kamm,<lb/>
+				„Was’t in de School, was't uppet Feld,<lb/>
+				„Wat hemm wie unsen Köster prellt!<lb/>
+				„Alleen — wat woahr is, loawet Gott,<lb/>
+				Wie dreeb'n woll mänchmoal mit äm Spott,,<lb/>
+				„De Mann, de was doch oaber good! —<lb/>
+				„Nu — is he ook all lange dood.<lb/>
+				„Na Düsser! nä! dät is to dull,<lb/>
+				„De schrift ganz dick de Liste vull;<lb/>
+				„He moakt Die glieks ook sönn Halloh,<lb/>
+				„Fehlt Eener moal, dät rookt män so!<lb/>
+				„Stodeeren söll'n de Jung's doch nich!<lb/>
+				„'T Stodeer'n höllt so jo nich mehr Stich;<lb/>
+				„Stodenten, as man jitzt gehört,<lb/>
+				„Hemm ganz Berlin jo upjestört.<lb/>
+				<pb facs="../img/jung-1855/0177.jpg"/>
+				171<lb/>
+				„Mit öähre Hiebers, as se seng'n,<lb/>
+				„Doa dohn se sick mang Alles meng'n,<lb/>
+				„Up't Schloß, an't Doahr, wohen Du kickst,<lb/>
+				„Doa stoahn se Die, ganz upgewickst.<lb/>
+				„Is öähr wat nich noah öähren Sinn,<lb/>
+				„Gliek reden se dånn ook wat drin;<lb/>
+				„Se dräu'n ook all, et würr nich good,<lb/>
+				„Dät gäw' män immer gröttre Noth.<lb/>
+				„Doa sühst Du't je, je mehr he lehrt,<lb/>
+				„Je mehr werd jo sönn Keerl verkehrt;<lb/>
+				„Is unse Preester hier sien Soahn<lb/>
+				„Dörch't Dörp nich mit en Säbel goahn?<lb/>
+				„Wat klapperte un schlog he up!<lb/>
+				„De wußte sick, wer weet wat drup!<lb/>
+				„Up d' Barrekoaden haar he stoahn,<lb/>
+				„Twee ganz alleen ook dood geschloan.<lb/>
+				„„Wat?! Vadder, dät is woll nich woahr?"" — —<lb/>
+				„Na! glöw' et nich! mie is et kloar;<lb/>
+				„Wenn Eener to vöäl lehren deiht,<lb/>
+				„Am de Verstand letzt däberschleit.<lb/>
+				„Mit de Stodenten is et so,<lb/>
+				„Dät süht man an öähr Groolbohn jo;<lb/>
+				„Süfs haar'n se sick nich so rümdräb'n,<lb/>
+				„Un wär'n ook bie Verstand gebläb'n.<lb/>
+				15*<lb/>
+				<pb facs="../img/jung-1855/0178.jpg"/>
+				172<lb/>
+				„Sterwt unse olle Preester moal,<lb/>
+				„(Doa blift et bie, de Düwel hoall)<lb/>
+				„Dänn sall uns keen Stodeerter koam,<lb/>
+				„Dät heb ick mie ganz fest vöärnoam.<lb/>
+				„Hät he sönn Schrullen doa gelehrt,<lb/>
+				„Doa moakt he hier jo All's verkehrt;<lb/>
+				„Bie uns sall't moal in Ornung blieb'n,<lb/>
+				„Wie will'n üm n Unstodeerten schrieb'n!“<lb/>
+				Der Schulvorsteher bei der Schulprüfung.<lb/>
+				(Verfaßt im November 1848.)<lb/>
+				Nä! Mutter, so wat lewt nich mehr,<lb/>
+				Nu wunner' ick mie goar nich sehr,<lb/>
+				Dät unse Jung' un unse Deern<lb/>
+				Bie'n Köster in de School nischt lehr'n.<lb/>
+				Wat is dät vöär'n Geschwöge west,<lb/>
+				As wie äm hoalten uut sien Nest!<lb/>
+				Doa sä'n se, dät hé't moal. verstůnn',<lb/>
+				Un moal de Kinner lehren künn'!<lb/>
+				<pb facs="../img/jung-1855/0179.jpg"/>
+				113 —<lb/>
+				Ick bin doch ook nich gvoad vöär All'n<lb/>
+				In't Dörp hier uppen Kopp gefall'n;<lb/>
+				Alleen — dät heb ick nich gefunn'n,<lb/>
+				Heb ick mie ook ganz vöäl besunn'n.<lb/>
+				Du weeist doch, dät de Zupperndent<lb/>
+				Den Köster hüüt up't Fell hät brennt;<lb/>
+				De Preester was ook mit derbie,<lb/>
+				De hörte to bloot, so as wie.<lb/>
+				Erst hemm se denn nu wat gesung'n,<lb/>
+				Dät hät män wie'n Gequieke klung'n;<lb/>
+				Nä! as ick noah de School hengung,<lb/>
+				Doa lä'n wie los, dät ’t män so klung.<lb/>
+				Nu gung et mit dät Lesen an,<lb/>
+				Nich so as sünst, so Mann vöär Mann;<lb/>
+				Nä! d' Köster reep: „Nu, les't in't Chor,<lb/>
+				„Dät ’t ook gefällig is vöär't Ohr!" —<lb/>
+				Ick heb woll nippe upjepaßt,<lb/>
+				Letzt moakt et mie to vöäle Last;<lb/>
+				Ick heb dät Lesen woll verstoahn,<lb/>
+				Män nich, of't mücht' mit Eenen goahn.<lb/>
+				Wenn Vöäl' uut eene Schöttel ät'n,<lb/>
+				Kriggt, wer sick nich ran höllk, män 'n bät'n,<lb/>
+				Doa merkt man ’t doch, is Eener fuul,<lb/>
+				Hier — hört man nischt, man süht bloot ’t Muul.<lb/>
+				<pb facs="../img/jung-1855/0180.jpg"/>
+				114 —<lb/>
+				Ick dacht', de Fuulen hemmit hier good,<lb/>
+				De moakt dät Lesen keene Noth,<lb/>
+				Schreit Eener män en bitschen vöär,<lb/>
+				De Annern — schrei'n dänn hinnerher.<lb/>
+				So is et ook noaher gekoam,<lb/>
+				As he se enzeln sick vöärnoam;<lb/>
+				Dät gung so holprig, stöttrig to,<lb/>
+				So unnernänner is män so!<lb/>
+				Mientwegen mücht' dät ook noch goahn,<lb/>
+				Bleeft män bie't luude Lesen stoahn;<lb/>
+				Alleen nu kamm de niee Wies',<lb/>
+				Dät gung so hiemlich, sacht un lies'.<lb/>
+				Erst spitzt' ick as en Peerd dät Ohr,<lb/>
+				Dät ick ook nischt doavon verlor;<lb/>
+				Ick heb woll vöälerlei gehört,<lb/>
+				'T was mie, as wär'n se All' verkehrt.<lb/>
+				Moal seggten se to uns as: „si!<lb/>
+				Dänn kamm't mie vöär, as sä'n se: „schü!"<lb/>
+				Se zischten uns as Schlang'n wat vöär,<lb/>
+				Moal was't, as bleef't im Halse öähr.<lb/>
+				Erst dacht' ick: „Unnerstoaht Ju moal!<lb/>
+				„Ju Schüchen moakt uns noch nich Quoal."<lb/>
+				Dänn: „Zischt un pruscht män nich noch mehr!<lb/>
+				„Heruut! quält't Ju in'n Hals so fehr." —<lb/>
+				<pb facs="../img/jung-1855/0181.jpg"/>
+				175 —<lb/>
+				Nu namm he sick de Lehre vöär,<lb/>
+				Un froagte se de Krüz un Quer;<lb/>
+				Alleen — dät is so good nich goahn,<lb/>
+				Se hemm äm woll nich recht verstoahn.<lb/>
+				Doa is de Zupperndent herkoam,<lb/>
+				Un hät se sick ook moal vöärnoam,<lb/>
+				He hät öähr nich den Text gelest,<lb/>
+				He is ganz fründlich to öähr west.<lb/>
+				Vöär mie was't ganz good to verstoahn,<lb/>
+				De Rackers hemm kuum ’t Muul updoahn;<lb/>
+				Se woaren All' as wie verdutzt,<lb/>
+				He — hät et kuum moal upgemutzt.<lb/>
+				As et abfluut nich wolle goahn,<lb/>
+				Un se äm keen Moal künn'n verstoahn,<lb/>
+				Doa greep et nu de goode Mann<lb/>
+				Moal bie en ännert Enne an.<lb/>
+				He sä: „Nu west moal drup un dran,<lb/>
+				„Un kickt mie moal recht groade an,<lb/>
+				„Gewft mie up Alles hübsch Bescheid,<lb/>
+				„Wenn miene Froag' nu an Ju geiht.<lb/>
+				„Ii hemm doch eenen Voader All'?"“ —<lb/>
+				„„Dät is nu hier just nich de Fall;<lb/>
+				„„'T is jo nich möäglich,"" reep een Kind,<lb/>
+				„„Wo so vöäl Jung's un Mäkens sind."" —<lb/>
+				<pb facs="../img/jung-1855/0182.jpg"/>
+				116-<lb/>
+				„So meint' ick't nich; doch jedet Kind<lb/>
+				„Werd sienes Voaders Kind doch sind. —<lb/>
+				„Wo heet, mien Soahn, Dien Voader denn?" —<lb/>
+				„„Den kann ick sülwer nich moal nenn'n.<lb/>
+				„„Mien' Mutter hät äm woll gekennt,<lb/>
+				„„Se hät en keen Moal to mie nennt,<lb/>
+				„„Un froag' ick se, weent se sick satt;<lb/>
+				„„Ick heb woll keenen Voader hat."<lb/>
+				„Häst Du Dien'n Voader nich gesehn,<lb/>
+				„Gift et vöär Alle doch noch Een'n;<lb/>
+				„Dät is Dien Voader, so as mien,<lb/>
+				„Wenn wie män siene Kinner syn.<lb/>
+				„Wer is unf' Aller Voader denn,<lb/>
+				„Den wie nich nog verehren könn'n?"<lb/>
+				„„Dät is uns' Gott in't Himmelriek,<lb/>
+				„„Vöär äm sind alle Minschen gliek."<lb/>
+				„Is he uns' Voader, wat sind wie?"<lb/>
+				„„Dänn sind wie siene Kinner hie.""<lb/>
+				„Hemm All' nu eenen Voader män,<lb/>
+				„Dänn?" — „„Bröder, Schwestern sind et dänn."" -<lb/>
+				„Wo söll'n sick Bröder, Schwestern hemm?“ —<lb/>
+				„„Ganz leew, un sick nich strämm un drämm."" —<lb/>
+				„Hemm se sick immer leew gehat?“<lb/>
+				„„De möägen jo! se kreegen ’t satt."" —<lb/>
+				<pb facs="../img/jung-1855/0183.jpg"/>
+				- 171 -<lb/>
+				„Doa keem'n se dänn in groote Roth,<lb/>
+				„Dät was vöär keenen Minschen good;<lb/>
+				„Wer bracht' se uut dät Elend runt?" —<lb/>
+				„„Jä! wer verbrennt sick gärn de Schnuut!<lb/>
+				„„Se sitten jo noch Alle drin,<lb/>
+				„„Män duller werd jo jitzt öähr Sinn;<lb/>
+				„„'T is, wo et in de Welt zund steiht,<lb/>
+				„„As of de Düwel sülwst rümgeiht.""-<lb/>
+				„Dät is woll frielich woahr, mien Soahn,<lb/>
+				„Alleen — et würr' noch schlimmer stoahn,<lb/>
+				„Wär' nich de Heiland to uns koam,<lb/>
+				„Un haar uns' Sünne weggenoam.<lb/>
+				„Woher kümmt denn de Sünn' in d' Welt?“ —<lb/>
+				„„Dät hät noch keen Minsch uns vermellt."" —<lb/>
+				„Segg moal, kümmt Böset Die in'n Sinn,<lb/>
+				„Wo kümmt dät Böse denn hennin?"<lb/>
+				„„Dät mütt de Soatan sülwer syn,<lb/>
+				„„De mie dät Bös' in't Herz gift rin;<lb/>
+				„„Ick wer et doch nich sülwer dohn?<lb/>
+				„„Ick kreeg jo Schläge nog tum Lohn.""<lb/>
+				„Bist also Du en Düwelskind,<lb/>
+				„So wer Du bäter hübsch gesinnt!<lb/>
+				„Höllst Du Gott un den Heiland werth,<lb/>
+				„Werd Die ook Goods von äm bescheert."<lb/>
+				<pb facs="../img/jung-1855/0184.jpg"/>
+				178 —<lb/>
+				Nu gung et mit dät Räken an;<lb/>
+				Dät was just nich vöär Jedermann.<lb/>
+				Et würr' Ju, dacht ick schlimm doch goahn,<lb/>
+				Würr'n Ji'k nich bäter moal verstoahn.<lb/>
+				Wer uppen Marcht noah d' Stadt henkümmt,<lb/>
+				Nich höllisch doa in Acht sick nimmt,<lb/>
+				De is, eh he't moal merkt, verloar'n,<lb/>
+				He kriggt sien Geld nich vöär sien Koarn.<lb/>
+				Dät haar de Köster up sollt geb'n,<lb/>
+				Dät kümmt doch vöär öähr in öähr Leb'n;<lb/>
+				Of se moal Boll'n verköpen wer'n,<lb/>
+				Doa bruukt he sick nich drüm to scheer'n.<lb/>
+				He haar ’t all n' ganze Wiel' so dräb'n,<lb/>
+				Un öähr d' Exempel so vöärschräb'n,<lb/>
+				As wär'n män Gröschen in Karant,<lb/>
+				Nich Silbergröschen öähr bekannt.<lb/>
+				Doa frog de Preester åm denn ook,<lb/>
+				Of he s' nich doarin moakte klook,<lb/>
+				Of he öähr dät nich haar vöärleggt,<lb/>
+				As he't äm doch all togeseggt.<lb/>
+				Doa reep de Köster denn ganz luut:<lb/>
+				„Ick red' mie fast de Lunge uut,<lb/>
+				„Ick breng se oft genog doahen,<lb/>
+				„Wat helpt et oaber, dohn fe't denn?" — -<lb/>
+				<pb facs="../img/jung-1855/0185.jpg"/>
+				119 —<lb/>
+				Ick dacht' dät werd ne goode Brut,<lb/>
+				Kriggt he den Trotzkopp öähr nich ruut;<lb/>
+				Dohn de upzund all öähren Will'n,<lb/>
+				Wat wer'n se sick noaher inbill'n!<lb/>
+				Doa heel ickt dänn nich länger uut,<lb/>
+				Un bruukte ook moal miene Schnuut:<lb/>
+				„Dät," seggt ick, „seh ick nu woll in,<lb/>
+				„In de öähr Köpp' kümmt ook nischt rin.<lb/>
+				„De hemm, so vöäl ick hier erwischt,<lb/>
+				„Nischt Goods gelehrt, ook goar noch nischt!" --<lb/>
+				Un doamit namm ick schwinn de Döär,<lb/>
+				Un seggte ook „Adjes!" to öähr.<lb/>
+				Se reepen mie dänn woll noch noah,<lb/>
+				Ick wär noaher doch wädder doa,<lb/>
+				As Schoolverstör to unnerschrieb'n? —<lb/>
+				Ick wer et oaber loaten blieb'n.<lb/>
+				Vöär nischt un goar nischt doa to syn,<lb/>
+				Dät is moal nich noah mienen Sinn;<lb/>
+				Werd ’t mit de School erst bäter goahn,<lb/>
+				Dänn wer ick mienen Mann ook stoahn.<lb/>
+				Doa loaw' ick miene Würthschaft mie;<lb/>
+				Kumm, Mutter, schwinn! nu sacken wie:<lb/>
+				Ick föhr' noah d' Stadt un hoal' uns Geld,<lb/>
+				Dät helpt uns bäter dörch de Welt! -<lb/>
+				<pb facs="../img/jung-1855/0186.jpg"/>
+				180 —<lb/>
+				Die Errungenschaft.<lb/>
+				(Verfaßt im August 1849.)<lb/>
+				Doht, wat Ji will'n! ick doh et nich,<lb/>
+				Dät höllt jo doch nich lange Stich;<lb/>
+				Wo künn' denn doa dät Land bestoahn,<lb/>
+				Soll Alles unnernänner goahn?! -<lb/>
+				„Joa groad! erst recht! nu is et Tiet!<lb/>
+				„Dät Recht ist just up unse Siet;<lb/>
+				„Se hemm et uns so lang vöärholl'n,<lb/>
+				„Wie will'n nu ook moal Recht beholl'n!<lb/>
+				„Uut gooden Will'n dohn De jo nischt!<lb/>
+				„Nu oaber wer'n se moal erwischt;<lb/>
+				„Un hemm wie uns dänn wat verschafft,<lb/>
+				„Hemm wie doch ook n' Exrungenschaft." —<lb/>
+				Kotz Wäder nich! wat fällt Ju in?<lb/>
+				So dull un roasend will'n Ii syn?<lb/>
+				Män nich mit Storm in't Elend ielt!<lb/>
+				Wer hät Ju denn den Kopp verkielt? — —<lb/>
+				<pb facs="../img/jung-1855/0187.jpg"/>
+				181 —<lb/>
+				Alleen — doa hulp jo Alles nischt,<lb/>
+				De Düwel haar se sick erwischt;<lb/>
+				Doa muchte man, wer weet wat seng'n,<lb/>
+				Se dähden 't änners sick uutleng'n.<lb/>
+				Dät gung ne Wiele dänn ganz dull,<lb/>
+				Un Mäncher kreeg den Schlunk ook vull;<lb/>
+				Doa woll'n ’t de Annern ook so hemm<lb/>
+				Un dähden nu män mehr sick strämm.<lb/>
+				Un wo se haar'n de Oäbermacht,<lb/>
+				Doa rohten se nich Dag un Nacht;<lb/>
+				Doa sind se mit Gewalt gegoahn,<lb/>
+				Un hemm de eegnen Herren schloan.<lb/>
+				Alleen — to scharp moakt schoartig letzt;<lb/>
+				Nu wurr'n de blanken Säbels wetzt;<lb/>
+				De moakten dänn in aller Hill<lb/>
+				All' de Upröhrschen muusestill.<lb/>
+				Un as se't nu bie Licht besehn,<lb/>
+				Worup de Keerls et afgesehn,<lb/>
+				Doa sind de Oogen öähr upgoahn,<lb/>
+				De — hemm bloot uppen Busch geschloan.<lb/>
+				Un wo män ichts wat rafferfeel,<lb/>
+				Doa namm sick Jeder foorts sien Deel;<lb/>
+				As letzt de Bloas' is upgeplatzt,<lb/>
+				Sind schwinn se mit dät Geld uutkratzt.<lb/>
+				<pb facs="../img/jung-1855/0188.jpg"/>
+				189 —<lb/>
+				Dät Elend hemm se uns geschafft,<lb/>
+				Dät is de groot' Errungenschaft;<lb/>
+				Haar'n wie nich up de Keerls gehört,<lb/>
+				Haar'n se nich unse Glück gestört.<lb/>
+				„Ick weet nich," seggte drup een Mann,<lb/>
+				Un sach doabie den Annern an,<lb/>
+				„Ii reden von Errungenschaft<lb/>
+				„Rungneerschaft hemm se uns geschafft!<lb/>
+				„Was sünst nich just de beste Tiet,<lb/>
+				„Nu — sind wie von ne good' erst wiet!<lb/>
+				„Nu kümmt, so schlimm is’t jo geworr'n,<lb/>
+				„Up uns wiß Gottes grooter Zorn.<lb/>
+				„Rungneeren, dät is öähre Kunst,<lb/>
+				„Errungenschaft — is blooter Dunst;<lb/>
+				„Wie können nich mit Ehr'n bestoahn,<lb/>
+				„Sall't nich mit Ornung hier togoahn.<lb/>
+				„Wo Ornung is, doa is et good,<lb/>
+				„Mit Ornung öäberwinn't man Noth,<lb/>
+				„Bie Uprohr sind wie All' verloar'n,<lb/>
+				„Doa mag uns Gott doavöär bewoahr'n!" -<lb/>
+				<pb facs="../img/jung-1855/0189.jpg"/>
+				188 —<lb/>
+				Abschied.<lb/>
+				—<lb/>
+				Sind Frünne moal bie mie as leewe Gäst',<lb/>
+				Dänn is un blift mie dät en grootet Fest;<lb/>
+				Noch eh se koam'n, doa freu' ick mie derto,<lb/>
+				Un ook noaher, doa bin ick dröäber froh.<lb/>
+				Gefällt et öähr bie mie dänn handlich good,<lb/>
+				Dänn mag et syn, dänn scheert mie keene Noth;<lb/>
+				Jä! wat mien Herz öähr ichtens beeden kann,<lb/>
+				Nehm'n se et män, dät beed' ick öähr ook an.<lb/>
+				Un wat von Herzen kümmt, — to Herzen geiht;<lb/>
+				En Jeder weet jo ook, wo woll dät deiht,<lb/>
+				Steiht uns en woahrer Fründ, mit gooden Schick,<lb/>
+				Uprichtig bie in Glück un Unneglück.<lb/>
+				Et kümmt jo ook, dät Herz is Eenen schwoar,<lb/>
+				Man wünscht: „wenn man doch dood erst wär'!“woll goar;<lb/>
+				Kümmt dänn en Fründ un richtet uns wä up,<lb/>
+				Man kickt getröstet doch to Gott hennup.<lb/>
+				Un hät man ook moal eene goode Stunn,<lb/>
+				Dät man ook ens en Gerstenköärn wo suin;<lb/>
+				<pb facs="../img/jung-1855/0190.jpg"/>
+				—<lb/>
+				184-<lb/>
+				Man bruukt et jo alleen nich to vertär'n,<lb/>
+				Man gift doavon ook siene Frünne gärn.<lb/>
+				Drüm, Frünne, nehmt, wat ick Ju beeden kann,<lb/>
+				Nehmt et as Fründschaftsgoabe von mie an!<lb/>
+				Blift Jue Fründschaft mie, dät glöwt män wiß!<lb/>
+				Dät Jue Fründ dänn ook ganz glücklich is.<lb/>
+				..<lb/>
+				Ick wünsche Ju, — ick woll, et würre woahr! —<lb/>
+				Vöäl Glück tum Afschied dörchet ganze Joahr,<lb/>
+				Gesundheit, frohen Moth, en rohig Herz,<lb/>
+				Dänn geiht uns' Gang mit Gott ook himmelwärts.<lb/>
+				Un därf ick Ju vöär mie ne Bidde seng'n,<lb/>
+				Doht mie nischt scheef in miene Wöör' uutleng'n;<lb/>
+				Denkt fründlich ook an mie, un bliewft mie good!<lb/>
+				Nischt is doch bäter, as en Fründ in Noth! -<lb/>
+				19 JY 59<lb/>
+				—433<lb/>
+				)<lb/>
+				Druck von Carl Schultze in Berlin.<lb/>
+		</body>
+	</text>
+</TEI>

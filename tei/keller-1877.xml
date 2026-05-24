@@ -1,0 +1,1445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="id_keller-1877" xml:lang="nds">
+	<teiHeader>
+	    <fileDesc>
+	      <titleStmt>
+	        <title fldid="title">Der Angerhof. Volksst&#252;ck mit Gesang in 3 Acten</title>
+	        <author fldid="author">Ernst Keller</author>
+	        <respStmt>
+	          <resp n="transcription" fldid="transcription">Transkribus Print M1</resp>
+	          <resp n="revision" fldid="revision">n/a</resp>
+	          <resp n="normalization" fldid="normalization">n/a</resp>
+	          <resp n="tagging" fldid="tagging">Christian Chiarcos, University of Augsburg, Germany</resp>
+	        </respStmt>
+	        <!--funder fldid="funder"></funder-->
+	      </titleStmt>
+	      <sourceDesc>
+	        <biblStruct>
+	          <monogr> 
+	            <author fldid="monauthor">Ernst Keller</author>
+	            <title fldid="montitle">Der Angerhof</title>
+	            <edition fldid="monedition">Volksst&#252;ck mit Gesang in 3 Acten</edition>
+	            <imprint>
+	              <publisher fldid="monpublisher">Selbstverlag</publisher>
+	              <pubPlace fldid="monplace">Pyritz</pubPlace>
+	              <date fldid="mondate">1877</date>
+	            </imprint>
+	          </monogr>
+	        </biblStruct>
+	      </sourceDesc>
+	    </fileDesc>
+	    <profileDesc> 
+	      <particDesc> 
+	        <listPerson> 
+	          <person id="ernst-keller">
+	            <name fldid="personname">Ernst Keller</name>
+	            <birth fldid="birth" when="1835">
+	              <placeName fldid="birthplace" geo="53.2531 14.4875">Gryfino (Greifenhagen)</placeName>
+	              <date fldid="birthdate">1835-03-13</date>
+	            </birth>
+	            <!--death>
+	            </death-->
+	            <langKnowledge>
+	              <langKnown n="first" tag="deu"/>
+	              <langKnown n="native" tag="nds"/>
+	            </langKnowledge>
+	            <sex fldid="sex" type="m"/>
+	            <age fldid="age">42</age>
+	            <occupation fldid="personoccupation">Tapezierer</occupation>
+	            <residence fldid="personresidence">Pyrzyce (Pyritz)</residence>
+	            <nationality fldid="nationality" key="DE"/>
+	          </person>
+	        </listPerson>
+	      </particDesc>
+	      <langUsage>
+	        <language fldid="textlang" ident="nds" dir="ltr"/>
+	      </langUsage>
+	      <textDesc>
+	        <channel fldid="textchannel" mode="written"/>
+	        <domain fldid="textdomain">play</domain>
+	      </textDesc>
+	    </profileDesc>
+	    <encodingDesc>
+	      <projectDesc id="NMK">
+	        <title fldid="Nordm&#228;rkisch-Mittelpommersches Korpus (NMK)"/>
+	        <leader fldid="projectleader">Christian Chiarcos</leader>
+	        <desc fldid="projectdesc">Aufbau eines Korpus zur Dokumentation des Nordm&#228;rkischen sowie des nah verwandten Mittelpommerschen in Sachsen-Anhalt, Brandenburg, Vorpommern und dem heutigen Polen.
+	        Chiarcos, C. (2026). Towards the Morphological Annotation of North Markian (Low German). In Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026) (pp. 11699&#8211;11714). European Language Resources Association (ELRA). https://doi.org/10.63317/54xnswqy73gs.
+	        </desc>
+	      </projectDesc>
+	      <editorialDecl fldid="editorialdecl">
+	        Automatische OCR des Textteiles ohne manuelles Postprocessing. Automatisiertes POS Tagging.
+	      </editorialDecl>
+	    </encodingDesc>
+	  </teiHeader>
+	
+	<text>
+		<body>
+				<pb facs="../img/keller-1877/0001.jpg"/>
+				Erster Act.<lb/>
+				(Wohnzimmer bei Barko. Mittelthür mit Vorhängen, rechts ein Fenster, davor<lb/>
+				eine Staffelei mit Zubehör; am Fenster Blumentöpfe; im Hintergrunde links<lb/>
+				eine Thür; im Vordergrunde links ein Tisch mit Zeitungen, dahinter ein Großstuhl.<lb/>
+				Rechts und links wird vom Zuschauerraum aus bestimmt.)<lb/>
+				1. Scene.<lb/>
+				Barko. Fritz.<lb/>
+				Barko (mit den Zeitungen beschäftigt). Ick segg Di nu tum letzten<lb/>
+				Mal: Da ward niks ut, ja niks! Nu un nimmermehr gev ick dat to.<lb/>
+				Glöwst Du ick harr min Lebenstied mi daför quält, üm nu mit antosehn,<lb/>
+				dat min schöne Angerhof von son Stadtfrölen to Grun'n regiert ward?<lb/>
+				Fritz. Aber lieber Vater<lb/>
+				Barko. Ruhig wenn ick red! Hest Du öwer all de hochdütsche,<lb/>
+				städt'sche Bildung den Respect gegen din Vatter so wied vergeten, dat<lb/>
+				Du mi nich mal mehr utreden letst? O ick weet woll wat Du mit Din<lb/>
+				Stadtdam för groote Nosinen in'n Sack hest: Den Ollen so bi Sied<lb/>
+				setten, un achter sinen Rüggen sich öwer sine ungebild'ten Maneren lustig<lb/>
+				maken; Kutschpeer hollen, Bedienten hollen un Visiten maken, bet allens<lb/>
+				tum Düwel is, un Juden un Excuters dat Kurn von'n Böhn un dat<lb/>
+				Veeh ut'n Stall verschludern. Nee, min Söhn, noch bin ick Herr von'n<lb/>
+				Angerhof, un ick will't uck noch en Beten blieben. Frieg Di mintwegen<lb/>
+				dat armste Mäken, wenn se man Character hett, öwerst kortröckig möt<lb/>
+				se gan, plattdütsch möt se reden un de Landwirthschaft möt se verstahn,<lb/>
+				denn will'ck mit Freuden ja seggen; doch keen Stadtdam sall mi hier<lb/>
+				in't Hus, dabi blivt dat, so wahr ick Michel Barko heet. Denn ick<lb/>
+				weet, dat wär en Unglück för mi un noch mehr för Di, min Söhn.<lb/>
+				Lat Di reden, hör Din ollen Vatter, he is man en dummen Buer,<lb/>
+				öwerst he kennt de Welt un meint dat seker good mit Di. Glöv, min<lb/>
+				Söhn, unse Wirthschaft schmitt den Putz un de langen Schleppen, wo<lb/>
+				se in de Stadt de Strat mit fegen, nich af; mi wunnert dat Du sowat<lb/>
+				nich von sülben bedenkst, bist Du denn ganz un gar vernagelt? Wo is<lb/>
+				denn Dine städt'sche Klookheit un Gelehrsamkeit, dat Du sowat nich<lb/>
+				insehn kannst. Oewerst ick hebb Schuld, warüm wär ick so schwach,<lb/>
+				Din selig Mutter den Willen to don un Di in de Stadt uptrecken to<lb/>
+				laten. Wat is nu ut Di worden, en Landschafts= und Potretten=Maler.<lb/>
+				Leever Gott, dat kann ja uck ganz good sind, ick glövt man nich. Dat<lb/>
+				wär mi uck ganz gliek, wenn Crischan man leevte, öwerst nu Din<lb/>
+				Broder storben, mußt Du doch den Angerhof annehmen, damit he nich<lb/>
+				in fremde Händ kümmt. Ick künn ja nich ruhig starven, un Din<lb/>
+				Mutter würd sich in't Grav ümkehren, wenn Du sowat angan laten<lb/>
+				künnst.<lb/>
+				Fritz. Seid Ihr zu Ende, Vater?<lb/>
+				Barko. Noch nich ganz. Ick wull Di man noch seggen, dat<lb/>
+				Du Di uck de hochdütsche Sprak hier afgewöhnen un wedder ordentlich<lb/>
+				plattdütsch reden lehren mußt, sünst hebben de Lüd hier kenen Respect<lb/>
+				för Di, un denn hör min letztes Woort, entweder Du letst Din Brut,<lb/>
+				oder Du letst Din Vatter un de Wirthschaft. will ab<lb/>
+				Fritz seine Hand ergreifend: Vater, guter Vater! bleibt und hört mich<lb/>
+				an, weshalb seid Ihr denn so hart gegen mich; aus Liebe zu Euch habe<lb/>
+				ich meine Studien aufgegeben und bin zurückgekehrt. Wer sagt, daß<lb/>
+				meine Bildung, die ich doch nicht verschuldet, mir hinderlich sei, ein<lb/>
+				tüchtiger Landwirth zu werden, zumal Ihr noch rüstig genug seid, um<lb/>
+				mit Rath und That mir beizustehen. Im Gegentheil, ich habe mir<lb/>
+				theoretische Kenntnisse, von denen Ihr freilich nichts hören wollt, auch<lb/>
+				in der Landwirthschaft erworben, und mit Gottes Hilfe hoffe ich sehr<lb/>
+				bald den Angerhof verbessern und vergrößern zu können. Ich werde<lb/>
+				nicht spazieren fahren und Visiten geben; ich werde arbeiten, arbeiten<lb/>
+				wie Ihr es gethan, doch nicht mit den Händen allein, auch mit dem<lb/>
+				Kopfe, und schon in wenig Jahren hoffe ich Euch zu beweisen, daß unser<lb/>
+				Acker zweimal so viel wie heute zu liefern im Stande ist.<lb/>
+				Barko. Ja woll, ja woll! de Eier sind all immer klöker as de<lb/>
+				Höhner west. Du warst woll noch ut de Stoppeln Schwebelsticken<lb/>
+				maken. Wahrscheinlich is Din vehrnehme Brut ebenso klook, un treckt<lb/>
+				uck noch von de Ossen Melk un Botter.<lb/>
+				Fritz. Vater, ich bitte Euch, Ihr kennt Röschen nicht, warum<lb/>
+				wollt Ihr ein tüchtiges und braves Mädchen schmähen, die Ihr nie<lb/>
+				gesehen.<lb/>
+				Barko. Wat, ick kenn se nich? Dat stimmt, ick hebb se noch<lb/>
+				nich sehen, will se uck nich sehen. Oewerst sall ick se Di beschrieven,<lb/>
+				ganz genau beschrieven? Paß up, ick fang von baben an: Up'n Kopp<lb/>
+				5<lb/>
+				vull luter falsche Flechten sitt en Ding von Bloomen un Band tohoop<lb/>
+				geprünt, wat en Hoot sind sall, wat öwerst nich behöden deit, nich vör<lb/>
+				Regen nich vör Sünnenschien. Denn kümmt en Gesicht so krankhaft<lb/>
+				bleek, dat man nich erst fragen brukt, ob son Frölen in de Stadt, oder<lb/>
+				in de frische gesunde Landlust groot is worden. Ach un denn de<lb/>
+				Kledaschen von son Püppke: Föftig Ellen Spinnweben=Tüg warrn to<lb/>
+				luter Zippels schneden, wedder tohoop geflickt un mit wenigstens noch<lb/>
+				föftig Ellen Kram von en anner Farf beprünt un besett't, achter 'n<lb/>
+				grooten Sattel un 'ne Schlepp, de Strat to fegen, dat neñ'n se en<lb/>
+				Kleed. De Föt sind ingepreßt in Puppenschoh, so eng un dünn, dat<lb/>
+				se natte Föt kriegt, wenn tofällig Ener in de Stuv hett spuckt. Herr<lb/>
+				Du meines Lebens, wenn ick bedenk, dat so en upgeputztes Ding hier<lb/>
+				in Hus un Hof un Stall na Ordnung sehen süll, denn kümmt mi dat<lb/>
+				doch grad so vör, as wenn de Köster in sin'n Sünndagsstaat wull<lb/>
+				Ossen schlachten. Du wist mi inreden, ut Leev to mi bist Du torüg¬<lb/>
+				kamen? Nee, min Söhn, ick weet dat beter. Du kannst mit Dine<lb/>
+				Pinselie Di nich sülben, vel weniger noch Fru un Kinner ernähren,<lb/>
+				darüm wist Du Di hier bi den Ollen in't warme Nest setten.<lb/>
+				Fritz. Vater ich bitte -<lb/>
+				Barko. Still! Ick hebb niks dagegen, bliev Du hier, un war<lb/>
+				en düchtigen Landwirth, öwerst mit Din Heirathsplan un Din ganzen<lb/>
+				hochdütschen Kram sast Du mi verschonen, sünst gehst Du hen, wo Du<lb/>
+				her bist kamen und dat gliek!<lb/>
+				Fritz. Vater! Ihr zeigt mir die Thür?<lb/>
+				Barko. Di nich öwerst Dine hochdütsche Fründschaft.<lb/>
+				Fritz. Vater, ich will Alles thun, was Ihr verlangt, werde ja<lb/>
+				auch unsere plattdeutsche Sprache wieder sprechen lernen, wenn es mir<lb/>
+				Anfangs auch schwer werden dürfte, doch von Nöschen kann und werde<lb/>
+				ich nimmer lassen. O verdammt sie nicht, ehe Ihr sie gesehen, lernt<lb/>
+				sie erst kennen, sie ist kein verwöhntes eitles Ding, sondern ein wohler¬<lb/>
+				zogenes, braves Mädchen, von Kindheit an Arbeit gewöhnt, fleißig und<lb/>
+				geschickt, so daß sie wohl eine Wirthschaft zu führen weiß und sich auch<lb/>
+				hier sehr bald zurechtfinden würde.<lb/>
+				Barko eifrig. Hier nich! hiet nich!<lb/>
+				Fritz kniet. Vater, seid nicht so hart, auf meinen Knieen be¬<lb/>
+				schwöre ich Euch; ich kann von Röschen nicht lassen, eher lasse ich<lb/>
+				mein Leben.<lb/>
+				2. Scene.<lb/>
+				Vorige. Hans. Fritz springt auf, so wie Haus eintritt.<lb/>
+				Hans. Herr, dat süht na Regen ut, will'n wie nich hüt noch<lb/>
+				inföhrn? zu Fritz wöttisch: Jung Herr, Se hebben sich de schönen Büksen<lb/>
+				schmutzig makt. (Klopft ungeschickt auf Fritzens Knie, sich stellend, als wolle er den Staub ab¬<lb/>
+				klopfen.) Se willn sich woll de Stäwel schonen, dat Se up de Knee<lb/>
+				rümmrutschen.<lb/>
+				Fritz (zurücktretend, empfindlich). Kümmere Dich um Deine Sachen, Du<lb/>
+				falscher Renard und incommodire mich nicht.<lb/>
+				Hans. Wa—at?<lb/>
+				Barko (ärgerlich). Du sast anspannen un Allens fahrig maken, ick<lb/>
+				bin gliek buten.<lb/>
+				Hans. Na dat is doch dütsch, dat kann'n doch verstahn. (Ab.)<lb/>
+				Barko (nachrufend). Nimm min Flint uck mit, wie möten versöken,<lb/>
+				de Spatzen ut de Kirschenallee to drieven.<lb/>
+				Haus (braußen). Schön, ick war Alles besorgen.<lb/>
+				3. Scene.<lb/>
+				Barko. Fritz.<lb/>
+				Barko. Warüm fahrst Du den Haus so an, he wull Di doch<lb/>
+				blot gefällig sind?<lb/>
+				Fritz. Der gefällig? das ist der Einzige von Deinen Leuten den<lb/>
+				ich nicht leiden kann. Ich möchte wetten, der Mensch hat kein gut<lb/>
+				Gewissen, auch riecht er stets nach Schnaps.<lb/>
+				Barko. Dat hebb ick noch nich spührt, Du bist man immer en<lb/>
+				Beten vorilig mit Din Ansichten, Hans is noch immer toverlässig west.<lb/>
+				(Nimmt Stock und Mütze.) Doch nu schriev mi de Breef, un mak mi nich<lb/>
+				wedder son Puppenspill, dat paßt nich up'u Land, wie liggen hier<lb/>
+				höchstens up de Knee, wenn wie mit unsen Herrgott reden. Du makst<lb/>
+				Di lächerlich vör de Lüd. — Im Oewrigen wetst Du nu min Meinung,<lb/>
+				dabi blivt dat. Ick föhr jitzt in't Feld, nu besinn Di, un wes ver¬<lb/>
+				nünftig. (A.)<lb/>
+				4. Scene.<lb/>
+				Fritz allein.<lb/>
+				Fritz. So ist denn Alles, Alles vergebens. Nie wird es mir gelingen,<lb/>
+				dies harte Herz zu rühren. Es ist wahr, ich mache mich lächerlich den<lb/>
+				Leuten gegenüber, die ich nicht, die mich nicht verstehn. O meine gute<lb/>
+				Mutter, Deine wohlgemeinte Fürsorge macht mich jetzt namenlos elend.<lb/>
+				Mußte ich deshalb schon in früh'ster Jugend zur Stadt, um dem Eltern¬<lb/>
+				hause, dem Vaterherzen völlig entfremdet zu werden. (Draußen schnell<lb/>
+				verhallendes Geräusch von Wagen, Peitschenknall und Gesang.) (Fritz geht zum Fenster.)<lb/>
+				Da fahren sie hin, die glücklichen Menschen, die bei schwerer Arbeit so<lb/>
+				heiter und zufrieden. Auch der Vater fährt mit ihnen, weshalb nur läßt<lb/>
+				er mich allein zurück, wo Alles hinaus eilt, dem drohenden Regen die Beute<lb/>
+				zu entreißen. Scheine ich Ihm zu schwächlich, um mit seinen Leuten wett¬<lb/>
+				eifern zu können? O nein, das glaube ich nicht, nur Geschick, nicht<lb/>
+				Kraft möchte mir dazu fehlen. Es gehört eben Uebung auch zur ein¬<lb/>
+				fachsten Sache. Er fürchtet, daß ich mich wieder lächerlich mache; ich<lb/>
+				passe eben nach seiner Ansicht nicht zur Landwirthschaft. Nun wohl!<lb/>
+				So soll die Kunst, die edle Kunst allein mir bleiben, wenn beides zu<lb/>
+				vereinen mir nicht gestattet ist. (Steht vom Fenster abgewendet diesem den Rücken zu¬<lb/>
+				kehrend.) Ich will fort, fort von hier, wo ich fern vom Strudel der Welt<lb/>
+				in stiller Zurückgezogenheit, mein häusliches Glück zu gründen gehofft,<lb/>
+				um ungestört ganz meiner Liebe und der Kunst leben zu können.<lb/>
+				Es ist vorbei. Ich bin enttäuscht. O mein gutes Röschen, wie nahe<lb/>
+				glaubte ich dem Ziele uns'rer Wünsche zu sein und jetzt. — (Man hört<lb/>
+				einen Wagen, gleich darauf dumpfen Donner.) Horch, ein Wagen. — Sollte<lb/>
+				der Vater zurückkehren? (geht zum Fenster) (es donnert.) Nein, ich täuschte<lb/>
+				mich, es donnert, ein Gewitter steigt herauf. Gott gebe, daß es ohne<lb/>
+				starken Regen abgeht und der reiche Einschnitt dem Vater nicht verderbe.<lb/>
+				Wie herrlich stand das Korn. Wohl war es eine Lust zu sehen, wenn<lb/>
+				die vollen Aehren, vom Winde leicht bewegt, ein Wellenmeer zu bilden<lb/>
+				schienen. (Blitz und Donner.)<lb/>
+				5. Scene.<lb/>
+				Fritz. Rosa.<lb/>
+				Letztere ist leise eingetreten und lauschend hinter dem Thürvorhang geblieben.<lb/>
+				Fritz (Rosa nicht bemerkend). O Röschen hatte Recht, wohl ist es schön<lb/>
+				hier auf dem Lande, doch leider nicht für mich. Der Starrsinn meines<lb/>
+				Vaters vernichtet alle meine Hoffnungen und Pläne für die Zukunft. -<lb/>
+				Wie werde ich es über's Herz bringen, meinem Röschen die harte<lb/>
+				Antwort des Vaters mitzutheilen. Doch Muth. — Ich will und werde<lb/>
+				mein Ziel auch ohne den Vater erreichen, noch habe ich Kraft mit dem<lb/>
+				Schicksal zu kämpfen und mir selbst den eignen Herd zu gründen, die<lb/>
+				Liebe wird mich begeistern, daß die Kunst mich erhebe. (Blitz u. Donner.)<lb/>
+				Sofort werde ich meine Sachen ord'nen, dem Vater meinen Entschluß<lb/>
+				mittheilen, das Grab meiner guten Mutter noch einmal besuchen und<lb/>
+				dann — Ade Du trautes Häuschen, ade! (singt:)<lb/>
+				No. 1. Lied.<lb/>
+				Ade ich scheide nun von hier,<lb/>
+				Du trautes Vaterhaus;<lb/>
+				Nicht hält es länger mich bei Dir,<lb/>
+				Muß in die Welt hinaus.<lb/>
+				Ihr Blümlein, die ich treu gepflegt,<lb/>
+				Müßt einsam nun verblühn,<lb/>
+				Die Hoffnung, die ich froh gehegt,<lb/>
+				Mit Euch welkt sie dahin.<lb/>
+				(Schwächerer Donner.)<lb/>
+				Weit muß ich in die Welt hinaus,<lb/>
+				Weiß selber nicht wohin.<lb/>
+				Kann weilen nicht im Elternhaus,<lb/>
+				Muß in die Ferne ziehn.<lb/>
+				Wer pflegt den Grabeshügel nun<lb/>
+				Du gute Mutter Dic?<lb/>
+				Ich kann es ferner nicht mehr thun,<lb/>
+				Muß scheiden, ach von hier!<lb/>
+				(Leifer Donner.)<lb/>
+				Spricht schwermüthig die letzte Strophe nach¬<lb/>
+				Muß scheiden, ach von hier.<lb/>
+				Hätte ich doch nicht gedacht, daß die zwei Wochen meines Hierseins<lb/>
+				genügen würden, mir das kleine Häuschen wieder so lieb zu machen,<lb/>
+				daß der Abschied davon mich fast verzagen läßt. Links ab. (Donner.)<lb/>
+				6. Scene.<lb/>
+				Rosa allein vortretend und Fritz nachschauend<lb/>
+				Rosa. Schöne Aussichten das, und gleich verzagen will er mir,<lb/>
+				das darf nicht sein. Singt:<lb/>
+				No. 2. Einlage.<lb/>
+				Verzage nicht, wenn einst Dein Orkan stürmet; (Donner.)<lb/>
+				Wenn rings herum sich Wog auf Woge thürmet.<lb/>
+				„:Trau nur auf den, der Wind und Woge bricht,<lb/>
+				Verzage nicht, verzage nicht!:.<lb/>
+				Verzage nicht, wenn Freunde Dich verlassen,<lb/>
+				Gott ist Dein Schutz, mag alch die Welt Dich hassen,<lb/>
+				::Trau nur auf den, der hält was er verspricht;<lb/>
+				Verzage nicht, verzage nicht!:,.<lb/>
+				Verzage nicht in Deinen Unglückstagen,<lb/>
+				Noch hast Du Kraft, sie muthig zu ertragen<lb/>
+				::Trau nur auf den, der sprach: „Es werde Licht!“ (Heller Blitz)<lb/>
+				Verzage nicht, verzage nicht.".<lb/>
+				7. Scene.<lb/>
+				Rosa. Fritz.<lb/>
+				Fritz eilt beim Schluß des Liedes herein, Rosa stürmisch umarmend, während die Musik<lb/>
+				den Refrain wiederholt. Röschen! Theures Mädchen, Du hier?<lb/>
+				Rosa. Mein lieber, guter Fritz!<lb/>
+				Fritz. Aber, um Gotteswillen, wie kommst Du hierher? Wenn<lb/>
+				der Vater — —<lb/>
+				Rosa schnel unterbrechend und heiter. Wie ich hierher komme? Nun sehr<lb/>
+				einfach. Ich bin hergefahren und Du bist ungalant genug, uns weder<lb/>
+				zu empfangen, noch beim Absteigen behülflich zu sein<lb/>
+				Fritz. O verzeihe, liebes Herz, mich täuschte das Rollen des<lb/>
+				Donners, ich hatte keine Ahnung<lb/>
+				Rosa. Und so weiter u. s. w. Papperlapap. Theile mir lieber<lb/>
+				die Antwort Deines Vaters mit. Du böser Fritz, schon acht volle Tage<lb/>
+				warte ich vergebens auf Nachricht — ist das hübsch von Dir?<lb/>
+				Fritz. O Nöschen<lb/>
+				Rosa einfallend. Es ist Alles aus; Alles. (Feiter) Nicht wahr, das<lb/>
+				wolltest Du doch sagen? Nun ich weiß es schon, denn — verzeihe<lb/>
+				ich habe Dich vorher ein wenig belauscht, würde es Dir aber auch<lb/>
+				ohnehin auf den ersten Blick angesehen haben. Nimm es mir nicht übel,<lb/>
+				Du machst ein Gesicht, wie acht Tage Regenwetter. Brrr! Courage<lb/>
+				mein Ritter, Kopf in die Höh! So! So! Siehst Du, jetzt gefällst Du<lb/>
+				mir weit besser. Nun lache einmal, bitte, bitte, versuch es doch.<lb/>
+				Fritz gezwungen lächelnd. Röschen, Du kannst noch scherzen und ich<lb/>
+				möchte verzweifeln!<lb/>
+				Nöschen leicht mit dem Fuße slampfend Du sollst aber nicht verzweifeln,<lb/>
+				ich will es nicht. Du sollst heiter sein, wie ich es bin, denn ich sage<lb/>
+				Dir, es ist nicht Alles aus, o noch lange nicht! Ich bin doch auch<lb/>
+				noch da, ich werde den Kampf mit Deinem Stiefvater zu Ende führen,<lb/>
+				aber siegreicher wie Du, hörst Du Fritz, siegreich.<lb/>
+				Fritz. O Röschen, Du kennst den Vater nicht<lb/>
+				Rosa. Allerdings habe ich ihn noch nicht gesehen, doch das thut<lb/>
+				nichts, die Männer sind ja alle gleich! Verlaß Dich drauf, mir wider¬<lb/>
+				steht er nicht.<lb/>
+				Fritz. Du irrst mein Kind, er ist hart und unerbittlich.<lb/>
+				Rosa heiter. O sieh einmal! Es fällt mir auch jar nicht ein,<lb/>
+				ihn zu bitten, im Gegentheil, Dein Vater soll mich bitten, ja! gewiß, sehr<lb/>
+				soll er mich bitten, hier zu bleiben und ihn zu hätscheln und zu pflegen,<lb/>
+				wie ich meine Mama gepflegt, ehe der böse Tod sie mir entrissen.<lb/>
+				(Es blitzt.)<lb/>
+				Fritz. Aber Röschen, erkläre mir-<lb/>
+				10<lb/>
+				Rosa eisrig. Erklärungen sind immer langweilig, doch draußen ist<lb/>
+				die Miethsfrau, die Seelbach, die soll Dir erklären, wie es anzufangen<lb/>
+				ist, das Herz Deines Vaters zu bezwingen. Ich hörte gestern von ihr,<lb/>
+				daß sie Auftrag von Deinem Vater habe, eine andere Wirtschafterin<lb/>
+				hierherzuschaffen, weil er in seinem Eifer die alte Hanne fortgejagt.<lb/>
+				Darauf baute ich sofort meinen Plan, wohl ahnend, daß mein sentimentaler<lb/>
+				Held hier noch nichts Ersprießliches ausgerichtet habe. Da Dein Vater<lb/>
+				mich noch nie gesehen, soll er mich erst als seine Wirthin, nicht als<lb/>
+				Deine Braut kennen lernen. Heiter. Bin ich erst ein Paar Wochen hier,<lb/>
+				o dann müßte es doch sonderbar zugehen, wenn Dein Vater nicht<lb/>
+				wünschen sollte, eine so tüchtige und liebenswürdige Wirthin, wie ich bin,<lb/>
+				für immer um sich zu behalten. Ha, ha, ha! Wenn er mich nur erst<lb/>
+				aufgenommen hat, und das wird Frau Seelbach schon besorgen; Butter<lb/>
+				und Käse verstehe ich längst zu machen, melken muß die Kuhmagd und<lb/>
+				kochen kann ich, kochen! — ich sage Dir, alle zehn Finger soll sich Dein<lb/>
+				Papa nach meinen Speisen lecken.<lb/>
+				Fritz. Ha ha!<lb/>
+				Rose. Ja! — Also nicht verzagt mein Schatz, alles Uebrige<lb/>
+				wird sich finden; Frau Seelbach muß rathen und helfen. Auft. Aber<lb/>
+				Frau Seelbach, so kommen Sie doch herein! (Ganz schwacher Donner.)<lb/>
+				Fritz. Aber Kind, ich bitte Dich, Du wolltest mit Deinen zarten<lb/>
+				Händchen hier<lb/>
+				Rosa. Papperlapapp! — Meine zarten Händchen sind schon in<lb/>
+				einer größeren Wirthschaft thätig gewesen und werden auch hoffentlich<lb/>
+				hier nicht zerbrechen. Uebrigens sei ganz ohne Sorge um mich, ich denke<lb/>
+				mich durchaus nicht über die Maßen anzustrengen, ach, Gott bewahre!<lb/>
+				Nur grade so viel, wie nöthig ist, um die Wirthschaft gut in Ordnung<lb/>
+				zu halten und Deinem eigensinnigen Papa begreiflich zu machen, daß<lb/>
+				auch ein Stadtdämchen eine tüchtige Landwirthin sein kann.<lb/>
+				Fritz. Röschen, Du liebes, herziges Mädchen! Will sie umarmen.<lb/>
+				Rosa neckisch. Halt, mein verliebter Ritter! Wir kennen uns<lb/>
+				nicht — garnicht, verstanden? Komme ich mit Frau Seelbachs<lb/>
+				Hülfe hier an, so mußt Du fort, weit fort. Erst auf Deines Vaters<lb/>
+				ausdrücklichen Wunsch lernen wird uns kennen; später mein Freund,<lb/>
+				hörst Du? Später.„ Ich hoffe, Du wirst Deine Rolle begreifen und<lb/>
+				standhaft durchzuführen suchen, sie ist ja nur leicht, ha, ha! ich habe<lb/>
+				jedenfalls die schwerste Partie. Sicherer ist es jedenfalls, wenn Du Dich<lb/>
+				in zwei Jahren hier garnicht sehen läßt, wir möchten bei einem Besuche<lb/>
+				Deinerseits beide aus der Rolle fallen.<lb/>
+				Fritz. Zwei Jahre? so lange soll ich noch warten, ohne Dich<lb/>
+				sehen und sprechen zu dürfen, das ertrage ich nicht.<lb/>
+				11<lb/>
+				Rosa. Ei was, zwei. Jahre sind keine Ewigkeit, ich gebe Dir<lb/>
+				836 Küsse mit, macht grade auf jeden Tag einen und Sonntags zwei,<lb/>
+				damit kannst Du auskommen. Außerdem ist es doch auch nicht so ganz<lb/>
+				gewiß, daß es mir gelingen wird, das Herz Deines bärbeißigen Stief¬<lb/>
+				vaters für uns zu gewinnen. Also mußt Du doch inzwischen auf alle<lb/>
+				Fälle uns anderweitig eine Häuslichkeit zu gründen suchen, und das<lb/>
+				geht nicht so schnell, mein Schatz. Aber weißt Du, vor zwei Jahren<lb/>
+				will ich auch garnicht heirathen, nein, Gott bewahre! Frau Seelbach<lb/>
+				sagt, ich sei noch zu jung, und was die sagt, das glaube ich entschieden,<lb/>
+				sie meint es gut. (Frau Seeibach ist kurz vorher eingetreten und hat die letzten Worte gehört.)<lb/>
+				8. Scene.<lb/>
+				Vorige? Frau Seelbach.<lb/>
+				Fr. Seelbach (für sich.) Das gute Kind.<lb/>
+				Rosa (sie erblickend). Ach! da ist sie ja. (Vorstellend.) Mein Bräutigam.<lb/>
+				Fr. Seelbach. Still! still, mein Kind, wenn Ihr Plan gelingen<lb/>
+				soll, so darf vor allen Dingen Eure Liebe zu einander nicht verrathen<lb/>
+				werden.<lb/>
+				Fritz. Sie haben Recht, gute Frau, (reicht ihr die Hand, sie artig zum<lb/>
+				Großstuhl führend) ich zweifle jedoch, daß mein Vater Röschen aufnehmen<lb/>
+				wird, die Städter sind ihm verhaßt, und die Städterinnen leider noch<lb/>
+				mehr. Schön die Kleidung, selbst die Sprache ist ihm zuwider; er<lb/>
+				nimmt sicherlich nur eine ländlich gekleidete und plattdeutsch sprechende<lb/>
+				Wirthin auf. Will er mir doch sein Haus verschließen, falls ich mich<lb/>
+				nicht nach seinem Geschmack verheirathen will.<lb/>
+				Rosa. O, das haben wir schon erfahren, und auch dafür ist<lb/>
+				bereits gesorgt, mein Lieber. Ein passender Anzug liegt schon für mich<lb/>
+				im nächsten Dorfe bereit; dorthin wollten wir soeben, weil wir<lb/>
+				aber fürchteten, in unserm offenen Wagen vom Regen überrascht zu<lb/>
+				werden, sind wir hier eingekehrt, nachdem wir vom Schäfer unterwegs<lb/>
+				erfahren, daß Du allein zu Hause seist. Siehst Du, guter Fritz, das<lb/>
+				Glück begünstigt uns. Du bist nun vorbereitet; das Gewitter zieht<lb/>
+				vorüber, jetzt können wir weiter fahren. Alles geht nach Wunsch. In<lb/>
+				höchstens zwei Stunden sind wir wieder hier, um mit Deinem Vater<lb/>
+				zu verhandeln. Sorge, daß wir Dich dann nicht hier treffen, ich fürchte,<lb/>
+				Du fällst aus der Rolle. Doch nun noch Eins, mein Schatz: Du<lb/>
+				glövst, ick kann nich plattdütsch snaken? O, min leev Fritzing, da kennst<lb/>
+				Du mi schlecht; dat hebb ick bi Unkel Gustav in Geiersdörp all lehrt<lb/>
+				un dörchut noch nich vergeten, as Du hörst. Nich Fru Seelbach?<lb/>
+				Dat ward sich Allens maken, uns' Herrgott ward uns nich verlaten.<lb/>
+				Doch nu Adjüs, min Schatz, schriev mi hübsch bald wo Du blivst, de<lb/>
+				12<lb/>
+				Adreß kannst Du an Fru Seelbach richten. Adjüs, min leev Fritzing,<lb/>
+				bliv mi gesund un tru, dat Anner findt sich Allens.<lb/>
+				Fritz leidenschaftlich sie umarmend. Röschen, himmlisches Mädchen! Du<lb/>
+				Sonne meines Lebens, wie soll ich Dir danken. Neue Hoffnung, neuer<lb/>
+				Muth beseelen mich, sobald nur Du mir nahst. O Du haft Recht,<lb/>
+				jetzt ist noch nicht Alles, aus, Dir wird es sicher gelingen, den Vater<lb/>
+				zu versöhnen, aber auch ich werde nicht müßig sein. Der Vater ver¬<lb/>
+				achtet die Kunst, weil sie mir bis jetzt noch wenig eingebracht. Aber<lb/>
+				ich schwöre Dir bei uns'rer Liebe, daß ich nicht eher ruhen werde, bis<lb/>
+				ich, unabhängig vom Vater, selbst im Stande bin, ein eig'nes Heim<lb/>
+				uns zu erwerben. Zwei Jahre sägtest Du, wollen wir warten; gut, es<lb/>
+				sei, ich werde die Zeit zu nützen wissen. Noch in dieser Stunde will¬<lb/>
+				ich meine Abreise vorbereiten. Ihnen, Frau Seelbach, vertrau' ich diese<lb/>
+				Waise als mein theuerstes Kleinod an; ich bitte Sie innig, Mutterstelle<lb/>
+				bei meinem Röschen zu vertreten. Da Sie ja mit meinem Vater bekannt<lb/>
+				sind, werden Sie am besten Gelegenheit finden, Röschen zuweilen helfend<lb/>
+				und rathend zur Seite zu stehen. Nicht wahr, gute Frau, Sie ver¬<lb/>
+				sprechen mir dies? — Ich werde Ihnen ewig dankbar dafür sein.<lb/>
+				Fr. Seelbach. „Sprechen Tie nicht von Dank, junger Herr, was<lb/>
+				ich kann, thue ich schon dem lieben Kinde zu Gefallen; darauf können<lb/>
+				Sie sich fest verlassen.<lb/>
+				Fritz. Recht, gute Frau, Sie werden —<lb/>
+				Fr. Seelbach. Still, stil.! Wir haben keine Zeit mehr zu<lb/>
+				Erklärungen, wir müssen fort, es ist die höchste Zeit, Ihr Vater kann<lb/>
+				jeden Augenblick vom Felde wiederkehren.<lb/>
+				Rosa. Frau Seelbach hat Recht, lieber Fritz, wir müssen eilen,<lb/>
+				lebe wohl und sei ohne Sorge um mich. Auf Wiederseh'n!-<lb/>
+				Fritz. Auf Wiedersehen nach zwei Jahren!<lb/>
+				(Während der Umarmung heller Blitz.)<lb/>
+				Der Vorhang fällt.<lb/>
+				Ende des ersten Actes.<lb/>
+				Zweiter Act.<lb/>
+				(Freie Gegend, ein gemähtes Roggenfeld vorstellend. Links an der 2. Coulisse<lb/>
+				ein Baum.<lb/>
+				Je nachdem es der Raum gestattet, sieht man im Vordergrunde ein bis<lb/>
+				zwei Reihen Aehren, in der Ordnung, wie das Korn gemäht wird, liegen. Im<lb/>
+				Hiutergrunde wird von Mädchen gleich beim Aufzuge das Nachharken dargestellt;<lb/>
+				ein wenig später wird- auch das im Vordergrunde liegende Korn von Knechten<lb/>
+				aufgeharkt, zu kleinen Garben gebunden und 16 solcher Garben zu einem Haufen<lb/>
+				aufrecht gestellt.<lb/>
+				Auf größeren Theatern würde auch das Einfahren zu markiren sein, während<lb/>
+				an kleineren Bühnen das Aufstellen des Haufens (Mandel) besser vorher besorgt<lb/>
+				wird. — Dilettanten können das Stück sehr leicht mit Fortlassung des zweiten<lb/>
+				Actes überhaupt aufführen.)<lb/>
+				1. Scene.<lb/>
+				Hans, Jochen, Michel, Liese, Grete und Chor der Arbeiter und<lb/>
+				Mädchen singen:<lb/>
+				No. 3. Lied.<lb/>
+				Das Wetter zieht vorüber,<lb/>
+				Nun an die Arbeit wieder;<lb/>
+				Bringt schnell das Korn zu Hauf!<lb/>
+				Bringt schnell das Korn zu Hauf!<lb/>
+				Halli, Hallo, Hälli, Hallo<lb/>
+				Die Arbeit macht uns frei und froh.<lb/>
+				Halli, Hallo, Halli, Hallo!<lb/>
+				Die Arbeit macht uns froh.<lb/>
+				Die schwachen Mädchen harken,<lb/>
+				Es binden nur die starken,<lb/>
+				:Der Großknecht setzet auf:.<lb/>
+				Halli, Hallo ec.<lb/>
+				14<lb/>
+				Geht es nach unserm Willen,<lb/>
+				Woll'n wir die Scheuern füllen,<lb/>
+				::Bis hoch zum Dach hinauf.::<lb/>
+				Halli, Hallo ec.<lb/>
+				Der Landmann baut die Felder,<lb/>
+				Der Städter schafft die Gelder,<lb/>
+				:So leben beide froh.::<lb/>
+				Halli, Hallo rc.<lb/>
+				Der Bauer drischt die Garben,<lb/>
+				Sonst muß der Städter darben;<lb/>
+				::Drum leh' der Bauer hoch.::<lb/>
+				Halli, Hallo rc.<lb/>
+				Und sind gefüllt die Scheuern,<lb/>
+				Das Erntefest zu feiern<lb/>
+				„.Sind wir dann tüchtig da.:.<lb/>
+				Halli, Hallo rc.<lb/>
+				Dann trinken wir und singen,<lb/>
+				Da tanzen wir und springen<lb/>
+				: Und küssen unsern Schatz.:,:<lb/>
+				Halli, Hallo rc.<lb/>
+				Hans welcher eine kleine Schnapsflasche bei sich führt, zeitweise verstohlen daraus trinkend,<lb/>
+				hat sich vor Schluß des Gesanges der Grete genähert und vergeblich sie zu küssen versucht.<lb/>
+				Jochen steht, aufsetzend, beim Haufen. Na nu lat't man bald dat olle<lb/>
+				Gequar, un makt dat Ji endlich de Schwadd in Mandeln kriegt! Hans,<lb/>
+				lat doch de Derns tofreden. Schickt sich dat för'n Grotknecht Sötholt<lb/>
+				to raspeln bi de Arbeit? Wat söln denn de Annern don? Hier help<lb/>
+				mi de paar Mandeln fahrig, eh de Buer kümmt, nahsten will'n wi<lb/>
+				vespern.<lb/>
+				Hans. Nu nu! man nich gliek so kratzböstig, ick kam all. Du<lb/>
+				hest dat jo hellschen hilt för Dinen Buern, wenn't son Noth harr, künn<lb/>
+				de jo sülben helpen mit sammt sin vörnehmen jungen Herrn, de to Hus<lb/>
+				rum fulenzt. Kriegst woll en Markstück mehr de Woch, dat Du mi<lb/>
+				kuntroleren sast, wat? Orer steckt Di Greten in de Näs? de nimmt Di<lb/>
+				doch nich. Nich Greten?<lb/>
+				Grete eifrig. Na Di doch erst recht nich, Du olle Dämelsack!<lb/>
+				Up Di harr'k just noch luert, kümmst mi noch ens, denn nehm'k den<lb/>
+				Harkenstel. Alle lachen.<lb/>
+				Jochen. Recht so Greten, wisch em düchtig. Seine Uhr ziehend. Na<lb/>
+				nu samt man, ’t is wahrhaftig all Vespertied. Hinausrufend Crischan,<lb/>
+				bring de Tabel un mein Kittel mit, will'n vespern! Hörst Du?<lb/>
+				Rufe; Bespern! Bespern!<lb/>
+				15<lb/>
+				2. Scene.<lb/>
+				Die Vorigen.<lb/>
+				Crischan mit Jochens Kittel, Knechte und Mädchen mit Taschen und Körben rtc.<lb/>
+				treten auf. Alle lagern sich, Eßwaaren hervorkramend.<lb/>
+				Hans aus einem großen Kruge, der die Runde macht, dem Jochen zutrinkend. Prost<lb/>
+				Jochen! Willn uns wedder verdragen.<lb/>
+				Jochen hat seinen Kittel übergezogen. Prost Hans! Wie hebb'n uns jo<lb/>
+				noch nich vertörnt. Dem Michel wieder zutrinkend, der in gleicher Weise den Krug, auch den<lb/>
+				Mädchen zutrinkend, weiter giebt. Prost Michel!<lb/>
+				Hans. Dunner un Düvel, wo schmeckt de Schnaps hüt wedder<lb/>
+				schlecht. Kratzt nich en Beten, den hebb'n s' gehörig döpt, de is jo as<lb/>
+				dat reine Water; wat meinst Du, Jochen, schmeckt he Di?<lb/>
+				Jochen. En Beten flau is he, öwerst ick mag em uck nich so<lb/>
+				scharp, un Du mußt doch uck bedenken, dat de Frunslüd uck von drinken<lb/>
+				möten, de warn uns sůnst jo blau.<lb/>
+				Haus lacht. Na davon nich. Du bist doch uck en Kerl as son<lb/>
+				olles Wiev; mi dücht, de Schnaps is uck noch för uns' Frunslüd to<lb/>
+				schwach, wat seggst Du Greten?<lb/>
+				Grete. Ick segg dat Du'n oll Suptäk bist. Mi is de Brann¬<lb/>
+				wien vel to stark, en Schluck recht gooden Caffee wär mi leever.<lb/>
+				Hans. Caffee? ja dat glöv ick sacht; Di wär dat immer all<lb/>
+				gefährlich fien ant Liev; Du wist woll mol en Doctor frien? Kieck<lb/>
+				Lieschen doch mal an, de nimmt en annern Zug.<lb/>
+				Liese. Je ick hebb uck Döst. Oevrigens verbidd ick mi dat<lb/>
+				Uemdöpen en beting von Di Hans, ick heet Liesing un nich Lieschen.<lb/>
+				Lieschen hitt den Herrn sin Riedperd.<lb/>
+				Hans. Na „Liesing“ dat is mekelbörgsch, un wie sind hier in<lb/>
+				Pommern.<lb/>
+				Michel. Ach wat, striedt Ju doch nich immer, leverst soll uns<lb/>
+				Liesing en von er mekelbörgschen Leeder singen; dat klingt so schier, as<lb/>
+				wenn de Köster beiern deit.<lb/>
+				Liese. Ach nee, min Höhning! ick sing nich up Commando, un<lb/>
+				sied de Herr min Schwester Hauning wegjagt hett, sing ick Ju<lb/>
+				janiks mehr.<lb/>
+				Hans. Je, mit de wär dat uck Tied; de hett uns Eten kakt,<lb/>
+				echt mekelbörgsch, keen Hund künn dat verdauen; un Brod hett se doch<lb/>
+				backt, so schwart as Rautz in'n Schornsteen. Harr dat noch länger<lb/>
+				durt, wär ick verhungert.<lb/>
+				Liese. Je, Du bist uck man Schuld, Du wetst jo immer wat.<lb/>
+				Is dat Eten nu denn beter? De oll Susing brugt ok wat Schiers<lb/>
+				torecht. De kann jo nich mehr kieken. Hüt morg'n wull se mi recht<lb/>
+				16<lb/>
+				wat to Gooden don, un mi den Caffee söt maken, ratsch, schmitt se mi<lb/>
+				en Hand vull Solt statt Zucker mang.<lb/>
+				Michel. Je de Ollsch is so verleevt, se ward an eren Schatz hebb'n<lb/>
+				dacht. Wie krieg'n dis Dag en anner Käksch.<lb/>
+				Grete. Wer is denn woll er Schatz.<lb/>
+				Liese. Dat ward doch Michel sind. Alle lachen.<lb/>
+				Michel. Na ick Dank för Suschen, min Großmutter künn se<lb/>
+				eher wesen. — Oeverst Derns, nu singt en Beten. Greten, wenn<lb/>
+				Liesing nich will, denn mußt Du ranner. Du kannst jo uck up Platt¬<lb/>
+				dütsch singen; dat hör ick jo to gern, de olle hochdütsche Kram geht lang<lb/>
+				nich so to Harten. Sing min Dern, ick gev Di uck en Schmatz up<lb/>
+				beide Backen.<lb/>
+				Grete. Ick war Di'n Ohrfeig geb'n up beide Backen. Schlägt<lb/>
+				ihn auf die Wange. Leever do ick't ümsünst. Gelächter.<lb/>
+				Michel sich die Backe reibend, zu Liefe. Dunner Düvel, de schleit en goode<lb/>
+				Handschrift, dat wär glupsch. Kiek mal Liesing, is de Back nich rod<lb/>
+				un dick?<lb/>
+				Liese. Arme Jung, Du warst en schewen Kopp kriegen; ick war<lb/>
+				die fix en Plaster leggen up de anner Sied. Schlägt ihn auf die andere Wange;<lb/>
+				Alle lachen.<lb/>
+				Michel. Dunner Düvel, de versteht't noch beter. Sich die Wange haltend.<lb/>
+				Na tövt man, up de Austköst danz ick nich en Schritt mit Ju.<lb/>
+				Jochen. Na Greten, nu sing uns fir en Strämel, denn gat wi<lb/>
+				wedder an de Arbeit.<lb/>
+				Grete. Na denn möt ick woll. Eingt:<lb/>
+				No. 4. Lied.<lb/>
+				Ick sall Ju wat sing'n<lb/>
+				Von Freud und von Lust,<lb/>
+				Un doch will mi spring'n<lb/>
+				Dat Hart in de Brust.<lb/>
+				Min Hart is so krank,<lb/>
+				Min Hart is so schwer.<lb/>
+				Ick möcht woll wat sing'n<lb/>
+				Un kann doch nicht mehr.<lb/>
+				Ick wünsch mi en'n Schatz,<lb/>
+				So tru un so good,<lb/>
+				Just as ick em sehn,<lb/>
+				So frisch un so roth.<lb/>
+				17<lb/>
+				Min Schatz is so frisch,<lb/>
+				Min Schatz is so roth,<lb/>
+				Min Schatz is min Leb'n,<lb/>
+				Un doch för mi dood.<lb/>
+				Rufe: Ach wo schön! Grete weinend ab nach rechts.<lb/>
+				3. Scene.<lb/>
+				Vorige ohne Grete.<lb/>
+				Jochen. Na nu! Wat is denn dat, Greten weent ja woll?<lb/>
+				Liese. Dat is niks Niegs, wenn se singt, denn weent se immer.<lb/>
+				Hans. Je se mag woll Ursak-hebben; ick glöv, de hett unsen<lb/>
+				jungen Herren to deep in de düstern Ogen keeken.<lb/>
+				Jochen. Dunner un de Düwel! Kiekst Du Kater ut de Luk?<lb/>
+				Dorüm is de Dern uck all sied vierthein Dagen so upsternatsch to mi.<lb/>
+				Na töy!<lb/>
+				Hans. Na segg mal Jochen, is dat nich 'ne Schand, wi möten<lb/>
+				uns hier quälen, un de junge Herr, de grote Bengel liggt to Hus up<lb/>
+				de fule Sied noch to jitzt in'n Aust, wo wi nich Mannschaften nooch —<lb/>
+				Jochen unterbrechend. Still, mi dücht, ick hörte scheeten, de Herr<lb/>
+				ward kamen. Wat helpt all dat Reden, wenn de Schoh nich passen.<lb/>
+				Flink an de Arbeit, de Tied is um. Rufe: An de Arbeit! de Herr de kümmt.<lb/>
+				Alle rüsten und gehen ebenfalls nach rechts ab, folgende Strophe des ersten Liedes singend:<lb/>
+				Gestärkt sind neu die Glieder,<lb/>
+				Jetzt an die Arbeit wieder<lb/>
+				Mit frischer Kraft und Lust.:.<lb/>
+				Halli, Hallo rc.<lb/>
+				Alle ab.<lb/>
+				Hans welcher zurückkehrt, nimmt den Krug, trinkt tüchtig, läßt ihn dann bei den auf¬<lb/>
+				gestellten Garben stehen und geht wieder langsam rechts ab. — Während nun der Gesang in der<lb/>
+				Ferne verhallt und auch die Musit die letzten Tacte spielt, tritt Barko auf.<lb/>
+				4. Scene.<lb/>
+				Barko. Hans.<lb/>
+				Barko mit Flinte von links, Hans zurückrufend. Hans, Hans!<lb/>
+				Hans angetrunken kommt vor. Hier bin ick Herr, wat sall ick?<lb/>
+				Barko. Ick glöv, dat Weder ward sich hollen. Makt, dat Ji<lb/>
+				den Roggen hüt noch inkriegt; wi möten morgen an den Waiten gahn,<lb/>
+				dat is de höchste Tied mit em, he is up Stell'n all överriep. Stellt die<lb/>
+				Flinte an einen Baum.<lb/>
+				Hans. Je Herr, wo sall dat möglich sind? Wi krieg'n doch hüt<lb/>
+				nich mehr den Roggen in de Schün'n, dat is denn doch to vel; dood<lb/>
+				arbeiden kann'n sich doch uck nich grad. Je, wenn'n noch orndlich wat<lb/>
+				to drinken harr!<lb/>
+				18<lb/>
+				Barko. Dood arbeiden? Wat dröhnst Du da, glövst Du, ick<lb/>
+				künn mi nich bereken, wat Ji hüt noch schaffen könt? Hebb ick all<lb/>
+				mal to vel von Ju verlangt? — Dat beten Korn is doch bi gooden<lb/>
+				Willen för all de Lüd man Spälerie. Doch wo Du rut wist, dat weet<lb/>
+				ick woll; Du meinst ick süll noch erst en Faß vull Brannwien schicken,<lb/>
+				damit de Meisten sich erst besupen, un denn erst recht niks don. Dat<lb/>
+				geht nich los, min Söhn. Mi dücht, Du hest hüt uck all nooch. Ick<lb/>
+				glöv, Du bist jetzt up den besten Weg den Drunk Di antowennen.<lb/>
+				Wenn ick dat mark, denn is't vörbi mit uns; min Grotknecht darf nich<lb/>
+				supen, dat lied ick nich. Verstehst mi woll?<lb/>
+				Hans. Wem seggt all dat ick supen do? Oeverst in'n Aust<lb/>
+				gehört en dücht'gen Schluck, dat is bi jeden Buern Mood; doch uns'<lb/>
+				oll Tügs, dat is as Water, dat paßt mi lang nich mehr, un wennt<lb/>
+				nich anners ward, denn gah ick af.<lb/>
+				Barko. Wat wust Du don? Du Worm, den ick halv ver¬<lb/>
+				hungert up de Landstrat funn, un rein ut Mitleed in min Hus hebb<lb/>
+				nahm'n. Du wust mi hier en Schippstohl setten? Jitzt in'n Aust, wo<lb/>
+				mi de Lüd so knapp. Is dat de Dank, Du Lümmel, för all dat Goods,<lb/>
+				wat ick an Di un Dine Mutter dahn? Erhebt drohend seinen Stock. Gliek<lb/>
+				an de Arbeit, marsch!!<lb/>
+				Hans jetzt schon sehr betrunken. Wat, Ii will'n mi schlagen? Ick<lb/>
+				bräk Ju'n Hals! Ergreift die Flinte. Nu kumm mi man to nah, ick<lb/>
+				scheet Di dood, wi'n dullen Hund. Dat ganz oll Buervolk is uck niks<lb/>
+				Bäters werth. Wi möten uns quälen, Dagut, Dagin, för niks, un Ji<lb/>
+				liggt up de Sied un fulenzt in de Wedd mit Jugen vörnehm'n jungen<lb/>
+				Bengel.<lb/>
+				Barko. Lümmel, dat kannst Du mi beeden! Du?!. Versap'ne<lb/>
+				Hund, ick schlag Di'n Brägen in, gehst Du nich fortsten an Din Arbeit!<lb/>
+				Hans legt auf Barko an. Trügg segg ick! Noch enen Schritt, denn<lb/>
+				hest Du de Ladung Schroot in de Ogen. Versprekst Du nich mi duvvelt<lb/>
+				Lohn to geben, un Brannwien uns herut to schicken<lb/>
+				5. Scene.<lb/>
+				Vorige. Fritz. Später Grete.<lb/>
+				Fritz reisefertig, ist bei den letzten Worten schnell aufgetreten. Um Gotteswillen!<lb/>
+				Was geht hier vor? Ha, der saub're Hans! Hallunke läßt Du Deine<lb/>
+				Maske fallen? Her mit der Flinte. Entreißt sie ihm und sucht mit der Nechten<lb/>
+				den Haus zu halten, während er mit der Linken die Flinte von sich streckt.<lb/>
+				Grete herbeistürzend. Hans, Hans! Wat mökst Du hier, bist Du<lb/>
+				denn verrückt worr'n?<lb/>
+				Fritz. Mädchen nimm die Flinte!<lb/>
+				19<lb/>
+				Grete nimmt die Flinte, selbige sofort auf Haus anlegend, welcher schwer mit Fritz ringt.<lb/>
+				Hans lat von den jungen Herrn af, orer bi Gott in'n Himmel, ick<lb/>
+				scheet Di dood.<lb/>
+				Barko. Mäken scheet nich! Her mit de Flint. Nimmt die Flinte¬<lb/>
+				De söln er Sak alleen utmaken, ick will doch sehn<lb/>
+				Fritz hat Hans geworfen, welcher einen Augenblick wie besinnungslos liegt. Da liege<lb/>
+				Hund und wage es nicht mehr, den Vater anzurühren. Zu Varko: Was<lb/>
+				wollte denn der Wicht von Euch?<lb/>
+				Barko. He is besapen, dat is Allens. Reicht Fritz die Hand.<lb/>
+				Fritz. Gott, sei Dank, ich seh' Euch unverletzt, ich kam zur rechten<lb/>
+				Zeit. Auf Hans deutend. Ich werde ihm doch Nichts zerbrochen haben?<lb/>
+				Barko lacht. Wes unbesorgt, de is von Stahl un Isen; he is<lb/>
+				man so besapen, dat he nich upstahn kann, sünst wär Di't schlecht be¬<lb/>
+				kamen.<lb/>
+				Grete zu Haus gewendet. Oll Farken, wist gliek up!<lb/>
+				Hans. Gah mi ut de Ogen!<lb/>
+				Barko zu Grete. Hal mi doch mal de Pietsch von Wagen, ick war<lb/>
+				em an de Arbeit bringen. Grete ab nach rechts.<lb/>
+				Hans söhnt. Ick kann nich Herr, ick bin besapen, nehmt mit<lb/>
+				nich övel, wat deit'n nich in'n Drunk.<lb/>
+				Barko. Na wenn’t man insühst, denn geht't noch. Ruft. He<lb/>
+				Michel, Jochen, kamt mal her!<lb/>
+				6. Scene.<lb/>
+				Vorige. Michel. Jochen treten auf.<lb/>
+				Jochen. Na wat is nu, is Hans all wedder fahrig?<lb/>
+				Michel hat den Krug untersucht, welcher leer. Dat hebb ick dacht, de Hans<lb/>
+				kann<lb/>
+				good.<lb/>
+				Barko. Schmiet't dat oll Farken up'n Wagen, un schickt em mit<lb/>
+				nah Hus, dat he sich utdusseln kann. Denn makt man dat Ji mit den<lb/>
+				Roggen, wenn't möglich is, hüt fahrig wart.<lb/>
+				Jochen. I Herr, dat sall so lang woll nich mehr duern, ick<lb/>
+				dacht, wi wullen hüt noch an den Waiten ran. Hans wull ja sehn<lb/>
+				wo't damit wär, statt dessen het he hiez in Brannwien sich besapen.<lb/>
+				Na denn man los, kumm Michel fat mit an! Schleppen mit Haus ab.<lb/>
+				Barko. Gott Du bewohr, wo is de Kerl besapen.<lb/>
+				7. Scene.<lb/>
+				Barko. Fritz.<lb/>
+				Fritz. Glaubt Ihr wirklich, Vater, daß der Bengel so betrunken?<lb/>
+				mich dünkt, er stellt sich nur so an!<lb/>
+				20<lb/>
+				Barko. Wenn he nich dun wär, harr he sich nich so vergeten,<lb/>
+				mi de Flint up dat Liv to hollen; he is sünst nich so schlecht. Ick<lb/>
+				weet nich, wat den Bengel in den Sinn is kamen, he hett woll annern<lb/>
+				Arger hat.<lb/>
+				Fritz. Mein Gott! Vater, wenn er Euch erschossen hätte.<lb/>
+				Barko. Unsinn! He dacht mi blot in Angst to setten, dat ick<lb/>
+				em högern Lohn füll geben; scheien harr he in'n Leben nich.<lb/>
+				Fritz. Kann sein, auch nicht! Wie leicht auch konnte das Gewehr<lb/>
+				sich selbst entladen und das größte Unglück hier geschehen. Ihr werdet<lb/>
+				doch nicht ferner noch den Kerl behalten? Ich hätt ihn auf der Stelle<lb/>
+				fortgejagt.<lb/>
+				Barko. Wo denkst Du hen, erst recht sall he nu blieben; ick<lb/>
+				war mi doch nich fürchten. Lat em man nüchtern war'n, denn red ick<lb/>
+				dütsch mit em. Ick kenn em to genau, wenn he erst utdusselt hett,<lb/>
+				denn bidd't he af, un is de Best von Altosam'n. Doch dat is mine<lb/>
+				Saak; nu sejg mi, wať Du wist; wo jeht dat to, dat Du hier twischen<lb/>
+				kämst? Ick denk Du schriffst de Breef un mökst mi de Klag fahrig.<lb/>
+				Fritz. Ist schon geschehen; hier sind die Briefe, lieber Vater.<lb/>
+				Giebt sie ihm. Ich kam hierher, um Abschied von Euch zu nehmen.<lb/>
+				Barko. So wist Du weg?<lb/>
+				Fritz. Verzeiht mir, Vater! Gott weiß, wie gern ich bei Euch<lb/>
+				bliebe; doch von Röschen lassen, kann ich nicht. Ergreift Barko's Fand, sie<lb/>
+				küssend. Lebt wohl, Ihr seht mich glücklich, oder niemals wieder. Behüt<lb/>
+				Euch Gott! Schnell ab nach links.<lb/>
+				Barko. Fritz! Fritz!<lb/>
+				Der Vorhang fällt.<lb/>
+				Ende des zweiten Actes.<lb/>
+				Dritter Act.<lb/>
+				(Platz vor Barko's Hause. Im Hintergrund das Wohnhaus mit großer Thür und<lb/>
+				Fenstern, welche zwar undurchsichtig, jedoch von innen erleuchtet werden können.<lb/>
+				Ueber der Thür hängt die vorjährige Erntekrone. — Rechts ein, sich dem Wohn¬<lb/>
+				hause anschließender, zweistöckiger Seitenflügel mit kleinerer Thür, welche mehr nach<lb/>
+				dem Hintergrunde zu gelegen; oben mehr nach dem Vordergrunde ein praktisches<lb/>
+				Fenster. Im Vordergrunde links eine größere Glocke mit Strang. — Ferner ein<lb/>
+				Birnbaum, vor diesem eine kleine Bank und ein Spinnrad. Auf der Banke liegt<lb/>
+				ein hellfarbiges Umschlagetuch. Von dem Baum bis zum Seitenflügel, also quer<lb/>
+				über die Bühne, ist eine starke Zeugleine gespannt, worauf etwas Wäsche, wie<lb/>
+				zum Trocknen, hängt (am besten Strümpfe und Taschentücher). Links müssen<lb/>
+				2 scharf markirte Ausgänge sein.)<lb/>
+				1. Scene,<lb/>
+				Nosc allein, in ländlicher Tracht, steht auf einem kleinen Tritt oder Schemel mit Ab¬<lb/>
+				nehmen der Wäsche beschäftigt. Singt:<lb/>
+				No. 5. Lied.<lb/>
+				O wie schön ist's auf dem Lande;<lb/>
+				Glaubt's ihr Städt'rin'n sicher mir:<lb/>
+				Lange Schleppen am Gewande,<lb/>
+				Sie beläst'gen uns nicht hier.<lb/>
+				Leicht gekleidet, um die Wette<lb/>
+				Springen mit dem Lämmchen wir.<lb/>
+				Nimmer stört uns Etiquette<lb/>
+				Und der höh're Blödsinn hier.<lb/>
+				Singen kann ich hier und tanzen;<lb/>
+				Fürchte kein Gered' der Leut'.<lb/>
+				Kann mir selber Blumen pflanzen<lb/>
+				Und sie pflücken, wenn's mich freut.<lb/>
+				22<lb/>
+				Heiter jauchz' ich früh am Morgen<lb/>
+				Schon im Garten, auf dem Feld';<lb/>
+				Kenne weder Gram noch Sorgen,<lb/>
+				Brauche weder Putz noch Geld.<lb/>
+				Ja 's ist herrlich auf dem Lande,<lb/>
+				Glaubt's ihr Städter alle mir;<lb/>
+				Fesseln Euch nicht stärk're Bande,<lb/>
+				Eilt hinaus, und kommt zu mir.<lb/>
+				Ist herunter gestiegen.<lb/>
+				Ach ja, es ist schön hier, sehr schön ist es! Aber daß der böse<lb/>
+				Fritz nicht heute schon zum Erntefest gekommen, das ist schlecht, grund¬<lb/>
+				schlecht von ihm. Wie gern wäre ich mit ihm aufs Vorwerk gegangen,<lb/>
+				da ist ein Jubel! Da tanzen sie heute schon. Die große Pauke ist<lb/>
+				mitunter bis hierher zu hören. Ach, und Vater Barko hat auch müssen<lb/>
+				tanzen, zweimal mit der Liese. Ha, ha, ha, das wird ihm sauer geworden<lb/>
+				sein! Das hätt' ich sehen mögen. Aber wo er nur bleibt? Die Sonne<lb/>
+				geht schon unter und ich wollte heute recht früh zu Bette gehen, denn<lb/>
+				morgen früh, sehr früh, kommt ja mein Schatz, mein guter Fritz, und<lb/>
+				dann wird hier getanzt und Erntefest gefeiert. Ach Gott, wie ich mich<lb/>
+				freue. Sucht im Bufentuch. Wo hab ich nur den Brief, ich muß ihn immer<lb/>
+				wieder lesen, hier! ziest: Mein herzig süßes Schätzchen! Unterbricht sich, sprechend:<lb/>
+				Ach Gott, wie das so reizend klingt! sien: Die frohe Nachricht, daß mein<lb/>
+				Glück den Vater günstiger gestimmt, hat mich, wie Du wohl denken<lb/>
+				kannst, noch mehr, wie die Prämiirung meines Bildes gefreut; ich werde<lb/>
+				nicht versäumen, den günstigen Zeitpunkt wahrzunehmen, und zum Ernte¬<lb/>
+				fest erscheinen, doch komme ich erst am zweiten Tage Eures Festes, es<lb/>
+				ist nicht eher möglich. Bis B... benutze ich die Post, von dort komme<lb/>
+				ich per pedes; ich kann mir den Spaziergang durch den Wald doch<lb/>
+				nicht versagen. Am zehnten früh mit Sonnenaufgang bin ich bei Dir,<lb/>
+				mein Herz, und hoffe, daß dann auch die Sonne unsers Glückes endlich<lb/>
+				uns erscheinen werde. Doch nun merk auf, mein süßer Schatz, ich habe<lb/>
+				noch eine recht frohe Nachricht für Dich in potto: Denk' Dir, der Lord<lb/>
+				hat sein Gebot verdoppelt, und Hbe ich ihm nun das Bild ohne Zögern<lb/>
+				auch verkauft; die Summe dürfte hinreichen, uns eine, wenn auch nur<lb/>
+				bescheid'ne Häuslichkeit zu gründen, falls es uns nicht gelingen sollte,<lb/>
+				beim Vater Wohnung zu erhalten. Nun lebe wohl, mein kleiner Schelm;<lb/>
+				ich zähle schon die Stunden bis Dich umarmen kann<lb/>
+				Dein ewig treuer Fritz<lb/>
+				Den Brief küssend, spricht: Ach Gott, der gute Fritz! Wie ich mich freue, ihn<lb/>
+				endlich wiederzusehen. Aber, aber! Die Sonne unseres Glückes dürfte,<lb/>
+				23<lb/>
+				fürcht' ich, noch viele trübe Wolken zu durchbrechen haben. Wie betend:<lb/>
+				Ach lieber, guter Gott! jetzt steh' uns gnädig bei, daß Sohn und Vater<lb/>
+				endlich sich versöhnen. Sie sind ja beide gut, so herzensgut. Den Brief<lb/>
+				aus Herz brückend und dann verbergend. Aber Du, mein theurer Fritz, bist doch<lb/>
+				der allerbeste. Ist vorher mit der Wäsche fertig geworden, setzt sich nun zum Spinurad. Es<lb/>
+				dämmert schon, und noch immer kommt Vater Barko nicht. Fast<lb/>
+				ängstige ich mich.<lb/>
+				2. Scene.<lb/>
+				Rosa. Hans.<lb/>
+				Hans schleicht sich, von links kommend, hinter den Baum und lauscht.<lb/>
+				Rosa weiter sprechend: Doch nein, jetzt fällt mir's ein, er hat mir ja<lb/>
+				heute einen Hasen versprochen; o weh, da bleibt er sicher sehr lange aus,<lb/>
+				nun hetzt er selbst sich wieder ab, nur um mir sein Wort zu halten.<lb/>
+				Der gute, alte Mann, wie wird er doch verkannt; hart, finster und<lb/>
+				grausam soll er sein? Ha, ha, ha! weich wie Wachs ist sein Herz, der<lb/>
+				stellt sich nur so an. (Es beginnt zu dunkeln.) Freilich strenge ist er, sehr<lb/>
+				strenge; aber das muß er ja auch sein, wenn er so viele Leute und die<lb/>
+				Wirthschaft in Ordnung halten soll; und er hält sie in Ordnung und<lb/>
+				ist stolz darauf. Ja streng und stolz ist er, schrecklich stolz auf seinen<lb/>
+				Stand, das ist sein einziger Fehler. Aber lieber Gott, ein jeder Mensch<lb/>
+				hat Fehler, wir sind ja alle keine Engel!<lb/>
+				Hans halblaut. Doch, doch! Du bist'n Engel. Du alleen.<lb/>
+				Rosa erschreckt aufspringend, das Spinnrad bei Seite schiebend. Was war das?<lb/>
+				Erblickt Haus. Dacht' ichs doch, der Hans! Platt sprechend: Wat sall dat heeten<lb/>
+				Hans? ick war den Herrn dat klagen, wenn Ji mi immer na slieken.<lb/>
+				Ick hebb mi so verfiert, mi zittern alle Glieder; ick denk Ji sind up't<lb/>
+				Vörwark, danzen.<lb/>
+				Hans. Ick danzen? Nee ick hebb keen Dänzerin. Nehmt mit<lb/>
+				nich äwel, Jungfer Marten, ick kann enmal nich anners, ick bin krank,<lb/>
+				sehr krank.<lb/>
+				Rosa. Na denn gat doch na'n Docter.<lb/>
+				Hans.<lb/>
+				Da bin ick just.<lb/>
+				Rosa.<lb/>
+				Wat?<lb/>
+				Hans.<lb/>
+				Ii könt mi helpen Jumfer, Ji alleen. Min Krankheit<lb/>
+				zeigt auf sein Herz<lb/>
+				sitt mi hier, da helpt keen Docter to.<lb/>
+				Rosa. Gat Juge Weeg, Hans! ick hebb Ju oft nooch seggt, dat<lb/>
+				ick sowat nich hören mag. Will gehen, Haus vertritt ihr den Weg.<lb/>
+				Hans. Worüm nich Jumfer, ick bin Ju doch so good, so<lb/>
+				hartensgood, hört mi doch an, hebbt Ji denn ja keen Hart in Inge<lb/>
+				Brust. (Es dunkelt mehr und mehr.)<lb/>
+				— 24 —<lb/>
+				Rosa. Hans lat't mi gan! Ick bidd Ju nu in Goodem, ick<lb/>
+				will niks hör'n, ick ängst mi blot vör Ju.<lb/>
+				Hans. Ach Jumfer gevt m doch de Hand, en enzig Mal will<lb/>
+				Rosa. Hans lat't mi gan, ick treck de Etenklok un kling de Lüd<lb/>
+				to hoop. Greift zum Glockenstrang. Ji rüken jo na Schnaps.<lb/>
+				Hans ergreift schnell ihre Hand, sie verhindernd, die Glocke zu ziehen. Jungfer gevt<lb/>
+				mi en enzgen — — will sie küssen.<lb/>
+				Rosa Haus mit Kraft zurückstoßend. Gat Schuft! Ii sind besapen, ein<lb/>
+				schuell ins Haus, die Thür hörbar verriegelnd.<lb/>
+				3. Scene.<lb/>
+				Haus allein.<lb/>
+				Haus wüthend. Schuft? en Schuft bin ick? versucht die Thür zu öffnen.<lb/>
+				Na töv! verriegelt? schön! Töv man, Du stolze Dern, dat warr ick Di<lb/>
+				gedenken. Din Hochmood kümmt vör'n Fall. Di krieg ick doch, verlat<lb/>
+				Di drup, un wenn ick Di mit Gewalt süll Nachts ut Din Stuv, rut<lb/>
+				halen. Min sast Du warrn, un wenn't min Leven kost. Ha, ha, ha!<lb/>
+				De Stadtplant denkt, se is to schad förn Buren. ab nach links.<lb/>
+				4. Scene.<lb/>
+				Rosa.<lb/>
+				Rosc aus dem Fenster sehend.<lb/>
+				Er ist gegangen, Gott sei Dank! Vielleicht<lb/>
+				kommt Vater Barko bald. O Gott, wie fürcht ich mich! schließt das Feuster.<lb/>
+				5. Scene.<lb/>
+				Frau Seelbach.<lb/>
+				Frau Seelbach von links, allein. Es ist noch finsterer geworden. Kein<lb/>
+				Mensch zu sehen, der ganze Hof wie ausgestorben, es können doch nicht<lb/>
+				Alle auf dem Vorwerk sein? geht zur Thür, versucht zu öffnen. Zu? Hmn, hm.<lb/>
+				Geht zur Thür des Seitenflügels. Auch zu! Wo mag denn Röschen sein?<lb/>
+				Sich umsehend. Ah sieh da, ihr Spinnrad und ihr Tuch, nun, dann ist sie<lb/>
+				sicher auch nicht weit. Ich werde hier ein wenig warten, dies Plätzchen<lb/>
+				ist so schön und ich bin müde von dem kleinen Marsch. Ich möcht doch<lb/>
+				gerne wissen, ob Röschen schon Zeit gefunden, den Brief zu lesen, den<lb/>
+				ich ihr heute mitgebracht, ach und so neugierig bin ich doch, vielleicht<lb/>
+				erzählt mir Röschen, was ihr Schatz geschrieben hat, ich denke mir, er<lb/>
+				wird wohl morgen zum Erntefeste kommen wollen. Ach Gott, wie wird<lb/>
+				sich Röschen freuen, wenn sie ihn wiedersieht. Zwei Jahre wollten sie<lb/>
+				nur warten und nun sind doch schon drei vergangen, daß sie sich nicht<lb/>
+				gesehen haben. Ja, ja! so schnell geht's immer nicht, und Gott mag<lb/>
+				wissen, ob's nun Hochzeit giebt. Dem alten Brummbär ist nicht viel<lb/>
+				25 —<lb/>
+				zu trauen. Was wird der zu der Liebschaft sagen? Zumal wenn er<lb/>
+				erfährt, daß Röschen nur um Fritzens willen von uns hier eingeschmuggelt<lb/>
+				ist. Ei, eis ich fürchte ohne Sturm geht's doch nicht ab. Röschen<lb/>
+				meinte zwar, sie könnte sich den Alten um den Finger wickeln und es<lb/>
+				wär' ihm schon lange leid, daß er den einzigen Sohn so hart behandelt;<lb/>
+				aber, aber, alte Leute sind immer wunderlich, gähnt na, na, er kann sie<lb/>
+				doch nicht fressen, man wird ja sehen gähnt. Ach Gott, es wird schon<lb/>
+				finster, ich werde wohl bei Röschen wieder übernachten müssen, wenn sie<lb/>
+				nur käme, ich bin recht müde, gähnt wieder recht müde —<lb/>
+				schläft ein<lb/>
+				leise im Schlaf sprechend.<lb/>
+				6. Scene.<lb/>
+				Frau Seelbach. Rosa.<lb/>
+				Rosd kommt aus dem Hause, nimmt, ohne die Seelbach zu bemerken, den vorher bepackten<lb/>
+				Wäschkorb und geht damit in den Seitenflügel, zu welchem sie den Schlüssel hat, den sie wieder abzieht,<lb/>
+				dann gleich darauf oben aus dem geöffneten Fenster zurück sprechend: Ja, ja! Suschen, dat<lb/>
+				is he, ick kann em dütlich sehen, da bögt he eben üm den See, nu sett<lb/>
+				man flink Theewater up, ick war em en Enn entgegen gan, öwerst kiek<lb/>
+				uck jo na't Fleesch, lat't nich anbrennen. Wo hebb ick man min Dook?<lb/>
+				Ja so, de liggt ja unnen. Kommt schneu herunter, ihr Tuch zu nehmen. (Während<lb/>
+				dieser und der folgenden Sceue hat die Dunkelheit ihren Höhepunkt erreicht, später<lb/>
+				schwacher Mondschein.) Rosa weitersprechend: Da liegt mein Tuch hört Schnarchen<lb/>
+				Mein Gott, hier schläft ja Jemand! Wer kann das sein? Eine Frau?<lb/>
+				ihr ins Gesicht sehend Himmel, Frau Seelbach! Sie hat mich hier erwartet.<lb/>
+				Ob ich sie wecke? Nein, die alte Frau ist sicher müde von dem Gange.<lb/>
+				Sie schläft so fest. Ich werde ihr erst eine Tasse Thee besorgen. Aber<lb/>
+				erst will ich sie doch bedecken, sie möchte sich erkälten; hier mit dem Tuch.<lb/>
+				Deckt sie zu, so daß der Kopf frei bleibt Nun schnell erst Thee, so lange mögt Ihr<lb/>
+				noch schlummern. Im Gehen: Ach Gott, wie finster ist es schon geworden.<lb/>
+				Schnell ab in den Seitenflügel.<lb/>
+				7. Scene.<lb/>
+				Frau Seelbach. Hans.<lb/>
+				Hans von links kommend, für sich: Ick hebb nich Ruh, noch Rast, ick<lb/>
+				weet nich wat mi fehlt, ick künn mi Fagen mit de ganze Welt! Die<lb/>
+				Seelbach erblickend und sie für Rosa haltend. Na nu! da is se ja; se schlöppt? wat<lb/>
+				is denn dat? — Ach de verstellt sich woll, se ward doch hier nich schlapen?<lb/>
+				Ruft halblaut: Jumfer Marten! Jumfer Marten! Herr Gott, se schlöppt<lb/>
+				ganz fast. Harr ick dat wüßt, denn harr ick lang de Schimmel all förn<lb/>
+				Wagen, un denn heidi mit ehr. Doch nee, dat gaht ja nich, de Oll<lb/>
+				kann jeden Ogenblick to Hus kamen. Herr Gott, dit süll blot en par<lb/>
+				Stunden späder sind. Wat mak ick blot? Sich den Mund wischend Na töv,<lb/>
+				﻿26<lb/>
+				tum wenigsten will ick een Schmatz riskiren, un wakt se up, na denn<lb/>
+				man to, wat will se mi? Küßt die Alte, welche erwacht und aufkreischt, Hans am Aermel<lb/>
+				festhaltend. Haus: Schock Düvel, wer is dat? dat is ja Röse nich!<lb/>
+				Frau Seelbach. Mein Gott, ich habe wohl geschlafen, wo bin<lb/>
+				ich denn, wer küßt mich hier? Pfui, junger Mann! Das ist ja<lb/>
+				schändlich, mich hier zu überfallen, sucht Euch doch junge Mädchen, wenn<lb/>
+				Ihr küssen wollt.<lb/>
+				Hans. Na hebbt Ju man nich dull, ick kann da uck niks för,<lb/>
+				de Breef is an 'ne falsche Adreß geraden, lachend, nehmt't man ja nich<lb/>
+				övel, ick dacht dat wär min Brut, Se hebben jo ehren Dook uck üm.<lb/>
+				Fr. Seelbach erstaunt. Dies Tuch? wer ist denn Eure Braut?<lb/>
+				Hans. Woto will'n Ii dat weeten? Min Brut is unse Wirth-<lb/>
+				schafterin.<lb/>
+				Fr. Seelbach bei Seite. Wie, Röschen, das ist doch nicht möglich.<lb/>
+				Laut.<lb/>
+				Wie heißt die denn?<lb/>
+				Hans. Na wat Ji nieglich sind: Röse Marten hitt s', wat hebben<lb/>
+				Ji davon?<lb/>
+				Fr. Seelbach. Wie Rosa Marten? mein Gott, das ist nicht<lb/>
+				möglich, Rosa Marten, das ist wirklich Eure Braut?<lb/>
+				Hans grob. Na fragt un fragt! Wo oft sall ick Ju't seggen, se<lb/>
+				is min Brut un nu is't good. Denkt Ji ick sall mi noch in Ju ver¬<lb/>
+				leeven? Dat fehlt mi noch. Adjüs. Lachend ab nach links.<lb/>
+				8. Scene.<lb/>
+				Frau Seelbach.<lb/>
+				Fr. Seelbach allein, legt das Tuch über die Lehne der Bank. Mein Gott,<lb/>
+				wie ist das denn nur möglich? Die falsche Schlange, wer hätte das<lb/>
+				gedacht. Nun will ich sie auch garnicht mehr sehen. Die Heuchlerin!<lb/>
+				Mein Gott, mein Gott, im Abgehen, der arme, arme Fritz. Ab nach links.<lb/>
+				9. Scene.<lb/>
+				Rosa.<lb/>
+				Rosa allein mit Thee, aus dem Seitenflügel. So, Mutter Seelbach, das soll<lb/>
+				Euch bekommen. Nun wacht nur auf, Frau Seelbach! Wacht doch auf!<lb/>
+				Gott schläft die fest. Frau Seelbach! Fühlt im Finstern nach ihr und findet das<lb/>
+				lere Tuch. Mein Himmel sie ist fort, wo kann sie nur geblieben sein,<lb/>
+				ruft laut: Frau Seelbach!! Nein, dies begreife ich nicht, ich fürchte mich<lb/>
+				fast, es ist so finster. nuft: Suschen, Suschen! stell doch Licht an't<lb/>
+				Fenster! Stimme hinter der Scene: gliek, gliek, Jumfer Marten. Es erscheint<lb/>
+				Licht am Fenster, die Bühne wird hell. weitersprechend: Da liegt mein Tuch,<lb/>
+				und Mutter Seelbach ist verschwunden. Wie soll ich das nur verstehen?<lb/>
+				27<lb/>
+				habe ich geträumt, oder hat mich ein böser Spuk geneckt? brr! ich<lb/>
+				ängstige mich, wenn doch nur Vater Barko käme.<lb/>
+				10. Scene.<lb/>
+				Rosa. Später Barko.<lb/>
+				Barko noch in der Coulisse, zurücksprechend: I schlut man Alles to un<lb/>
+				denn<lb/>
+				gah hen na danzen, uns ward hier niks passeren.<lb/>
+				Rosa. Gott sei Dank, da ist er. Geht, immer noch die Tasse haltend, ihm<lb/>
+				entgegen.<lb/>
+				Barko tritt jetzt auf, hat Flinte, Jagdtasche und einen Hasen.<lb/>
+				Rosa. Willkommen Vatter Barko! Gott in'n Himmel, denkt<lb/>
+				Ju blot<lb/>
+				Barko unterbrechend, Rosa die Hand reichend. Gun Abend, Kind! Heiter¬<lb/>
+				Hier kiek mal her, hier bring ick Di, wat ick verspraken hebb; auf den<lb/>
+				Hasen deutend. Nich wahr, en strammen Burschen? Doch wat is dat?<lb/>
+				Du kümmst mi all mit Thee entgegen, na dat is schön, min Kind.<lb/>
+				Denn giv man her, nimmt die Tasse, setzt sich auf die Bank. Ick hebb uck Döst.<lb/>
+				Trinkt.<lb/>
+				Du bist en düchtig Köksch, Du wetst doch immer wat en ollen<lb/>
+				Menschen hört. Trinkt.<lb/>
+				Rosa. Ach Vatter Barko, hört blot an, ick hebb en Angst<lb/>
+				utstahn<lb/>
+				Barko läßt sie nicht zu Worte kommen. Uem mi? dat hebb ick mi woll<lb/>
+				dacht, Du goodes Kind, streicht ihr die Wangen, ja ’t is en Beten späd hüt<lb/>
+				word'n<lb/>
+				öwerst ick kann nich daför, ick müßt doch absolut denn Hasen<lb/>
+				hebben<lb/>
+				ick harr'n Di ja verspraken.<lb/>
+				Rosa. Ach Gott! min besten Dank, Vatter Barko, öwerst ick<lb/>
+				mein<lb/>
+				Barko. I, lat man leeves Kind, ick weet Du meinst dat good,<lb/>
+				Du bist en prächtig Dern, da, hal man fix noch en Tass' Thee, de<lb/>
+				schmeckt ja rein to schön.<lb/>
+				Rosa. Dat freut mi, Vatter Barko, wenn he Ju schmeckt, doch<lb/>
+				in de grote Stuv is upgedeckt, willen Ii nich rinner gan? Dat ward<lb/>
+				all köhl hier buten.<lb/>
+				Barko. I, nee, min Kind, de Luft is prächtig, mi is ganz warm,<lb/>
+				bring man noch en Tass' Thee hierher, ick hebb all da up't Vörwark<lb/>
+				eten, ick mag nich mehr.<lb/>
+				Rosa die Tasse und den Hafen nehmend. Gliek, gliek, en Ogenblick denn<lb/>
+				bin ick wedder hier.<lb/>
+				11. Scene.<lb/>
+				Barko allein.<lb/>
+				Barko reibt sich die Hände, heiter. En ganz captales Mäken, se süht<lb/>
+				mi immer all von de Ogen af wat ick woll wünschen mag. Wenn Hans<lb/>
+				28<lb/>
+				de kriegt, denn kann he sich woll freuen, son Wirthin'n gifft nich vel,<lb/>
+				dat geht mit ehr dat spält man so, un wat se anfött dat hett Schick;<lb/>
+				man müßt fast mein'n, se harr all dörtig Jahr son Wirthschaft föhrt,<lb/>
+				so pünktlich un adrett geht Alles mit ehr to un dabi is se noch so jung,<lb/>
+				un is 'ne Städterin, dat harrk in'n Leben doch nich dacht, dat so wat<lb/>
+				möglich wär. För Hans, da is de Dern mi würklich doch to schad; mi<lb/>
+				dücht de Bengel de is doch niks werth, ick bin all lang nich mehr mit<lb/>
+				em tofreden, harr ick sin Mutter dat nich up'n Dood verspraken, för<lb/>
+				em to sorgen, denn wär he doch woll nich mehr hier; ick weet nich, wo<lb/>
+				se up den Bengel kamen kann. Schad, schad! Dat wär en Fru för<lb/>
+				minen Fritzen west, da harr ick glick min Jawoord geben.<lb/>
+				12. Scene.<lb/>
+				Barko. Rosa.<lb/>
+				Rosa kommt mit Thee und Kuchen. Hier Vatter Barko is noch Thee,<lb/>
+				ick will nu Suschen man Geschirr afwaschen helpen, sünst krabbelt de<lb/>
+				de ganze Nacht noch rüm.<lb/>
+				Barko die Tasse nehmend. Niks da, hier sett Di her bi mi, Suschen<lb/>
+				kann sich spooden, jeder mut don wat em tokümmt, Du hest Di hüt<lb/>
+				nooch quält, nu kumm man her, ick will Di erst man noch wat fragen.<lb/>
+				Rosa setzt sich neben Barko. Barkoweiter: Un denn gehst Du to Bedd, min Kind,<lb/>
+				denn morgen geht dat tiedig ruter. Klock fiefen treck ick hier de Klock,<lb/>
+				dat is't Signal, denn komm'n de Lüd von't Vörwark anmascheert mit<lb/>
+				vulle Musik, un bring'n de Kron hierher, denn söln sich de Muskanten<lb/>
+				bet Klock nägen ungefähr verpuhsten, un denn ward hier gedanzt un<lb/>
+				Austköst fiert, dat sall'n Leben warrn! Wat seggst? ick hev hüt uck all<lb/>
+				danzt, ha ha ha!<lb/>
+				Rosa lachend: ick hevt all hört, oll Suschen hett mi't seggt, se hett<lb/>
+				Ju danzen sehn mit Liesing, as se dat Bier hüt henbröcht hett.<lb/>
+				Barko lachend: Ja Lieschen is ne dulle Dern, se harr mi gliek<lb/>
+				bin Wickel. Nu segg mi öwerst, wat is dat mit Di? ick dacht Du<lb/>
+				würdst doch uck mal danzen, un dabi bist Du garnich dröben west.<lb/>
+				Rosa. Je ick künn Suschen doch nich hier so ganz alleen rümm¬<lb/>
+				wirthschaften laten, un wem wardt denn mit mi uck danzen? ick hebb<lb/>
+				ja keenen Dänzer.<lb/>
+				Barko. So! hest Du Di denn mit Hans vertörnt? De wär<lb/>
+				jo uck nich da, drüm wunner ick mi uck, dat he hier up'n Hof rümm¬<lb/>
+				krabbelt. Droht scherzend mit dem Finger. Du, dat kümmt mi nich richtig<lb/>
+				mit Ju Beiden vör!<lb/>
+				Rosa. Woso denn, Vatter Barko, mit Hans danz ick in'n<lb/>
+				Leben nich, dat wär nu doch de Allerletzte, so gern ick danzen mag.<lb/>
+				29<lb/>
+				Barko. Na na! na na! Du Schelm, ick sall dat woll nich<lb/>
+				weeten, dat Hans Din Brutmann is.<lb/>
+				Rosa aufspringend: Hans? Hans sall min Brutmann sind, de Suput?<lb/>
+				Vatter Barko Ji will'n woll mit mi spaßen, eher gah ick in dat deepste<lb/>
+				Water, eh'r ick den Lümmel nehm.<lb/>
+				Barko. Is dat Din Ernst min Kind? segg mi de Wahrheit,<lb/>
+				Du wetst, ick mein dat good mi Di.<lb/>
+				Rosa eifrig: Gewiß is dat min Ernst, Gott weet, dat ick de<lb/>
+				Wahrheit red. Weinend. Ach Vatter Barko, wo kön Ji sowat von mi<lb/>
+				glöven, wo würd ick woll son Bengel nehm'n, de minen tweeten Vatter<lb/>
+				all mit de Flint to Liev is gan.<lb/>
+				Barko. Still! still min Kind, red nich davon, dat is vergeben<lb/>
+				un vergeten. Ick glöv Di ja, nu ween man nich, mi deit't all leed,<lb/>
+				dat ick Di fragt, dat harrk mi so all denken künt; ick weet man nich,<lb/>
+				wo Hans denn dato kümmt, sowat to reden; Fru Seelbach, de ick eben<lb/>
+				drapen, hett't mi vör ganz gewiß vertellt, se säd: Hans harrt ehr sülben<lb/>
+				seggt, Du wärst sien Brut; un ick süll Di man seggen, se würd hier<lb/>
+				nich mehr kam'n, du würdst woll weeten worüm. Ick wüßt nich, wo<lb/>
+				se dat woll meint, un wull uck nich lang fragen; se kann woll unsen<lb/>
+				Hans nich lieden?<lb/>
+				Rosa. Dat hett de Lümmel seggt? O Gott! un sowat kann de<lb/>
+				Seelbach von mi glöven! o, nu is mi’t uck klar, worüm se afgan is,<lb/>
+				ohn lang na mi to fragen. Herr Gott, wenn se dat Fritzen nu vertellt!<lb/>
+				Barko. Wat? wat seggst Du da von Fritzen, wat meinst Du<lb/>
+				denn<lb/>
+				för'n Fritzen, hm?<lb/>
+				Rosa bei Seite: O Gott, was habe ich gethan, ich bin verrathen.<lb/>
+				Barko. Na wat sall dat Getuschel? Darf ick nich weeten wat<lb/>
+				för'n Fritz dat is? — Na nu boomstill? Hör Mäken, ick lat nich mit<lb/>
+				mi spaßen, rut mit de Wahrheit, mi dücht, ick rük den Braden.<lb/>
+				Rosa kniet nieder, spricht hochdeutsch, bittend: Ach guter Vater Barko, seid<lb/>
+				nich böse, fragt<lb/>
+				Barko unterbrechend: Nanu! dar geht ja hochdütsch los, Du wetst,<lb/>
+				ick kann dat doch dörchut nich lieden. Stah up, min Kind, ick will<lb/>
+				niks wieder weeten, mi dücht, ick weet genoog. Blot segg mi noch dat<lb/>
+				Een: Kann ick mi drup verlaten, dat Hans keen Recht hett, Di sine<lb/>
+				Brut to nennen?<lb/>
+				Rosa eisrig: Wahrhaftig nich, Gott weet, dat ick de Wahrheit red.<lb/>
+				Hans is mi so verhaßt, dat ickt nich seggen kann.<lb/>
+				30<lb/>
+				13. Scene.<lb/>
+				Vorige. Hans.<lb/>
+				Hans tritt auf, stellt sich lauschend hinter den Baum.<lb/>
+				Barko beruhigend. Na denn is't good, min Dern, ick will nich<lb/>
+				wieder fragen, dat Anner ward sich morgen find'n. Hans sall mi<lb/>
+				ut'n Hus! Doch nu schlap Du, min Kind, gah flink to Bedd, hörst<lb/>
+				Du! Ween nich, so lang oll Barko levt brukst nich to weenen, Du bist<lb/>
+				min leewe söte Dern.<lb/>
+				Rosa stürmisch seine Hand ergreifend. Dank! dusend Dank Vatter Barko!<lb/>
+				schlapt söt. Nimmt ihr Spinurad sowie die Tasse und geht schnell ab durch die Thüre des<lb/>
+				Seitenflügels, welche sie hörbar verriegelt.<lb/>
+				14. Scene.<lb/>
+				Barko. Hans.<lb/>
+				Hans hinter dem Baum.<lb/>
+				Barko. Hm, hm, süll miné Ahnung mi nich dreegen? Mit Be¬<lb/>
+				tonung: „Du kennst sie schon und bist mit ihr zufrieden“ — schreev<lb/>
+				Fritz in sinen Breef, wat süll dat anners heeten. O! nu is mi Manches<lb/>
+				klaar; ick möt mi doch den Breef noch ruter kramen. Geht in das Wohnhaus.<lb/>
+				(Gleich darauf erhellen sich die Fenster rechts auf einen Augenblick, später<lb/>
+				links, ebenfalls nur auf kurze Zeit, während das obere Fenster des Seitenflügels<lb/>
+				fast bis zum Schluß erleuchtet bleibt.)<lb/>
+				15. Scene.<lb/>
+				Hans allein.<lb/>
+				Haus kommt hervor. Na nu ward't Dag! Se is sin leeve söte<lb/>
+				Dern? ha ha ha! De olle Grieskopp will noch frieg'n, un noch dato<lb/>
+				son junges Ding. Ha ha ha! nee, dit ward immer netter. Na tövt<lb/>
+				man, ick bin uck noch da, den Brie will ick Ju woll versolten. Nee<lb/>
+				is't de Möglichkeit, son junge hübsche Dern, will sich den ollen Stacker<lb/>
+				frieg'n. Töv Du hochnäsig Ding, die steckt de Angerhof man in de<lb/>
+				Näs, un darüm bist Du so bigäng bi'n Ollen, un wist von mi niks<lb/>
+				weeten. O töv man, töy!<lb/>
+				— Lauscht am linken Fenster. De Oll geht nu<lb/>
+				to Bedd, na schön, dröm man noch ens von Dinen söten Schatz. Morg'u<lb/>
+				früh denn hett uns Koh ganz anner Hörn. Din Schimmels loopen<lb/>
+				good, wenn Du Di morgen früh de Ogen rivst, bin ick mit Dinen<lb/>
+				söten Engel öwer Barg und Feld, denn fläut uns nah. — (Das Licht<lb/>
+				im Wohnhause erlischt.) So de is rin in't Nest, doch baben brennt noch<lb/>
+				Licht. — Na ick hebb uck noch Tied, de Schimmels sind uck noch nich<lb/>
+				satt, de söln sich to de Tour tum letzten mal hier orndlich stärken, ick<lb/>
+				war mi erst man noch en'n Sack vull Haber haln. Links ab.<lb/>
+				31<lb/>
+				16. Scene.<lb/>
+				Rosa.<lb/>
+				Rosc allein, erscheint am Fenster ihres Zimmers oben im Seitenflügel, blickt in die Nacht<lb/>
+				hinaus. Wie still und dunkel ist die Nacht; was mag sie wohl in ihrem<lb/>
+				Schooße für mich bergen? O möchte es doch tagen bald. Mir ist so<lb/>
+				weh, so bang um's Herz und doch könnt' wieder laut ich jubeln, denn<lb/>
+				welch' ein Glück kann mir der Morgen bringen.<lb/>
+				In wenig Stunden,<lb/>
+				will es Gott, kann Fritz schon bei mir sein. Hilf Himmel dann das<lb/>
+				Herz des Vaters uns bezwingen. Tritt ein wenig zurück, setzt sich, ein Buch nehmend<lb/>
+				an den Tisch und singt:<lb/>
+				No. 6. Eixkage.<lb/>
+				Eingehüllt im feierlichen Dunkel<lb/>
+				Sind die Wege, Gott, die Du uns führst,<lb/>
+				Kein Verstand erforscht, nach welchen<lb/>
+				Du die Deinen wunderbar regierst.<lb/>
+				Selbst der fromme, tugendhafte Weise<lb/>
+				Dringet nicht in diese Tiefe ein;<lb/>
+				Vieles, was er um sich her erblicket,<lb/>
+				Wird ihm dunkel, unerklärbar sein.<lb/>
+				Scheint es gleich, als müßte ich versinken<lb/>
+				In dem harten Kampf und Prüfungsstand,<lb/>
+				Läßt Du Vater mich doch nicht ertrinken<lb/>
+				Und hältst mich mit Deiner starken Hand.<lb/>
+				Laß mich nimmer in Versuchung fallen,<lb/>
+				Rüste mich mit Muth und Heiterkeit,<lb/>
+				Laß mich froh durch's Erdenleben wallen,<lb/>
+				Bis ich schaue Deine Herrlichkeit.<lb/>
+				O, verzeihe Vater, wenn wir Schwachen<lb/>
+				Deine weise Güte nicht versteh'n,<lb/>
+				Und mit matten und beschränkten Blicken<lb/>
+				Nur das Harte nicht das Gute seh'n:<lb/>
+				Dort erst werden uns're Blicke freier,<lb/>
+				Heller Morgen steigt aus dunkler Nacht;<lb/>
+				Freudig dankend werden wir dann jauchzen:<lb/>
+				Vater Du hast Alles wohl gemacht.<lb/>
+				Schläft am Tisch ein, das Feuster bleibt geöffnet.<lb/>
+				17. Scene.<lb/>
+				(Matter Mondschein und das Licht am Feuster oben beleuchten die Bühne.)<lb/>
+				Hans.<lb/>
+				Hans allein. De Schimmel wären satt, nu künn de Fahrt los gan.<lb/>
+				- 32<lb/>
+				Horcht an Barko's Fenster. De Oll de schnarcht, dat sich de Balken bögen, de<lb/>
+				hört niks mehr, doch Jumfer Marten hett noch Licht, de is woll von de<lb/>
+				Leevserklärung noch to upgeregt, dat se nich schlapen kann. Versucht leise die<lb/>
+				Thür des Seitenflügels zu öffnen. De Döhr is togeriegelt, na daför weet wi<lb/>
+				Nath, dat Finster steht ja apen, da stieg ick ganz sacht rin, un riegel<lb/>
+				mi denn up; de Dern steck ick min Taschendook in'n Mund, dat s' nich<lb/>
+				Allarm kann schlagen, un denn gehst Du heidi mit Hans, min Schatz;<lb/>
+				Du sast mi woll pareer'n, wenn ick Di man erst hebb, wo ick Di hen¬<lb/>
+				bring'n will. Horcht erst wieder an Barko's Thür, dann nach oben schauend. Dat Licht<lb/>
+				brennt immer noch, se kann doch nich mehr waken, ick möt doch enmal<lb/>
+				sehen. Steigt auf den Baum und sieht von dort in's Fenster. Dat hebb'ck mi dacht,<lb/>
+				da sitt s' mit ehr Gesangbook noch an'n Disch, un is recht schön inschlapen,<lb/>
+				as dat schient. Jitzt spann ick an. Klettert herunter, der unterste Zweig bricht mit<lb/>
+				großem Geräusch ab, Haus hält sich mit den Händen oben und hängt frei in der Luft. Dunner¬<lb/>
+				wetter, wat is dat? hett denn de Düwel hüt sin Spill!<lb/>
+				18. Scene.<lb/>
+				Hans. Barko.<lb/>
+				Barko mit Nachtmütze sieht aus dem Fenster. Wat wär denn dat för'n<lb/>
+				Krach, wem is denn da? Hans Du? wist Du Di uphäng'n da; wat<lb/>
+				sall denn dat bedüden? Ick denk, Du bist up't Vörwark danzen, wat<lb/>
+				mökst Du denn da up den Boom?<lb/>
+				Hans. O Herr, niks! garniks, ick harr son Döst, ick wull mi<lb/>
+				hier man en Paar Beren plücken.<lb/>
+				Barko. Na nu, midden in de Nacht? schämst Du Di nich, de<lb/>
+				Beren sind ja noch nich mal ganz riep, Du Läketähn. Legg Di in't<lb/>
+				Nest, wi warrn uns morgen spräken. Schlägt das Feuster zu.<lb/>
+				19. Scene.<lb/>
+				Hans.<lb/>
+				Hans läßt sich an der Zeugleine vom Baume herunter. Nee dat ward woll<lb/>
+				niks warrn, morg'n bin ’ck nich mehr to spräken, Du olle Grieskopp Du.<lb/>
+				Verdammte Streich, jitzt möt ick loch noch töben, bet he wedder schlöppt.<lb/>
+				Nach oben sehend. Dat Frölen is woll ja nich munter word'n, súnst harr<lb/>
+				se sich woll mellt. Pflückt von dem Zweig einige Früchte und steckt sie ein. Nu kann<lb/>
+				ick Ber'n statt Rosen plücken. Man hört aus der Ferne einen Hahn krähen. Ver¬<lb/>
+				dammt, de Hahn kreit all, ick kann nich länger töven, dat ward gliek<lb/>
+				Dag. Wirft den Zweig bei Seite. Jitzt spann ick an un hol de Lerrer her,<lb/>
+				in de Tied ward de Oll' woll wedder schlapen. Ab nach Uinks.<lb/>
+				33<lb/>
+				20. Scene.<lb/>
+				Fritz allein.<lb/>
+				Fritz im Reise=Anzuge, von links kommend, singt:<lb/>
+				No. 7. Einläge.<lb/>
+				Wie ruhet die stille Natur!<lb/>
+				Heimathliche friedliche Flur<lb/>
+				Verschleiert der Thau;<lb/>
+				Des Schlummers balsamisches Weh'n<lb/>
+				Durchhauchet die Thäler und Höh'n<lb/>
+				Im schweigenden Gau.<lb/>
+				Dir bring', mit melodischem Klang,<lb/>
+				Ich Liebchen den Morgen=Gesang,<lb/>
+				So Wonne, wie Pein.<lb/>
+				Was glüht mir im Herzen, vertraut<lb/>
+				So gern ich Dir; liebliche Braut,<lb/>
+				O werde bald mein.<lb/>
+				Frisch athmen die Lüfke und wehn<lb/>
+				Des Nebels verhüllende Seen<lb/>
+				Zur Erde hinab.<lb/>
+				Und was sie verhüllet, entstrebt,<lb/>
+				Vom röthlichen Schimmer umwebt,<lb/>
+				Dem wolkigen Grab.<lb/>
+				Es klatscht mit den Flügeln und bläht<lb/>
+				Sich stolz schon im Hofe und kräht<lb/>
+				Ermunternd der Hahn:<lb/>
+				„Auf, Schläfer! ihr Schläfer, erwacht!<lb/>
+				„Dahin ist die träumende Nacht,<lb/>
+				„Der Morgen bricht an."<lb/>
+				Wie wird mir die Seele so frei!<lb/>
+				Wie fluthet das Leben so neu<lb/>
+				Mir tief in der Brustt<lb/>
+				Es feiert und danket und preis't,<lb/>
+				Vereint mit dem Liebchen, mein Geist<lb/>
+				In seliger Lust.<lb/>
+				Spricht: Ich komme noch zu früh, der Postillon hat gut gefahren, was<lb/>
+				nun? Unmöglich kann ich jetzt schon stören; Spazieren gehn, dazu bin<lb/>
+				ich zu müde. Zieht seine uhr. Erst halb vier, hm. „O Röschen! wenn Du<lb/>
+				— 34 -<lb/>
+				wüßtest — doch still, ich darf mich ja noch nicht verrathen. Aber was<lb/>
+				beginn' ich nur. Ei was, ich werde den Sonnen=Aufgang hier erwarten;<lb/>
+				die Luft ist nicht zu kühl und übrigens schützt vor Erkältung mich mein<lb/>
+				Plaid. Auf die Bank deutend. Da ist ja Röschen's Lieblingsplatz, wovon sie<lb/>
+				mir geschrieben, den werde ich einstweilen annectiren. Setzt sich, im Begrisf eine<lb/>
+				Eigarre anzuzünden: Horch! Pferdegetrappel, was ist das! In die Coulisse blickend:<lb/>
+				Ein Wagen wird bespannt, so früh, was hat das zu bedeuten? — Zür<lb/>
+				Arbeit auf dem Felde ist's doch noch zu finster, auch ist ja heute<lb/>
+				Erntefest. Vielleicht verreist der Vater; doch heute? Nein, das thut er<lb/>
+				nicht — — auch müßte dann schon Licht und Leben hier im Hause sein.<lb/>
+				Horch! Schritte, man kommt hierher, ei, da will ich doch sehen.<lb/>
+				Setzt sich auf die Bank, so daß der Baumstamm ihn verdeckt.<lb/>
+				21. Scene.<lb/>
+				Fritz. Hans.<lb/>
+				Hans mit einer Leiter. So min Schatz, nu is't de höchste Tied.<lb/>
+				Setzt die Leiter an Rosa's Fenster, steigt leise hinein.<lb/>
+				Fritz. Ei, ei! was wird denn das? der Hans hat wohl ein<lb/>
+				Liebchen, das wird ja intressant. Greift nach dem Glockenstrang. Fast möcht' ich<lb/>
+				ihm den Spaß verderben und die Glocke ziehen, ein kleiner Schreck dürfte<lb/>
+				ihm nicht schaden. Hält unschlüssig den Strang. Das Licht oben hat Haus fortgenommen.<lb/>
+				22. Scene.<lb/>
+				Vorige. Rosa. Später Barko.<lb/>
+				Rosa hinter der Scene, schreit auf: Wer ist denn hier? ein Dieb!! Vater<lb/>
+				Barko! zu Hilfe! zu Hilfe! Vater Barko!<lb/>
+				Fritz. Mein Gott, das muß doch Nöschen's Stimme sein; der<lb/>
+				Schuft will sie entführen! Röschen ich komme!! Schleudert den Strang von<lb/>
+				sich, so daß die Glocke von der Erschütterung ein Paar mal anschlägt, stürmt gleichzeitig die Leiter<lb/>
+				hinan dem Haus nach durch das Fenster, rufend: Hallunke, was beginnst Du hier?<lb/>
+				Rosa's Stimme. Fritz Du? O Gott sei Dank! Dich schickt<lb/>
+				der Himmel.<lb/>
+				Hans Von innen. Verdammt! Rüttelt unten von innen an der Thür, bis sie<lb/>
+				auffliegt und stürzt hinaus. In demselben Augenblick kommt Barko aus dem Hause, Beide rennen<lb/>
+				aneinander und stürzen, Hans springt über Karko hinweg und entflieht.<lb/>
+				Fritz innen. Halt ihn! Hattet den Dieb, er will mit dem Fuhrwerk<lb/>
+				fort; ihm nach Vater! Kommt aus dem Seitenflügel und eilt mit Barko ab, dem<lb/>
+				Hans nach.<lb/>
+				23. Scene.<lb/>
+				Rosa allein.<lb/>
+				Rosa kommt noch völlig wie vorher gekleidet, jedoch mit aufgelöstem Haar ebenfalls aus<lb/>
+				dem Seitenflügel, sofort nach der Glocke stürzend und läutend, bis man plötzlich aus der Ferne<lb/>
+				einen dumpfen Kanonenschlag hört.<lb/>
+				Ah jetzt wird der Festzug von dem Vor¬<lb/>
+				35<lb/>
+				werk kommen, die Schnitter haben das Läuten ganz falsch gedeutet, nun<lb/>
+				auch gut, will der Schurke entfliehen, so läuft er ihnen grade in die<lb/>
+				Arme. Ah Vater Barko! Geht Barko und Fritz entgegen.<lb/>
+				24. Scene.<lb/>
+				Rosa. Barko. Später Fritz.<lb/>
+				Barko. (Es beginnt zu tagen.) Min armes Kind! Hest Di woll<lb/>
+				schön verfiert? Na lat man sind, de Lümmel is nu weg, un ward uck<lb/>
+				woll nich wedder kamen, un kümmt he mi, häng ick em up, de Bengel<lb/>
+				is niks Bäters werth. Harr ick dat ahnen künt.<lb/>
+				Fritz. Das Fuhrwerk ist in Sicherheit, doch von dem Hans ist<lb/>
+				jede Spur verschwunden.<lb/>
+				Barko. Lat em tum Düwel gan, ick mag emn nich mehr sehen.<lb/>
+				Doch wo kümmst Du hierher? Erklär mi doch -<lb/>
+				Fritz heiter und eifrig. Mich hat ein Gott gesandt, den Engel hier zu<lb/>
+				schützen.<lb/>
+				Barko lächelnd. So? dat hev ick uck noch nich wüßt, dat Gott Di<lb/>
+				brukt, sin Engel to behöden, woher kennst Du denn dissen Engel hier, he?<lb/>
+				Fritz Barko's Hand ergreifend, Rosa an sich ziehend. Vergieb mir, lieber Vater,<lb/>
+				Röschen ist ja längst schon meine Braut und eben jene Städterin, die<lb/>
+				Du durchaus nicht sehen wolltest, ich brachte sie hierher, damit Du sie<lb/>
+				näher möchtest kennen lernen, und hoffe nun, daß Du Dich überzeugt,<lb/>
+				welch<lb/>
+				einen Engel mir der Himmel hat beschieden.<lb/>
+				Barko. So, kiekt mal an, also Comedg hebbt Ji mit mi spält.<lb/>
+				Fritz zugleich kuicend mit Rosa. Verzeihung, lieber guter Vater, uns<lb/>
+				blieb kein ander Mittel übrig.<lb/>
+				Barko. Na nu is’t nooch, nu staht mån up, den Braden hev<lb/>
+				ick raken, ick wüßt all lang Bescheed, un is uck Alles na minen Wunsch,<lb/>
+				de Dern is good, de kannst du't blot verdanken dat ick die de Comedg<lb/>
+				nich anners utbetahl; nu staht man up!<lb/>
+				Rosa. Nicht eher, Vater Barko, bis Ihr unsern Bund gefegnet.<lb/>
+				(Man hört aus der Ferne näher kommende Musik)<lb/>
+				Barko. Na gevt Ju man de Hand, den Segen mag uns Herrgott<lb/>
+				geben. Staht up, ick kann dat Kneen nch lieden, zu Nosa: kumm her min<lb/>
+				Kind, hier is Din Platz. Zieht sie an sich, ihr die Stirne küssend. Du bist en<lb/>
+				goode Wirthin, ick denk min Angerhof de kümmt in goode Hän'n, zu Fritz:<lb/>
+				Ii blieben hier, ick treck nat Vörwark rut. Doch nu noch ent: Leevt<lb/>
+				Ju un küßt Ju up hochdütsch ümmerto, so vel Ji willen, doch mit mi<lb/>
+				möt Ii plattdütsch reden, sünst bin ick nich för Ju to spräken.<lb/>
+				Rosa. Fritz. Umarmen stürmisch gleichzeitig Barko. (Die Musik ertönt näher,<lb/>
+				es wird Tag.)<lb/>
+				36<lb/>
+				Barko. Na drückt mi man nich dood, ’t is all a good, nu lat't<lb/>
+				mi man tofreden. Hört de Musik, de kam'n vont Vörwark all, ha, ha, ha!<lb/>
+				De hebb'n dat Klockenlüden för min Signal utdüdt. Nu makt Ju man<lb/>
+				parat, hüt gifft en dubbelt Fest, Austköst un Ju Verlobung. (Hurrah¬<lb/>
+				Rufe hinter der Sceue.) Se kamen all. Herrgott ick hebb jo noch keen<lb/>
+				Stäwel an, ick möt doch — — schnell ab ins Haus.<lb/>
+				25. Scene.<lb/>
+				Nosa, Fritz<lb/>
+				Fritz. Dem Himmel sei Dank, es ist gelungen! O Röschen,<lb/>
+				umarmt sie ich hätte es nicht gegläubt, wie soll ich Dir danken, Du liebes,<lb/>
+				herziges Mädchen, der Vater ist wie umgewandelt. O welch unendlich<lb/>
+				Glück.<lb/>
+				Rosa. Mein lieber, guter Fritz, doch zu Erklärungen ist jetzt<lb/>
+				keine Zeit, der Festzug naht, mein Gott, ich muß mein Haar erst ordnen.<lb/>
+				Fritz. O nicht doch, liebes Kind, Du siehst so reizend aus, laß<lb/>
+				mich mit diesen Locken spielen, sie kleiden Dich so allerliebst, Du solltest<lb/>
+				sie immer so tragen, wie herrlich wird Dir doch der Brautkranz stehen.<lb/>
+				Rosa in die Coulisse blickend. Sieh! sieh! Dort kommt die Krone!<lb/>
+				Platz, Platz! Zieht ihn mit sich in die Nähe des Baumes, wo sie den Festzug übersehen können.<lb/>
+				26. Scene.<lb/>
+				Vorige. Jochen. Michel. Grete. Liese. Musikanten.<lb/>
+				Knechte und Mädchen. Später Barko.<lb/>
+				Unter Hurrah und Hochrufen marschirt der Festzug auf, die Musikanten vorauf. Dann Jochen mit der,<lb/>
+				aus Aehren, Blumen und bunten Bändern herstegellten Erntekrone, welche er auf einer ebenfalls bunt<lb/>
+				bebänderten Heugabel trägt, ihm zur Seite Grete, eine verzierte Harke tragend mit einer Guirlande,<lb/>
+				deren Enden zusammen gebunden, so daß dieselbe einen großen Kranz bildet; Knechte und Mädchen folgen,<lb/>
+				alle mit verzierten Sicheln, Heugabeln und Rechen versehen. Nachdem der Zug einen — nach dem<lb/>
+				Zuschauerraum etwas geöffneten — Halbkreis vor dem Hause gebildet, dem sich Fritz und Rosa ange¬<lb/>
+				schlossen, nimmt Michel die alte, über der Hausthür befindliche Erntekrone herunter, Jochen hängt sofort<lb/>
+				die neue Krone auf und gebietet dann den Musikern Schweigen.<lb/>
+				Barko jetzt aus dem Hause tretend. Willkommen Kinner!<lb/>
+				Jochen. Uns' Husherr, Vatter Barko, sall leben hoch! Vivat hoch!<lb/>
+				Chor. Hoch! hoch! hoch Tusch.<lb/>
+				Grete nähert sich Barko mit der Kranz, folgende Strophen declamirend:<lb/>
+				„Die Scheuern find voll Garben,<lb/>
+				„Die Pflug und Sens' erwarben,<lb/>
+				„Gott lohnte unsern Fleiß.<lb/>
+				„Wir bringen nun im Festgesang<lb/>
+				„Den Erntekranz mit Sensenklang<lb/>
+				„Und trocknen unsern Schweiß.<lb/>
+				„Dem Hausherrn=Glück und Segen<lb/>
+				37<lb/>
+				Barko unterbrechend: Hollt, stopp! Kinner, doht mi den enzigen<lb/>
+				Gefallen un verschont mi mit Jugen hochdütschen Kram, dat is doch<lb/>
+				good gemeint. Erlauvt mi, dat ick Ju erst 'ne lütte Red up mine Art<lb/>
+				darf hollen. Paßt up un hört to: Ehri, unsen Herrgott to Ehren,<lb/>
+				dat hütige Fest beginnen, möt ick Ju seggen, dat ick gistern den letzten<lb/>
+				Dag Herr up den Angerhof west bin.<lb/>
+				Alle. Wat? Wat seggt he?<lb/>
+				Barko. Ruhig da! latt mi útreden. Von hüt an hett min<lb/>
+				Steefsöhn, Fritz Kaiser, hier as Herr von den Angerhof to kum¬<lb/>
+				mandern. Alles wat ick noch von Ju beanspruch, is, dat Ji minen<lb/>
+				Fritz eben so tru un flietig in allen Sbistahn mögt, as Ji bi mi<lb/>
+				dat dahn hebbt, woför ick Ju hiermit minen Dank utspräk. Noch ens:<lb/>
+				Ii möt uck weeten, dat Ji nu bald wedder ene junge schmucke Fru<lb/>
+				up'n Angerhof begrüßen könt, wi warren hüt en dubbelt Fest fiern,<lb/>
+				denn de jung Herr ward sich up minen Wunsch noch hüt mit uns<lb/>
+				Jumfer Marten hier verloven. Nimmt Rosa bei der Hand und führt sie zu Fritz<lb/>
+				Kamt her, Kinner, un nehmt mine Stell jitzt in. Führt Beide in den Kreis.<lb/>
+				Uns' Herrgott gev Ju Glück un Segenl Sol-un nu, Greten, will'n<lb/>
+				wvi Dinen Kranz hüt mal ens up ananwenden, kumm her un<lb/>
+				help! Beide bekränzen das Paar, auch Liese springt herbei und hilft.<lb/>
+				Jochen. Hurrah dat Brutpaar sall leven! Vivat hoch!<lb/>
+				Chor. Hoch! hoch! Tisch.<lb/>
+				Von dem Tusch geht die Musik zu de. Melodie „Wir minden Dir den Jungfern=Kranz" über.<lb/>
+				Schlußgruppe mit Tanz.<lb/>
+				Der Vorhang fällt.<lb/>
+				Ende.<lb/>
+				Das Recht der öffentlichen Ar,<lb/>
+				vom Verfasser, E. Keller in Pyritz,<lb/>
+		</body>
+	</text>
+</TEI>

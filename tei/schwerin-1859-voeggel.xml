@@ -1,0 +1,1227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="id_schwerin-1859-voeggel" xml:lang="nds">
+	<teiHeader>
+	    <fileDesc>
+	      <titleStmt>
+	        <title fldid="title">V&#246;ggel-Sproack un Snack oder : Was die V&#246;gel klein und gross im Fr&#252;hjahr in der Altmark singen und sagen ; in plattdeutsche Reimverse gebracht</title>
+	        <author fldid="author">Fritz Schwerin</author>
+	        <respStmt>
+	          <resp n="transcription" fldid="transcription">Transkribus Print M1</resp>
+	          <resp n="revision" fldid="revision">n/a</resp>
+	          <resp n="normalization" fldid="normalization">n/a</resp>
+	          <resp n="tagging" fldid="tagging">Christian Chiarcos, University of Augsburg, Germany</resp>
+	        </respStmt>
+	        <!--funder fldid="funder"></funder-->
+	      </titleStmt>
+	      <sourceDesc>
+	        <biblStruct>
+	          <monogr> 
+	            <author fldid="monauthor">Fritz Schwerin</author>
+	            <title fldid="montitle">V&#246;ggel-Sproack un Snack oder : Was die V&#246;gel klein und gross im Fr&#252;hjahr in der Altmark singen und sagen</title>
+	            <edition fldid="monedition">in plattdeutsche Reimverse gebracht</edition>
+	            <imprint>
+	              <publisher fldid="monpublisher">Eyraud</publisher>
+	              <pubPlace fldid="monplace">Neuhaldensleben</pubPlace>
+	              <date fldid="mondate">1859</date>
+	            </imprint>
+	          </monogr>
+	        </biblStruct>
+	      </sourceDesc>
+	    </fileDesc>
+	    <profileDesc> 
+	      <particDesc> 
+	        <listPerson> 
+	          <person id="fritz-schwerin">
+	            <name fldid="personname">Christoph Friedrich (Fritz) Schwerin</name>
+	            <birth fldid="birth" when="1829">
+	              <placeName fldid="birthplace" geo="52.7075 11.0409">Rohrberg bei Beetzendorf in der Altmark</placeName>
+	              <date fldid="birthdate">1829-01-02</date>
+	            </birth>
+	            <death when="1870">
+	              <placeName geo="52.2623 11.2545">Altenhausen</placeName>
+	              <date>1870-05-23</date>
+	            </death>
+	            <langKnowledge>
+	              <langKnown n="first" tag="deu"/>
+	              <langKnown n="native" tag="nds"/>
+	            </langKnowledge>
+	            <sex fldid="sex" type="m"/>
+	            <age fldid="age">30</age>
+	            <occupation fldid="personoccupation">Lehrer</occupation>
+	            <residence fldid="personresidence">Altenhausen</residence>
+	            <nationality fldid="nationality" key="DE"/>
+	          </person>
+	        </listPerson>
+	      </particDesc>
+	      <langUsage>
+	        <language fldid="textlang" ident="nds" dir="ltr"/>
+	      </langUsage>
+	      <textDesc>
+	        <channel fldid="textchannel" mode="written"/>
+	        <domain fldid="textdomain">poems</domain>
+	      </textDesc>
+	    </profileDesc>
+	    <encodingDesc>
+	      <projectDesc id="NMK">
+	        <title fldid="Nordm&#228;rkisch-Mittelpommersches Korpus (NMK)"/>
+	        <leader fldid="projectleader">Christian Chiarcos</leader>
+	        <desc fldid="projectdesc">Aufbau eines Korpus zur Dokumentation des Nordm&#228;rkischen sowie des nah verwandten Mittelpommerschen in Sachsen-Anhalt, Brandenburg, Vorpommern und dem heutigen Polen.
+	        Chiarcos, C. (2026). Towards the Morphological Annotation of North Markian (Low German). In Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026) (pp. 11699&#8211;11714). European Language Resources Association (ELRA). https://doi.org/10.63317/54xnswqy73gs.
+	        </desc>
+	      </projectDesc>
+	      <editorialDecl fldid="editorialdecl">
+	        Automatische OCR des Textteiles ohne manuelles Postprocessing. Automatisiertes POS Tagging.
+	      </editorialDecl>
+	    </encodingDesc>
+	  </teiHeader>
+	
+	<text>
+		<body>
+				<pb facs="../img/schwerin-1859-voeggel/0001.jpg"/>
+				In'n Fröhjoahr, in ’n Fröhjoahr hew oft ick all hört,<lb/>
+				Wat sick de Vöggel hebb'n stimeleert;<lb/>
+				De singet lut, de singet lies'<lb/>
+				En jerer singt noa siener Wies';<lb/>
+				Se snacken *) oock so mäncherlei<lb/>
+				Van Boom un Nest un Busch un Ei.<lb/>
+				Ick will mi nu moal unnerstoahn<lb/>
+				To segg'n, so goot as et will goahn,<lb/>
+				Ar'n ganzen Snack<lb/>
+				Up Boom un Dack,<lb/>
+				Jn Hoff un Feld,<lb/>
+				In d' wiede Welt,<lb/>
+				Dänn*) Fro un Mann<lb/>
+				Doa gäwen an.<lb/>
+				De Hoahn mit de Höhner.<lb/>
+				De Hoahn mit siene Froenslü<lb/>
+				Sitt in de Sunn': „Wat frei*) ick mi!<lb/>
+				„Dät is moal warm, dät is moal schön!<lb/>
+				„De Dag is prächtig antosehn!<lb/>
+				„Kükkerüküh! —<lb/>
+				Kükkerüküh!<lb/>
+				„Zucker is dür!*) — Zucker is dür!<lb/>
+				„Joa — joa — joa! —"<lb/>
+				Un een oll Klück sägt: „Nee — nee — nee! —"<lb/>
+				„Wat sägst du doa, wat was't?" — röpt he -<lb/>
+				„All'ns in de Welt, — doch Wärrersproak<lb/>
+				„Verdroag ick nich, loat dienen Snack.<lb/>
+				*) sprechen. *) Gespräch. *) den. *) freue. *) theuer.<lb/>
+				<pb facs="../img/schwerin-1859-voeggel/0002.jpg"/>
+				4<lb/>
+				„Tuck — tuck — tuck!<lb/>
+				„Kluck — Kluck — Kluck!“<lb/>
+				He lockt sien' Fro'nslü all tosamm'n,<lb/>
+				't sünd schöne Köärn *) un annern Kroam.<lb/>
+				De Hoahn dät is en Ehemann<lb/>
+				As he mütt sin; he lett nicht ran<lb/>
+				De Annern, he fritt sülm nich moal<lb/>
+				Un geiht bloß ümmer up un doal;<lb/>
+				Am as d'Schandarr wenn ’t Joahrmarkt is,<lb/>
+				So paßt he up, dät is gewiß.<lb/>
+				He jögt dänn ollen Sperlingshoahn;<lb/>
+				De Duw*) de lett he mit heran.<lb/>
+				De Duw de dreiht sick ümmer rum,<lb/>
+				Se moakt sick dick, de Hals ist krumm:<lb/>
+				Rrrruhkopp!<lb/>
+				„Rrrruhkopp!"<lb/>
+				„Häst die nich kämmt, flecht dienen Zopp!<lb/>
+				—<lb/>
+				„Rrrruhkopp! — Rrrruhkopp!<lb/>
+				„I Voarer, det lettst du di beed'n?<lb/>
+				„Doa soll'n joa glieck... di will ’k ’t verleed'n!*)<lb/>
+				„Ne so wat kann ick nich verdroag'n,<lb/>
+				„Wutt*) du nich, denn will ick se joag'n,"<lb/>
+				So röppt en Hohn, — mit eenen Ruck<lb/>
+				Springt s' up de Duw, „oll' ruppig Kluck!"<lb/>
+				Sägt de noch rasch, denn flügt s' up 't Dack:<lb/>
+				„Wat will denn man dät Höhnerpack!<lb/>
+				„Rrrruhkopp! — Rrrruhkopp!<lb/>
+				Rrrruh¬<lb/>
+				kopp!<lb/>
+				„t is richtig, sägt de Hushoahn nu,<lb/>
+				„De Döäwerk*) hölt nich Frä un Ruh;<lb/>
+				„Kumm du mi hier wår up dänn Hoff,<lb/>
+				„Denn werr ick öäwer äklich groff!<lb/>
+				„Nu süh, wenn ’n to gotwillig is,<lb/>
+				„Halw liederlich is ’t all gewiß;<lb/>
+				„Dänn Arger kunnst du di all spoar’n,<lb/>
+				„Hast du moal ehr en Wort verloar'n,<lb/>
+				*) Körner.<lb/>
+				*) auf und nieder,<lb/>
+				*) Taube. *) Rauhkopf.<lb/>
+				*) bieten. *) verleiden. *) willst. *) Täuberich.<lb/>
+				<pb facs="../img/schwerin-1859-voeggel/0003.jpg"/>
+				5<lb/>
+				Sägt se:.. „Nu, Mutter bist du still,<lb/>
+				„Röppt he, weil ick dät hebben will,<lb/>
+				„'t is woahr, an all un jerern Ort<lb/>
+				„Häst du doch ümmer ’t letzte Wort<lb/>
+				—<lb/>
+				„Kükkerüküh!<lb/>
+				„Glatt sünd mien Lü,<lb/>
+				Smär'n sick mit Fett,<lb/>
+				„Goahn all adrett,<lb/>
+				„Kämm'n sick so roar,*)<lb/>
+				„Pomoa in d' Hoar,<lb/>
+				„Kükkerrüküh! —"<lb/>
+				„Glatt sünd mien Lü.<lb/>
+				Noaher müdd'n d' Fro'n in 'n Kreis sick stell'n.<lb/>
+				Denn fang'n se an, sick to vertell'n:<lb/>
+				„Ringel — ringel — Rosenkranz,<lb/>
+				„Moak en Danz!<lb/>
+				„Up de Schoaperee<lb/>
+				„Steiht en Pott vull Klee.*)<lb/>
+				„Lütge*) Nötte, grote Nötte!<lb/>
+				—"<lb/>
+				„Lütge Rosin’n, grote Rosin'n!<lb/>
+				Denn flügt de Hoahn hoch up de Port*<lb/>
+				Un doa sett't he dänn Sang denn fort:<lb/>
+				„Kükkerüküh! — Kükkerüküh! —"<lb/>
+				Un knapp") hät he dät Wort utsägt,<lb/>
+				Doa röppt en Kluck: „Nu hew ick lägt,<lb/>
+				„Nu hew ick lägt in 'n Höhnerstall,<lb/>
+				„Woll twintig Eier lä ick all:<lb/>
+				„Koakel — koakel— koakel— koakel d' Ei!<lb/>
+				„Koakel d' Ei! Koakel d' Ei!<lb/>
+				„Tritt ’t nich entzwei, tritt nich entzwei!“<lb/>
+				So röppt de Hoahn un rönnt gliek hen,<lb/>
+				Dät nee Ei sick to besehn.<lb/>
+				En Hoahn hät ook sie Voarerfrei<lb/>
+				Bi jeres frisch gelägte Ei;<lb/>
+				He kiekt et links un rechts sick an:<lb/>
+				„Dät is en Hoahn, dät is en Hoahn!<lb/>
+				*) schön. *) erzählen. *) Kleie. *) kleine. *) Pforte. *) kaum.<lb/>
+				<pb facs="../img/schwerin-1859-voeggel/0004.jpg"/>
+				Piet, *) nu wet ick ’t all!<lb/>
+				„Dät is keen<lb/>
+				„Denn kreiht he ruter ut dänn Stall:<lb/>
+				Kükkerüküh!<lb/>
+				„Kükkerüküh!<lb/>
+				De Oanten.<lb/>
+				De Oanten sitten up dänn Pool*)<lb/>
+				Un snacken, as heel'n se sick Schol';<lb/>
+				En fürchterlich Gesnoater<lb/>
+				Verföhr'n se up dät Woater.<lb/>
+				De een sägt: „Hier is ’t natt, natt, natt, natt!"<lb/>
+				De anner: „Un ’t schaft ook ümmer wat, wat, wat, wat!<lb/>
+				Un fräten hebb'n se, se künn'n bästen,<lb/>
+				Doch seh'n se d' Fro: „Nu Gästen, Gästen, Gästen,<lb/>
+				Gästen!*)<lb/>
+				So ropen se, un schütt't se ’t hen,<lb/>
+				Denn soll moal eener ’t Leben sehn!<lb/>
+				Doa sägt d' oll Wännäck:*) „Wat is dat,") dat, dat,<lb/>
+				„Drinkt to doch nat, nat, nat, nat!"<lb/>
+				dat!<lb/>
+				„Süß*) kann de Spies' ju goar nich deh'n,<lb/>
+				„Je werd'n et sehn, je werd’n et sehn!<lb/>
+				Un doamit wackelt he vöäran,<lb/>
+				Und jerer noa so hill*) he kann.<lb/>
+				Se drinken ut dänn Pool doato.<lb/>
+				„Nu is een'n annerst wär to Mo"<lb/>
+				So sägt de Wännäck, — he is heesc<lb/>
+				„Ick har vöär Tied'n sönn olle Wäsch,<lb/>
+				„De sä: „Jung, wärst nu bald en Mann,<lb/>
+				„Du glöwst nich, wat 'n loaten kann,<lb/>
+				„Wenn langsoam fritt un moal ens töwt,<lb/>
+				12<lb/>
+				„Ick hew mi dät all nog utpröw<lb/>
+				„Vergitt oock ’t Drinken nich doabi,<lb/>
+				„Denn kannst verdau'n, dät segg ick di,<lb/>
+				De Oantendokter heel noch d' Rä,<lb/>
+				Wat siene olle Wäsch äm sä;<lb/>
+				*) Hühnchen.<lb/>
+				*) Gersten.<lb/>
+				3) bersten.<lb/>
+				2) Pfütze.<lb/>
+				*) Entrich,<lb/>
+				10) Tante,<lb/>
+				3) rasch.<lb/>
+				Erpel.<lb/>
+				das.<lb/>
+				sonst.<lb/>
+				heiser.<lb/>
+				Verwandte. 1) wartet. 2) ausprobirt,<lb/>
+				<pb facs="../img/schwerin-1859-voeggel/0005.jpg"/>
+				De Oanten hör'n de Hälfte nich,<lb/>
+				Dänn Gästen han s' man up 'n Strich:<lb/>
+				Se weer'n all lang bi ’t Furrer wär,<lb/>
+				De Wännäck keem ook hinnerher.<lb/>
+				Doa was dät ganze Chor nu dick,<lb/>
+				Doa recken s' sick, doa stroakeln*) sick,<lb/>
+				Doa hojoahn*) s' un legg'n lang sick hen<lb/>
+				Un dohn är'n Anzug moal besehn.<lb/>
+				'n poar Färrern plücken s' noch torecht,<lb/>
+				Denn sägt de Wännäck: „Ne nich schlecht<lb/>
+				„Hät mi dät schmeckt, zwoar kann ’k nich kloag'n,<lb/>
+				„Mien Läwdoag dä mi d' Hunger ploag'n;<lb/>
+				„As w’klein weer’n, reepen w': Sniet!*) sniet! sniet!<lb/>
+				„Doch bald reckt*) dät föär uns nich wiet;<lb/>
+				Dunn lut*) et: Schärw,?) schärw, schärw, schärw<lb/>
+				Doa moakten we uns ümmer Werf,<lb/>
+				schärw!<lb/>
+				Wenn w' d' Fro seeg’n,<lb/>
+				jä dät is wat werth<lb/>
+				Wenn d' Furrer smeckt;<lb/>
+				je hebb'n, ’t doch hört?"<lb/>
+				de Oanten hör'n äm löäsig*) to,<lb/>
+				pptit hebb’n se just ebenso.<lb/>
+				oa geiht de Genter10) jüm vöärbi,<lb/>
+				se reckt dänn Hals: „Wer sitt denn hie?<lb/>
+				Jäh, — Oanten, — na sönn Oantenvolk<lb/>
+				Dät fritt doch groa äm as en Polk;<lb/>
+				Bi jüm geiht ’t up mien Genterwort<lb/>
+				Hroa, as ging ’t ümmer in Akkort;<lb/>
+				tu hebb'n s' sick hier dät Lief vullschloan,<lb/>
+				dät s' nich mehr Lust hebb’n, uptostoahn.<lb/>
+				o wierer döäg'n s' ook würklich nist;<lb/>
+				Le Gös', — na wecker schrift un list,<lb/>
+				de wät wat unse Färrern werth,<lb/>
+				n hät all Sprüchwör öäwer**) hört.<lb/>
+				egack! kegack! kegack, gack, gack, gack!<lb/>
+				önn'n dummen Snack, sönn'n dummen Snack!"<lb/>
+				Wännäck sägt ’t, „wo ’t mi nich jöäkt,<lb/>
+				*) wieder. 2) dehnen. *) gåhnen. *) schneide. *) reicht. *) lautet.<lb/>
+				7) gröber schneiden.<lb/>
+				) nachlaͤssig, traͤumend.<lb/>
+				8) Gewerbe.<lb/>
+				*2) drüber.<lb/>
+				1*) juckt.<lb/>
+				10) Gänserich. ") junges Schwein.<lb/>
+				<pb facs="../img/schwerin-1859-voeggel/0006.jpg"/>
+				8<lb/>
+				„Doa kratz 'k mi nich, wat he doa blöäckt,<lb/>
+				„Dät drippt uns nich, - sönn' Gös' sünd dumm - —<lb/>
+				Doamit dreiht he sick annerst rum<lb/>
+				Un stickt dänn Snoawel unner d' Flitk,*)<lb/>
+				Un denn so durt*) et noch en Lütk,<lb/>
+				Doa schlöppt he, un de Oanten ook;<lb/>
+				„Uns' Voarer is doch fährlich *) klook,<lb/>
+				„Sän s'*) noch vöärher, „he hät ’t äm geb'n,<lb/>
+				„Un is äm wiß nist schüllig bläb'n.<lb/>
+				De Hernotter.*)<lb/>
+				De langbeent Hernotter,<lb/>
+				De klappert up 't Dack;<lb/>
+				Wat hät ’t to bedüden?<lb/>
+				Na, moak man keen'n Snack,<lb/>
+				’t hät nist to bedüden;<lb/>
+				He steiht up een Been<lb/>
+				Un will sick de Gegend<lb/>
+				Moal wärrer besehn;<lb/>
+				De Pogg'n*) will he fangen<lb/>
+				Up Wischen*) un Moor;<lb/>
+				Dät Gras is wär wussen,<lb/>
+				He is man noch soor 10<lb/>
+				Van de Reis'; vöäle Milen<lb/>
+				Hät he ja ook moakt,<lb/>
+				Nu will he moal hören,<lb/>
+				Ob d' Poggen noch quoakt:<lb/>
+				„Varrersche, Varrersche<lb/>
+				backen Je?"<lb/>
+				„Wenn ehr backen Je<lb/>
+				„„Moarg n! Moargen.<lb/>
+				„Eck")-eck -eck ook! Eck, eck, eck, ook!"<lb/>
+				De langbeent Hernotter<lb/>
+				De klappert up ’t Dack:<lb/>
+				He hät woll wat sproaken,<lb/>
+				Ick kenn' ja sien'n Snack.<lb/>
+				*) gefährlich, sehr. *) sagtea<lb/>
+				2) Flügel. *) dauert.<lb/>
+				bellt.<lb/>
+				10) dürre.<lb/>
+				8) Wiesen<lb/>
+				*) gewachsen.<lb/>
+				*) Frösche.<lb/>
+				sie. *) Storch.<lb/>
+				1*) ich.<lb/>
+				12) Ihr.<lb/>
+				mager. 1) Gevatterin.<lb/>
+				<pb facs="../img/schwerin-1859-voeggel/0007.jpg"/>
+				9<lb/>
+				Un as he nog*) klappert,<lb/>
+				Doa tüht?) he doahen;<lb/>
+				De Kinner in 'n Döärpe<lb/>
+				Sing'n, as se äm sehn:<lb/>
+				„Hernotter, Hernotter, du Langebeen,<lb/>
+				„Woehr*) wutt du weggetehn?<lb/>
+				„Wenn de Rogge riep is,<lb/>
+				„Wenn de Pogge piep*) is,<lb/>
+				„Wenn de Woagen stille steiht,<lb/>
+				„Wenn de Plog*) to Felde geiht,<lb/>
+				„Wenn de Vöggel nicht mehr singen,<lb/>
+				„Wenn de blanken Doaler klingen.<lb/>
+				„Hernotter, Hernotter, du Luder,<lb/>
+				„Bring mi 'n kleinen Bruder;<lb/>
+				„Hernotter, Hernotter, du Ester,*)<lb/>
+				„Bring mi nklein Swester.<lb/>
+				De Sperling.<lb/>
+				An 't Hernotternest<lb/>
+				Sünd noch anner Gäst:<lb/>
+				De Sperling vull Moth<lb/>
+				Ar Hüsken hebb'n bo’t<lb/>
+				In d' Doarnen herin<lb/>
+				Ganz noa ären Sinn.<lb/>
+				Oll Sperlinghoahn<lb/>
+				Kiekt ruter, fangt an:<lb/>
+				„Olt Quartier! Olt Quartier!<lb/>
+				„Bin noch hier, bin noch hier!<lb/>
+				„Herr Hernotter! Herr Hernotter!<lb/>
+				„Nu gift ’t wärter *) Botter,<lb/>
+				„Nu bist du ook her,<lb/>
+				„Nu grön is de Ar.<lb/>
+				„In 'n Winter sost*) ’t sehn,<lb/>
+				„Doa mußt et to sneen!<lb/>
+				——<lb/>
+				*) genug. 2) zieht. *) wann. *) stille sein.) Pflug. *) Wohl<lb/>
+				nur des Reimes wegen. *) wieder. 3) solltest.<lb/>
+				<pb facs="../img/schwerin-1859-voeggel/0008.jpg"/>
+				—<lb/>
+				10<lb/>
+				„Ganz witt was dät Dack,<lb/>
+				„Dien Nest, Fack föär Fack,<lb/>
+				„Lag Allens vull Snee,<lb/>
+				„Hast sehn du, o weh!<lb/>
+				„Doa ging ’t mi ook roar,<lb/>
+				„Kannst ’t glöb'n, ’t is wiß woahr.<lb/>
+				„De Gälgeitsch*) kamm ook,<lb/>
+				„Un de is woll klook,<lb/>
+				„De freet oft mien Köärn,<lb/>
+				„Dät mußt ick woll spöärn;3)<lb/>
+				„Denn reep se de Fru:<lb/>
+				„Di mein ick, du, du,<lb/>
+				„Häst mi non nich moal en Kroom Brot geb'n!<lb/>
+				„Häst mi non nich moal en Kroom Brot geb’n!<lb/>
+				„Varrersche, Varrersche, wo is denn Jue*)<lb/>
+				[Marike?<lb/>
+				„Woll ick denn kloagen miene Noth<lb/>
+				„Denn reep de Gälgeisch allebott:*)<lb/>
+				„Lick, lick, lick, lick Fett!<lb/>
+				„Lick, lick, lick, lick Fett!<lb/>
+				„Sitt du man still doa up dänn Boarm'n,<lb/>
+				„Van di heet ’t: Jung jung, jung verdoarb'n!“<lb/>
+				„Kanallg'nvoggel?<lb/>
+				„De har keen Noth,<lb/>
+				„De satt in d' Stuw,<lb/>
+				„Har vullups) Brot!<lb/>
+				„He snackt man utländsch,<lb/>
+				„Französch mußt 't sin;<lb/>
+				„Ick kunn't nich kriegen<lb/>
+				„Noa ’n Kopp herin.<lb/>
+				„Süß oft woll he mi wat vertell'n<lb/>
+				„Un mi wat Noagelnees mell'n;<lb/>
+				„Wenn d' Herr de Zeitung lesen dä,<lb/>
+				„Denn snappt he up, wat de denn sä<lb/>
+				„To siene Fro, wo ’t stünn upzund;<lb/>
+				„Ick antwört denn, wat ick verstund:<lb/>
+				„'t is werth keen'n Schilling, Schilling!<lb/>
+				2) Goldammer. 3) spüren. *) Eure. *) alle-<lb/>
+				) knapp, důrftig.<lb/>
+				*) Kanarienvogel. *) vollauf. *) jetztund.<lb/>
+				„ mal. ) Brunnen.<lb/>
+				<pb facs="../img/schwerin-1859-voeggel/0009.jpg"/>
+				11 —<lb/>
+				„Up d' Zeitung, nee, doa gew ick nist,<lb/>
+				„t sünd to vöäl Löäg'n,*) de man da list,<lb/>
+				„Un wenn man hät dät Lief vull Löäg'n,<lb/>
+				„Dät kann nist döäg'n,*) dät kann nist döäg'n.<lb/>
+				„Kanallg'nvoggel, — ick treck dänn Hoot,<lb/>
+				„Een Deel*) gefällt mi man nich got:<lb/>
+				„In 'n Winter lägt 'n fröh sick hen,<lb/>
+				„Een kann ja ook am letzten Enn'<lb/>
+				„Nich mehr verdeen'n, denn et is kolt,<lb/>
+				„As dät 'n spoar'n deit Oäl un Holt;<lb/>
+				„Süß*) Moargens is ’n fröh to Been,<lb/>
+				„Denn werd vöär d' Schündäl*) moal hensehn.<lb/>
+				„Kanallg'nvoggel schlöppt den noch<lb/>
+				„Un drummelt*) bi sien'n vullen Trog,<lb/>
+				„He schlöppt so lang as ’t ichtens*) geiht,<lb/>
+				„Denn stimmt er erst sien Singefleit.<lb/>
+				„Na, 'k will äm moaken gro keen'n Bloam'n,<lb/>
+				„He hät ’t van d' Minschen sick annoahm’n.<lb/>
+				„Ick döärf doch wär woahn'n<lb/>
+				„Bi Exellenz Gnoad'n?<lb/>
+				„Ick hew doch hensehn<lb/>
+				„Noa ’t Nest; ’t kunn gescheh'n,<lb/>
+				„As d' grüliche Stoarm<lb/>
+				„Van 'n Kärkenthoarm)<lb/>
+				„Dänn Knoop runnerreet,<lb/>
+				„Dät to dienen Leed<lb/>
+				„Dien Nest ook ging fort<lb/>
+				„Doa hew ick up ’t Wort<lb/>
+				„Mi hensett't un holl'n<lb/>
+				„Mit noch en paar Oll'n;<lb/>
+				„Moakt we uns nich swoar,<lb/>
+				„Denn lag ’t up en Hoar.<lb/>
+				„Umsüß*) will 'k nich woahn'n<lb/>
+				„Bi Exellenz Gnoad'n:<lb/>
+				„Schilling! Schilling!<lb/>
+				*) Lügen.<lb/>
+				2) taugen.<lb/>
+				3) Theil.<lb/>
+				*) aber.<lb/>
+				Scheun¬<lb/>
+				diele, Tenne.<lb/>
+				*) schlummern, zwischen Schlaf und wachen sein.<lb/>
+				7) irgend.<lb/>
+				*) Kirchthurm.<lb/>
+				2) unsonst.<lb/>
+				<pb facs="../img/schwerin-1859-voeggel/0010.jpg"/>
+				12 -<lb/>
+				„Oll Snackwäsch, *) sast*) blieb'n,<lb/>
+				„Dien Wesen?) bedrieb'n<lb/>
+				Sägt drup de Patron,<lb/>
+				„'t soll wäsen*) dien Lohn.<lb/>
+				De Meesk").<lb/>
+				De Meesk sitt up dänn Lindenboom,<lb/>
+				Se schlütt*) de Oogen as in 'n Drom;<lb/>
+				Denn löppt s' wär rummer up dänn Ast:<lb/>
+				„Doanoa de Mann, doanoa de Quast;<lb/>
+				„Häst arbeit't du doa unn'n up d' Däl?<lb/>
+				„In d' Werkstä? ’t schafft woll nich mehr vöäl,<lb/>
+				„Schinkenspeck! Schinkenspeck!<lb/>
+				„Itt die erst satt, wasch af dänn Dreck.<lb/>
+				„Kiek in 't Ei! Kiek in 't Ei!<lb/>
+				„Schloa*) s' in d' Pann', dät is en Frei.<lb/>
+				„Ei in d' Pann' un Schinken to,<lb/>
+				„Wärst denn wärrer frisch to Mo.<lb/>
+				„Fritt d'’t Lief nich to vull Speck,<lb/>
+				„Döwelsdreck!<lb/>
+				— Döwelsdreck!<lb/>
+				„Dokterwoar'n de sünd to dür,<lb/>
+				„Sieh dich für! Sieh dich für.<lb/>
+				De Swöägelk.<lb/>
+				De Swöägelk is ook wärrer doa.<lb/>
+				Jä Swöägelk, noa Amerikoa<lb/>
+				Sünd Herr un Fro un Kind un All,<lb/>
+				Wo du hier vöärnt Joahr") woahnst an 'n Stall.<lb/>
+				Hem s' di denn nich in d' Möth") noch koam'n,<lb/>
+				As se ging'n af? Häst nich von boab'n<lb/>
+				Se sehn? ’t is non nich lang passeert,<lb/>
+				5) Meise.<lb/>
+				sein.<lb/>
+				*) sollst.<lb/>
+				*) Plaudertasche.<lb/>
+				) Wirthschaft.<lb/>
+				*) schließt.<lb/>
+				10) Schwalbe.<lb/>
+				theuer.<lb/>
+				Scheundiele. *) schlage.<lb/>
+				»2) begegnen. *) oben.<lb/>
+				1) im vorigen Jahre.<lb/>
+				<pb facs="../img/schwerin-1859-voeggel/0011.jpg"/>
+				13 —<lb/>
+				Dät se dänn Hoff hebb'n dismembreert.<lb/>
+				’t weer’n gode Lü, — bloß*) he woll fort,<lb/>
+				Gott seg'n jüm an är'n neen Ort!<lb/>
+				Müßt di nu ’n anner Bostä*) söken,<lb/>
+				D' Gebörer werd'n s' woll bald afbräken.<lb/>
+				Hörst nich dönn Rothßwanz? - „Dät segg ick:<lb/>
+				„Hüt' dick*) — dick — dick - dick - dick — dick!<lb/>
+				„Hüt' dick! — Hüt' dick! —<lb/>
+				De Swöägelk hört so traurig to:<lb/>
+				„Ach lewer Tied! so steiht et, so?<lb/>
+				„As ick weg tog, as ick wegtog<lb/>
+				„Weer’n alld Kisten un Kasten vull;<lb/>
+				„As ick wärrer kamm, as ick wärrer kamm,<lb/>
+				„Weer Allens ut;<lb/>
+				„Wenn 't jüm, wenn't jümman nichbelu—rrt!*)<lb/>
+				De Swöägelk bo't*) sick annerst up:<lb/>
+				„Klicke*) wie ick klicke, dät hölt!?<lb/>
+				„Klicke wie ick klicke, dät hölt!<lb/>
+				Un de Gebörer*) sünd doarup<lb/>
+				Bald wegnoahm’n, un de Lü vergäten;<lb/>
+				De Swöägelk hät noch öfter säten<lb/>
+				In ’n Boom doabi so Fro as Mann,<lb/>
+				Se seeg'n de wöste Stä*) sick an.<lb/>
+				„Nu Mutter, we hebb’n müdden bo’n,<lb/>
+				Sä he, „wat sall det Wunnern10) dohn?<lb/>
+				„Up hochdütsch heet ’t sentimentoal<lb/>
+				1<lb/>
+				12)<lb/>
+				„Kiek moal dänn Jung'n sien Büch<lb/>
+				) hendoal,<lb/>
+				„Mutter, müßt dänn Jung'n dänn Kittel flicken,<lb/>
+				Kittel flicken<lb/>
+				—<lb/>
+				„Mitwitt'n, swart'n, witt'n swart'n Zwirn!<lb/>
+				Denn flügt de Swöägelk moal noa ’t Feld,<lb/>
+				Süht, wo de Bur dät Land bestellt.<lb/>
+				„Wo kriegt 'n di denn moal to sehn?"<lb/>
+				*) nur.<lb/>
+				2) Baustelle.<lb/>
+				*) hüte dich!<lb/>
+				*) belauert, betrügt.<lb/>
+				5) baut. *) mit Lehm bauen.<lb/>
+				hält.<lb/>
+				8) Gebäude. *) wüste<lb/>
+				Stelle,<lb/>
+				10) klagen, lamentiren.<lb/>
+				t2) entlang.<lb/>
+				11) Hose.<lb/>
+				<pb facs="../img/schwerin-1859-voeggel/0012.jpg"/>
+				14<lb/>
+				So röppk de Lerk, „dät wett to kled'n,<lb/>
+				„Dien need Kamsol, — ach Varrersch joa,<lb/>
+				„Wat ick woll sejg’n, nu bist du doa:<lb/>
+				„De Froenslü, de sick hier ploag'n,<lb/>
+				„De sünd doch goar to nett antoag'n:<lb/>
+				„De Froenslü, de Froenslü,<lb/>
+				„Dedroag’ndochgoarto nüdlich, nüdlich, nüdlich<lb/>
+				De Swöägelk hört det All mit an,<lb/>
+				[Tüg.<lb/>
+				Denn lacht se los so as se kann:<lb/>
+				„Sost se moal sehn, wenn ick se seh,<lb/>
+				Des Moarg'ns, wenn ’t noa n Kohstall geiht,<lb/>
+				„Wenn ick se seh<lb/>
+				„Denn geiht ’t: de schlipp, de schlapp, de schlipp,<lb/>
+				de schlapp, de schlirrri.<lb/>
+				—<lb/>
+				De Tunkönig.<lb/>
+				Tunkönig röppt: „Zicker, zick, zick, zick!<lb/>
+				„De Vöggel König dät bin ick!<lb/>
+				„En Jerrer wett, van lange Tied<lb/>
+				„Befehl ick d' Vöggel wiet un siet.<lb/>
+				„De Vöggel keemn moal all tosamm'n,<lb/>
+				„To wähl'n en König, de är'n Kroam<lb/>
+				„Soll schlichten; de soll König sin,<lb/>
+				„De 'n höchsten flög noa d' Wulken rin.<lb/>
+				„De Kronen*) un de Kauken*) keem'n<lb/>
+				„Am höchsten noch; vöäl deeper*) bleb'n<lb/>
+				„De Gälgeisch, Boockfink, Spree*) un Specht,<lb/>
+				„De Grasmuck un dät Singgeschlecht.<lb/>
+				„Am höchsten nu van allen flog<lb/>
+				„De Oadler in de Wulken hoch.<lb/>
+				'k in 'n Swanz,<lb/>
+				„As he noch unn'n weer, krop<lb/>
+				„So moakt ick mit dänn ganzen Danz;<lb/>
+				„He flog noch ümmer högger to,<lb/>
+				„Mi woard doabi janz flau to Mo.<lb/>
+				„Allendlich sä er: Nu nich mehr!<lb/>
+				*) tiefer.<lb/>
+				2) Kraniche. 3) Dohlen.<lb/>
+				weit und breit.<lb/>
+				5) Staar. *) kroch.<lb/>
+				<pb facs="../img/schwerin-1859-voeggel/0013.jpg"/>
+				— 15<lb/>
+				„Süß koam ’k nich wärrer run *) noa d' Ar. 2)<lb/>
+				„Un as he wärrer runner flog<lb/>
+				„Doa reep ick: „Ne, ’t is non nich nog:<lb/>
+				„Zicker, zicker, zick, zick, zick, zick,<lb/>
+				„De Vöggel König, dät bin ick!<lb/>
+				„Un krop äm ut de Färrern*) rut<lb/>
+				„Un neiht*) henthög'n*) noch ’n ganz Bleck') ut.<lb/>
+				„De grote Oadler kunn nich mehr<lb/>
+				„Un flog wär runner noa de Ar:<lb/>
+				„Un as ick wärrer runner kamm,<lb/>
+				„Doa woard to ’n König ick annoahm’n.<lb/>
+				„Mien Jack un Büchs' is woll man brun,<lb/>
+				„Ook krup*) ick meistendeels in 'n Tun,<lb/>
+				„Doch rop ’k hüt noch: „Zicker, zick, zick, zick,<lb/>
+				„De Vöggel König dät bin ick!<lb/>
+				De Kukuk.<lb/>
+				De Kukut sitt ook up en Wi-<lb/>
+				Un röppt:<lb/>
+				„Ick will verännern"*) mi.<lb/>
+				Kukuk!<lb/>
+				„Kukuk!<lb/>
+				„Noa ullen Bruck<lb/>
+				„Wut du mi hebb'n?<lb/>
+				„Ick will di nehm’n.<lb/>
+				De Kukuksch röppt:<lb/>
+				„Kukuk! Speckbuk!")<lb/>
+				15)<lb/>
+				„Langnäs'! Dicksnut<lb/>
+				„Du bist sön Brorer Liederlich,<lb/>
+				Röppt se äm to, „di mag ick nich;<lb/>
+				„Häst"*) du Lust to dien Lief un Leb'n,<lb/>
+				„Denn wöärt noch so vöäl Sprießeln<lb/>
+				geb'n,<lb/>
+				„Döt we doavan en eigen Heerd<lb/>
+				„Uns bo'ten, de is Goldes werth.<lb/>
+				*) herunter.<lb/>
+				Erde. *) genug. *) Federn. *) rasch<lb/>
+				fliegen,<lb/>
+				Strecke. 8) braun.<lb/>
+				laufen.<lb/>
+				die Höhe.<lb/>
+				krieche.<lb/>
+				12) heirathen. 12) Brauch.<lb/>
+				Zaun.<lb/>
+				Weide.<lb/>
+				Speck¬<lb/>
+				1o) hättest.<lb/>
+				bauch, Fresser.<lb/>
+				Dickschnauze, Prahlhanz.<lb/>
+				") Reiser vom Baum.<lb/>
+				<pb facs="../img/schwerin-1859-voeggel/0014.jpg"/>
+				16<lb/>
+				Doa lacht de Kukuk, wat 'r kann:<lb/>
+				„Ne so wat hör moal eener an!<lb/>
+				„Wat dät doch ook föär Fron'slü gift,<lb/>
+				„Dät geiht*) doch öäwer Sproak un Schrift!<lb/>
+				„Dät we dät Nest van de Grasmück bruken,<lb/>
+				„Ick dächt', dät künn benoah*) woll rucken,<lb/>
+				„Dät is in 'n ringsten*) keen Fulheit,<lb/>
+				„Dät is en oll Gerechtigkeit.<lb/>
+				„Kukuk! Kukuk!" röppt he är to,<lb/>
+				„Denn sök*) ick mi en anner Fro.<lb/>
+				„Ne so wat kann ick nich anhör'n,<lb/>
+				„An di will ’k keen Wort mehr verleer'n;*)<lb/>
+				„Ick will woll noch en Kukuksch krieg'n,<lb/>
+				„Vöär di doa müßt ’k woll ümmer swieg'n.<lb/>
+				Un doamit flog he wierer hen;<lb/>
+				Un se hät denn am letzten Enn'<lb/>
+				Doch ook man bloß en Kukuk kräg'n*)<lb/>
+				Un mußt är'n ganzen Eheseg'n<lb/>
+				In frömde Nester unner bring'n;<lb/>
+				Van 'n Busch lett se ’t noch ümmer kling'n:<lb/>
+				„Kukuk! Speckbuk!<lb/>
+				„Langnäs'! Dicksnut!"<lb/>
+				De Kreih.*)<lb/>
+				„Kreih! Kreih!<lb/>
+				„O weih! O weih!<lb/>
+				So röppt de swarte Kreih,<lb/>
+				Nu sünd se Alltohop 1) wär her,<lb/>
+				„Wo nimmt nu unse Mutter Ar<lb/>
+				„Dät Furrer“) föär jüm"*) Alle her?"<lb/>
+				Doa steiht s' as en Propp<lb/>
+				Un schüttelt dänn Kopp:<lb/>
+				„Ick mag mi denken, wat ick will,<lb/>
+				s) beinahe. *) riechen. *) im geringsten.<lb/>
+				*) geht. *) gebrauchen.<lb/>
+				1o) Alle, Allzu¬<lb/>
+				*) suche.<lb/>
+				*) Krähe.<lb/>
+				verliren.<lb/>
+				gekrigt.<lb/>
+				12) sie.<lb/>
+				hauf. ") Futter.<lb/>
+				<pb facs="../img/schwerin-1859-voeggel/0015.jpg"/>
+				17<lb/>
+				Mien poar Gedanken stoahn all still;<lb/>
+				Wat will ’t noch werd'n? So Fro as Mann,<lb/>
+				„All Doag koam'n hier noch wehr wär an."<lb/>
+				Un d' Kauk*) de röppt: „Häst recht, recht, recht, recht!<lb/>
+				„Nu geiht 't uns All noch schlecht, schlecht, schlecht, schlecht!<lb/>
+				„Düt Joahr müdd'n w' leb'n bi Brot un Solt,<lb/>
+				„Kauk! kauk! kauk! kauk! - ick fleeg noa ’t Holt."<lb/>
+				„t werd Roath werd'n," sägt d' blau Ackermann,3)<lb/>
+				To d' Kreih, och Varrersch, süh moal an,<lb/>
+				„In 'n Winter hast du ’t Pree*) alleen,<lb/>
+				„Un hast doch ook nist up de Been;<lb/>
+				„Un ’t Furrer was doch ook man knapp,<lb/>
+				„Du häst dunnmoals so mänchen Lapp<lb/>
+				„Rinfräten, dånn du nu nich nimmst;<lb/>
+				„Ick wett nich, Varrersch, süh moal, kümmst<lb/>
+				„Du nich up unsen Herrgott moal?<lb/>
+				„De kennt de ganze Vöggeltoahl;<lb/>
+				„Van dänn nehm'n Alltohoop är Brot<lb/>
+				„Un doarum litt*) nich Eener Noth.<lb/>
+				„Trili, trili, trili!<lb/>
+				„Häst recht," sägt d' Kreih, „häst recht, upzund<lb/>
+				„Ging ’t mi in n Kopp ganz kunterbunt;<lb/>
+				„Hebb'n All nog! Hebb’n All nog!<lb/>
+				„Up d' Wisch, in ’t Holt un hinner ’n Plog.<lb/>
+				„Kreih! Kreih!<lb/>
+				„Dät is mien Frei:<lb/>
+				„Van Gott nehm'n Alltohoop är Brot<lb/>
+				„Un doarum litt nich Eener Noth.<lb/>
+				„t is goar nich schoa,<lb/>
+				„Dät All wär doa:<lb/>
+				„Ick wetten Brrroa!") Ickwetten Brrroa!“<lb/>
+				knoakendorre?""<lb/>
+				„„Knoakendorre<lb/>
+				„Sniggefett") - sniggefett!<lb/>
+				„„Wu-rr denn?*) Wu—rr denn?""<lb/>
+				*) Dohle. 2) Salz.<lb/>
+				*) Bachstelze, blaue.<lb/>
+				*) Recht, das Prä<lb/>
+				allein haben. *) Beine Gänse gehen überall barfuß.<lb/>
+				schlechtes<lb/>
+				o) durcheinander.<lb/>
+				jetzt.<lb/>
+				Futter. *) Vögelzahl. *) leidet.<lb/>
+				12) Braten.<lb/>
+				1) schade.<lb/>
+				3) knochentrocken.<lb/>
+				14) schneckenfett.<lb/>
+				13) wo denn?<lb/>
+				<pb facs="../img/schwerin-1859-voeggel/0016.jpg"/>
+				18 —<lb/>
+				Hinner dann<lb/>
+				„Hinner dann Barrrg!*)<lb/>
+				Barrrg!"<lb/>
+				Hierut kann 'n sehen so un so:<lb/>
+				De Vöggel kehr'n oft lichter to,)<lb/>
+				As d' Minschen dohn<lb/>
+				In ’t Gottvertro'n. -<lb/>
+				De Heister.*)<lb/>
+				De Heister mit dänn Wackelschwanz<lb/>
+				Hölt*) up dänn Tacken*) sienen Danz.<lb/>
+				De Heister, de Heister<lb/>
+				Röppt: „Ick bin de Meister!<lb/>
+				„Eck, eck, eck, eck!<lb/>
+				„Joa du, du, du, du,<lb/>
+				Antwört't sien Fru;<lb/>
+				„Du bist mien Mann,<lb/>
+				„Wat Keener kann,<lb/>
+				„Moakst*) du in ’t spring'n<lb/>
+				„Un Leerer*) sing’n.<lb/>
+				„Du bost*) so hoch in ’n Pöppelboom<lb/>
+				„En anner Voggel, — nich in 'n Droom<lb/>
+				„Bo't he so hoch und fast10) un schön,<lb/>
+				„Dät mütt doch woll en Jerer sehn.<lb/>
+				„De Heister springt dänn Tacken lang,<lb/>
+				„Dät is än goar to söten") Klang.<lb/>
+				„Fro, sägt r, „de oll Truddelduw<lb/>
+				„Woll sick ook bo'n sönn' schöne Stuw;<lb/>
+				„Doa was se hier,<lb/>
+				„As 'k uns' Quartier<lb/>
+				„Hier upschlog un woll gärn<lb/>
+				„Van mi en bitschen lehr'n.<lb/>
+				„'k har eb'n de ersten Sprießeln lägt,<lb/>
+				„Dunn hät de Duw all brummt un sägt:<lb/>
+				3) Elster.<lb/>
+				2) zukehren, sich åndern.<lb/>
+				hä<lb/>
+				Berg.<lb/>
+				“) machst.<lb/>
+				Lieder.<lb/>
+				Zacken.<lb/>
+				baust.<lb/>
+				*) Pappelbau<lb/>
+				12) süß,<lb/>
+				") entlang.<lb/>
+				) fest.<lb/>
+				13) Holztaube.<lb/>
+				<pb facs="../img/schwerin-1859-voeggel/0017.jpg"/>
+				19<lb/>
+				„„Nu kann 'k'tall!') Nu kann 'k'tall!""<lb/>
+				„Doa leep*) mi öäwer?) miene Gall;<lb/>
+				„Sönn*) dummes Tropp! Ick joog*) se weg.<lb/>
+				„Un as ick hüt döärch d' Ellern fleeg,<lb/>
+				„Doa sag 'k är Nest, — ’n poar Sprießeln leg'n*)<lb/>
+				„Un keek') 'n Boom von unn'n henhög'n,5)<lb/>
+				„Denn kunn'n de witten Eier seh'n, -<lb/>
+				„Wo könn’n de Jung’n denn doa woll deh’n!*)<lb/>
+				„Heister! Heister!<lb/>
+				„Ick bin de Meister!<lb/>
+				1 —<lb/>
+				„Eck, eck, eck, eck!<lb/>
+				„Joa du, du, du,<lb/>
+				Sägt siene Fru.<lb/>
+				Dät is är Snack dänn ganzen Dag,<lb/>
+				So lang noch een van bei is wach;<lb/>
+				Un Oabends, wenn s' all up 'n Böän<lb/>
+				Sick henlägt hebb'n, moakt he noch 'n Klöän<lb/>
+				Ganz liesen:<lb/>
+				„Mutter schlöppst",<lb/>
+				denn all?<lb/>
+				„Is d' Döär"*) all to an Hus un Stall?<lb/>
+				„Heister! Heister!<lb/>
+				„Ick bin de Meister!<lb/>
+				„Eck, eck, eck, eck!<lb/>
+				„Ick drummelt") all," sägt siene Fru,<lb/>
+				„Joa, Voarrer, dát bist du, du, du.<lb/>
+				Huppk“) un Drossel.<lb/>
+				De Huppk röppt hüt noch: „Up, up, up!<lb/>
+				Un d' Drossel: „Buntkopp, rum! ho ho!"<lb/>
+				Denn dänn sien Köh weer’n wild un scho.<lb/>
+				Nu will 'k vertell'n, wovan dät kümmt,<lb/>
+				Dät man dö Vöggel so vernimmt.<lb/>
+				In d' erst do hötten "*) bei de Köh,<lb/>
+				*) schon. *) lief. *) über. *) so ein, solch. *) jagte.<lb/>
+				6) lagen.<lb/>
+				11) Gespräch<lb/>
+				*) sah. 8) in die Höhe. *) gedeihen. 1) Boden:<lb/>
+				12) leise. 13) schläfst.<lb/>
+				ohne Inhalt.<lb/>
+				14) Thür.<lb/>
+				15) anfangen<lb/>
+				einzuschlafen. 16) Widehopf. *) auf! 18) scheu.<lb/>
+				19) hüteten.<lb/>
+				<pb facs="../img/schwerin-1859-voeggel/0018.jpg"/>
+				20 —<lb/>
+				Doa har de Kohr*) noch goar neen Möh.<lb/>
+				De Huppk de drew sien Hoh*) henthög'n<lb/>
+				Hoch up de Berg, wo wassen pläg'n<lb/>
+				De Windhalm un dät Dießelkroam;<lb/>
+				De Köh kunn'n nich to Kräften koam'n.<lb/>
+				De Drossel de hott deep in d' Gras,<lb/>
+				Sien Ho ne stöärt'te twer un twas;*)<lb/>
+				De Köh woard'n wählig un he kunn<lb/>
+				Se nich mehr blännig'n; d' Oabenstunn<lb/>
+				Ha he sien Noth, tohop to joag'n,<lb/>
+				Doa kreg he ’t höden denn in n Moag'n;<lb/>
+				Denn reep he: „Buntkopp! rum! ho ho!<lb/>
+				„Kehrt doch dät olle Beest van Koh!<lb/>
+				„Ick kann se nich to Döärpe krieg'<lb/>
+				Dänn Huppk sien Veh dä ümmer schwieg'n,<lb/>
+				De weer’n so leeg äm as en Zick.<lb/>
+				Doa bob'n up d’ Berg' han s' weinnig Glück.<lb/>
+				„Up, up, up, up!" so reep he denn;<lb/>
+				De Köh leeg'n fast up Sand und Steen'n,<lb/>
+				Se har'n ook goar keen Kräften mehr.<lb/>
+				Doa keemen denn de Buren her<lb/>
+				Un joagen all bei Kohherrn weg;<lb/>
+				Un nich to natt un nich to drög,<lb/>
+				Un nich to schlecht un nich to fett<lb/>
+				De Kohherr nu dät Kohveh hött.<lb/>
+				De Vöggel hebb'n de Ho nich mehr,<lb/>
+				Doch ropen se noch ümmer her:<lb/>
+				„Up, up, up, up! so röppt de een,<lb/>
+				„Bringt doch de Köh moal up de Been!<lb/>
+				Un d'anner: „Buntkopp rum! ho ho!<lb/>
+				Dät hebb'n se all bei noch föär Mo.<lb/>
+				De Schult van Tülau.*)<lb/>
+				Un de Schult van Tülau,<lb/>
+				De hät ’t up ’n Lief!*)<lb/>
+				) Kuhhirte. 2) Heerde. *) stürzte quer und unordentlich. *) Ziege<lb/>
+				5) Pfingstvogel, Pirol. *) — he hät ’t up 'n Lief as en oll Schohböst<lb/>
+				<pb facs="../img/schwerin-1859-voeggel/0019.jpg"/>
+				21<lb/>
+				Wat kann de vertellen!<lb/>
+				„Hör doch! Lewes Wief<lb/>
+				Röppt he — ook de Minschen<lb/>
+				Könn'n dät woll verstoahn,<lb/>
+				He röppt joa so dütlich<lb/>
+				„Hör mi doch moal an:<lb/>
+				„Schult van Tülau<lb/>
+				„Hät sick mit ’t Biel') in 'n Büdel*) haut;<lb/>
+				„Woll noa n Krog*) goahn,<lb/>
+				Geld! keen Geld!"<lb/>
+				„Har keen Geld! keen<lb/>
+				„Moal'n Lechel Bierhoal'n, Bier hoal'n."<lb/>
+				Lewer Schult von Tülau,<lb/>
+				Hör moal, wat ick roop:<lb/>
+				't hebb'n all Vöäl versoapen<lb/>
+				In ’n Krog Hos' un Joop.*)<lb/>
+				Blief to Hus, oll Verrer,<lb/>
+				Loat di ’t man vergoahn;<lb/>
+				Blief bi d. Fro, ’t is bäter,<lb/>
+				Häst du mi verstoahn?<lb/>
+				De Spree.*)<lb/>
+				D'Spree sitt bom in 'n Eickenboom,<lb/>
+				Sunnt de Flitk*) un putzt dänn Soom;<lb/>
+				Dee denkt annerst*) as de Schult,<lb/>
+				Hät en Schäpel") vull Geldult.<lb/>
+				D' Spree de sett't sick vöär dät Lock, 1<lb/>
+				Fleit't as ut en Notenbook<lb/>
+				Denn up ’t Nest doa bröt") de Fro,<lb/>
+				Bröt un is ganz roth und glo1s)<lb/>
+				Un to ären Tiedverdriew<lb/>
+				Singt un fleit't de Spree: „Mien Wie—f<lb/>
+				„De Sunn mit äre Stroahl'n is rie—f!1<lb/>
+				„'t is goar to schön,<lb/>
+				„Du sost moal sehn.<lb/>
+				*) Beil.<lb/>
+				*) versoffen.<lb/>
+				2) Geldbeutel.<lb/>
+				3) Krug.<lb/>
+				3) Jacke,<lb/>
+				*) Flügel.<lb/>
+				*) Saum.<lb/>
+				— Alles.<lb/>
+				6) Staar.<lb/>
+				anders.<lb/>
+				") Loch.<lb/>
+				10) Scheffel.<lb/>
+				12) brutet.<lb/>
+				glühend.<lb/>
+				*) Zeit¬<lb/>
+				13) freigiebig.<lb/>
+				vertreib.<lb/>
+				<pb facs="../img/schwerin-1859-voeggel/0020.jpg"/>
+				22<lb/>
+				„Wie—f! - Wie—f!<lb/>
+				„Ick bi di blie—f!*)<lb/>
+				- lappen<lb/>
+				„De Schult dät is en Schwuchtlappen *)<lb/>
+				lappen<lb/>
+				lappen;<lb/>
+				„Nu brö*) du man noch ’n bitschen, bitschen, bitschen,<lb/>
+				bitschen,<lb/>
+				In d' Eier geiht ’t all: Piep, piep, piep, piep, piep!<lb/>
+				„Bald hebb'n we Kinner, Deerns*) un Jungn,"<lb/>
+				Doabi hät he vöär Freiden sprung'n;<lb/>
+				Denn flog 'r weg, hoalt*) Furrer*) her<lb/>
+				Föär d' Wief up ’t Nest un snöäwelt*) är.<lb/>
+				De Booksink.*)<lb/>
+				An 'n fröhen Moarg'n in 'n Sunnenstroahl<lb/>
+				Singt d' Bookfink d' ganze Holt hendoal,“<lb/>
+				As spölt") he d' erste Vigelin,<lb/>
+				Un wat he sägt, dät müßt so sien:<lb/>
+				„Ick, ick, ick, ick will hin zu dir!<lb/>
+				„Du, du, du, komm her zu mir!<lb/>
+				„Flink! Flink! Flink!"<lb/>
+				Nu still moal, de fangt hochdütsch an;<lb/>
+				Du denkst woll, bist en ganzer Mann,<lb/>
+				Du denkst woll, diene Stimm un Schall,<lb/>
+				De öäwerdrippt1*) de Nachtigall.<lb/>
+				13<lb/>
+				Och, de hät mehr in 'n kleinen Tön,<lb/>
+				As du magst hebb'n in Kopp un Been<lb/>
+				De sitt in 'n Busch un fleit't so roar,<lb/>
+				Noch roarer fast äm as vöärnt Joahr<lb/>
+				„Mien lewes Wief-Wief— Wief— Wief,<lb/>
+				„Hüt,") hüt, hüt, hüt, hüt<lb/>
+				„Hew ’k bo’t dät Nest,<lb/>
+				*) Dirnen.<lb/>
+				*) bleibe.<lb/>
+				) brůte.<lb/>
+				2) Säufer, Herumtreiber.<lb/>
+				*) hölt.<lb/>
+				*) entlang.<lb/>
+				*) Futter.<lb/>
+				Buchfink.<lb/>
+				schnåbelt.<lb/>
+				10) spielte.<lb/>
+				13) voriges<lb/>
+				") sein.<lb/>
+				*) schön.<lb/>
+				12) übertrifft.<lb/>
+				Zehe.<lb/>
+				Jahr. 16) heute.<lb/>
+				<pb facs="../img/schwerin-1859-voeggel/0021.jpg"/>
+				23<lb/>
+				„Probir's, birs, bir's, bir's, bir's!<lb/>
+				„'tis smuck, smuck, smuck, smuck, smuck!<lb/>
+				De Bookfinksch öäwer hät äm noahm'n,*)<lb/>
+				Is richtig unner d' Huw*) so koam'n;<lb/>
+				Se woard sien Fro, he woard är Mann,<lb/>
+				So fangt sick jerer Heiroath an;<lb/>
+				Man bloß dät d' Minschen oftmoals kloag'n<lb/>
+				Un könn'n sick denn nicht recht verdroag'n;<lb/>
+				De Bookfinks=Eh' geiht öäwer schön,<lb/>
+				Goah sülm*) herut, wenn du ’t wutt*) sehn.<lb/>
+				De Stiegelitz')<lb/>
+				En oll Segg.<lb/>
+				Uu kiekt moal düssen Voggel an,<lb/>
+				Dät is doch woll en ganzen Mann,<lb/>
+				So gål un roth un witt un schwart!<lb/>
+				Mit düssen Voggel dät hät Oart!<lb/>
+				Nu will ’k moal segg'n, wat ick hew hört,<lb/>
+				Wo dänn sien bunt Kamsol herröhrt.<lb/>
+				As in de erst de lewe Gott<lb/>
+				Dänn Himmel un de Ar hät bo’t,<lb/>
+				Dunn kem'n, as ’t hier up Erden drög,*)<lb/>
+				De Vöggel 'n fäften Dag an d' Reeg.<lb/>
+				Da stunnen denn um äm umher<lb/>
+				All d'Vöggel, de et gift up de Ar,<lb/>
+				Van 'n Oadler bet tum kleinsten hen<lb/>
+				Kunn man se Alltohoop doa sehn.<lb/>
+				Ut Lehm ha Gott se Alle moakt,<lb/>
+				Ook weer'n se Alltohoop noch noakt“<lb/>
+				Un harn*) noch goar keen Färwe nich;<lb/>
+				Doa moakt Gott mit en Pinselstrich<lb/>
+				2) Haube. 3) Geh selbst heraus.<lb/>
+				genommen.<lb/>
+				Nach I. F. Kind.) trocken. * nackt. *) hatten.<lb/>
+				\<lb/>
+				*) willst<lb/>
+				<pb facs="../img/schwerin-1859-voeggel/0022.jpg"/>
+				24 —<lb/>
+				Dänn eenen witt, dänn annern schwart,<lb/>
+				Dänn drütten brun noa siene Oart;<lb/>
+				Un wecker*) denn was utstaffert,<lb/>
+				Dänn hät Gott noch eenmoal anröhrt<lb/>
+				Un gaf äm Leb'n, denn flog he weg.<lb/>
+				Nu kümmt van 'n Stiegelitz de Segg. -<lb/>
+				De Stiegelitz stund up ’t Brett an ’t Enn<lb/>
+				Un so wiet reckt de Farw nich hen.<lb/>
+				Doa sä Gott: „Du magst erdpfoahl blieb'n,<lb/>
+				„Kannst ja dien Sach ook so woll drieb’n.<lb/>
+				De Stiegelitz sä: „Och, lewer Tied,<lb/>
+				Se sünd nu All' schön schwart un witt,<lb/>
+				Un brun un gål un bloa un grön,<lb/>
+				Ick müßt mi doch vör jüm entsehn'n;<lb/>
+				So ’n bitschen Farw werd doch noch sin,<lb/>
+				Un doamit kiekt he sülm herin<lb/>
+				Noa 'n Napp, — hier is noch 'n bitschen roth<lb/>
+				Van 'n Bookfink, wäs') doch man so got.<lb/>
+				„Doa häst en Klecks van up ’n Kopp.<lb/>
+				De Stieglitz stund noch as en Propp:<lb/>
+				Witt, witt, witt, witt is ook noch hier,<lb/>
+				Dät weer föär mi en roare Zier,<lb/>
+				Steiht woll noch hier van Duw un Schwoan;<lb/>
+				Gliekt streek äm Gott de Flitken an.<lb/>
+				Och, hier is ook noch Schwart to sehn,<lb/>
+				Dät woll to Witt un Roth moal kled'n!<lb/>
+				„Doa nimm di ’t," sä de lewe Gott,<lb/>
+				„Müßt woll dien Deel ut jerern Pott,<lb/>
+				„Van jerer Farw en Klecksken hebb'n.<lb/>
+				Soll ’t nich en bitschen Gäͤl noch geb'n?<lb/>
+				De Voggel sä ’t, — et brukt nich vöäl,<lb/>
+				Gif mi doch noch en bitschen Gäl.<lb/>
+				Dunn streek Gott noch dänn Pinsel ut,<lb/>
+				Schmuck was de Voggel, as en Brut.*)<lb/>
+				Dät woll ick segg'n, dät hew ick hört,<lb/>
+				Wo 'n Stieglitz sien Kamsol herröhrt.<lb/>
+				*) wer. 2) schämen. 3) sei. *) Braut.<lb/>
+				<pb facs="../img/schwerin-1859-voeggel/0023.jpg"/>
+				— 25 -<lb/>
+				In 'n Härwst, wenn he up d’ Broak*) so sitt,<lb/>
+				Dann fällt ’t äm in: Witt witt witt witt!<lb/>
+				Sägt he vör sick, en bitschen Gäl,<lb/>
+				Sönn kleinen Voggel brukt nich vöäl.<lb/>
+				Denn spöält he in dänn Sunnenschien,<lb/>
+				Am mütt woll got to Mode sien.<lb/>
+				Un de äm kled'n kann un ernähr'n,<lb/>
+				De werd uns' Deel uns ook bescher'n.<lb/>
+				De Kiwitt. 2)<lb/>
+				De Kiwitt, de Kiwitt up de Mäsch,<lb/>
+				Dät is dänn Kukuk<lb/>
+				siene Wäsch;<lb/>
+				Se sünd wiß anner Bölken Kinner,<lb/>
+				Doa sünn we nu all sicher hinner,<lb/>
+				Denn wat se bei ook gewen an,<lb/>
+				En jerer röppt sien'n eigen Noam'n<lb/>
+				So as se ’n Snoawel doen up,<lb/>
+				Am as de Huppk’) sien: Up! up! up!<lb/>
+				„Kiwitt,<lb/>
+				„Wo bliew*) ick?<lb/>
+				„In 'n Brummelbeerbusch;<lb/>
+				„Doa sing ick,<lb/>
+				„Doa fleit ick,<lb/>
+				„Doa hew ick mien Lust.<lb/>
+				„Ki— witt, witt, witt, witt!<lb/>
+				„Ki—witt!<lb/>
+				Sien Klokheit is ook nich wiet her,<lb/>
+				Denn erstlich bo't he an de Ar;<lb/>
+				Un koam'n de Jungens denn heran,<lb/>
+				Denn röppt de Kiwitt, Fro un Mann:<lb/>
+				„Ki-witt! Ki—witt! Ki—witt, witt, witt, witt!<lb/>
+				„Ki— witt!<lb/>
+				*) Brachfeld. *) Kibitz.<lb/>
+				3) Märsche. *) im dritten Grade ver¬<lb/>
+				5) dahinter. *) angeben, anfan¬<lb/>
+				wandt, Bruder Kinder Kinder.<lb/>
+				gen. *) Widehopf. *) bleibe. *) Bromberenbusch.<lb/>
+				<pb facs="../img/schwerin-1859-voeggel/0024.jpg"/>
+				26<lb/>
+				De Wachtel.<lb/>
+				Un is dät Johr erst wierer hen, *)<lb/>
+				Um 'n Aust*) herum um so, zi denn<lb/>
+				De Wachtel röppt des Moargn's mich schlecht:<lb/>
+				„Weck dänn Knecht! Weck dänn Knecht<lb/>
+				Keen Eikboom fällt up eenen Hieb:<lb/>
+				„Düt Stück is riep!*) Düt Stück is riep!<lb/>
+				Bi Doag doa lut't*) ’t: „Mien Jung'n sünd flügg,<lb/>
+				„Bück dänn Rügg')! Bück dänn Rügg!"<lb/>
+				Un Oabens sägt s' all halw in 'n Drus:<lb/>
+				„Nu goah noa Hus! Nu goah noa Hus!"<lb/>
+				Un ’t Rabhohn?) röppt: „Mredöärth!*) Mredöäth!<lb/>
+				„Wat miene Wäsch, de Wachtel, segt,<lb/>
+				„Doarin hät se vullkummen recht;<lb/>
+				„Mredöärth! Mredöärth!<lb/>
+				„Bind fast de Schöärt<lb/>
+				10<lb/>
+				„Tringreth! Tringreth!<lb/>
+				„'t is spät, 't is spät;<lb/>
+				11.<lb/>
+				„Amre! Amre.<lb/>
+				„Ick seh, ick seh,<lb/>
+				12)<lb/>
+				„Je sünd All mög<lb/>
+				„Goaht jurre<lb/>
+				Weg<lb/>
+				„Dät Oabendroth<lb/>
+				„An 'n Himmel steiht,<lb/>
+				„Dät Oabenbrot<lb/>
+				„Nu smecken"*) deiht;<lb/>
+				„Hüt was nog Ploag,<lb/>
+				„Moarg'n is wär ’n Dag.<lb/>
+				Ook röppt de Wachtel wiet döärch ’t Feld,<lb/>
+				u)<lb/>
+				Dät Jerer sick tor Reis' bestellt:<lb/>
+				„Flick de Büchs'!“) Flick' de Büchs'!<lb/>
+				„Flick s' hin'n un voö<lb/>
+				„Mit witten Twärn“*) mit witten Twärn!<lb/>
+				*) Rücken.<lb/>
+				*) weiter hin. *) August, Ernte. *) rief. *) lautet.<lb/>
+				9) Schürze.<lb/>
+				*) halb schlafend. *) Rebhuhn. *) Marie Dorothee.<lb/>
+				12) müde.<lb/>
+				11) Anna Marie.<lb/>
+				lo) Catharine Margarethe.<lb/>
+				13) eurer. 1) munden, schmecken. *) anschickt. *) Flicke die<lb/>
+				Zwirn.<lb/>
+				Hose. 1) hinten und vorn. 1e)<lb/>
+				<pb facs="../img/schwerin-1859-voeggel/0025.jpg"/>
+				27<lb/>
+				„De Winter kümmt,<lb/>
+				un wer hier blift,<lb/>
+				„Soarg ook, nät he et oarndtlich drift;?)<lb/>
+				„De Winter is kolt<lb/>
+				„In Feld un Holt:<lb/>
+				„Flick de Büchs'!<lb/>
+				Flick de Büchs"!<lb/>
+				„Holl s' in 'n Stann,<lb/>
+				„Wer blift in 'n Lann.<lb/>
+				De Vöggel de wöärd'n*) ’t doch vergäten<lb/>
+				Vöär ’t Sing'n, wenn s' hüt man hebb'n to äten,*)<lb/>
+				Se droagen joa nich Sorg föär moargen,<lb/>
+				De hüt hät sorgt, werd moarg'n ook sorgen.<lb/>
+				Dät Winter= und dät Reisekleed,<lb/>
+				Dät schafft de lewe Gott jüm need:?)<lb/>
+				Sorgt de nich fröh un spoat,<lb/>
+				Denn weer et oft to loat. *)<lb/>
+				De Leerk.*)<lb/>
+				De Leerk de flügt in d' blaue Luft<lb/>
+				Van d' gröne Ar un Blomenduft;<lb/>
+				Se flügt so hoch dänn Himmel to,<lb/>
+				Se tirilirt van bomm'n“o) so froh.<lb/>
+				De Leerk de singt en frommen Sang,<lb/>
+				Dät klingt dät ganze Feld entlang:<lb/>
+				„Dir, dir, Jehovah will ich singen!<lb/>
+				„Denn wo ist doch ein solcher Gott, wie du?<lb/>
+				)<lb/>
+				„Dir will ich meine Lieder bringen!<lb/>
+				De Leerk in ären frommen Sang<lb/>
+				Bringt ümmer Gottes Ehr mit mank.<lb/>
+				Deist*) du dät ook, du Minschenkind?<lb/>
+				Wenn d'’t non nich deist, denn do ’t geschwind,<lb/>
+				Goa **) hen un lehr van d'Kreatur,<lb/>
+				De ehrt dånn Herrn van de Natur.<lb/>
+				*) bleibt.<lb/>
+				*) treibt.<lb/>
+				3) Stand. *) würden.<lb/>
+				5) vergessen.<lb/>
+				*) essen. *) neu. 8) spåt. *) Lerche. 10) oben.<lb/>
+				l*) Alte Leute<lb/>
+				i. d. Altm, sagen, die Lerche sänge diese Strophen.<lb/>
+				12) da¬<lb/>
+				zwischen.<lb/>
+				13) thust.<lb/>
+				*) gehe.<lb/>
+				<pb facs="../img/schwerin-1859-voeggel/0026.jpg"/>
+				28<lb/>
+				De Uhl.*)<lb/>
+				De Uhl, de Uhl<lb/>
+				Is ’t Oab'nds nich ful;?)<lb/>
+				De Luft de is so still un schön,<lb/>
+				Doa lett*) se sick ook hör'n un sehn:<lb/>
+				„Kumm mit! Kumm mit!<lb/>
+				Een*) sägt, wo sick hören lett<lb/>
+				De Oabends fröh, des Oabends spät:<lb/>
+				„Kumm*) mit! Kumm mit!"<lb/>
+				Doa hät sick Eener*) nog bald ploagt,<lb/>
+				Doa werd bald Een noan Kärkhoff.<lb/>
+				droagt.<lb/>
+				„Kumm mit! Kumm mit!"<lb/>
+				Joa wenn ’t uns geiht so woll un got,<lb/>
+				Doa denken weinig we an 'n Død.<lb/>
+				„Kumm mit! Kumm mit!"<lb/>
+				De Dod hoalt Jung'n, de Dod hoalt Oll'n,<lb/>
+				De Meisten nich gärn folgen woll'n.<lb/>
+				„Kumm mit! Kumm mit!<lb/>
+				Un hinner 'n Dod koam'n ärnste Ding',<lb/>
+				Gott werd doa All'ns an ’t Licht moal bring'n.<lb/>
+				„Kumm mit! Kumm mit!"<lb/>
+				Gott gäw uns man en selig Enn,<lb/>
+				Nehm unse Seel in Siene Hänn.<lb/>
+				„Kumm mit! Kumm mit!"<lb/>
+				*) Eule. 2) faul. *) läßt. *) man. *) komm. *) Jemand.<lb/>
+				*) geplagt. 3) Kirchhof.<lb/>
+		</body>
+	</text>
+</TEI>
