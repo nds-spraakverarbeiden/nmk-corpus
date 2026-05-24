@@ -39,7 +39,9 @@ No warrantees whatsoever. All data provided here was created with automated meth
 ## Contents of this repository
 
 - [`pdf/`](pdf) gzipped PDFs containing the source texts (scanned, content pages only)
-- [`txt/`](txt) Transkribus OCR, plain text (no OCR post-correction)
+- [`img/`](img) page scans extracted from PDFs
+- [`txt/`](txt) Transkribus OCR, plain text (except for severe OCR artifacts ["ghost text"] of Keller 1872, no OCR post-correction)
+- [`tei/`](tei) TEI/XML version of plain text, with page scans linked
 - [`upos/`](upos) automated annotation for universal parts of speech in two columns, `FORM`, `UPOS` (predicted part of speech) 
 	<!-- and two auxiliary columns (see UPOS annotation below) -->
 - [`lemmatizer/`](lemmatizer) Lemmatizer v0.3
@@ -95,5 +97,4 @@ Note that Lemmatizer v0.3 does not perform disambiguation. This is to be accompl
 
 ## TODO
 
-- document `editor/` and refinement cycles
-- add documentation on North Markian and Low German
+- merge `upos/` annotations into `tei/`.
