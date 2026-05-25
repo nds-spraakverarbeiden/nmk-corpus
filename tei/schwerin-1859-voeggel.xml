@@ -67,6 +67,7 @@
 	        <leader fldid="projectleader">Christian Chiarcos</leader>
 	        <desc fldid="projectdesc">Aufbau eines Korpus zur Dokumentation des Nordm&#228;rkischen sowie des nah verwandten Mittelpommerschen in Sachsen-Anhalt, Brandenburg, Vorpommern und dem heutigen Polen.
 	        Chiarcos, C. (2026). Towards the Morphological Annotation of North Markian (Low German). In Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026) (pp. 11699&#8211;11714). European Language Resources Association (ELRA). https://doi.org/10.63317/54xnswqy73gs.
+	        Der vorliegende Text wurde nachtr&#228;glich erg&#228;nzt und ist nicht in die Entwicklung von POS Tagger und Lemmatisierer eingegangen, sondern lediglich zur Evaluation der Coverage genutzt.
 	        </desc>
 	      </projectDesc>
 	      <editorialDecl fldid="editorialdecl">

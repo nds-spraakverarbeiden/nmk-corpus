@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="id_bornemann-1813" xml:lang="nds">
+	<teiHeader>
+	    <fileDesc>
+	      <titleStmt>
+	        <title fldid="title">Plattdeutsche Erz&#228;hlung des Dorfschulzen zu B., von seiner Weihnachtsfahrt, um die Aufstellung des Turnplatzes zu sehen</title>
+	        <author fldid="author">Johann Wilhelm Jakob Bornemann</author>
+	        <respStmt>
+	          <resp n="transcription" fldid="transcription">Transkribus Print M1</resp>
+	          <resp n="revision" fldid="revision">n/a</resp>
+	          <resp n="normalization" fldid="normalization">n/a</resp>
+	          <resp n="tagging" fldid="tagging">Christian Chiarcos, University of Augsburg, Germany</resp>
+	        </respStmt>
+	        <!--funder fldid="funder"></funder-->
+	      </titleStmt>
+	      <sourceDesc>
+	        <biblStruct>
+	          <monogr> 
+	            <author fldid="monauthor">Johann Wilhelm Jakob Bornemann</author>
+	            <title fldid="montitle">Plattdeutsche Erz&#228;hlung des Dorfschulzen zu B., von seiner Weihnachtsfahrt, um die Aufstellung des Turnplatzes zu sehen</title>
+	            <!--edition fldid="monedition">1. Auflage</edition-->
+	            <imprint>
+	              <publisher fldid="monpublisher">Diederici</publisher>
+	              <pubPlace fldid="monplace">Berlin</pubPlace>
+	              <date fldid="mondate">1813</date>
+	            </imprint>
+	          </monogr>
+	        </biblStruct>
+	      </sourceDesc>
+	    </fileDesc>
+	    <profileDesc> 
+	      <particDesc> 
+	        <listPerson> 
+	          <person id="wilhelm-bornemann">
+	            <name fldid="personname">Johann Wilhelm Jakob Bornemann</name>
+	            <birth fldid="birth" when="1766">
+	              <placeName fldid="birthplace" geo="52.5270 11.3871">Gardelegen</placeName>
+	              <date fldid="birthdate">1766-02-02</date>
+	            </birth>
+	            <death when="1851">
+	              <placeName geo="52.5200 13.4050">Berlin</placeName>
+	              <date>1851-05-25</date>
+	            </death>
+	            <langKnowledge>
+	              <langKnown n="first" tag="deu"/>
+	              <langKnown n="native" tag="nds"/>
+	            </langKnowledge>
+	            <sex fldid="sex" type="m"/>
+	            <age fldid="age">47</age>
+	            <occupation fldid="personoccupation">General-Lotteriedirektor</occupation>
+	            <residence fldid="personresidence">Berlin</residence>
+	            <nationality fldid="nationality" key="DE"/>
+	          </person>
+	        </listPerson>
+	      </particDesc>
+	      <langUsage>
+	        <language fldid="textlang" ident="nds" dir="ltr"/>
+	      </langUsage>
+	      <textDesc>
+	        <channel fldid="textchannel" mode="written"/>
+	        <domain fldid="textdomain">poetry</domain>
+	      </textDesc>
+	    </profileDesc>
+	    <encodingDesc>
+	      <projectDesc id="NMK">
+	        <title fldid="Nordm&#228;rkisch-Mittelpommersches Korpus (NMK)"/>
+	        <leader fldid="projectleader">Christian Chiarcos</leader>
+	        <desc fldid="projectdesc">Aufbau eines Korpus zur Dokumentation des Nordm&#228;rkischen sowie des nah verwandten Mittelpommerschen in Sachsen-Anhalt, Brandenburg, Vorpommern und dem heutigen Polen.
+	        Chiarcos, C. (2026). Towards the Morphological Annotation of North Markian (Low German). In Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026) (pp. 11699&#8211;11714). European Language Resources Association (ELRA). https://doi.org/10.63317/54xnswqy73gs.
+	        Der vorliegende Text wurde nachtr&#228;glich erg&#228;nzt und ist nicht in die Entwicklung von POS Tagger und Lemmatisierer eingegangen.
+	        </desc>
+	      </projectDesc>
+	      <editorialDecl fldid="editorialdecl">
+	        Automatische OCR des Textteiles ohne manuelles Postprocessing. Automatisiertes POS Tagging.
+	      </editorialDecl>
+	    </encodingDesc>
+	  </teiHeader>
+	
+	<text>
+		<body>
+				<pb facs="../img/bornemann-1813/0001.jpg"/>
+				Plattdeutsche<lb/>
+				Erzählung<lb/>
+				des<lb/>
+				Dorfschulzen zu B..<lb/>
+				seiner Weihnachtsfahrt, um die Ausstellung des<lb/>
+				Turnplatzes zu sehen.<lb/>
+				—000000o<lb/>
+				Et sind nu just Söß vulle Joahr<lb/>
+				As ick tom Wiehnachtsmarcht hier woar,<lb/>
+				Un in de Zeitung dät beschrewf,<lb/>
+				Drup hem de Lüd' noch hüt mie lewf.<lb/>
+				Ick plegg den Spoaß in Eernst to seng'n;<lb/>
+				Den Eernst mit Spoaß goot to vermeng'n,<lb/>
+				Enfältge Red, mit Schelmverstand,<lb/>
+				Da sind de Lüd' gliek bie de Hand.<lb/>
+				Dät tüg' ick zu mit Herz un Mund,<lb/>
+				Leeg' män de Knüppel nich biem Hund;<lb/>
+				Denn woll ick hüt schons ok mankher<lb/>
+				Vertell'n, wat ju gefallen wör.<lb/>
+				<pb facs="../img/bornemann-1813/0002.jpg"/>
+				Worüm ick nu vör düt Joahr just<lb/>
+				Tom Wiehnachtsmarcht kreg sönne Lust<lb/>
+				Dät will ick seng'n, oahn väl Geschwög:<lb/>
+				Et was ne düchtge Dracht vull Schläg.<lb/>
+				To'r Stadt herut mien Rückweg geit<lb/>
+				Am nächsten dörch de Hoasenheid.<lb/>
+				Un is en Bursmann in de Stadt,<lb/>
+				Denn drinkt he sick ok woll moal satt.<lb/>
+				Tom Aebermont drink ick just nich,<lb/>
+				Wat recht is, nu, sön'n halben Stich:<lb/>
+				Doa keem'n entgegen mie gesprung'n<lb/>
+				Söß halfgewaßne Joahnsche Jung'n.<lb/>
+				Graukittels! reep ick: hier koamt her!<lb/>
+				Moakt moal en Kattensprung mie vör!<lb/>
+				Jck will doato den Tackt ju knall'n,<lb/>
+				De ganze Hoasenheld sall schall'n.<lb/>
+				En Jung gaf drög to Antwoort mie:<lb/>
+				„Du! Vedder Bu'r! wie roaden die,<lb/>
+				„Föhr diene Stroat, un holl de Schnut,<lb/>
+				„Sünst kloppen wie den Pelz die ut."<lb/>
+				<pb facs="../img/bornemann-1813/0003.jpg"/>
+				Vom Woagen sprung ick nu heraf,<lb/>
+				Leep mit de Pietsch in vullen Draf<lb/>
+				Los up de Jung's, se söll'n dacht ick ,<lb/>
+				Utkratzen, se bedankten sick.<lb/>
+				De Grötste was noch nich twölf Joahr,<lb/>
+				De, wie en Dunnerwäder woar<lb/>
+				Mie mit den Kopp gliek mank de Been,<lb/>
+				Un ick schlog as en Mehlsack hen.<lb/>
+				De Hänn un Föt heel'n ärer Veer<lb/>
+				Mie noagelfest nu an de Eer;<lb/>
+				De ännern Twee hem mie de Pletsch<lb/>
+				Wegräten, nu gungt rietsch, ratsch, rietsch!<lb/>
+				Dät weet ick woll, mien Grotknecht schleit<lb/>
+				So hart nich, wenn he dröschen deit.<lb/>
+				Acht Doag kunn ick nich sitten goahn,<lb/>
+				So was dät Gatt mie vull geschloan.<lb/>
+				Just as en Lamm is an to sehn<lb/>
+				En Bu'r, wenn äm sien Recht geschehn.<lb/>
+				As mie de Pelz woar ut gekehrt,<lb/>
+				Bin ick ganz still doavon kutscheert*)<lb/>
+				*) Die vorstehende Erzählung ist keine Erfindung, sondern<lb/>
+				a. d. S.<lb/>
+				wirkliche Thatsache.<lb/>
+				<pb facs="../img/bornemann-1813/0004.jpg"/>
+				4<lb/>
+				Noch sülwgen Oabend= kam to mie<lb/>
+				De Köster, un ganz frank un frie<lb/>
+				Heb ick den Brey äm gliek vertell't<lb/>
+				Den mie de Jung'ns hem upgekell't.<lb/>
+				„Jevaddér," sprack he, „já so is’t,<lb/>
+				„Dät Sprichwoort heet: en kloger Chrlist<lb/>
+				„De mischt nich alle Ogenblick<lb/>
+				„In ungelegte Eier sick."<lb/>
+				„Von Kattensprüng' is kene Red,<lb/>
+				„De Jungens öben fröh un späd<lb/>
+				„In Kraft sick, in Gelenk un Schick,<lb/>
+				„Mannvolk to werden, stark un quick."<lb/>
+				Ick sä: „Nu, wenn de Jung'ns studeern,<lb/>
+				„Wat söll'n se denn katzbalgen lehr'n?<lb/>
+				„Stäkt in dät Book de Näs' hennin,<lb/>
+				„Dät gift Verstand un glatten Sinn."<lb/>
+				De Köster in de Red mie feel:<lb/>
+				„En Minsch besteit ut Lief un Seel,<lb/>
+				„Un sall de Seel gedeihn recht frisch,<lb/>
+				„Mütt ok de Lief sin as en Fisch.<lb/>
+				<pb facs="../img/bornemann-1813/0005.jpg"/>
+				To froagen: wat sall dät un düt?<lb/>
+				„Dät is jizt leidge Mod' un Sitt.<lb/>
+				„Mücht jeder siene Schuld män dohn,<lb/>
+				„Dät Rechte kümmt von sülwst denn schon.<lb/>
+				„Keen Minschenkind weet zund gewiß,<lb/>
+				„Wat åm moal ens gebroaden is;<lb/>
+				„Un goahn müt mäncher Weeg un Steeg,<lb/>
+				„De äm nich sung'n sind bie de Weeg.<lb/>
+				„Drüm, wer en bitchen vörwärts kickt,<lb/>
+				„Deit klook, moackt he sick fröh geschickt,<lb/>
+				„Uprecht to stoahn, bie schlimmen Späl,<lb/>
+				„Mit Mark un Kraft in Lief un Seel.<lb/>
+				„Wie leben in kurgose Tiet -<lb/>
+				„Wat hüte sick keen Minsch versüht,<lb/>
+				„Dät is't, wat Morgen just geschicht;<lb/>
+				„Wenn jeder dät bedenken mücht!"<lb/>
+				„Mit sönne Ogen, Vaddersmann,<lb/>
+				„Kiek he sick moal den Turnplatz an.<lb/>
+				„En änner Lied werd he denn sin'gn,<lb/>
+				„Un nich mehr seng'n von Kattensprüng'n."<lb/>
+				<pb facs="../img/bornemann-1813/0006.jpg"/>
+				Gesehn hädd ick den Platz woll gär'u,<lb/>
+				Doch kam ick män herran von Färn,<lb/>
+				Den krimmelte mie gliek de Näs,<lb/>
+				Un brännen däh mie dät Gesäß.<lb/>
+				Nu schref uns dät Avisenblatt,<lb/>
+				De ganze Turnplatz breet = un glatt<lb/>
+				Vör lumpige twee Gröschen Geld<lb/>
+				Tom Wiehnachtsmarcht weer ut gestellt.<lb/>
+				Blitz! — dacht ick — Puppen! dät is schön!<lb/>
+				De bieten nich, dät will ick sehn.<lb/>
+				Et was woll russenmässig kolt,<lb/>
+				Doch bin ick noa Berlin karjolt.<lb/>
+				As ick nu an de Husdör kam,<lb/>
+				Doa word dät Herz mie doch wat klamm.<lb/>
+				Allen, ick heb Kuroasch gefoat't,<lb/>
+				Un trat hennin wie sön Preloat.<lb/>
+				Just wie geschüddelt ut en Sack,<lb/>
+				Sach ick hier pure Krabbenpack;<lb/>
+				De hedden't mie vörwoahr nich doahn,<lb/>
+				Un lezt so windelweek geschloan.<lb/>
+				<pb facs="../img/bornemann-1813/0007.jpg"/>
+				De mie so paukten up't Gesäß,.<lb/>
+				Dät weren ännere Muschjes!.:<lb/>
+				De Puppenjung'ns hier sehn just ur,<lb/>
+				As keem'n se ut den Dopp. erst rut.<lb/>
+				En fäftig Stück sind doch gewiß<lb/>
+				Kopsgröter as de Meister is; .<lb/>
+				Un Meister Joahn kam groad mie vär,<lb/>
+				As wenn he Riese Golgath weer.<lb/>
+				Hier word dät Sprichwoort äber vull:<lb/>
+				..<lb/>
+				„Bie väl Geschrey is kene Wull!<lb/>
+				Un still bin ick links üm gekehrt,<lb/>
+				Un sächtken ut de Där marscheert.<lb/>
+				ei.<lb/>
+				Nu was ick enmoal up den Gang,<lb/>
+				Un schlumperte de Linden lang ,<lb/>
+				Doa an en Huus stund bunt un drall:<lb/>
+				„Hier is to sehn de Maskenball.<lb/>
+				En Beergeld kreg ick rut geschwinn,<lb/>
+				Doa leten se ok hier mie rin.<lb/>
+				Rundüm woll Dusend Puppen stun'n<lb/>
+				Krus in en ännern Dörch gewun'n.<lb/>
+				<pb facs="../img/bornemann-1813/0008.jpg"/>
+				En Mann, ehrwördig, hochbejoahrt,<lb/>
+				Mit langen griesen Knäbelboart<lb/>
+				Stund neben mie, ick sprack äm an:<lb/>
+				„Verdütsch he dät mie, wenn he kann!"<lb/>
+				He drükte herzig mie de Hand,<lb/>
+				Un von den Ogenwimpern Rand<lb/>
+				Doa rollten äm so hell so zoart<lb/>
+				De Thränen dörch den Knäbelboart.<lb/>
+				He sprack, tom Himmel dät Gesicht<lb/>
+				Mit andachtsvullen Blick gericht:<lb/>
+				„Vergänglich is de Erdenglanz,<lb/>
+				„Doch Tugendstroahlt mitewgen Kranz!"<lb/>
+				„Mütt Kron un Scepter unnergoahn;<lb/>
+				„Gerechtigkeit werd fest bestoahn!"<lb/>
+				Un ick verstund den stillen Sinn,<lb/>
+				Un dacht an unse Königinn.<lb/>
+				Berlin, bei Dieterici,<lb/>
+				1813.<lb/>
+		</body>
+	</text>
+</TEI>
