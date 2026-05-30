@@ -1,4 +1,4 @@
-# UPOS-tagged NMK Corpus (revision of Do 28. Mai 07:12:18 CEST 2026)
+# UPOS-tagged NMK Corpus (revision of Sa 30. Mai 12:13:54 CEST 2026)
 
 > **NOTE**: We perform HMM-based UPOS tagging only, emission probabilities estimated from the dictionaries and transition probabilities from selected Germanic UD corpora.
 > We do not integrate lemmatization yet, because we don't disambiguate, so far.
