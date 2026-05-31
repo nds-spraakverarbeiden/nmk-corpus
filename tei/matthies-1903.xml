@@ -1,0 +1,1899 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="id_matthies-1903" xml:lang="nds">
+	<teiHeader>
+	    <fileDesc>
+	      <titleStmt>
+	        <title fldid="title">Heidbalk'n. Allerhand L&#246;&#228;g' und T&#246;&#228;g' upp Oldm&#228;rk'sch Oart</title>
+	        <author fldid="author">Heinrich Matthies</author>
+	        <respStmt>
+	          <resp n="transcription" fldid="transcription">Kraken 6.0.3, german_print.mlmodel</resp>
+	          <resp n="revision" fldid="revision">n/a</resp>
+	          <resp n="normalization" fldid="normalization">n/a</resp>
+	          <resp n="tagging" fldid="tagging">Christian Chiarcos, University of Augsburg, Germany</resp>
+	        </respStmt>
+	        <!--funder fldid="funder"></funder-->
+	      </titleStmt>
+	      <sourceDesc>
+	        <biblStruct>
+	          <monogr> 
+	            <author fldid="monauthor">Heinrich Matthies</author>
+	            <title fldid="montitle">Heidbalk'n. Allerhand L&#246;&#228;g' und T&#246;&#228;g' upp Oldm&#228;rk'sch Oart</title>
+	            <edition fldid="monedition"/>
+	            <imprint>
+	              <publisher fldid="monpublisher">Verlag von E. Schulzes Buchhandlung</publisher>
+	              <pubPlace fldid="monplace">Stendal</pubPlace>
+	              <date fldid="mondate">1903</date>
+	            </imprint>
+	          </monogr>
+	        </biblStruct>
+	      </sourceDesc>
+	    </fileDesc>
+	    <profileDesc> 
+	      <particDesc> 
+	        <listPerson> 
+	          <person id="heinrich-matthies">
+	            <name fldid="personname">Heinrich Matthies</name>
+	            <birth fldid="birth" when="1867">
+	              <placeName fldid="birthplace" geo="52.574166666667 11.06388888888962">Neuferschau bei Kl&#246;tze in der Altmark</placeName>
+	              <date fldid="birthdate">24/06/1867</date>
+	            </birth>
+	            <!--death when="nach 1918">
+	              <placeName>Stendal?</placeName>
+	            </death-->
+	            <langKnowledge>
+	              <langKnown n="first" tag="deu"/>
+	              <langKnown n="native" tag="nds"/>
+	            </langKnowledge>
+	            <sex fldid="sex" type="m"/>
+	            <age fldid="age">36</age>
+	            <occupation fldid="personoccupation">Lehrer</occupation>
+	            <residence fldid="personresidence">Stendal</residence>
+	            <nationality fldid="nationality" key="DE"/>
+	          </person>
+	        </listPerson>
+	      </particDesc>
+	      <langUsage>
+	        <language fldid="textlang" ident="nds" dir="ltr"/>
+	      </langUsage>
+	      <textDesc>
+	        <channel fldid="textchannel" mode="written"/>
+	        <domain fldid="textdomain">poems</domain>
+	      </textDesc>
+	    </profileDesc>
+	    <encodingDesc>
+	      <projectDesc id="NMK">
+	        <title fldid="Nordm&#228;rkisch-Mittelpommersches Korpus (NMK)"/>
+	        <leader fldid="projectleader">Christian Chiarcos</leader>
+	        <desc fldid="projectdesc">Aufbau eines Korpus zur Dokumentation des Nordm&#228;rkischen sowie des nah verwandten Mittelpommerschen in Sachsen-Anhalt, Brandenburg, Vorpommern und dem heutigen Polen.
+	        Chiarcos, C. (2026). Towards the Morphological Annotation of North Markian (Low German). In Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026) (pp. 11699&#8211;11714). European Language Resources Association (ELRA). https://doi.org/10.63317/54xnswqy73gs.
+	        Der vorliegende Text wurde nachtr&#228;glich erg&#228;nzt und ist nicht in die Entwicklung von POS Tagger und Lemmatisierer eingegangen.
+	        </desc>
+	      </projectDesc>
+	      <editorialDecl fldid="editorialdecl">
+	        Automatische OCR des Textteiles ohne manuelles Postprocessing. Automatisiertes POS Tagging. Der Autor kommt aus der s&#252;dlichen Peripherie des sog. Hans-Jochen-Winkels, der als sprachliches Sondergebiet innerhalb des Nordm&#228;rkischen gilt, von unserem Tagger aber schlecht und dem Lemmatisierer momentan gar nicht abgebildet wird. Insofern ist die Annotationsqualit&#228;t auf diesem Text eher schlecht.
+	      </editorialDecl>
+	    </encodingDesc>
+	  </teiHeader>
+	
+	<text>
+		<body>
+				<pb facs="../img/matthies-1903/0001.png"/>
+				Heidbalk'n.<lb/>
+				Allerhand Löäg' und Töäg'<lb/>
+				upp<lb/>
+				Oldmärk'ſch Oart<lb/>
+				von<lb/>
+				Heinrich Matthies.<lb/>
+				Stendal.<lb/>
+				Verlag von E. Schulzes Buchhandlung.<lb/>
+				1903.<lb/>
+				<pb facs="../img/matthies-1903/0002.png"/>
+				Vöerrä'.<lb/>
+				Off Ju, mien lew Leſer, deatt woll jedweck'n dräumt,<lb/>
+				Worüm ick mien Riemſel heww „Heidbalk'n“ nöäumt?<lb/>
+				De eein mag 't woll wett'n, de eanner wett't nich;<lb/>
+				Drum holl ick 't föer 't roatſoamſt, wenn ick Ju deatt ſegg.<lb/>
+				In 'n Hansjochenswinkel, doa leg neb'n grön Wei'<lb/>
+				Betthä noch oft Unland in Doar'n un in Hei',<lb/>
+				Doch de flietige Landmann, he deat ſick nich nog,<lb/>
+				He tog öäwer 't Unland mit Roahack un Plog,<lb/>
+				Un wo noch tojoahr de Doarn'n ſünd weaſt,<lb/>
+				Blöeuh'n dütt Joahr all Tüffeln, Rogg'n, Hoafer un Gea'ſt.<lb/>
+				Ganz ſelt'n man treckt ſick noch 'n grön⸗bruner Strang,<lb/>
+				Tum Andenk'n, ſou ſchient 't faſt, in 't Soatfeld entlang.<lb/>
+				„Heidbalk'n“ wea'n P allwegs voan Jerermann nöäumt.<lb/>
+				Un wecker eah kennt heatt un ſüht eah, de dröäumt<lb/>
+				In längſt verfloag'n Tied ſick torügg,<lb/>
+				Sou wea'n ſ' de Vergang'nheit un Geg'nwart to d' Brügg.<lb/>
+				Un de Swartdorn, de blöeuht in d' Maiennacht,<lb/>
+				Un 't Broakhohn ſchreeit, un de Lew erwacht,<lb/>
+				Un de Imm'n, de ſumm'n, un de Bottervoggel flüggt,<lb/>
+				Un de Bullkäfers brumm'n, as lert'n ſ' 'n Gedicht,<lb/>
+				Un de Glock'nblömer lü'n, un de Sunn moakt 'n Mien,<lb/>
+				As woll ſ' mit eahr Stroahl'n de Heidbalk'n verkoahl'n.<lb/>
+				Un 't weer doch ſchoa' um de ſchöeune Natur! —<lb/>
+				„Joa, das ſagſt Dul“ röppt doa 'n halw ſtädt'ſcher Buer.<lb/>
+				„Ich denke ganz anders. Für mich hat nur Wert,<lb/>
+				Was die Scheune uns füllt, was uns Reichtum beſchert.<lb/>
+				Drum ſchwärm' ich auch niemals für ſchöne Natur.<lb/>
+				Ich ſchätze und preiſe allein die Kultur!<lb/>
+				—<lb/>
+				<pb facs="../img/matthies-1903/0003.png"/>
+				Un weil ick nu annehm, he woll mi nich kränk'n,<lb/>
+				Un weil ick ouf oahn', deatt noch eannern ſou denk'n,<lb/>
+				Drum heww ick, deatt 'n jerer wett,<lb/>
+				Wo 't moal ſön 'n Heidbalk'n loatn heatt,<lb/>
+				Hier glieks ſön 'n etlich unnermoalt.<lb/>
+				Zwoar is de Feärw' man ſlicht, ſe proahlt<lb/>
+				Nich grout un blend't ouk nich.<lb/>
+				Doch deatt ick man deatt eein noch ſegg<lb/>
+				De Heidbalk'n ſünd hier Minſch'n.<lb/>
+				Un doamit will ck Ju wünſch'n<lb/>
+				Recht vöäl Pläſſeer!<lb/>
+				De Moaler voan eahr.<lb/>
+				<pb facs="../img/matthies-1903/0004.png"/>
+				*:3<lb/>
+				.<lb/>
+				“.<lb/>
+				:<lb/>
+				n lüttge oldmärkiſch Wiehnachts⸗<lb/>
+				geſchicht.<lb/>
+				't weern giſtern virtig Joahr. doa üterte¹) in n Dörb<lb/>
+				bi Klobenwall de Buer Möller in n Krog bi Kröger<lb/>
+				Knuſt'n, deatt he an n eannern Dag noch noa d' Stadt<lb/>
+				müßt, um eahr Muddern deatt Wiehnachtskok'nmehl to hoal'n.<lb/>
+				Un weil deatt nu ſou eeinmoal is upp'n Lan'n, de eein, de<lb/>
+				ſteaht un geaht un föhrt föer ahln, ſou ſä oll Knuſt:<lb/>
+				„Kannſt mi man eein grout Tunn vull Häring von Koup⸗<lb/>
+				mann Düern mitbeſoarg'n.“ — „Mien Lienöäl, glöäuw ick,<lb/>
+				is woll out all feadig; goah doch moal doanoa hen“,<lb/>
+				wünſcht Buer Kloas; Buer Schütt woll Zuckertroam föer<lb/>
+				ſien beid'n Kinner, de Snierer Twäern²) un Goarn un out<lb/>
+				— doch dütt ſä he eam heimlich, weil Kröger Knuſt'n ſien<lb/>
+				niſt döggt ³) — 'n halw' Ell' Priem. Ouk Krögers Mudder<lb/>
+				har noch mehrere Wünſch, de ſe dean'n oll'n vöälbepackten<lb/>
+				Möller öäwerdrog. —<lb/>
+				„Wenn he deatt ouk man ahl behölt!“ ſpitzt Buer<lb/>
+				Slus, de geärn watt öäwer eannern foppt. „Meinſt hen<lb/>
+				orrer hä?“ frog Prehm, de Smedd. „Ick glöäuw, deatt<lb/>
+				letzte wead eam woll am ſwoarſt'n fall'n.<lb/>
+				Un he ha Recht, doch oahnt deatt man noch keeiner.<lb/>
+				An'n eannern Moarg'n, eh deatt Licht noch doagt, kna't<lb/>
+				Buer Möller all dean 'n Stadtweg noa. Worum he ſick<lb/>
+				ſou fröeuh de Reiſ' ha unnernomm'n?“ De Doag weern<lb/>
+				koart, doch länger was de Weg, un doato ha eahr Mudder<lb/>
+				¹) äußerte. ²) Zwirn. ³) taugt.<lb/>
+				<pb facs="../img/matthies-1903/0005.png"/>
+				2<lb/>
+				.<lb/>
+				. eam dentt.ſtrengſt'ns anbefoah'n, deatt he Klock fief wearrer<lb/>
+				. müßt' td:Hus ſick infin'n, weil deatt de heilig Oabnd weer,<lb/>
+				tirdeen ſe noch back'n woll un ouk d' Kindskinner noch 'n Baum<lb/>
+				.<lb/>
+				.<lb/>
+				:.behänginr — „Off he deatt ouk woll ahl behölt?“ Dütt<lb/>
+				olle dumme Woart voan Buer Sluſ'n was Möllern ver'gt<lb/>
+				ganz Nacht in ſien'n Draum rum goahn, un he ha luter<lb/>
+				Priem in ſien grout Tunn un Häring in ſien'n Buddel hat<lb/>
+				un Krögers Muddern eahrn Semmelbüdel vull Lienöäl,<lb/>
+				Twäern un Zuckerkringeln. Un nu feel eam deatt wearrer<lb/>
+				in. Watt de oll ſpitzfinnig Smedd mit ſien Bemerkung doch<lb/>
+				ha ſeggn wollt? „Na töf mi, Di betoahl ick Neeijoahr gliets<lb/>
+				Dien Rechnung, un denn kann Di Dien ganzer Iſenkroam<lb/>
+				verroſt'n.“ Mit düſſen un noch ähnlichen Gedanken kamm<lb/>
+				Möller endlich hen noa Klobenwall. Sien Sach was noa<lb/>
+				de Umſtän'n bald verricht, un Lienöäl, Mehl un Häring<lb/>
+				leg'n wollverwoahrt upp ſien'n Woag'n; blouß föer dean'n<lb/>
+				Snierermeiſter müßt he noch dean'n Kauſtrick köäub'n. Süh<lb/>
+				doa, as he ſou um de Eck herümmer leep, kamm plötzlich<lb/>
+				eam de ſößteiinjöhrig Jung voan Buer Sluſ'n in 'n Weg<lb/>
+				geſprung'n. „Das paßt ſich ſchön,“ ſä he, „daß ich Ihn'n<lb/>
+				treff“ — denn he was Schriewerjung bi eein'n Afkoat'n,<lb/>
+				drum ſprok he houchdütſch — „Vader is auch hier, vielleicht<lb/>
+				könn'n wir mit Ihn'n gar nach Hauſe fahren?“ „J, doavoan<lb/>
+				heatt joa Voarer mi nich moal watt ſeaggt, we weern doch<lb/>
+				giſtern Oabnd erſt toſamm'n,“ un doamit dacht he wearrer<lb/>
+				an de dumme Froag. Doch as 'n echten Buern ſä he:<lb/>
+				„Joa, mitföhrn kön'n Je, blouß ahl to lang derft nich mehr<lb/>
+				duern,“ un leep un köfft dean'n Priem un geaht denn noa<lb/>
+				ſien Utſpann, ¹) wo ſick out Slus mit ſien'n Schriewerjung'n<lb/>
+				bald inſtellt. Doch wer nu denkt, deatt ſe noa Hus föhrn,<lb/>
+				irrt; eah ſmeckt to got deatt olle Bayrſch Beer, wovoan ſe<lb/>
+				eein'n Schopp'n noa 'n eannern drink'n.<lb/>
+				¹) Ausſpannung.<lb/>
+				<pb facs="../img/matthies-1903/0006.png"/>
+				Doamit kamm denn de Tied heran, wo Möllers Mudder<lb/>
+				woll eahrn Kok'n in 'n Backoab'n¹) ſchub'n und ha doch<lb/>
+				noch keein Mehl un onk keein Beärm.²) — „Wo de oll Kerl<lb/>
+				woll wearrer ſtickt?“ ſo reep ſe eeinmoal, tweeimoal, teinmoal<lb/>
+				ut. Jea, wo de ſtickt! In 'n deeb'n Sneei woat't he bi<lb/>
+				düſtrer Nacht mit ſien'n beid'n Päer, un 't ha ſien Don,<lb/>
+				deatt ſ' man nich ganz noch ſtäk'n blew'n. „Watt deatt<lb/>
+				doch hüt blouß lang duert, bett we to Hus ſünd?“ ſä oll<lb/>
+				Möller, „we föhrn joa woll all drütthalw Stun'n.“ „Joa,<lb/>
+				Varrer, ³) ſou raſch geaht bott nich as dunnmoals, wo Du<lb/>
+				Dien'n Brun'n⁴) noa d' Machts) broachſt, un Du Di, weil<lb/>
+				Du keein Spoarn“) beſeetzt, 'n ſpitz'n Noagel derch de<lb/>
+				Stäweln⁷) kloppt haſt, womit Du denn dean'n oll'n dick'n<lb/>
+				Hinnert ³) ſou'n bittchen kitzelſt, deatt he ſou antorönn'n fing,<lb/>
+				un Du erſt: „Kehrt mi! Kehrt mil“ roap'n — —<lb/>
+				Pladauz! Un kehrt mi, kehrt mil ha'n ſe ouk roap'n könn'n,<lb/>
+				wenn ſ' ſülmſt nich meanches ha'n to kehrn noch hat. De<lb/>
+				Oälbuddel, Mehlſack, Semmelbüdel, de Häringstunn mit<lb/>
+				eahr'n ganzen Inhalt feel öäwer eah un noch toletzt de<lb/>
+				Woag'n. —<lb/>
+				„De oll infoame Groab'n!“ Deatt was deatt erſte<lb/>
+				Woart, watt Möller voan ſick gaww un doamit hulp'n ſe<lb/>
+				de umgeſtearte Ka'⁹) wearrer upp de Beein, load'n Mehl<lb/>
+				un Oäl un Büdel wearrer rupp. — „Doch, watt is denn<lb/>
+				man mit de Tunn paſſeert?“ Watt was paſſeert? De<lb/>
+				Bodd'n was ruterfall'n, und ahl de doud'n Meersbewoahner<lb/>
+				legen in 'n Sneei. Tum Glück ha noch de Schriewerjung<lb/>
+				'n Striekholtſchachtel in ſien Taſch, de oppert he, un Slus<lb/>
+				un Möller fiſcht'n de Dierter ¹⁰) wearrer in de Tunn. As<lb/>
+				ſe de mühſoam Arbeit ha'n vollbracht, ging 't wierer. To<lb/>
+				Sicherheit jedoch ſet't keeiner ſick wearrer upp'n Woag'n.<lb/>
+				¹) Backofen. ²) Bärme. ³) Gevatter. ⁴) braunes Pferd. ⁵) Markt.<lb/>
+				⁶) Sporen. ⁷) Stiefeln. ⁸) Spottname. ³) Wagen. 10) Tiere.<lb/>
+				<pb facs="../img/matthies-1903/0007.png"/>
+				Buer Möller namm deatt Soadelpäerd bi'n Kopp; Slus<lb/>
+				hung ſick achter ¹) an de Rung un de Afkoat'nlehrling irrte<lb/>
+				hinner'n Woag'n hä. Deatt was 'n Taſt'n un'n Föhl n,<lb/>
+				un doamit kem'n ſ' in eein Gehölz. — „Wo bin ick? Wo<lb/>
+				bin ick?“ reep plötzlich lut 'n Stimm ut höächſter Höi, un<lb/>
+				Slus erkennt bald, wenn 't ouk plattdütſch weer, deatt deatt<lb/>
+				de Sproak was voan ſien'n Soahn. „Striek doch moal 'n<lb/>
+				Striekholt an, deatt we Di ſehn könn'n,“ ſä he. Doch bi<lb/>
+				dean'n Flug, dean'n ſick de Jung ha leiſt, weer eam de<lb/>
+				Schachtel ut de Taſch rutfloag'n. „Ich hab ſie nich,“ ent⸗<lb/>
+				gegnt he, un doamit kamm eam de Erinnerung an ſien ge⸗<lb/>
+				lehrte Bildung wearrer trügg. Voader Slus beſunn ſick,<lb/>
+				deatt he deatt Pinktüg ²) in ſien'n Sönndagskittel ha; he<lb/>
+				pinkt alſo dean'n Luft'nſpringer eahrn Standoart kloar un<lb/>
+				pinkt un pinkt eam endlich runner voan de Bert ²). „Wo<lb/>
+				biſt denn doa man rupper koam'n?“ frog Buer Möller.<lb/>
+				„Jea, dieſes weiß ich ſelber nich; ich fühlte plötzlich etwas<lb/>
+				Buſchwerk zwiſchen meine Füße, was mich denn in die Höh<lb/>
+				rein riß.“ „Deatt wettſt Du nich, denn goah mi man mit<lb/>
+				Diene ganze ſtädtſche Bildung aff,“ ſä Buer Möller mit'n<lb/>
+				grout'n Hub'n ⁴) Spott in Woart un Mien: denn he dacht<lb/>
+				bi de Antwoart an de dumm Froag voan 'n oll'n Sluſ'n.<lb/>
+				De merkt deatt ouk un foahrt doarum ſien'n Sprößling an<lb/>
+				un ſä: „Biſt bi Dien Twiern ⁵) upp de Berk geroa'n, de<lb/>
+				Möllers Woag'n ha to Eär boag'n, un as de Baum dunn<lb/>
+				uppwärts ſwackt, ⁸) heatt he Di mitnoahm.“ Un deatt't ſou<lb/>
+				was, ha'n woll dean'n Bengel de Berk'n ſülmiſt noch lehrt,<lb/>
+				wenn he ſick voan de Achterſied nich ha noa vearn hen moakt.<lb/>
+				Denn mancher Baum, de namm noch ſien'n Weg derch<lb/>
+				Möllers Wag'n un mancher Angſt⸗ un Schreckensroop *)<lb/>
+				noch öäwer de Geſellſchaft eahre Lipp'n, bett ſe to Hus weern.<lb/>
+				¹) hinten. ²) Stahlſeuerzeug. ³) Birke. ⁴) Haufen. ³) Irren.<lb/>
+				6) flog. ⁷) Schreckensruf.<lb/>
+				<pb facs="../img/matthies-1903/0008.png"/>
+				5<lb/>
+				Mit Möllers Muddern eahrn Wiehnachtskok'n woard<lb/>
+				't deatt Joahr niſt; ouk gaww't bi Buer Schütt'n keein<lb/>
+				Zuckerkringel an'n Baum; un wecker bi Kröger Knuſt'n nog'n<lb/>
+				lütt'n Koater moal 'n ſoaldig'n Häring ät'n woll, dean'n<lb/>
+				ſmeckt he höll'ſchen peckig, un deatt kamm voan deatt Mehl<lb/>
+				un voan dean'n Oäl. Un wenn voan Ju moal eeiner noa<lb/>
+				Klobenwall un in ſien Umgegnd kümmt, denn hört he doa<lb/>
+				noch hütig'ndoags deatt Woart:<lb/>
+				„Wenn he deatt ouk man ahl behölt<lb/>
+				Un nich as Sluſ'n Jung doamit in 'n Baum rinföllt!<lb/>
+				Sou eein Köſter weaſt mi nich!<lb/>
+				Oll Reist ha 't Geld doato,<lb/>
+				De Jung de Stimm;<lb/>
+				Un doarüm woard düſſ all noch vöer ſien Döäub, ¹)<lb/>
+				Tum Köſter uterſehn.<lb/>
+				Joa, Köſter mußt he wea'n,<lb/>
+				Koſt't, watt deatt woll!<lb/>
+				Un t duert nich lang, titt'leert'n cam<lb/>
+				Uter Ollern, Brorer, Sweſter,<lb/>
+				Ahl't ganze Dörb²): de lüttge Köſter.<lb/>
+				As lüttge Köſter kamm he denn all in de Schol,<lb/>
+				Seet noa, kreeg Släg as lüttge Köſter.<lb/>
+				Un watt 'n Jung'n noch ſüſſ³) paſſeert,<lb/>
+				Eam drapp⁴) deatt ahl as lüttgen Köſter.<lb/>
+				As lüttge Köſter kamm he wearrer ut de Schol,<lb/>
+				Leet ſick voan 'n Preſter konfermeern<lb/>
+				Un ging denn noa de houhe Schol,<lb/>
+				Um doa tum grout'n Köſter to ſtudeern. —<lb/>
+				¹) Taufe. 2) Dorf. ³) ſonſt. ⁴) traf.<lb/>
+				<pb facs="../img/matthies-1903/0009.png"/>
+				Doa ſatt he nu, ick glöäuw, ¹)<lb/>
+				He nöäumt²) deatt teiin Silweſter ³)<lb/>
+				Un ler't⁴) un ler't bi Dag un Nacht<lb/>
+				Upp'n ganzen klook'n⁵) grout'n Köſter.<lb/>
+				„Du, Mudder,“ ſä doa eeines Doags oll Reisk,<lb/>
+				„Griep doch tweei Gös ³) un mäß?) ſe feſter, ³)<lb/>
+				De eein föern Herrn Semnoarderekter, ³)<lb/>
+				De eanner föer'n lüttgen Köſter.“ —<lb/>
+				Weck Mudder leet ſick deatt woll tweeimoal heet'n?<lb/>
+				Reiskſch foat't ¹⁰) de Gös un ſtoppt ſe in de Kiſt.<lb/>
+				Un watt de Dierter nich voan ſülmſt freet'n,<lb/>
+				Deatt woard eah mit Gewalt rin hißt. —<lb/>
+				Upp düſſe Wieſ' weern bald de Voggeln ¹¹) fett.<lb/>
+				Un mit eah Blot leet'n ſe eahr Fearrerkleeid ¹²)<lb/>
+				Un denn flog'n ſ' lous, hen noa de houhe Stätt,<lb/>
+				Un Voader Reisk, da gaww eah deatt Geleiid.<lb/>
+				„Se Herr, könn'n Se mi nich dean'n Weg noawieſ'n,<lb/>
+				Tum Seminoarderekter Fell'n:<lb/>
+				Frog he. „Joa, gehen Sie nur immer dieſen,<lb/>
+				Und bei der Glocke des Direktors woll'n Sie ſchell'n.“<lb/>
+				Sä de.<lb/>
+				„Schön'n Dank!“ Un doamit leit de Oll ſick foart,<lb/>
+				Stüert richtig ouk upp t' groute Scholhus lous,<lb/>
+				Un twengt ¹³) denn derch de iſen Poart ¹¹<lb/>
+				Sick mit dean Herrn Derektern ſiene Gous.<lb/>
+				Natürlich föhrt de Weg eam derch de grötſte Döär.<lb/>
+				Doa ſtunn he nu in 'n Hus in 'n ünnſt'n Stock<lb/>
+				Un keek un twiert ¹⁵) do ümmer hen un hear<lb/>
+				Un ſocht dean'n Herrn Dereltern ſiene Klock.<lb/>
+				¹) glaube. ²) nennt. ⁸) Semeſter. ⁴) lernt. ⁵) klugen. ⁶) Gänſe<lb/>
+				7) mäſte. ⁸) tüchtig. 9) Seminardirektor. 10) faßte. ¹¹) Vögel. 12) Feder⸗<lb/>
+				kleid. ¹³) zwang. ¹⁴) Pforte. ¹⁵) irrte.<lb/>
+				<pb facs="../img/matthies-1903/0010.png"/>
+				„Watt 's dütt? Woll mi oll Mann de Kerl goar brühn? ²)<lb/>
+				Orrer was he ſüſſ nich recht bi Sinn'n?<lb/>
+				He ſä doch, an de Klock, doa ſcholl ick lü'n,<lb/>
+				Un ick kann doch keein Klock nich finn'n.“ —<lb/>
+				Doch plötzlich öäwerleept t eam ſöt un licht:<lb/>
+				„De Herr Derekter woahnt am En' in'n tweeit'n Stock.“<lb/>
+				Und währnd he doa noa de Trepp rupp ſtigt,<lb/>
+				Süht he boam²) öäwer ſick ouk all de Klock.<lb/>
+				De foat't he denn mit feſter Hand un lütt:<lb/>
+				„Bim, bim! Bim, bim!“ un will'n Derekter rop'n. ³)<lb/>
+				Doch weil dütt but'n Tied ſou vöäl as Füer bedütt, ⁴)<lb/>
+				Riet'n ſick ſougliels an virteiin Stub'n oap'n ³).<lb/>
+				„Wo iſt das Feuer denn? So ſag'n Sie nur!<lb/>
+				ſtöärmt'n⁶) woll an feaftig ) Köſter upp eam lous.<lb/>
+				„Watt? Füer?“ ſä he, „davon heww ick keeine Spur.<lb/>
+				Ick bring blouß Eahrn Herrn Derelter hier 'ne Gous!<lb/>
+				Un woll'n Se mich oll'n Minſch'n eein'n Gefalln don?<lb/>
+				So ſag'ns mich doch, wo komm ich zu den Mann.“ —<lb/>
+				„Zum Seminardirektor wollen Sie? Da iſt er ſchon,“<lb/>
+				Reep düſſer ſülmſt und trat an Reisk'n ran.<lb/>
+				„Gud'n Dag ouk, Herr Derekter!“ ſä Reisk, „un'n Gruß,<lb/>
+				Den Ihnen mein Familigt ſagen läßt.<lb/>
+				Un hier ſchickt Ihnen unſer Mudder eine Gous,<lb/>
+				Die hat ſie extra erſt vor Ihnen mäßt.<lb/>
+				Un denn wollt ich auch gleich bei die Geleg'nheit frag'n.<lb/>
+				Wie das jetzund um unſern Guſtav ſteaht,<lb/>
+				Un ob Sie auch nich über ihm könn'n klag'n,<lb/>
+				Un ob er auch brav lernen deat?<lb/>
+				„Hm!“ moakt de Herr Derekter un keck bi in d' Höcht.<lb/>
+				„Hm!“ moakt he wearrer un keek düttmoal doal, ³)<lb/>
+				Un denn ſchow he ſick erſt ſien gold'n'n Brill' torecht.<lb/>
+				I) necken. ²) oben. ³) rufen. ⁴) bedeutet. ⁵) offen. ⁸) ſtürmten.<lb/>
+				:) fünfzig. ⁸) nieder.<lb/>
+				<pb facs="../img/matthies-1903/0011.png"/>
+				Man ſacht¹) eam an, de Antwoart moakt eam Quoal.<lb/>
+				Doch endlich foat't he ſick. Un he begünn ²):<lb/>
+				„Was Ihren Sohn da anbelangt,<lb/>
+				Ich wohl im allgemeinen ſo zufrieden bin,<lb/>
+				Obſchon ſein Fleiß bisweilen etwas ſchwankt.<lb/>
+				Betreffs der Gans jedoch muß ich geſtehn,<lb/>
+				Daß ich ſie nimmermehr kann nehm'n;<lb/>
+				Denn da ſie meine Schüler ja geſehn,<lb/>
+				Müßt ich mich ewig ihrer ſchäm'n.<lb/>
+				Drum rat ich Ihnen, 's iſt das beſte wohl,<lb/>
+				Un braucht Sie auch nicht zu genieren,<lb/>
+				Wenn Sie den vielgeſchätzten Freund vom Kapitol<lb/>
+				Schnurſtracks zurück in ſeine Pfähle führen!<lb/>
+				—<lb/>
+				„Sou!?“ ſä oll Reisk un ſtünn ſülmſt as 'n Poahl, ³)<lb/>
+				Un ſien fett Gous, de woard to luter Sünn.⁴)<lb/>
+				„Nä, Herr Derekter, Se ſegg'n voan Kap'toal! ⁵)<lb/>
+				Sou'n grout Kap'toal ſtickt in ſön'n Gous nich in!<lb/>
+				Doch nähm'n S' mi man mien Geſchenk nich öw'l, ⁶)<lb/>
+				Ett was joa blouß 'n Teik'n²) unſer Dankbarkeit!<lb/>
+				Un denn foat't ⁸) he de Gous um n Fot, bi'n Knöw'l, ³)<lb/>
+				Giwt dean'n Derektern d' Hand un geaht, un geaht<lb/>
+				Groadwegs noa Guſtav'n ſien Quarteer<lb/>
+				Un kümmt doa an ſo ärgerlich,<lb/>
+				Un lärmt dean'n Jung'n an: „Nu ſett Di upp Dien Hous<lb/>
+				un ler'!<lb/>
+				Doch ſou n Köſter as d' Derekter weaſt mi nich!<lb/>
+				1) ſah. ²) begann. ³) Pfahl. ⁴) Sünde. ⁵) Kapital. ⁶) übel.<lb/>
+				²) Zeichen. ⁸) faſt. ³) Knöchel.<lb/>
+				<pb facs="../img/matthies-1903/0012.png"/>
+				Doan 'n oll'n Baron Nanu.<lb/>
+				Vöer Joahr'n lewt upp Witteneär<lb/>
+				De oll Baron Nanu.<lb/>
+				Wer n bittchen ¹) ler't ha, nöäumt he „Er,“<lb/>
+				To d' Meiſt'n ſä he „Du“.<lb/>
+				„Nanu?“ froag'n Je. Joa, joa, dett ſtimmt,<lb/>
+				Deatt was ſien richtig Noam'.<lb/>
+				Zwoar ſchreab'n ²) woard he eanners ſchimpt,<lb/>
+				Ick glöäuw „von Kaltengrab'n.<lb/>
+				Un wo he to dean'n Göenkel ³) kamm?<lb/>
+				Nu derch ſien eig'n Woart.<lb/>
+				Denn off he gaww, off he watt namm,<lb/>
+				„Nanu“ flog eam bi foart.<lb/>
+				Ens woll Nanu moal jagt'n goah'n.<lb/>
+				He foat't ſick deatt Gewehr<lb/>
+				Un pürſcht upp Heii un Wiſch un Ploan<lb/>
+				Weidmänniſch watt umher<lb/>
+				„Nanu, ſo kuck dies Teufelsvich!<lb/>
+				Ich rönn' all dritthalb Stun'n,<lb/>
+				Schimpt he, „un hab' trotz aller Müh<lb/>
+				Noch nich mal 'n Schwanz gefunden!<lb/>
+				Doch hör, Nanu, watt wierer aff,<lb/>
+				Noch upp Dien eig'n Geweſ',¹<lb/>
+				Doa geaht deatt ümmer buff, biff, baff!<lb/>
+				Doa jagt't oll Föſter Mäß.<lb/>
+				Nanu, de ſtutzt, brummt moal: „Nanu!<lb/>
+				Un herkt⁵) 'n Augenblick.<lb/>
+				Denn knipſt he 'n Hoahn an d' Flint' in Ruh,<lb/>
+				Lockt ſick ſien'n Hund an d' Strick<lb/>
+				Un ſteart't ⁶), groad as in jung'n Joahr'n,<lb/>
+				¹) bischen. ²) geſchrieben. ³), Spitznamen. ⁴ Beſitztum. ⁵) horcht.<lb/>
+				8) ſtürzt.<lb/>
+				<pb facs="../img/matthies-1903/0013.png"/>
+				10<lb/>
+				— He ret ſülmſt Karo'n mit —<lb/>
+				Derch Tüffeln, ¹) Kleiwer, ²) Röb'n ³) und Koarn<lb/>
+				Hen, wo de Föſter ſchütt.<lb/>
+				„Nann Mäß,“ reep he all ut d' Fearn,<lb/>
+				„Iſt Er denn heut im Krieg?<lb/>
+				Faſt ſcheint es ſo. Dann komm ich gern<lb/>
+				Und half Ihm zu nem Sieg.<lb/>
+				„Joal“ lacht oll Mäß, „joa, Herr Baron,<lb/>
+				Die Schlacht war hart und heiß.<lb/>
+				Doch iſt der Feind nun meiſt entfloh'n,<lb/>
+				Wenn er nicht liegt im Schweiß.<lb/>
+				Und wer nich fiel durch mein Gewehr,<lb/>
+				Durch Euch behielt er's Leb'n.<lb/>
+				Denn ſeht, Ihr grubt dem Feindesheer<lb/>
+				Ja ſelbſt die Schützengräb'n.<lb/>
+				„Da hat Er Recht, Mäß, ja, das ſeh ch.<lb/>
+				Sä düſſ' un ſtünn doavöer<lb/>
+				Un ſocht noa 'n Brügg un keek noa 'n Steg<lb/>
+				Un wußt nich hen noch hear.<lb/>
+				Mit 't Spring'n kunn eam deatt moardſch⁴) mallör'n,<lb/>
+				De Groab'n, de weer nich ſmall.<lb/>
+				Un rückwärts ſick to rettereern.<lb/>
+				Was ouk nich groad ſien Fall.<lb/>
+				Sou, währnd he noch ſach un ſunn<lb/>
+				Un matt dean'n Groab'n ſien Moat<lb/>
+				In Läng' un Breii, ſüh an, doa fun<lb/>
+				He plötzlich got'n Roat.<lb/>
+				„Mäß,“ ſä he, „Mäß, hör Er mal an,<lb/>
+				Reich Er mir ſeinen Schaft,<lb/>
+				Und rufe ich „Nanu!“, alsdann<lb/>
+				Zieht Er aus Leibeskraft.<lb/>
+				¹) Kartoffeln. ²) Klee. ³) Rüben. ⁴) ſehr.<lb/>
+				<pb facs="../img/matthies-1903/0014.png"/>
+				11 —<lb/>
+				Geſeaggt, gedoan! Oll Mäß, de bot<lb/>
+				De Flint, as d' Baron ſä.<lb/>
+				Doch düſſ'n paßt noch föer ſien'n Fot<lb/>
+				Nich recht de Affſpringſtä<lb/>
+				Drum taſt't he noch watt upp un doal ²)<lb/>
+				An'n Groab'n un huppt un öwt²)<lb/>
+				Un geaht und ſteaht denn wearrer moal<lb/>
+				Un kickt un ſtampt un pröwt. ³)<lb/>
+				„Nanu!“ — — find ich denn keine Stell?,<lb/>
+				Wollt't eam noch öäwer d' Tung'n,<lb/>
+				Dunn treckt oll Mäß all, un 'n Well<lb/>
+				Ha dean'n Baron verſlung'n.<lb/>
+				Ou, watt deatt bluwwert, ⁴) bloaſt un wöhlt<lb/>
+				Doa un'n in Mott⁵) un Sand.<lb/>
+				Zwoar duert nich lang'n, dunn tappt un föhlt<lb/>
+				He glücklich ſick an 't Land.<lb/>
+				„Mäß,“ ſäh he, „Mäß, was muß ich ſeh'n,<lb/>
+				Steh Er nicht ſo verzagt!<lb/>
+				Doch 's nächſtemal, da wart't Er ſchön,<lb/>
+				Bis ich „Nanu“ geſagt!<lb/>
+				Wo 't anlaga,<lb/>
+				deatt Cumpenſammler Kreft nich<lb/>
+				vöerwärts kamm.<lb/>
+				„Wo ſcholl't auligg'n“, ſou les ick all<lb/>
+				Ut Ju Geſicht un Mien,<lb/>
+				„An 'n Fliet upp'n Fel', in Hus un Stall,<lb/>
+				An d' Pfleg von Köeuh un Swien.<lb/>
+				¹) nieder. ²) übt. ³) prüft. 4) gurgelt. ⁵) Moraſt.<lb/>
+				<pb facs="../img/matthies-1903/0015.png"/>
+				12<lb/>
+				Stün' he man moarg'ns klock ſief to Höcht<lb/>
+				Un röeucht ſien Hand un Fot;<lb/>
+				Denn weer 't gewiß, ouk Kreft, de bröcht<lb/>
+				Deatt bald to Hoab' un Got.<lb/>
+				—<lb/>
+				Doch hoalt moal an, wenn ick In ſtör',<lb/>
+				Je ſind klock fief erſt wach,<lb/>
+				Un Kreft, de wacht oft all klock veer;<lb/>
+				Wenn ouk voan'n eannern Dag.<lb/>
+				Un deatt he d' Hand nich müßig höll,<lb/>
+				Seaggt Ju de kloar Verſtand:<lb/>
+				Denn Kreft, de ſitt bi 't Koart'nſpöll,<lb/>
+				Un doabi brukt man d' Hand.<lb/>
+				Drum koart un bündig rutgeſeaggt:<lb/>
+				Ju Grund, de ſchient mi flau!<lb/>
+				Watt Kreft'n rück⸗ ſtatt vöerwärts bracht,<lb/>
+				Deatt was — nu was ſien Frau.<lb/>
+				„Oal“ hör ick all de Frau'n ſegg'n,<lb/>
+				„Souwatt, deatt is nich recht!<lb/>
+				Doato mütt he erſt Tüg'n breng'n<lb/>
+				Un zwoar ut unſ' Geſlecht.<lb/>
+				Ut Ju Geſlecht, o weh, denn mütt. .<lb/>
+				Doch hoalt, deatt paßt joa ſchöeun;<lb/>
+				Mien Tügen is oll Jochen Schütt<lb/>
+				Un deatt is woll ſou eein. —<lb/>
+				Lehn'n Je 'n nich aff, denn hört mi an:<lb/>
+				Kreft was in meanch Gemeiin<lb/>
+				As Hoak'n⸗, ¹) Knoup⸗²) un Billermann ³)<lb/>
+				Bekannt bi Grout un Kleiin.<lb/>
+				Un weern Jung'n watt Slimms paſſeert,<lb/>
+				Orr' Döert'n platzt de Jack',<lb/>
+				Denn was he doa und arreteert<lb/>
+				De Lumpen in 'n Sack.<lb/>
+				¹) Haken⸗ ²) Knopf⸗ ³) Bildermann.<lb/>
+				<pb facs="../img/matthies-1903/0016.png"/>
+				13<lb/>
+				Sou woard dean'n Eannern Schoa' ſien Brout,<lb/>
+				De Eannern Kreih'n ¹) ſien Dub'n ²)<lb/>
+				Un was eam moal de Seg'n to grout,<lb/>
+				Hulp Mudder eam mit ſchub'n.<lb/>
+				Ouk neulich öwt²) ſ düſſ Ehſtandspflicht.<lb/>
+				Se ſpannt ſick in de Scher'¹<lb/>
+				Un Kreft, de ging ganz frouh un licht<lb/>
+				moal'n tiedlang achterhear. ⁵)<lb/>
+				Toletzt ſä he: „Stroam'n⁸) Di voan d' Laſt<lb/>
+				De Arm, denn ſett man doal.<lb/>
+				Un doamit lä he d' Säck erſt faſt<lb/>
+				Un ka't⁸) ouf wearrer moal.<lb/>
+				Un ka't. Un as he nich mehr kunn,<lb/>
+				Spannt ſick de Olſch wearr' in<lb/>
+				Un ſchow, bett eahr de Oat'n⁹) ſwun ¹⁰<lb/>
+				Un denn müßt he wearr rin.<lb/>
+				So ging deatt all 'n ewig Tied.<lb/>
+				Eahr ſtroamt'n Föt un Hän'n.<lb/>
+				Un doabi was de Weg nich wiet:<lb/>
+				Blouß hüt woll he nich en'n. —<lb/>
+				„Süh doa!“ ſä Kreft'ſch, „kiek, Jochen Schütt<lb/>
+				Kümmt joa dean'n Stieg noch lang.<lb/>
+				Off de woll noch noa'n Dokter mütt?<lb/>
+				Am En' is eeiner krank.“<lb/>
+				Un doamit frog ſ' eam all: „Is t ſlimm!<lb/>
+				Hoalſt Möllern orrer Kruf'<lb/>
+				„Ick?“ ſtutzt oll Schütt, „ick? Nä! Worüm?<lb/>
+				Ick goah joa doch noa Hus.<lb/>
+				„Noa Hus? Un hier in düſſe Richt?, ¹¹<lb/>
+				Denn biſt doch woll verer't<lb/>
+				¹) Krähen. 2) Tauben. ³) übte. ⁴) Schere der Karre. ⁵) hinter⸗<lb/>
+				her. 6) Schmerzen. ⁷) nieder. ⁸) karrt. ³) Atem. 10) ausging.<lb/>
+				in) Richtung. ¹²) verirrt.<lb/>
+				<pb facs="../img/matthies-1903/0017.png"/>
+				14 —<lb/>
+				„Nä,“ lacht oll Schütt, „nä Kreftſch, mi dücht,<lb/>
+				De Sach is umgekehrt. —<lb/>
+				Orr'r hebb'n Je beid'n mi blouß föer'n Na'n? ¹)<lb/>
+				Kiekt doch, doa lie't unſ Oart.<lb/>
+				Je öäwer komm'n, ſou as Je ka'n,<lb/>
+				Nich hen, nä, Je komm'n foart.“<lb/>
+				—<lb/>
+				„Foart voan tohus, bi Mitternacht?<lb/>
+				Deat is groad nich unſ' Will!<lb/>
+				Sä Kreftſch, un kat'n bittchen ſacht<lb/>
+				Un hoal toletzt ganz ſtill.<lb/>
+				„Joa, richtig, doa ſchient joa unſ Licht.<lb/>
+				Sühſt woll? Doa links voan't Holt,<lb/>
+				Reep Kreft un moakt doabi 'u Geſicht,<lb/>
+				As ha he d' Säck vull Gold. —<lb/>
+				„Nä, Jochen, nu erklär uns dütt.<lb/>
+				Deatt is 'n Streich ut d' Höll.<lb/>
+				Un ſicher heatt de Böeuſ' as d' Drütt<lb/>
+				De Finger mit in t Spöll.<lb/>
+				„De Böeuſ',“ lacht Schütt, „will'n Je't ſou nöäum'n,<lb/>
+				Denn kann ick niſt to ſegg'n.<lb/>
+				Mi ſchient, ett kümmt mehr voan Ju Dröäum'n<lb/>
+				Un Don ahn Oäwerlegg'n.<lb/>
+				Du Kreft, kiek doch, Du treäkſt de Ka“, ²)<lb/>
+				Un weern de Arm Di loah'm,<lb/>
+				Denn heatt Ju Mudder, düſſ' oll Na', ³)<lb/>
+				Se flank wearr' rückwärts ſchoab'n.<lb/>
+				¹) Narren. 2) Karre. 3) Narr.<lb/>
+				<pb facs="../img/matthies-1903/0018.png"/>
+				15<lb/>
+				De Vertreter<lb/>
+				in de Cennwandshütt.¹<lb/>
+				Dean'n ganz'n Wint'r ha deatt Spinnrad ſnurrt un<lb/>
+				Haſpel un de Tehroahm eahre Flittchen ²) ſmeatt'n, ³) as<lb/>
+				woll'n ſe de Geheimnis voan de halwe Welt upproll'n. To<lb/>
+				Faßloaw'n⁴) ſatt deatt Goarn upp'n Wewſtohl, un Behne<lb/>
+				Riekchen jog deatt Schiffchen derch de Foa'm⁵) un doabi<lb/>
+				dröäumt eah: Se un Schütt'n Guſtav ſeet'n in deatt Schiff<lb/>
+				und föhrt'n vuller Glück un Freii doahen derch 't lange<lb/>
+				Leb'n. Deatt dröäumt eah. —<lb/>
+				Un deatt Schütt'n Guſtav dean'n ſülm Gedank'n ha,<lb/>
+				wenn he man erſt to d' Pingſttied upp'n Anger vöer t<lb/>
+				Dörb bi Nachtigallenſlag un Moandſchien de Lennwand<lb/>
+				voan de Gemeiin bewacht, deatt weer de tweeite Deeil voan<lb/>
+				eahrn ſöt'n Draum. Un doabi dacht de true Deern nich an<lb/>
+				deatt Woart: „De Draum, de drüggt!,“⁸) lä, as de Foa'm<lb/>
+				mit eeinmoal „Knips!“ ſä, un deatt lütt Schiff oahn' Rück⸗<lb/>
+				ſicht upp ſien Paſſaſchier to Eär flog, ſick ouk dean'n Knips<lb/>
+				nich wierer ut, ſondern lewt un wewt un ſwewt man blouß<lb/>
+				föer eahr'n Guſtav. —<lb/>
+				Un he? Ut dean'n ſien Woart'n un Benehm'n ſe ahl<lb/>
+				de Foa'm föer eahr'n ſöt'n Draum ſick ſpunn? Ick ſegg<lb/>
+				noch niſt! Doch deatt will ick Zu all vermel'n, deatt, wenn<lb/>
+				nmoal de Bleiktied ⁷) föer uns ahl'n kümmt, nich jerer<lb/>
+				ſpunn'n Foa'm to Lennwand woard, un deatt öäwer manches<lb/>
+				Schiff, watt unſer Hoffnung beagts) deatt Woat'r ſleat. ³) —<lb/>
+				De Fröeuhjoahrstied kamm ran, un to dean'n Blom'n⸗<lb/>
+				ſneei, de ſick upp Appel⸗, Bär⸗¹⁰) un Kirſchbaum lä, geſellt<lb/>
+				ſick ouk de Lennwand öäwer 'n Anger, un dicht daabi, doa<lb/>
+				ſtunn de Hütt', un Guſtav ha doarin de Wach. — De<lb/>
+				2) Leinwandshütte. ²) Flügel. ³) geworfen. ³) Faſtuacht. ³<lb/>
+				Fäden. ⁶) trügt. ⁷) Bleichzeit. 8) birgt. ⁵) ſchlägt. 1o) Birn⸗.<lb/>
+				<pb facs="../img/matthies-1903/0019.png"/>
+				16<lb/>
+				Nachtigall'n ſung'n in de Rontdornheck un fleiit'n ¹) voan<lb/>
+				de Lew un eahre Luſt. — Hört he deatt woll? Behns<lb/>
+				Riekchen mücht glöäuw'n. Doch Snierer Ring un Krull,<lb/>
+				de Smedd, de ſpät noch ut't Noawersdörb ²) trügg kem'n,<lb/>
+				de glöäuwn't nich; denn alſo ſnarkt ³) deatt in de Hütt'. —<lb/>
+				„De Bengel ſnüft⁴) doch düller as de Bloasbalg in Dien<lb/>
+				Smeä,“ ſä Ring. „Eam ⁵) weard doch woll nich goar watt<lb/>
+				fehl'n; am En'n is he voan'n Alp befall'n; will'n doch moal<lb/>
+				hen, um totoſehn“ — un doamit lenkt'n ſe eahr Schritt<lb/>
+				voan'n Weg un ging'n noa de Hütt! —<lb/>
+				„Du, Guſtav, ſnark doch man nich ſou; Du moakſt joa<lb/>
+				ſülmſt de Spitzbob'n graulich,“ reep Meiſter Krull, de vearn ⁸)<lb/>
+				ging un kloppt mit ſien'n Dagſtock⁷) upp'n Poſt'n voan<lb/>
+				Guſtav'n ſien Quartier. Süh doa! Deatt hulp ouk richtig<lb/>
+				watt. Doch bald, dunn ſnow un puſt deatt um ſou düller.<lb/>
+				„He ſchient doch wirklich krank to ſind, griep eam doch moal<lb/>
+				n bittchen an de Hän'n, un weck eam upp ut ſien'n Draum,<lb/>
+				roat ⁸) Snierer Ring, de achter ³) ſtünn. „Joa, griep eam<lb/>
+				man, wenn Du 't kannſt! Ick bin bindah all bett an 't<lb/>
+				Koppen'n hen un heww noch nich moal'n Stück voan ſien<lb/>
+				grout Töeun'n ¹⁰) foat't“ ¹¹) entgegnt Krull Doch raſcher noch<lb/>
+				as ick 't ſegg'n kann, reep he: „O, Varrer, ¹²) Varrer, watt<lb/>
+				is dütt, deep unner 't Strouh hier lie't 'n Kopp, un ahl<lb/>
+				de Hoar ſtoah'n eam to Beag! — Loup ¹³) doch moal hen<lb/>
+				un hoal'n Schult'n un de Schöpp'n!“ — „Watt, blouß n<lb/>
+				Kopp un wierer niſt?! Denn will ick man glieks Füer<lb/>
+				rop'n.“ Un doamit loamenteert de Snierer lous: „Hülp,<lb/>
+				Hülp, to Hülp!“ un rönnt doavoan un duert nich lang, ha<lb/>
+				he de ganz Gemeiin to Beein.<lb/>
+				Deatt was n Uppruhr un 'n Schreein. De Mannslü<lb/>
+				tem'n mit Füerhoak'n, de Frau'n mit Emmer ¹⁴) un mit<lb/>
+				¹) flöteten. ²) Nachbarsdorf. ³) ſchnarchte. 4) ſchnauft. ⁵) Ihm.<lb/>
+				⁶) vorne. ⁷) Gehſtock. 8) riet. ³) hinten. 1⁰) Zehen. ¹¹) gefaßt.<lb/>
+				1²) Gevatter. ¹³) Lauf. ¹¹) Eimer.<lb/>
+				<pb facs="../img/matthies-1903/0020.png"/>
+				Stoak'n. ¹) Un jerer frog: „Wo is deatt Füer?“ — Währnd<lb/>
+				des, doa ha ſick doch oll Krull all watt beſunn'n. He woagt<lb/>
+				't, beföhlt dean'n Kopp voan boam'n ²) un voan un'n un<lb/>
+				woard gewoahr, deatt 't goar keein Kopp moal weer. — Nä,<lb/>
+				'n Swieuägel ha ſick deatt Vergnög'n moakt, de Loagerſtä<lb/>
+				voan Schütt'n Guſtav to betreck'n ³) un nich blouß Ring'n<lb/>
+				un Krull'n, ſülmſt ganz Gemeiin to geck'n. Un Guſtav, wo<lb/>
+				was de? To Hus, bi Rielchen orrer wo? — Ick kann 't<lb/>
+				Ju nich verroa'n. De Foa'm ſä „Knips!,“ deatt Schiff was<lb/>
+				unnergoah'n. —<lb/>
+				Upp wecker Wieſ Woater⸗<lb/>
+				möller Sſendroaht deatt ſöäb'nt<lb/>
+				Gebet wearrer ler't heatt.<lb/>
+				An d' Oſſenbäk, bi Hummelskoat,<lb/>
+				Doa moalt vöer langen Joahr'n<lb/>
+				Oll Woatermöller Iſendroaht<lb/>
+				De Lü deatt Mehl ut't Koarn.<lb/>
+				Deatt Mehl was ſchöeun; deatt Brout woard got.<lb/>
+				Blouß watt de Möll nich ehrt,<lb/>
+				Was, Iſendroaht ha't ſöäbnt Gebot<lb/>
+				All bittchen ſehr verler't.<lb/>
+				Nu ſtun he zwoar deatt ſülmſt nich in;<lb/>
+				Nä, he lä' ſick upp 't Strie'n,<lb/>
+				Bett eam deatt ut ſien'n Mund un Sinn<lb/>
+				In'n Sloap moal müßt entglie'n.<lb/>
+				¹) Stangen. ²) oben. ³) beziehen.<lb/>
+				<pb facs="../img/matthies-1903/0021.png"/>
+				1<lb/>
+				Ens nämlich ſatt an'n Sommerdag<lb/>
+				De Oll in d' Kirch un ſung<lb/>
+				Un heel ſick un ſien Noawers wach:<lb/>
+				Sou quält he Liew un Lung'.<lb/>
+				Doch wett'ſt nich, Varrer ¹) Iſendroaht,<lb/>
+				Watt Du Di ouk gliek krümmſt,<lb/>
+				De Sloap verlangt ſien Depp'ntoat, ²)<lb/>
+				Groad ſou, as Du Dien'n nimmſt.<lb/>
+				Un richtig hoal, ick ſeggt kum ut,<lb/>
+				Dunn ſung he nich, he brummt,<lb/>
+				Un wearrer noa'n klein Minut<lb/>
+				Was he all ganz verſtummt.<lb/>
+				De Eärgel ³) ſchallt mit kräftig Stimm<lb/>
+				Un fien miſcht ſick mit mang,<lb/>
+				Erſt lieſ', denn luter: Bim, bim, bim, bim,<lb/>
+				Un ging voan Bank to Bank.<lb/>
+				Un bimt ouk, wo oll Iſendroaht<lb/>
+				Sien Mirragſchläfchen höll,<lb/>
+				Un kiek, dean'n Möllern klingt deatt groad,<lb/>
+				As weer 't ſien Klock upp d' Möll,<lb/>
+				Drum wend't he ſick halwlinks und gaww<lb/>
+				Sien'n Noawer eein'n mit d' Fuſt<lb/>
+				Un reep: „Olſch, loup, deatt Mehl is aff,<lb/>
+				N' ſlecht Katt, de nich got muſt<lb/>
+				Doch kum was de Befehl entfloh'n,<lb/>
+				Dunn woakt he all un ſach<lb/>
+				De Folgen voan ſien Woart un Don<lb/>
+				An d' Eannern eahr Gelach. ⁵)<lb/>
+				Un ſach ſ' nich blouß, nä, nä, he hört<lb/>
+				Un föhlt eahr ouk recht got;<lb/>
+				Un doaderch heatt he wearrer ler't<lb/>
+				Voan neei'n deatt ſöäb'nt Gebot.<lb/>
+				¹) Gevatter. ²) Deputat. ²) Orgel. ⁴) Sprichw. ſ. Stehlen. ⁵) Lachen.<lb/>
+				<pb facs="../img/matthies-1903/0022.png"/>
+				19<lb/>
+				Upp eein'n Beein is nich got<lb/>
+				Stoah'n.<lb/>
+				He was 'n Snoakſchen, ¹) de oll Sieth;<lb/>
+				All achtzig Joahr un witt behoart,<lb/>
+				Ha he ſick ut ſien Söäuglingstied<lb/>
+				Doch noch n Kleinond uppbewoahrt<lb/>
+				Un dütt bekeek he oft in Still'n;<lb/>
+				Denn meiſtens drog he t joa in d' Taſch.<lb/>
+				Statt Mudder mußt't de Kröger füll'n.<lb/>
+				Je roa'n t, düſſ Demant was ſien Flaſch.<lb/>
+				Nu ſegg'n zwoar ahl eahr Frün'n ganz kloar:<lb/>
+				„Upp eein'n Beein is nich got Stoahn;<lb/>
+				Doch Sieth'n bracht ſ' goar in Gefahr,<lb/>
+				Upp eein'n Beein noa Hus to goahn.<lb/>
+				Un deatt kamm ſou: Bi Koupmann Höäg'n<lb/>
+				Ha he ſick wearrer as ſo oft,<lb/>
+				Föer ſien'n fern'n Leb'nsweg'n<lb/>
+				n neeit Poar hölt'n Tüffeln²) koft.<lb/>
+				Un währnd he noch ſatt un drunk<lb/>
+				Un weiht de Dinger glieks watt in,<lb/>
+				Kem'n Jochen Plätz un Stoffel Slunk<lb/>
+				Doa plötzlich in de Döär herin.<lb/>
+				„Na, nu giwt deatt Pleſſeer en gros“,<lb/>
+				Reep Höäg un blinzt mit Oug un grient. ³)<lb/>
+				Zwoar Sieth, de ſä doa Brennwien to,<lb/>
+				Weil eam deatt Woart watt natter ſchient.<lb/>
+				Un derch düſſ Noam'ns ſöt Erregung<lb/>
+				Geret'n“) bald ſien bei'n Lippen<lb/>
+				Ganz dull in heftige Bewegung<lb/>
+				Un ſmet'n⁵) bannig ⁸) groute Schüpp'n.<lb/>
+				¹) ſonderbarer Menſch. ²) Pantoffeln. ³) lachte verſchmitzt. ⁴) ge⸗<lb/>
+				rieten. ⁵) warfen. ⁸) ſehr.<lb/>
+				3<lb/>
+				<pb facs="../img/matthies-1903/0023.png"/>
+				20<lb/>
+				Un ſchüppt'n upp un ſchüppt'n doal, ¹)<lb/>
+				As wenn de Elf²) utloup'n was,<lb/>
+				Un ſchüppt'n noch, as eam mit 'n moal<lb/>
+				Vöer t Mulwerk ſtun 'n vulles Glas.<lb/>
+				Un richtig! 't was Pläſſeer doarin,<lb/>
+				Un Sieth heatt eam ſo ſcharp ankeek'n,<lb/>
+				Deatt he nich ſiet⸗, noch rückwärts künn;<lb/>
+				Blouß noch noa utwärts kunn he brek'n.<lb/>
+				Deatt dä he ouk mit grout'n Sprunk,<lb/>
+				Un watt noch nich in Freiheit was,<lb/>
+				Jog'n Jochen Plätz un Stoffel Slunk<lb/>
+				Denn hinnerhä vulln's rut ut Glas.<lb/>
+				Sou ging deatt woll'n moalerwatt, ³)<lb/>
+				Dunn brummt oll Slunk halwlut derch d' Tähn'n ⁴)<lb/>
+				„Mi dücht, we ſünd nu ſachtchen ⁵) ſatt,<lb/>
+				Wo weer 't, wenn we noa Hus goah'n dä'n:<lb/>
+				„Joa, Varrer, gliets, ick bin doabi,<lb/>
+				Mött Plätz, „ick will mi goarnich ſtröeub'n,<lb/>
+				Doch ſoulang töft ⁶) man noch upp mi,<lb/>
+				Deatt'ck mi kann'n hölt'n Tüffel köäup'n.“ —<lb/>
+				„Watt, eein'n köfſt Du Di blouß upp'n moal?,<lb/>
+				Frog Sieth un ſpitzt doabi de Ohr'n.<lb/>
+				„Joa“, ſä oll Plätz, „denn heww ck keein Quoal,<lb/>
+				Deatt mi de eanner geaht verloar'n.<lb/>
+				Wo is't, wenn Du Dien'n eein'n mi lettſt,<lb/>
+				Höäg nimmt föer : Poar blouß ſöäb'ntig⁷) Penn, ⁸<lb/>
+				Ick öäwer täll ³) Di, deatt Du 't wett'ſt,<lb/>
+				Glieks virtig föer dean'n eein'n in d' Hän'n.<lb/>
+				Un ſüh! De Oll, de ſett't de Föt<lb/>
+				Ouf düttmoal wearrer hinner d' Flaſch:<lb/>
+				Denn düſſ, de tuſchelt eam ſo ſöt:<lb/>
+				¹) nieder. ²) Elbe. ²) einige male. ⁴) Zähne. ³) allmählich.<lb/>
+				6) wartet, ⁷) ſiebzig. S Pſennig. ²) zähle.<lb/>
+				<pb facs="../img/matthies-1903/0024.png"/>
+				21<lb/>
+				„Sloa to, kriſt ¹) joa fief Penn in d' Taſch.<lb/>
+				Nu joa, dean'n Sechſer künn he tähl'n;<lb/>
+				Doa fehlt eam an de fief nich eein;<lb/>
+				Doch merkt he 't bald wo eanners fehl'n,<lb/>
+				Un deatt was un'n an ſien Beein.<lb/>
+				Drum woard eam ouk de Tuſch bemöeuht.<lb/>
+				Doch, watt he loamenteert und ſchricht,<lb/>
+				Off koalt he dä, off wearm, off heeit,<lb/>
+				Plätz ha dean'n Slav²) un hol ³) eam dicht.<lb/>
+				„Sou giw doch Du mi, Varrer Höäg“,<lb/>
+				Fleht he, „denn man noch eein'n to.<lb/>
+				Doch kiek! Ouk de lewt ſön'n oll Töäg,¹<lb/>
+				Sä: „Ick verköäup ſ' blouß in en gros.<lb/>
+				Nu gewt dean'n Oll'n got'n Roat,<lb/>
+				He kann doch nüchternwieſ' nich hink'n.<lb/>
+				Orrer ſchall he goar upp friſcher Doat,<lb/>
+				Slankweg dean'n ganzen Slav verdrink'n?<lb/>
+				Off he deatt doan heatt orrer nich?<lb/>
+				Ick wett't nich. Doch bekennt he oab'n, ⁵)<lb/>
+				Deatt he de Nacht, fett as 'n Snigg,“<lb/>
+				Upp ahl veer Föt noa Hus is kroab'n. ²)<lb/>
+				Döerfroag giwt keein Noakloag.<lb/>
+				Heatt deatt Getrei' watt un'ern Fot,<lb/>
+				Dütt wett de Buersmann recht got,<lb/>
+				Denn dreaggt deatt ouk in 'n Auſt ⁸) watt in,<lb/>
+				Un deatt wußt ouk oll Buer Winn.<lb/>
+				¹) bekommſt. ²) Pantoffel. ³) hielt ihn feſt. 4) Züge. ⁵) offen.<lb/>
+				⁶) Schnecke. ⁷) gekrochen. ⁸) Ernte.<lb/>
+				<pb facs="../img/matthies-1903/0025.png"/>
+				22 —<lb/>
+				Drum ſteek he, watt he igg'nſt'n ¹) künn,<lb/>
+				Alljährlich in ſien'n Acker rin. —<lb/>
+				Doch 't letzt Joahr kunn bi'n beſt'n Will'n<lb/>
+				He doch dean'n Bodd'n de Taſch nich füll'n.<lb/>
+				D Schuld leg, deatt dä eam wirklich weeih,<lb/>
+				Nich an eam, nä, an ſien Veeih.<lb/>
+				Süſſ moakt'n Buntkopp ²) un oll Bleß ²)<lb/>
+				Eam ümmer ſön'n vermoſt'n Meß;³<lb/>
+				Blouß dütt Joahr leet'n ſ' eam in n Stich. —<lb/>
+				Na, watt hulp doa vöäl Loam'nteern,<lb/>
+				Sön'n Veeih is doch nich tobelehr'n,<lb/>
+				Wenn deatt nich will, denn will deatt nich.<lb/>
+				Drum ſä oll Winn' to ſien beid'n Knecht:<lb/>
+				„Moakt mi doch moal 't Geſpann torecht,<lb/>
+				Ick will moal herk'n,⁴) off in d' Stadt<lb/>
+				Nich eeiner noch Meß ligg'n heatt<lb/>
+				Un föhrt ouk lous un herkt un kiek,<lb/>
+				All an d' drütt Döär, doa hört he gliek,<lb/>
+				Upp d' Brörerſtroat oll Soatler Kreſſ<lb/>
+				Ha noch de ganze Kuhl vull Meß. —<lb/>
+				Nu was oll Kreſſ in Stadt un Land<lb/>
+				Zwoar as 'n Snoakſchen ⁵) watt bekannt:<lb/>
+				Doch dacht oll Winn': „Kannſt joa moal froag'n.<lb/>
+				Kreſſ' is joa Kreſſ<lb/>
+				Un Meß is Meß,<lb/>
+				Doa giwt deatt woll keein Oäwerdroag'n,<lb/>
+				Un föhrt ouk hen, kloppt an un ſteaht<lb/>
+				Vöer Kreſſ'n, de groad ät'n deat<lb/>
+				Un bracht denn ſien Gewerw ⁶) ouk an,<lb/>
+				Sä: „Ick bin hier mit mien Geſpann<lb/>
+				¹) irgend. ²) Namen der Kühe. ³) Dung. ⁴) horchen.<lb/>
+				3) Sonderbarer Menſch. ⁸) Anliegen.<lb/>
+				<pb facs="../img/matthies-1903/0026.png"/>
+				23<lb/>
+				—<lb/>
+				Un heww vernomm'n, Se, Meiſter Kreſſ',<lb/>
+				Har'n noch de ganze Kuhl ¹) vull Meß.<lb/>
+				„Das ſtimmt!“ ſä Kreſſ<lb/>
+				„Un was für Meß<lb/>
+				„Derf²) ick ſ' mi denn nich moal bekiek'n?,<lb/>
+				Frog Winn'.<lb/>
+				Un Kreſſ', de reep ſien Frau, ſä: „Fiek'n,<lb/>
+				Bring doch den Herrn nach d' Meßkuhl hin!<lb/>
+				Un Winn' beſach de Meſſ in d' Kuhl,<lb/>
+				Ging wearrer rin, grieflacht um 't Mul,<lb/>
+				Grieflacht un ſä,<lb/>
+				Deatt eam de Meß gefall'n dä<lb/>
+				Un frog ouk gliets: „Kann 'ck ſ' ruterſmiet'n:<lb/>
+				Oll Kreſſ' ſä: „Nu,<lb/>
+				Man immerzu!<lb/>
+				Un Winn fung denn bi an toriet'n<lb/>
+				Un reet, un woll noa'n drütthalw Stun'n<lb/>
+				Was nich 'n Foark ³) vull mehr voan un'n,<lb/>
+				Nä, he ha all'ns upp ſien'n Woag'n.<lb/>
+				Drum ging he denn, um noatofroag'n,<lb/>
+				Watt eam deatt Fürrer⁴) koſt'n ſcholl.<lb/>
+				Doch kiekt oll Kreſſ'n, „Sünd Se doll:<lb/>
+				Biert⁵) he dean'n Buern an un ſchricht:<lb/>
+				„Den Meß, Herr, den verköp ick nicht!<lb/>
+				¹) Grube. 2) darf. ³) Dunggabel. ⁴ Fuder. ⁵) lärmt.<lb/>
+				<pb facs="../img/matthies-1903/0027.png"/>
+				24<lb/>
+				Worüm Mehldau's<lb/>
+				Doarer in d Schün) ſloab'n mußt,<lb/>
+				un watt eam doa dröäumt heatt.<lb/>
+				Deatt ſcholl eahr ſülmſt de Neiid woll loat'n,<lb/>
+				Upp Swien, doa gaww oll Mehldauſch watt;<lb/>
+				Se putzt ſe, ſtriegelt ſ, as Saldoat'n,<lb/>
+				Un furrern dä ſ', rund as 'n Fatt.<lb/>
+				Un kamm moal 'n Fründ to gäſtere'rn<lb/>
+				Orrer ſnackt²) ſe, ſchimpt ſe orrer dröäumt,<lb/>
+				Denn plegt deatt meiſt'ns to paſſern.<lb/>
+				Deattſ' erſt eahr Swien, denn Voarern nöäumt.<lb/>
+				Dean'n Oll'n, dean'n was deatt zwoar ſchaneerlich,<lb/>
+				Deatt ſ' eam ſou hinner 't Veeih herſchüfft:<lb/>
+				Blouß deeilmoal dücht 't eam nich blamerlich,<lb/>
+				Wenn he de Swien noa 'n Swienkerl drifft.<lb/>
+				Ouk giſtern trult³)he wearr' dean'n Weg<lb/>
+				Entlang mit ſön'n run'n Fatt:<lb/>
+				Ett was n drütthalwjöährig Söäg;¹<lb/>
+				He bracht ſ' noa 'n Händler Willem Katt.<lb/>
+				Herr Katt tählt Mehldau'n in Kurant<lb/>
+				Blank virtig Doaler föer deatt Swien,<lb/>
+				De leet de Oll ſacht ut ſien Hand<lb/>
+				In ſön'n lütt Schäpelsbüdel glie'n.<lb/>
+				Nu wett n jerer, 'n Swien deatt wöhlt,<lb/>
+				Smitt⁵) ſick vertweer ⁶) in Eär un Aſch.<lb/>
+				Ouk Mehldau'n ſien, deatt taſt't un föhlt<lb/>
+				Un boahrt ſick 'n richtig Lock in d' Taſch.<lb/>
+				Un derch düſſ Poart ⁷) rutſcht denn mit nmoal<lb/>
+				— de Oll, de was ſou halw voan d' Stadt, —<lb/>
+				¹) Scheune. ²) erzählt. ⁸) rollte. ⁴) Sau. ⁵) wirft. ⁶) quer.<lb/>
+				7) Pforte⸗Tür.<lb/>
+				<pb facs="../img/matthies-1903/0028.png"/>
+				25<lb/>
+				Deatt ganze ſülwern Swien hendoal:<lb/>
+				He dacht natürlich, 't was 'n Ratt.<lb/>
+				Na, Ratt'n ha he nog in d' Ställ,<lb/>
+				Doch wenn he ſ' ſach, denn künn he ſchreein,<lb/>
+				Un nu ſet' eam upp freei'n Fel'¹<lb/>
+				Bi d' Nacht ſön Beeſt²) in 't Houſ'nbeein.<lb/>
+				„Watt moak ick?“ Was ſien erſt Gedank.<lb/>
+				He namm dean'n Stock un wichſt un haut<lb/>
+				Sick ümmer an de Beein entlang,<lb/>
+				Un wünſcht de Ratt n raſchen Doud. ²)<lb/>
+				Jea doch, ſön'n Tüg⁴) is man to teii, ⁵)<lb/>
+				Deatt kehrt ſick nich an Stock un Släg.<lb/>
+				Un darum was 't ouk voan de beei<lb/>
+				Oll Mehldau, de de Prügel kreeg.<lb/>
+				Deatt müßt he ouk bald ſülmſt bekenn'n;<lb/>
+				Wo öäwer weard deatt Veeih he lous?<lb/>
+				He foat't alſo mit beid'n Hän'n<lb/>
+				De Ratt mitſamſt'n ſiene Hous.<lb/>
+				Un hinkt, ſou raſch deatt eb'n geaht,<lb/>
+				Dean'n Weg entlang un is ſou vull,<lb/>
+				Deatt eam deatt Beeſt noch biet'n deat;<lb/>
+				Denn Ratt'n biet'n goar to dull.<lb/>
+				Na, doamit ha düſſ hüt got Wiel;<lb/>
+				De pienigt Mehldau'n doch all nog.<lb/>
+				Deatt ſ' eam ſou derch de Nacht in Jel,<lb/>
+				Vull Sweeit ⁶) un Angſt no Hus hen jog.<lb/>
+				„Du Mudder!“ reep he vöer de Döär.<lb/>
+				„Vearfeer ⁷) Di nich, ick bin 't, Dien Mann.<lb/>
+				Stoah doch moal upp un kumm moal hear,<lb/>
+				Doch erſt treck Di 'n Poar Hanſchen ⁸) an.<lb/>
+				¹) Feld. ²) Beſtic. ³) Tod. 4) Zeug. ⁵) zähe. ⁶) Schweiß.<lb/>
+				²) erſchrick. ³) Handſchuhe.<lb/>
+				<pb facs="../img/matthies-1903/0029.png"/>
+				26<lb/>
+				Un bring ouk Greifen ¹) un de Katt<lb/>
+				Un 'n Sack un 'n Beſſen ²) mit to Stä;<lb/>
+				Denn in mien Hous, doa ſitt 'n Ratt,<lb/>
+				Deatt is n ganz boaboariſch Veeih.<lb/>
+				Nu was de Olſch zwoar all watt giftig.<lb/>
+				Deatt he ſoulang'n voan Hus weg blew;<lb/>
+				Doch dütt Signoal ſchient eahr ſou driftig,<lb/>
+				Deatt blank eahr ut de Fearrern³) drew.<lb/>
+				Un raſcher as 't eahr Voarer ſä,<lb/>
+				Leep ſe derch Hus un Küch und Koat,<lb/>
+				Foat't Katt, reet Greifen voan ſien Kä'<lb/>
+				Un bracht noch ſüſſ, watt he eahr roat.<lb/>
+				Un in dean'n Sack, dean'n gröt'ſten, ſteek<lb/>
+				Se dean'n Oll'n mit Strump un Schoh.<lb/>
+				Un deatt de Ratt man nich entweek, ⁴)<lb/>
+				Bun' ſe 'n eam um de Hüft'n to.<lb/>
+				Un denn ging deatt Gejagte lous!<lb/>
+				De Hund, de hult, de Katt, de hoapt; ⁵)<lb/>
+				Un mit dean'n Beſſen woard ut d' Hous<lb/>
+				Toletzt de Jagdbeut' runner ſchroapt.<lb/>
+				Doch eh deatt eein voan bei'n reskeert<lb/>
+				Un hoalt ſ' ouk ut'n Sack to Streck.<lb/>
+				Slog Mehldaus Mudder erſt deatt Diert ³)<lb/>
+				Noch moale watt um d' Swienſtall Eck.<lb/>
+				Erſt darupp woagt ſe kühn de Doat,<lb/>
+				Foat't rin un greep de Siegstroffän<lb/>
+				Un treckt ſ ganz langſam, Noat föer Noat,<lb/>
+				Sou wiet, bett ſe ſ' kunn ſchimmern ſehn, —<lb/>
+				Dunn gaww deatt plötzlich eahrerſiets<lb/>
+				'n Schreei un 'n heftig Loamenteern:<lb/>
+				„Du Suput, ⁷) Lüderjoahn, du Ütz,<lb/>
+				Wo kannſt Du Di man ſou blameern!<lb/>
+				¹) Hundename. ²) Beſen. ³) Federn. ⁴) entwich. ³) lauert. ⁶) Tier. ⁷) Saufaus.<lb/>
+				<pb facs="../img/matthies-1903/0030.png"/>
+				27 —<lb/>
+				Denkſt, heaſt 'n Ratt in 't Houſenbeein,<lb/>
+				Un kümmſt doamit noa Hus gebiſt, ¹)<lb/>
+				Un doabi föhlt glieks jerereein,<lb/>
+				Keein Ratt, bewoahr, mien Mehlſack is't!<lb/>
+				Un watt as't ſlimmſt ick bi eracht1?<lb/>
+				He beagt ²) deatt ganze Geld föer d' Söäg!<lb/>
+				Son alſo ſinnſt Du Dag un Nacht<lb/>
+				Upp wierer niſt, as upp dumm Töäg! ³<lb/>
+				Drum goah to d'Stroaf hüt ⁴) man noa d' Schün!<lb/>
+				De Oll, de dä 't, un 't heatt eam dröäumt,<lb/>
+				Deatt, wenn eahr Mudder ſä: „Mien Swien,<lb/>
+				In Tokunft ſe ouk eam mit nöäumt.<lb/>
+				Freakn³) Jochen un de verkehrt<lb/>
+				„Fett⸗Waſſermann.<lb/>
+				„Du, Jochen, moak Di raſch torecht!,<lb/>
+				Het't Buer Freak ſien'n lüttchen Knecht,<lb/>
+				„Du müßt ganz ieligſt moal noa d' Stadt,<lb/>
+				Uns Söäg, ⁶) de we hebb'n ſlacht, de heatt,<lb/>
+				Sou ſeaggt oll Fleiſchbeſchauer Kiehn,<lb/>
+				Dean'n ganzen Liew vull voan Trichin'. —<lb/>
+				„Du kennſt doch doa Fett⸗Waſſermann,<lb/>
+				Dean'n mel' doch dütt moal drappwegs an,<lb/>
+				Segg eam, he künn, woll he 't betoahl'n,<lb/>
+				Sick gliets upp Stun'n deatt Swien weghoal'n.“ —<lb/>
+				Un Jochen, nu, de putzt ſick raſch,<lb/>
+				Namm 'n Stock in d' Hand, ſtet d' Piep') in d'Taſch<lb/>
+				1) geeilt. ²) birgt. ³) Zeug. ⁴) heute. ⁵) Zuſammenziehung<lb/>
+				von Friedrich. ⁶) Sau. ²) Pfeiſe.<lb/>
+				<pb facs="../img/matthies-1903/0031.png"/>
+				28<lb/>
+				.<lb/>
+				Un leep bald as 'n biſſend ¹) Koh<lb/>
+				In eein'n Drapp noa d' Stadt hento.<lb/>
+				Bi t Dor ²) erſt ſtun he an un hoall<lb/>
+				Un ſunn, watt he doa eig'ntlich woll. —<lb/>
+				„Ach ſou, deatt Swien. Doch Schinnerbrett,<lb/>
+				Wo het't de Kerl denn man? Fett, Fett . . . . .<lb/>
+				Jea, 't Fett ſwemmt bobb'n ²) nich blouß in d' Supp,<lb/>
+				Ouk in unſ' Jochen ſien'n oll'n Kopp.<lb/>
+				Un dacht he moal: „Nu heww 'ck eam fun'n,<lb/>
+				Denn was oll Waſſermann wearr' un'n. —<lb/>
+				„Fett, Fett. . .“ ſo be't he eb'n wearr',<lb/>
+				Dunn kamm de Stroat entlang 'n Herr,<lb/>
+				De was ſou moager as 'n Brett,<lb/>
+				„Wo komm ck,“ frog Jochen eam, „to Fett..2<lb/>
+				Willſt Du mich uzen dummer Laff!<lb/>
+				Sä he un wend't ſick um un gaww<lb/>
+				Lütt Jochen ſön 'n Poar hinner d' Ohr'n,<lb/>
+				Deatt he ſülmſt har deatt Fett verloar'n. —<lb/>
+				„Mit Moagern ſprickt ſick deatt nich got,<lb/>
+				De löppt de Gall to licht in 't Blot,<lb/>
+				Dacht Jochen, „kiek, doa ſteaht 'n Dick'n,<lb/>
+				Am En künnt doamit beſſer glück'n,<lb/>
+				Un ging ganz zoaghaft ran un lä<lb/>
+				De ſülwig Froag dean'n vöer, de ſä:<lb/>
+				„Lauf nich zu doll: lieg viel im Bett,<lb/>
+				Un iß, was kannſt. Denn kommſt zu Fett!<lb/>
+				Nu leet zwoar dütt Rezept ſick hör'n,<lb/>
+				Blouß Jochen derft ſick nich ankehr'n.<lb/>
+				De twiert⁴) denn ouk dean'n Weg groad ut,<lb/>
+				Kamm an 'n Hus, doa duft't deatt rut,<lb/>
+				¹) wild gewordene. ²) Tor. ³) oben. ⁴) irrt.<lb/>
+				<pb facs="../img/matthies-1903/0032.png"/>
+				29<lb/>
+				M. m. . ſou ſöt, as Fettgeruch,<lb/>
+				Deatt Jochen glieks moal ät'n much';<lb/>
+				He ſtün alſo, keek 't Hus ſick an<lb/>
+				Un lus doa „Hotel Waſſermann.“ —<lb/>
+				Watt, „Waſſermann?,“ un ſwupp huppt rupp<lb/>
+				De Fettkerl in unſ' Jochen ſ' Supp.<lb/>
+				„Nu heww 'ck eam!“ reep he, „'t is gewiß,<lb/>
+				Ick ruk t, ¹) deatt dütt de Fettkerl is!<lb/>
+				Un doamit ging in 't Hus he rin,<lb/>
+				Blew ſtief an d' Döär ſtill ſtoahn un ſtün<lb/>
+				Un frog toletzt: „Bin ick hier recht?<lb/>
+				Ick bin Buer Freak'n ſien lütt Knecht.<lb/>
+				Mien Herr ſchickt mi, he ha föer Ihn',<lb/>
+				Herr Waſſermann, 'n hölliſch Swien,<lb/>
+				Deatt is recht fett, blouß . . .“ „Gut, mein Sohn,<lb/>
+				Das andre find't ſich ſpäter ſchon,<lb/>
+				Sä doarupp „Hotel⸗Waſſermann<lb/>
+				Un reep ſien'n Knecht: „Johann, ſpann an!“<lb/>
+				Un denn bracht he unſ Jochen 'n Snitt<lb/>
+				Un ſä: „Trink erſt! Ich fahr gleich mit.“<lb/>
+				Un 't duert nich lang, dunn ſtun'n de Peär,<lb/>
+				Mit ſamt dean'n Woag'n vöer de Döär<lb/>
+				Un foart ging't ümmer heaſte nich?,<lb/>
+				Ut d'Stadt herut, entlang dean'n Weg.<lb/>
+				Un weil de Woag'n ſou ſtuckeln dä,<lb/>
+				Was voan Vertell'n keeine Rä'.<lb/>
+				Erſt dicht vöer 't Dörb ²) hel Waſſermann<lb/>
+				Sien Peär in 't Loup'n etwas an. —<lb/>
+				Düſſ Gelegenheit namm Jochen woahr,<lb/>
+				He hoſt't ²) un kratzt ſick moal in 't Hoar,<lb/>
+				¹) rieche es. ²) Dorf. ³) huſtet.<lb/>
+				<pb facs="../img/matthies-1903/0033.png"/>
+				30<lb/>
+				Un ſä mit ganz unſchüllig Mien':<lb/>
+				„Is doch recht komiſch mit ſön'n Swien,<lb/>
+				Deatt kann doch de Trichin'n verdroag'n<lb/>
+				Un we, krieg'n we man 'n poar in'n Moag'n<lb/>
+				Denn ſün' w' all hops.“ Un Waſſermann<lb/>
+				Keek Jochen ſou bedächtig an<lb/>
+				Un ſä: „Nun, ich hoff ſicherlich.<lb/>
+				Euer Schwein hat ſolche Bieſter nich.“ —<lb/>
+				„Doch!“ reep doa Jochen, „Joa, Herr, joa,<lb/>
+				Doarüm was ick joa eb'n doa!<lb/>
+				Se leet'n mi man deatt nich ſegg'n.“ —<lb/>
+				Au Jochen, au, ſegg, kannſt Du ſpring'n?<lb/>
+				Denn verwärts, raſch, kiek nich lang'n, do t.<lb/>
+				Süſſ, ſüfſ', bekümmt Di dütt nich got. —<lb/>
+				Un Jochen, ſett't ouk öäwer 't Schütt, ²)<lb/>
+				Doch eein'n namm he voan d' Pietſch noch mit.<lb/>
+				Herr Waſſermann, de öäwer jog<lb/>
+				Noa Hus, deatt man de Stoub ſo flog.<lb/>
+				Un Jochen ſtun un ſtaunt un ſach<lb/>
+				Un wußt nich recht, wo eam geſchach<lb/>
+				Un ſä toletzt: „Wer lett't ſick 't dröäum'n,<lb/>
+				Trichin'n ſünd groad ſou ſlimm as Löeub'n; ²)<lb/>
+				Denn, wenn ſe deatt nich wirklich weern,<lb/>
+				Würd Waſſermann woll langſoam föh'rn.“<lb/>
+				—<lb/>
+				¹) Wagenſchutz. ²) Löwen.<lb/>
+				<pb facs="../img/matthies-1903/0034.png"/>
+				31<lb/>
+				Watt ſön 'n Sſenboahner) all'ns<lb/>
+				wett'n ſchall.<lb/>
+				De Zug, de jeaggt ſou raſch daohen<lb/>
+				Derch Wiſchen, Hei un t Feld,<lb/>
+				Un t ſchient, as woll he noch an 't En<lb/>
+				Gliets hüt voan d' ganze Welt<lb/>
+				Nu joa, he kann ſick nich verſüm'n,<lb/>
+				Süff derft he ſick nich Snellzug ſchrieb'n.<lb/>
+				Un in dean'n Zug ſien Klaſſen ſitt'n,<lb/>
+				In d' erſt un tweeit, am meiſt' in d' drütt'n,<lb/>
+				De Paſſeſchier: Mann, Frau un Kind<lb/>
+				Un räk'n, wenn noa Hus ſe ſünd.<lb/>
+				Kiekt doa de Deern, ²) deatt is woll 'n Brut,<lb/>
+				Denn ſe ſüht goar to glücklich ut;<lb/>
+				Ouk ſpitzt ſ de Lippen dann un wann,<lb/>
+				Se pröwt ³) woll, off ſ' noch küſſen kann.<lb/>
+				Nu kiekt dean'n Jung'n, de heatt watt ler't,<lb/>
+				Man ſüh't eam an, un ſicher kehrt<lb/>
+				He hüt noa t Ollernhus ⁴) torügg.<lb/>
+				Sien Mudder wett't am En noch nich. —<lb/>
+				Un ſou künn'n we noch wierer leſen,<lb/>
+				Dunn fleitt de Zug. „Watt mag doa weſen:<lb/>
+				Un denn gaww deatt n düchtig'n Schupp<lb/>
+				Un ahl ſprung'n ſ' voan eahr Plätzen upp,<lb/>
+				Un jerer ſteart't ⁵) an t Fenſter ran<lb/>
+				Un keek dean'n Schaffner ängſtlich an<lb/>
+				Un frog eam: „Is denn was paſſiert?<lb/>
+				Oder ſind die Räder ſchlecht geſchmiert?<lb/>
+				„Nein,“ ſä de, „nein. Es hielt im Lauf<lb/>
+				Uns nur ein Frevler ſchändlich auf.<lb/>
+				¹) Eiſenbahner. ²) Mädchen. ³) prüft. ⁴) Elternhaus. ⁵) ſtürzt.<lb/>
+				<pb facs="../img/matthies-1903/0035.png"/>
+				32<lb/>
+				Un doamit bracht'n ſ' vöer d' Maſchien<lb/>
+				in Mann<lb/>
+				Ouk an;<lb/>
+				De moakt nn groad keein Frevlermien.<lb/>
+				Wie heißen Sie?“ frog dean'n de Führer<lb/>
+				Voan'n Zug un keek eam höll'ſchen an.<lb/>
+				„O,“ ſä de eanner, ick bin Snierer ¹)<lb/>
+				Ernſt Auguſt Wilhelm Langermann.<lb/>
+				„Sie ſtanden doch dort auf dem Strang:<lb/>
+				Un Langermann, de ſtreet nich lang. —<lb/>
+				„Un welches war der Grund?<lb/>
+				Geb'n Sie uns den mal kund!“ —<lb/>
+				„O,“ ſä de motig Snierer<lb/>
+				Drieſt to dean'n Suellzugsführer,<lb/>
+				„Erſtlich woll ick doamit bewieſen,<lb/>
+				Sön 'n Zug, un is he ſülmſt voan Iſen,<lb/>
+				Ick kann eam doch noch bremſen;<lb/>
+				Un tweeit'ns müch 'ck in all'n Ehr'n<lb/>
+				Moal Eahr'n erfoahr'n Roatſlag hör'n:<lb/>
+				Womit lett ſick n Frau woll temſen? ²)<lb/>
+				Schoſter Kranz.<lb/>
+				Noa d' Soltwe'ſch ²) Maſcht⁴) mütt Grout un Kleein:<lb/>
+				Kerls, Frau'n un Jung'n un Oll'n;<lb/>
+				Koart rut geſeaggt: de ganz Gemeein;<lb/>
+				Doa lett ſick keeiner hoal'n.<lb/>
+				Se mün'n. Ouk Schoſter Kranz,<lb/>
+				De mußt, 't was Obſerwanz. —<lb/>
+				¹) Schneider. 2) bändigen. ³) Salzwedeler. ⁴) Markt.<lb/>
+				<pb facs="../img/matthies-1903/0036.png"/>
+				33<lb/>
+				Ut Obſerwanz<lb/>
+				Reet Schoſter Kranz<lb/>
+				Sick ouf dean'n Dag föer 't meiſt eein'n an.<lb/>
+				Dütt Joahr geſchach't bi Koupmann Wan'.<lb/>
+				Un as he nu groad dun ¹) nog weer,<lb/>
+				Sett't Kröger Wan eam vöer de Döär.<lb/>
+				„Sett't?“ Nä, töft²) moal, he leaggt,<lb/>
+				Noch beſſer is woll, „ſmet“ ³) geſeaggt.<lb/>
+				Un Schoſter Kranz, de mußt<lb/>
+				Vöer d' Döär<lb/>
+				Nu ligg'n un wußt<lb/>
+				Nich, weck he weer. —<lb/>
+				Noa 'n Tiedlang tem'n tweei Männer ran,<lb/>
+				De keek'n ſick dean'n Schoſter an<lb/>
+				Un ſä'n: „De bliwt hier ligg'n,<lb/>
+				Wenn we'n nich unnerbring'n.<lb/>
+				Un doamit ſtellt'n ſ' eam upp d' Föt<lb/>
+				Un froag'n Kranz'n, wo he heet<lb/>
+				Un ouk: Wohen un he?<lb/>
+				Doch düſſer moakt blouß: „. . . h. h, h.<lb/>
+				Erſt ganz toletzt kammt rut:<lb/>
+				„U, u. u, u, u, u, ut,<lb/>
+				Ut Obſerwanz,<lb/>
+				Bi, i, i, in Schoſter Kranz.<lb/>
+				„Ut Obſervanz?“, ſä dunn de eein un keek dean'n eannern an.<lb/>
+				„Deatt lie't woll nich hier in unſ' Lan.<lb/>
+				„Doch,“ ſä de eanner, „watt ck di ſegg,<lb/>
+				Ett is woll zwoar 'n ganz Endchen weg,<lb/>
+				In d' Oldmark bäwer mütt noch ligg'n,<lb/>
+				Ick hört dean'n Noam'n all öfters ſegg'n.“ —<lb/>
+				Un doamit kreg'n ſ dean'n Kranz bi'n Kroag'n<lb/>
+				Un lä'n eam liewlang upp'n Woag'n,<lb/>
+				¹) betrunken. ²) wartet. ³) warf.<lb/>
+				<pb facs="../img/matthies-1903/0037.png"/>
+				34<lb/>
+				De hört ut Grout Rappin<lb/>
+				'n Buern, Karl Mallin. —<lb/>
+				Un Kranz, de wöhlt in t Strouh ſick rin<lb/>
+				Un ſleep denn bald ganz ſelig in. —<lb/>
+				Geg'n Oab'nd was nu de Maſcht verbi,<lb/>
+				Drum ging'n, re'n, föhrt'n ahl de Lü<lb/>
+				Noa Hus. Out Karl Mallin<lb/>
+				Föhrt noa Rappin.<lb/>
+				De Knechts, de ſpannt'n d' Pär aff,<lb/>
+				Un watt upp 'n Woag'n lag, deatt gaww<lb/>
+				De Bur run un ſä: „Schuwt gliet<lb/>
+				Doch moal dean'n Woag'n noch noa'n Diek, ¹)<lb/>
+				He is watt ſpack.²)“ Geſeaggt, gedoan!<lb/>
+				Un d' Woag'n ſtun groad as 'n Koahn<lb/>
+				In 't Woater.<lb/>
+				Noa Mitternacht weckt unſen Schoſter nu de Koater,<lb/>
+				He richt't ſick upp,<lb/>
+				Beſach de Supp<lb/>
+				Un ſä: „Ick heww woll 'n ganz Deeil runner goat'n,<lb/>
+				Doch deatt ett ſouvöäl was, heww 'ck mi nich dröäum'n<lb/>
+				loat'n.<lb/>
+				Kremkau'n ſien „Wackernoageln.<lb/>
+				Oll Buer Kremkau ſatt un ſatt<lb/>
+				Un keek groad nich entzückt:<lb/>
+				Eam ha ſien Jung ut Weſterſtadt<lb/>
+				Moal wearrer 'n Rechnung ſchickt.<lb/>
+				¹) Teich. ²) Die Räder drohen auseinander zu fallen.<lb/>
+				<pb facs="../img/matthies-1903/0038.png"/>
+				35<lb/>
+				Sien Soahn, de Franz, was Semmeriſt,<lb/>
+				Un um ſien Inkünft to vermehr'n,<lb/>
+				Verfehl de Bengel upp 'n Liſt —<lb/>
+				Doch hoalt, we woll'n dean'n Oll'n joa hör'n.<lb/>
+				„Sön'n Jung'n!“, ſchimpt he, „ick ſeggt di joa,<lb/>
+				He is nu bald veer Joahr doa,<lb/>
+				Un ahl Veateljoahr, potz dunn un Hoageln!,<lb/>
+				Köft he föer teiin Mark Ljackernoageln!<lb/>
+				Doa ſloa doch glieks de Düwel rin!<lb/>
+				Ick pinn' un noagel doch ouk oft<lb/>
+				Un heww, ſou lang ick Buer bin.<lb/>
+				Noch nich moal föer 'n Doaler koft.“ —<lb/>
+				„Joa,“ ſä eahr Mudder, „Voarer loat,<lb/>
+				Du deaſt ¹) woll Unrecht an deatt Kind!<lb/>
+				Dien Noageln ſünd ouk blouß voan Droaht,<lb/>
+				Wer wett, wout dean'n Jung'n ſien ſünd.<lb/>
+				Un denn kiek an, he heatt doch 'n Beet,<lb/>
+				Orr' wo was t, wo deatt Goarnland heet?<lb/>
+				Un doaföer ſoargt he ganz gewiß.<lb/>
+				Deatt d' Tun ²) drum rum de ſlechſt nich is.<lb/>
+				„Deatt mag he ouk! Doch ſegg ick Di,<lb/>
+				Ick gew mi doamit nich tofre'n; ³)<lb/>
+				Nä, ick goah un erkundig mi<lb/>
+				Erſt moal doanoa bi Koupmann Klähn.<lb/>
+				Un Kremkau geaht, un Kremkau kümmt,<lb/>
+				Un Kremkau loamenteert un ſchimpt:<lb/>
+				„Sühſt woll, ouk Klähn behaupt't un bliwt<lb/>
+				—<lb/>
+				Doabi, deatt 't ſön Oart Noageln goarnich giwt.<lb/>
+				Am beſten is 't, wenn icks moal ſeh.<lb/>
+				Un doamit föhrt he ſtanterpeh ¹)<lb/>
+				¹) tuſt. 2) Zaun. ³) zufrieden. ⁴) ſofort.<lb/>
+				<pb facs="../img/matthies-1903/0039.png"/>
+				36<lb/>
+				Mit 'n nächſten Zug noa Weſterſtadt.<lb/>
+				Un weil eahr Franz groad Scholſtun'n heatt,<lb/>
+				Geaht he allein in 'n Load'n rin<lb/>
+				— Ett was bi Iſenkoupmann Sieg'n —<lb/>
+				Un frog denn doa, off he nich künn<lb/>
+				Föer 'n Gröſchen Wackernoageln krieg'n.<lb/>
+				Un Iſen⸗Sieg kratzt ſick in 'n Boart<lb/>
+				Un nimmt de Lerrer ¹) he un ſtigt<lb/>
+				Un kickt un ſeaggt: „Nein, dieſe Art,<lb/>
+				Mein lieber Mann, die führ'n wir nicht.“<lb/>
+				Un Kremkan ſtcart't²) mit 'n hecit'n Kopp<lb/>
+				Glieks ſtracks noa 'n Semmenoar nu rupp;<lb/>
+				Mi oahnt deatt all, nu werd't woll hoageln<lb/>
+				„Wieſ' mi,“ ſeaggt he to Franz. „doch moal Dien Wacker⸗<lb/>
+				noageln!<lb/>
+				Doch Franz verlor to ſien'n Glück<lb/>
+				De Ruh nich ein'n Augenblick,<lb/>
+				He namm dean'n Slött'l²) un ſlot drapp<lb/>
+				Sien'n Voarer upp deatt Bökerſchapp““<lb/>
+				„Siehſt Du,“ ſä he, „im erſten Fach<lb/>
+				Das ſind ſie da, ſieh ſelber nach.“<lb/>
+				—<lb/>
+				Un Kremkau woard in düſſe Stun'n<lb/>
+				Woll föer dreehunnert Doaler klöker. —<lb/>
+				„Ach ſou,“ reep he, „nu heww ick 't fun'n,<lb/>
+				Dien Wackernoageln, deatt ſünd Böker<lb/>
+				¹) Leiter. 2 ſtürzt. ³) Schlüſſel. ⁴) Bücherſchrank. ⁵) Das Leſe⸗<lb/>
+				buch von Wackernagel wurde früher in den Seminaren gebraucht.<lb/>
+				<pb facs="../img/matthies-1903/0040.png"/>
+				37<lb/>
+				Nich jerer heatt dean 'n Sinn<lb/>
+				doaföer.<lb/>
+				De Rentier Hermann Schunk ut d' Stadt<lb/>
+				Ha früher upp n Lan'n 'n Buerhoff hatt,<lb/>
+				De was eam ſo recht innig lew.<lb/>
+				Doch weil ſien Eh' oahn Erb'n blew,<lb/>
+				Ha he 'n, un deatt geſchüht joa oft,<lb/>
+				Vöer drütthalf Joahr an Kreihn verkoft. —<lb/>
+				Un Schunt, de tog mit got'n Mot<lb/>
+				Noa d' Stadt un lä de Hän'n in 'n Schout. ¹) —<lb/>
+				Doch jea, bi dütt Geſchäft kamm man<lb/>
+				Dean'n Buersmann d' Langwiel bald an. —<lb/>
+				Watt kann denn out ſön 'n Stadt Grouts be'n?²<lb/>
+				Deatt bittchen, watt 't doa giwt to ſehn,<lb/>
+				Is bald niſt neeis. Un erſt to hör'n?<lb/>
+				Nu, deatt is oft tum Husumkehr'n.<lb/>
+				Un watt au meiſt'n eein'n verdrütt? ³)<lb/>
+				Deatt keeiner ſick „Gud'n Dag“ moal bütt. ⁴) —<lb/>
+				Doageg'n loaw ick deatt Land doch mi,<lb/>
+				Doa kenn'n un grüßen ſick de Li<lb/>
+				Un ſitt'n as in 'n Poaradies.<lb/>
+				Kum ſmelt't de Sneei, tum daut deatt Is, ³)<lb/>
+				Denn geaht deatt Blöeuhn ⁶) un Sing'n an,<lb/>
+				Un jerer find't Gefall'n doaran:<lb/>
+				Mann, Frau un Kind un Old un Jung.<lb/>
+				Un düſſe Tied wählt denn ouk Schunk<lb/>
+				Un flücht't ſick mit ſien Frau ut d' Stadt,<lb/>
+				Hen, wo ſe ha n eahr'n Buerhoff hatt,<lb/>
+				¹) Schoß. ²) bieten. ³) verdrißt. ⁴) wünſcht. ⁵) Eis. ⁶) Blühen<lb/>
+				<pb facs="../img/matthies-1903/0041.png"/>
+				38<lb/>
+				Un goahn derch d' Feller, ſtieg'n upp d' Höeuh'n ¹)<lb/>
+				Un fin'n doa all'ns ſou hübſch nn ſchöeun,<lb/>
+				Un kiek'n onk oft noa eahr'n Goar'n ²)<lb/>
+				„Watt ſünd die Strük ³) blouß ſtattlich woar'n!<lb/>
+				„Watt!“ röppt doa Schunk, „hör, ſingt nich all,<lb/>
+				Doa in de Büſch 'n Nachtigall?<lb/>
+				Joa, richtig hoal! Wo wea'n doa Kreih'n<lb/>
+				Un ahl de Lü ſick öäwer frei'n!<lb/>
+				Wenn eah man blouß de Katt nich nimmt!<lb/>
+				Ick will doch moal . . . Süh an, doa kümmt,<lb/>
+				Deatt paßt joa ſchöeun, Kreih antogoahn.<lb/>
+				Un Schunk giwt eam denn toverſtoahn,<lb/>
+				Weck vernehm'n Gaſt eahr doa beehrt. —<lb/>
+				„Joa,“ ſä oll Kreih, „ick hewwt all hört;<lb/>
+				Deatt olle Beeſt, ⁴) deatt loamenteert<lb/>
+				Un bla't ⁵) un wimmert d' ganze Nacht.<lb/>
+				Ick heww de Jung'ns all öfters ſeaggt,<lb/>
+				Se ſcholl 'n mit Eär noa eahr ſmiet'n.⁶)<lb/>
+				Un helpt deatt nich, mütt a noch deatt Buſchwerk rute⸗<lb/>
+				riet'n.“<lb/>
+				„Und ſie bewegt ſich doch.<lb/>
+				Voan Hamburg bett noa Wien<lb/>
+				Was keeiner ſou gelehrt<lb/>
+				As Fleiſchbeſchauer Kiehn.<lb/>
+				He woard drum ouk föer ehrt. —<lb/>
+				As Snierer kunn he d' Mannslü tleein,<lb/>
+				In 'n Winter 't Fleeſch voan d' Swien bekiek'n<lb/>
+				1) Höhen. ²) Garten. ³) Sträucher. ⁴) Beſtie. ⁵) weint.<lb/>
+				6) warfen.<lb/>
+				<pb facs="../img/matthies-1903/0042.png"/>
+				39. —<lb/>
+				Un Sönndags goar föer Hea't ¹) un Beein<lb/>
+				Ouk neb'nbi d' Vigelin ²) noch ſtriek'n.<lb/>
+				Joa, he kunn vöäl un glöäuwt ouf vöäl.<lb/>
+				Doch eein's woll eam nich in 'n Sinn,<lb/>
+				Un deatt ſä he oahn 'n grout Verhehl:<lb/>
+				Deatt ſick de Eär dreih'n künn. —<lb/>
+				„Is goarnich möglich, Varrer ³) Fett,<lb/>
+				Reep he, „denk Di doch moal 'n Ei,<lb/>
+				Un upp dütt Ei nu doa, doa ſett<lb/>
+				Moal 'n Minſch'n rupp un denn, denn dreih;⁴<lb/>
+				Schaſt ſeh'n, wo de datt Fleg'n ³) kricht.<lb/>
+				Un nu ſegg' an, heaſt Du all floag'n?<lb/>
+				Ick ſacht 't noch nich. Nä, nä, mi dücht,<lb/>
+				Du ſitzt ganz faſt bi uns in Hoag'n. ⁸)<lb/>
+				Doch, jea, de Inſicht kümmt recht oft<lb/>
+				Ganz öäwer Nacht. So ging 't ouk Kiehn.<lb/>
+				Weil Buer Kamp' 'n Jung'n doft, ⁷)<lb/>
+				Streek⁸) he moal wearrer d' Vigelin. —<lb/>
+				Nu, doabi woard denn d' Boag'n teert<lb/>
+				Un ouk de Sait'n gründlich ſmeert. ⁹) —<lb/>
+				Geg'n Moarg'n hen<lb/>
+				Was de Döäub ¹⁰) to En.<lb/>
+				De Gäſt, de ſüng'n<lb/>
+				Noa Hus un out d' Muſ'kant'n ging'n. —<lb/>
+				Mücht weſen, deatt oll Kiehn<lb/>
+				Düſſ Nacht,<lb/>
+				Neb'n d' Vigelin<lb/>
+				Ha noch 'n beſonder' Dracht.¹¹<lb/>
+				Man ſacht 't man an ſien Poltern all.<lb/>
+				Un plötzlich kamm he goar to Fall,<lb/>
+				¹) Herz. ²) Violine. ³) Gevatter. ¹) drehe. ⁵) Fliegen. ⁶) Dorf⸗<lb/>
+				name. ⁷) taufen ließ. ⁸) ſtrich. ³) Redeweiſen für tüchtig trinken.<lb/>
+				io) Taufe. ¹1) Bürde<lb/>
+				<pb facs="../img/matthies-1903/0043.png"/>
+				40<lb/>
+				Un blew denn föer 'n ganz Tied lang ligg'n,<lb/>
+				Dacht noa un ſunn. —<lb/>
+				Un as he wearr' upp d' Beein'n ſtun,<lb/>
+				Sä he to Fett'n: „Nu heww ick 't ſpöärt<lb/>
+				De Eär, de küſelt¹) ſick un föhrt<lb/>
+				Groad as ſön Koaruſſell herum:<lb/>
+				Mi is de Kopp noch ganz voan dumm.<lb/>
+				Un ha 'ck nich ſou in 't Gras rinbeatt'n, ²)<lb/>
+				Ha ſ' mi woll ſlankweg runnerſmeatt'n!“³)<lb/>
+				—<lb/>
+				in ſta'k Cometung.“<lb/>
+				Oll Buer Peiſt, de ha in Werb'n<lb/>
+				en Unkel woahn'n, de leg in 't Sterb'n,<lb/>
+				Son ſchrew de Tante Peiſt 'n hüt.<lb/>
+				Nu liet zwoar Werb'n bannig ⁵) wiet;<lb/>
+				Moakt deatt de Erwſchaft orrer d' Lew,<lb/>
+				Ganz koart geſeaggt, Buer Peiſt'n drew<lb/>
+				Deatt dennoch hen.<lb/>
+				He künn am En<lb/>
+				Dean 'n Unkel doch noch lewig ⁶) ſehn<lb/>
+				Un dütt un deatt mit eam bere'n.<lb/>
+				Doch, wo komm 'ck hen? to Fot? to Woag'n?<lb/>
+				Orrer wowiet mag de Zug woll föhrn?<lb/>
+				Deatt weer'n föer Peiſt'n ſön'n Poar Froag'n,<lb/>
+				De erſt noch to erledig'n weern.<lb/>
+				Voan ſülmſt kunn he ſ' nu zwoar nich löeuſ'n.<lb/>
+				He ging alſo to Kantor Böeuſ'n,<lb/>
+				¹) dreht. ²) hinein gebiſſen. ³) hinunter geworfen. ⁴) Eine ſtarke<lb/>
+				Zumutung. ⁵) ſehr. 6) lebendig.<lb/>
+				<pb facs="../img/matthies-1903/0044.png"/>
+				41<lb/>
+				Un frog denn düſſen um ſien'n Roat;<lb/>
+				Un kiek, 't paßt ſchöenn, denn Böeuſ ha groad<lb/>
+				De Landkoart vöer un ſocht doa in.<lb/>
+				He föhrt nu Peiſt'n in ſien'n Sinn<lb/>
+				Upp d' Iſenboahn bett Silberhaus.<lb/>
+				„Da,“ ſä he, „ſteig'n Sie ſchleunigſt aus<lb/>
+				Und fahr'n dann mit der Kleinbahn weiter.<lb/>
+				„Watt?“, reep oll Peiſt, „mit d' Kleinboahn weiter?<lb/>
+				Nä, deatt möäg'n S woll Eahr Kinner lehr'n,<lb/>
+				Ic kann doch nich mit d' Kleinboahn föhr'n!<lb/>
+				He wett, worüm.<lb/>
+				In d' Oldmart giwt noch meanch Gemein,<lb/>
+				Wo ſick de Lü eahrn Flaſſt) ſülmſt ſei'n,<lb/>
+				Nä, ſei'n nich blouß, ſe we'n²) un reb'n.<lb/>
+				Un ſprei'n³) un heackeln, ⁴) ſpinn'n un web'n<lb/>
+				Eam ouk denn hinnerhä noch gliek.<lb/>
+				Un ſou holt out oll Buer Striek. —<lb/>
+				Vöer 'n Doag'ner dree ⁵) ging Striek nu moal<lb/>
+				Ut Neeigier an ſien Flaſſ hendoal<lb/>
+				Un keef un traut ſien Aug'n nich recht,<lb/>
+				Denn ut deatt Flaſſ wuß watt in d' Höcht,<lb/>
+				Sou ſperrig, groad as Erftenſtrük.<lb/>
+				„Deatt is doch Sie', ⁶) de mütt doa gliet,<lb/>
+				Dacht Striek, „upp d' Stun'n noch utwe't wea'n.<lb/>
+				Watt ſchall deatt Kroam doa länger ſpea'n?“ —<lb/>
+				¹) Flachs. ²) wieten oder jäten. ³) ausbreiten zum Trocknen⸗<lb/>
+				⁴) hecheln. ⁵) Vor drei Tagen. ⁶) Seide Flachsſeide), ein ſchädliches<lb/>
+				Unkraut.<lb/>
+				<pb facs="../img/matthies-1903/0045.png"/>
+				42<lb/>
+				Un doamit ging he 't Stück entlang,<lb/>
+				Doa hackt ſien Knecht Maxmiljan Blank.<lb/>
+				Un weil ut d' Fremd' düſſ weſen dä,<lb/>
+				Räd' Striek eam houchdütſch an un ſä:<lb/>
+				„Max.“ ſä he, „Max, lauf hin un zieh<lb/>
+				Doch aus das Flaſſ mal gleich de Sie',<lb/>
+				Kannſt ſie aus Deinen auch foarts we'n.<lb/>
+				Doch ſieh Dir vor un machs recht ſchön.<lb/>
+				Un Max, de leep un ſprung un huppt<lb/>
+				In t Flaſſ umher un ret ¹) un ruppt,<lb/>
+				Un ruppt un ret as d' Koh upp d' Wei,<lb/>
+				Un ha doabi 'n bannig Frei. —<lb/>
+				De Dag ging hen, de Moand, de ſchient<lb/>
+				Upp Maxen un ſien Werk un grient. ²) —<lb/>
+				Nich ganz ſou fründlich keek dewiel<lb/>
+				Buer Striek 'n Mudder. Se ha Jel,<lb/>
+				Deatt 't Stippſels ³) eahr verbrenn'n kunn,<lb/>
+				Weil 't lang'n nog all upp i Füer ſtunn.<lb/>
+				Un Max was ümmer noa 'n nich doa.<lb/>
+				—<lb/>
+				„Wo ſtickt he blouß? Seht doch moal noal,<lb/>
+				Schimpt ſe un as 't gewöhnlich kümmt,<lb/>
+				Woad ouk oll Striek doaderch verſtimmt.<lb/>
+				Groad woll he rut ut d' Stub'ndöär,<lb/>
+				Dunn ſprung Maxmiljan eam in d' Quer.<lb/>
+				„Bis jetzund haſt Du dran gepflückt?“,<lb/>
+				Biert⁴) Striek nu upp un Max, de nickt.“<lb/>
+				„Was? Ja?“ ſchricht Striek, „bis in der Nacht?<lb/>
+				Sag blouß, wo haſt Du das gemacht!<lb/>
+				„Ick? Wie gemacht? Ick hab gepflückt“,<lb/>
+				Sä Max un ſtunn ſou frouhbeglückt.<lb/>
+				¹) riß. ²) lacht im Stillen. 3) Tunte, aus Fett und Mehl be⸗<lb/>
+				reitet. ¹) fährt.<lb/>
+				<pb facs="../img/matthies-1903/0046.png"/>
+				43<lb/>
+				„Das glaub ich Dich, doch was denn, was?<lb/>
+				Rißſt woll gar aus das ganze Flaſſ<lb/>
+				„Nicht all'n,“ mött ¹) Max, „Ihr'n ließ ich ſtehn,<lb/>
+				Da ſollt ich doch die Seide we'n.<lb/>
+				„Watt?,“ reep unſ' Bu'r, „Minſch, un bi Di<lb/>
+				We'ſt Du deatt Flaſſ un ſchounſt de Sie?<lb/>
+				„Hm, jal“ lacht Max, „un zwar mit Fleiß,<lb/>
+				Denn, was die Minchen is bei Kreih's,<lb/>
+				Die meint 's mit mich ſchon lange gut<lb/>
+				Un falls ſie mir mal nehmen tut,<lb/>
+				kricht ſie aus dieſer ſelben Seide<lb/>
+				Das Zeug zu ihrem Hochzeitstleide.<lb/>
+				—<lb/>
+				Doa, Varrer Riehn, Dien Kunſt<lb/>
+				in Ehr'n.<lb/>
+				Buer Strouhbergs was de Woſt watt knapp,<lb/>
+				Ouk 't Speck fehlt eah in 't Küchenſchapp.²<lb/>
+				Un ſick dean'n Liew mit Keeis³) to füll'n,<lb/>
+				Dä deatt Geſin' eah nich to Will'n.<lb/>
+				Drum moakt'n ſick unſ' Buerslü<lb/>
+				Vöer 'n Woch'ner veer fröeuh moarg'ns doabi<lb/>
+				Un ſlacht'n raſch 'n fettes Swien. —<lb/>
+				Un weil 't Geſetz was, kamm oll Kiehn<lb/>
+				Un ret ut 'n Schink'n, Rück'n, G'nick ⁴)<lb/>
+				Sick mit ſien Metzer³) 'n düchtig Stück,<lb/>
+				Deatt brukt he to d' Trichinenſchau,<lb/>
+				Un ha he 't nog brukt, bruk 't ſien Frau.<lb/>
+				¹) entgegnete. ²) Küchenſchrank. ³) Käſe. ⁴) Genick. ⁵) Meſſer.<lb/>
+				<pb facs="../img/matthies-1903/0047.png"/>
+				44<lb/>
+				—<lb/>
+				Zwoar meancher goar behaup't un ſä,<lb/>
+				Deatt ſe 't all vöerhä broat'n dä.<lb/>
+				Nu, mag deatt weſen, as deatt woll.<lb/>
+				Deatt hütſch, ¹) wett ick, lä ſick de Oll<lb/>
+				Erſt richtig upp de lüttge Pann',<lb/>
+				Voan 't Mikroſkop un keek 't ſick an.<lb/>
+				Un während he doa lä un dreiht<lb/>
+				Un ſtellt un foarſcht un ſocht un wei't, ²<lb/>
+				Fung'n Strouhbergs an, bi 't Swien to hack'n<lb/>
+				Un afftoleſen, intopack'n.<lb/>
+				De Kleinmoagd löeuſt dean'n Speck voan d' Knoak'n,<lb/>
+				Mari, de mußt deatt Woſtfleeſch koak'n,<lb/>
+				Un Strouhbergs Voarer wegt deatt Mett,<lb/>
+				Un Strouhbergs Mudder ſatt bi 't Fett<lb/>
+				Un koakt doabi onk gliets de Supp,<lb/>
+				Un keeiner dacht mehr an oll Kiehn'n:<lb/>
+				Dunn flog mit 'n moal de Döär upp:<lb/>
+				„Ou, Lü, Ju Swien ſitt vull Trichin'n!<lb/>
+				t wimmelt oard'ntlich voan de Hun'n!<lb/>
+				Acht Neſter heww ick all in fun'n!“<lb/>
+				—<lb/>
+				Un he, de 't ſä, was ganz ut Oat'n, ³,<lb/>
+				Un ſe, de 't hört'n, tunn 't tum foat'n,<lb/>
+				Off 't Woahrheit orrer 'n Draum blouß was,<lb/>
+				Un ahltoſamm'n weern ſ' liek'nblaß. — —<lb/>
+				Noa 'n ganz Tied erſt ha'n ſ ſick beſunm'n<lb/>
+				Un eah Gedanken wearrer fun'n.<lb/>
+				„Watt!,“ reep oll Strouhberg, „Varrer Kiehn,<lb/>
+				Du meinſt doch wohl nich goar unſ' Swien<lb/>
+				„Keein eanner, Minſch,“ mött ⁴) de, „as dütt,<lb/>
+				Hier ſühſt Du 't joa ouk Swart upp Witt,<lb/>
+				Nimm doch dean'n Zettel hen un liß ⁵) . . .<lb/>
+				¹) heutige. ²) wendete = ſuchte. ³) Atem. ⁴) entgegnete.<lb/>
+				8) lics.<lb/>
+				<pb facs="../img/matthies-1903/0048.png"/>
+				45<lb/>
+				Doch watt ſön'n richtig'n Buern is,<lb/>
+				Bi dean'n hölt ſwoar, eam to bekehr'n,<lb/>
+				Deatt kunn uns out oll Strouhberg lehr'n.<lb/>
+				He ſä: „Joa, joa, 't ſtimmt, Varrer Kiehn,<lb/>
+				Ick ſeh 't all in, Du meinſt unſ Swien,<lb/>
+				Doch 't Seh'n is lewer mi as 't Leſen,<lb/>
+				Scholln 't würklich woll Trichin'n weſen?<lb/>
+				Wo is t, wenn Du mi orr' unſ Fiek'n ¹)<lb/>
+				Ouk leetſt moal derch Dien Brillglas kiek'n.<lb/>
+				Du wettſt, veer Aug'n ſehn mehr as tweei.<lb/>
+				Ett weer doch Schoa' hier um dütt Veih.<lb/>
+				„Näl,“ ſchreech doa Kiehn un loamenteert,<lb/>
+				„Nä, Strouhberg, deatt geaht geg'n Strieb'n,²<lb/>
+				Watt ick heww kum in 'n Joahr ler't,<lb/>
+				Wiſt Du in eein Minut begriep'n!“<lb/>
+				—<lb/>
+				„Un doch müch 'ck gern,“ antwoart't de Buer,<lb/>
+				„Watt meinſt denn, wenn Ba'bier Suhr...:<lb/>
+				„Watt, de? Sön'n Kerl!,“ biert ²) upp oll Kiehn,<lb/>
+				„De kann Di woll dean'n Boart beſnie'n,<lb/>
+				Doch voan Trichin'n verſteaht he niſt!<lb/>
+				—<lb/>
+				„Sou! Nich! Na, wo weer 't denn, wenn Liſt,<lb/>
+				De Köſter orrer goar de Preſter<lb/>
+				Sick moal bekeek'n düſſe Beſter?“ —<lb/>
+				Na, doamit woard de Pott⁴) erſt vull<lb/>
+				Un unſ' oll Kiehn garz wild un dull.<lb/>
+				„Joal“, ſä he, „watt in 'n Minſchen is,<lb/>
+				Wett de Oart woll, deatt is gewiß:<lb/>
+				Jedoch, de Kenntuis voan ſön 'n Swien<lb/>
+				Mütt ick as Fachmann eah beſtrie'n!<lb/>
+				Deatt hulp, Strouhberg was öäwertügt<lb/>
+				Un ahl ſien Twiewel³) weer beſiegt. —<lb/>
+				¹) Vorname von ſeiner Frau. ²) gegen die Schnur. ³) fährt.<lb/>
+				⁴) das Maß. ⁵) Zweifel.<lb/>
+				<pb facs="../img/matthies-1903/0049.png"/>
+				46<lb/>
+				Statt dütt Swien kamm 'n eanner ran.<lb/>
+				„Doch, watt fang' w' mit deatt erſt man an?<lb/>
+				„O, deatt ſtät'n Je mit Hut un Knoak'n,<lb/>
+				Roat Kiehn, „in 'n Keattel ¹) rin un koak'n<lb/>
+				Ju doaut Schoh⸗ un Woag'nfett.<lb/>
+				Un ſou geſchach't. An virteiin Pött<lb/>
+				Füllt'n ſe woll voan de Söäg ſick in.<lb/>
+				Un wo 'n Ka²) orrer 'n Woag'n ſtün,<lb/>
+				Streek Strouhberg eah doavoan an d' Aſſ. ³<lb/>
+				Oft mehr woll, as goar nöeurig was. —<lb/>
+				Vöer 'n Doagner watt föhrt he nu moal<lb/>
+				Piit 'n Fürrer⁴) Koarn de Stroat hendoal;<lb/>
+				Dunn gaww deatt plötzlich 'n lut'n Krach,<lb/>
+				Un ahl deatt ſchöeune Koarn, deatt lagg<lb/>
+				Mit ſamt dean'n Woag'n an de Eär,<lb/>
+				Deatt was föerwoahr 'n grout Malör.<lb/>
+				Un as he noch ſou keek un ſunn,<lb/>
+				Watt woll de Urſach weſen kunn,<lb/>
+				Doa feel eam in deatt Woag'nfett,<lb/>
+				Watt he to Hus ha in ſien Pött,<lb/>
+				Un voan de Pött kanm he upp 't Swien<lb/>
+				Un endlich ouk upp de Trichin'.<lb/>
+				„Ha,“ reep he un lacht mit't Geſicht,<lb/>
+				„De freet'n mi de Afſ' tonicht!<lb/>
+				“t is doch man 'n Glück, ſ' ſünd blouß in 'n Woag'n.<lb/>
+				Vöäl ſlimmer weer 't, wenn ſ' mi in 'n Moag'n<lb/>
+				Un Lung'n un Leber kroap'n weer'n.<lb/>
+				Drum Varrer Kiehn, Dien Kunſt in Ehr'nt⸗<lb/>
+				¹) Keſſel. ²) Karre. ³) Achſe. ⁴) Fuder.<lb/>
+				<pb facs="../img/matthies-1903/0050.png"/>
+				4<lb/>
+				He will deatt ſchöeune Amt<lb/>
+				verloaf'n.<lb/>
+				„Nä, Varrerſch, ¹) nä, kannſt Du Di frei'nt,<lb/>
+				Sä Mudder Knoak'ſch to Mudder Kreih'n,<lb/>
+				„Ju Jochen kamm doch raſch to watt.<lb/>
+				Ick ſach eam giſtern ſou in d' Stadt,<lb/>
+				Groad as 'n Hearn, houchupp to Woag'n,<lb/>
+				Derch d' Stroat'n mit ſien Poſtkutſch joag'n<lb/>
+				Du glöäuwſt goarnich, wo eam deatt leet,<lb/>
+				Un wo he doa ſou vöernehm ſeet.<lb/>
+				Un ahl de Deerns ²) keek'n nog eam ut:<lb/>
+				Na töf man, de heatt bald 'n Brut.“<lb/>
+				„Joa, joa,“ ſä Kreih'ſch und ſüfzt doabi,<lb/>
+				„As Du, ſou denk'n noch mehr Lü.<lb/>
+				Doch 't is nich luter Gold glieks immer,<lb/>
+				Ouk Bleck giwt deeilmoal 'n blank'n Schimmer.<lb/>
+				„Woll, Varrerſch, woll, Du heaſt ganz recht,<lb/>
+				Doch, watt an Jochen ſitt, is echt,<lb/>
+				Ganz echt un blank, groad as ſien Hoar<lb/>
+				Un an de Föt deatt Stäwelpoar.<lb/>
+				„Ach, groad de Stäweln, Mudder Knoak'n,<lb/>
+				De ſünd ett, de mi Soarg'n moak'n.<lb/>
+				Un weil Du joa verſwieg'n biſt,<lb/>
+				Will ck t Di vertell'n, wenn 't hör'n wiſt:<lb/>
+				He heatt nu doa deatt ſchöeune Brout,<lb/>
+				Wett niſt voan Soarg'n un Angſt un Nout,<lb/>
+				Acht't blouß upp 't Peard un Woag'n un Stroat'n,<lb/>
+				Un doch will he ſien Amt verloat'n.<lb/>
+				Un denk Di moal, wo d' Grund inlie't?<lb/>
+				Weil ſien blank Stäweln keeiner ſüht!<lb/>
+				¹) Gevatterin. 2) Mädchen.<lb/>
+				<pb facs="../img/matthies-1903/0051.png"/>
+				48<lb/>
+				Jea, mit ſön n Flint kunn he<lb/>
+				nich dräp'n.“)<lb/>
+				Buer Genz 'n Fritz ſach upp eah'n Ploan<lb/>
+				Bi 't Schummerlicht 'n Reeihbock ſtoahn,<lb/>
+				Un weil de as 'n Schoap groad döäſt<lb/>
+				Un goarnich öäugt, blouß immer äſt,<lb/>
+				Dacht Fritz: „Müßt t doch moal Voarern ſegg'n,<lb/>
+				Am En künn he dean'n Bock erlegg'n.<lb/>
+				Un doamit ielt he lous un ſtun<lb/>
+				Bald vöer oll Genz'n mit de Kun'.<lb/>
+				Dean'n Oll'n woad, as 't de Jägers geaht,<lb/>
+				Ganz ſwiemlich voan de Kun' um 't Heat;<lb/>
+				He greep ut d' Eck ſick deatt Gewehr<lb/>
+				Un ſteart't doamit ut d' Stub'ndöär<lb/>
+				Un leep as wild in 't Feld herin,<lb/>
+				Un Fritz, ſien Jung, puſt't achterin.<lb/>
+				Noa 'n Tied, dean'n Oll'n mucht 't Heat woll ſloan,<lb/>
+				Fung he watt langſoam an to goahn.<lb/>
+				Düſſ' Umſtän'n woll de Jung verwen'n;<lb/>
+				He wieſt eah Voarern noa ſien Hän'n<lb/>
+				Unkſä: „Wiſt Di nich öäwertüg'n.. . . ..:<lb/>
+				„Still!“ reep oll Genz. „kannſt Du nich ſwieg'n!<lb/>
+				Du wettſt, ſön Reeih is licht to ſtör'n,<lb/>
+				Drum loat mi keein'n Lut wearr' hör'n!<lb/>
+				Un Fritz, de ſweeg;<lb/>
+				He wußt, ſüſſ kreeg<lb/>
+				He deatt noch beſſer to verſtoahn. —<lb/>
+				Un doamit kem'n ſ' denn an eah'n Ploan.<lb/>
+				¹) treffen.<lb/>
+				<pb facs="../img/matthies-1903/0052.png"/>
+				49<lb/>
+				Un richtig hoal, de Bock, de döäſt<lb/>
+				Noch immer as vöerhen un äſt. —<lb/>
+				Nu weern ſ' eam got upp d' Schußwiet noah.<lb/>
+				Oll Genz tog langſoam . . . . Watt, kiek doa!<lb/>
+				Jea, mit ſön n Flint kunn he nich dräp'n,<lb/>
+				He ha ſtatt eah de Roa'hack ¹) gräp'n.<lb/>
+				He lid't²) am En ouk an de<lb/>
+				Ploag. ³)<lb/>
+				Upp 'n Lan'n giwt deatt to Sommertied<lb/>
+				Recht oft ſön oll dumm Ploag,<lb/>
+				Doa fehlt de Minſchen de App'tit,<lb/>
+				Se hebb'n t vöer 't Liew un Moag, ¹)<lb/>
+				Un wecken 't woll de Tied to lett,<lb/>
+				Leaggt ſick am lewſt'n bi in 't Bett. —<lb/>
+				Ouk Jochen Bußmann lagg nu all<lb/>
+				Slankweg in d' drütthalw Woch<lb/>
+				Un was ſou kundermack⁵) un ſmall<lb/>
+				Un hintt man eb'nhen noch,<lb/>
+				Un watt eam ouk eah Mudder bracht<lb/>
+				An Pulver, Theei und Pill'n,<lb/>
+				Se ſacht bald in, mit eahrer Macht<lb/>
+				kunn ſe de Ploag nich ſtill'n. —<lb/>
+				Drum ſchickt ſe denn eein's Doags noa d' Stadt<lb/>
+				Eah Willem 'n bi dean'n Dokter Blatt.<lb/>
+				1) Hacke, zum Roden dienend. 2) leidet. ² Plage. Magen.<lb/>
+				⁵) ſchwach.<lb/>
+				<pb facs="../img/matthies-1903/0053.png"/>
+				50<lb/>
+				De Doktor was out foarts paroat,<lb/>
+				Eah bitoſtohn mit Hülp un Doat.<lb/>
+				Doch, mucht deatt hüt watt länger dur'n,<lb/>
+				Orrer kunn de Kutſcher nich recht lur'n,<lb/>
+				He tog mit 'n moal de Töägel ¹) an<lb/>
+				Un jog doahen mit deatt Geſpann<lb/>
+				Un jog un jog watt haſtenich<lb/>
+				Un keet blouß vern und teek nich trügg.<lb/>
+				Un hinner eam, doa ſprung un leep<lb/>
+				Oll Dokter Blatt un winkt und reep. —<lb/>
+				„Wie iſt denn das nur ſo paſſiert?<lb/>
+				Frog he toletzt ganz eſcheffiert,<lb/>
+				Ihn plagt doch ſonſt nicht gleich die Eil!<lb/>
+				Weißt Du 's vielleicht, Du Treibenkeil?,<lb/>
+				Un doamit greep he höllſch'n dull<lb/>
+				Sien'n Soahn, dean'n Franz'n, in de Wull. ²)<lb/>
+				„Ich wiſſen, was der Karl ſo flitzt!,<lb/>
+				Sä düſſ ganz ehrlich. Doch dunn blitzt<lb/>
+				Deatt plötzlich upp in ſien'n Bräg'n: ³)<lb/>
+				„Sollt, — ja, — wär es vielleicht desweg'n?<lb/>
+				Ich hab nämlich aus Vorbedacht<lb/>
+				Die Tür am Wagen zugemacht.“ —<lb/>
+				„Und das ſo recht in Deiner Art?<lb/>
+				„Nein,“ ſä de Jung', „ganz ſacht und zart.“<lb/>
+				Un Koarl, de jog.<lb/>
+				Deatt t man ſou flog,<lb/>
+				Un t duert nich lang, dunn ſtun'n de Päer<lb/>
+				Mit d' Kutſch bi Bußmann'n vöer de Döär,<lb/>
+				Un ſtun'n un heel 'n ahl n got Minut,<lb/>
+				Un keeiner ſteeg ut 'n Woag'n rut;<lb/>
+				¹) Zügel. 2) Wolle — Haare. ³, Gehirn.<lb/>
+				—<lb/>
+				<pb facs="../img/matthies-1903/0054.png"/>
+				51<lb/>
+				Nä, faſt verſloat'n blew de Slag.<lb/>
+				Ouk doa in t Hus woa'd keeiner wach.<lb/>
+				„Das kommt mich all'ns ſo ſpan'ſch vorl“.<lb/>
+				Brummt Koarl un kratzt ſick achter 't Ohr.<lb/>
+				„Wie aus die Kutſch', ſo kriecht aus 's Haus<lb/>
+				Nich eine einz'ge Seele raus.<lb/>
+				De Doktor nimmt doch ſonſt das wahr.<lb/>
+				Is er woll. . ? Oder ſollt er gar .<lb/>
+				Un doamit ſprung voan 'n Bock he raff<lb/>
+				Un keek in d' Kutſch'. „Lauſt mich der Aff!,<lb/>
+				Reep he, „doa ſchlag doch einer hin!<lb/>
+				„Gu'nn Dag! Herr Dokter, goahn S man rin!,<lb/>
+				Nöeugt ¹) Bußmanns Mudder dunn voan d' Schün,<lb/>
+				„Unſ' Voarer hoapt ²) all recht upp Ihn'.“<lb/>
+				Joa, joa, he hoapt; ſülinſt as he hört,<lb/>
+				—<lb/>
+				Watt Koarl'n, dean'n Kutſcher, was paſſeert,<lb/>
+				Weer eam de Hoffnung noch nich nomm'n.<lb/>
+				„De Dokter wea'd io woll noch komm'n.<lb/>
+				Denn watt ſchall hier de lerrig ³) Woag?,<lb/>
+				Sä he, „he lid't am En out an de Ploag!<lb/>
+				¹) nötigte. 2) hofft. ³, leere.<lb/>
+				<pb facs="../img/matthies-1903/0055.png"/>
+				52<lb/>
+				n klein Mißverſtändnis.<lb/>
+				Tweei Perl'n nenn ick Ju, un de ſcholl'n<lb/>
+				Sick eig'ntlich ahl d' Gemeind'n woll holl'n:<lb/>
+				As d' erſt föer d' Kinner 'n düchtig Schol, ¹)<lb/>
+				De Glot un 't Licht in d' Köpp ²) to ſchür'n,<lb/>
+				Un tweeit'ns 'n handlich'n Woaterpol, ³)<lb/>
+				Um 'n Brand⸗Unglück in t Dörb to ſtü'rn. —<lb/>
+				Ick kenn n Gemein, Klein⸗Drüſeang',<lb/>
+				De heel ſick düſſe Perl'n all lang:<lb/>
+				Un hüt ſteaht deatt noch n jerer in,<lb/>
+				Deatt ſ' ſick nich bi in 'n Licht'n ſtün.<lb/>
+				Beſonners gult deatt voan de Schol,<lb/>
+				Doa lehrt ſeit lang'n oll Köſter Mohl<lb/>
+				De Krabb'n⁴) in d' Sprüch', Bibliſch Geſchicht,<lb/>
+				Un Sing'n un Räk'n un Gedicht;<lb/>
+				Un ganz beſonnern Fliet ⁵) un Müh<lb/>
+				Wend't he an bi d' Geographie,<lb/>
+				De was, as man deatt woll ſou hört,<lb/>
+				Oll Köſter Mohl'n ſien Steckenpärd.<lb/>
+				Drum weer de Kinner ouk keein Land<lb/>
+				Un Beag ⁸) un Woater unbekannt,<lb/>
+				Nä, as in Dütſchland bracht in d' Frem'<lb/>
+				Eah woll keein Minſch ſou raſch in d' Klemm. —<lb/>
+				In Oaſien, Amerika,<lb/>
+				Auſtroaljien un Oafrika<lb/>
+				Wußt'n ſe, off d' Lü⁷) in Hus orrer Hütt'n,<lb/>
+				Orrer goar as d' Oaps) in Böäum'n noch ſitt'n,<lb/>
+				Off ſe mit d' Flint orrern Flitzboag'n ſcheet'n,<lb/>
+				Oaft ³) orrer blankweg Minſchen frät'n.<lb/>
+				¹) Schule. ²) Köpfen. ³) Teich. ⁴) Bezeichnung für Kinder.<lb/>
+				⁵) Fleiß. 6) Berg. 3) Menſchen. 8, Affe. 8) Obſt.<lb/>
+				<pb facs="../img/matthies-1903/0056.png"/>
+				53<lb/>
+				Ouf Iſenboahn un Woaterſtroat'n<lb/>
+				Ha Köſter Mohl eah ler'n loat'n.<lb/>
+				Un oftmoals jog he krüz un quer<lb/>
+				De Kinner upp eah hen und här.<lb/>
+				Deatt guww denn ümmer n luſtig Foahrt,<lb/>
+				Wenn ſ' ouk man moakt woard uppde Koart. —<lb/>
+				Eusmoal jedoch reet Minchen Kreih<lb/>
+				Ganz Dütſchland mit dean'n Stock entwei: ¹)<lb/>
+				Un weil de Schoa²) ſick nich leet kleb'n,<lb/>
+				Un Mohl nich kunn oahn Dütſchland leb'n,<lb/>
+				Load he ſougliels noa n etlich Doag<lb/>
+				Dean'n Scholvorſtand in, um de Froag<lb/>
+				Mit düſſen ſick to öäwerlegg'n:<lb/>
+				Wo d' Schoa woll weer ut d' Welt to breng'n. —<lb/>
+				Doch, jea, de Antwoart was nich licht:<lb/>
+				Nä 'n mancher moakt erſt n grout Geſchricht. —<lb/>
+				Erſt ganz toletzt fun'n ſe ſick willig,<lb/>
+				Deatt heet, wenn d' Koart got weer un billig.<lb/>
+				„Dann nähme ich,“ ſä Mohl, „entweder<lb/>
+				Von Gäbler die oder ſonſt von Leeder,<lb/>
+				Sie ſind im Preis und Wert ſich gleich.<lb/>
+				„Wenn ſ deatt ſünd,“ reep dunn Möller Reich.<lb/>
+				„Seech ck gern, doamit ſ nich foartſen ³) wearrer<lb/>
+				Entwei ritt, Se nehm'n de ut Learrer!<lb/>
+				1) entzwei. ²) Schade. ³) ſogleich. ⁴) Leder,<lb/>
+				<pb facs="../img/matthies-1903/0057.png"/>
+				54<lb/>
+				n Landdagswoahl voan<lb/>
+				näg nunvirtig.)<lb/>
+				't was näg'nunvirtig, un tum erſt'umoal<lb/>
+				Fun hüt in Peckdörb ſtatt de Landdagswoahl;<lb/>
+				Doato was d' ganz Gemein' to Stä;<lb/>
+				Denn, weil voan Land un Wähl'n weer Rä, ²)<lb/>
+				Meint jerer, an eam ſcholl 't nich ligg'n,<lb/>
+				Wenn he 't künn nich tum Gotsherrn breng'n. —<lb/>
+				Doch, wenn deatt ouk woll'n jerer dacht,<lb/>
+				Toerſt, wett ick, ha t keeiner ſeaggt,<lb/>
+				Wenn 't nich oll Schoſter Kriſchoan Knuſt<lb/>
+				Dean'n Schult'n in 't Geſicht ha pruſt. ³)<lb/>
+				„Weil uns,“ ſä he, „deatt Recht is woar'n,<lb/>
+				To wähl'n hüt Acker, Wiſch un Goar'n,<lb/>
+				Sou mein ict, mütt uns doch vöer all'n<lb/>
+				De Grund un Bodd'n ouk recht gefall'n;<lb/>
+				Un deatt deat⁴) he, wenn in ſien Eär<lb/>
+				Watt wäſſt föer Käeuh un Schoap un Päer<lb/>
+				Un doarüm mücht ick ſegg'n, we wähl'n<lb/>
+				Uns dean'n Baron ſien Vorwerk Fähl'n:<lb/>
+				Doa fin'n we Acker, Wiſch un Wei<lb/>
+				Un rieklich nog ont Holt un Hei.<lb/>
+				Noch ſchöenner weer zwoar Vorwerk Licht,<lb/>
+				Doch deatt liet uns to dull ut d' Nicht.<lb/>
+				1) 1849. ² Rede. ²) geſagt. ⁴ tut. ³) Iſt zu weit entfernt.<lb/>
+				<pb facs="../img/matthies-1903/0058.png"/>
+				55<lb/>
+				Reein Fachmann.<lb/>
+				De Dokter Wehr ha ſick n Jagd<lb/>
+				Upp d' Witt'ndamm'ſch Feldma'k pacht,<lb/>
+				Un was eam moal doanoa to Mot,<lb/>
+				Denn föhrt he hen un leep un ſchot<lb/>
+				t Revier watt aff, un watt he fun,<lb/>
+				Deatt dreep he, wenn he 't dräp'n kunn. —<lb/>
+				Ouk giſtern ſett't he wearrer doa<lb/>
+				n angeſchoat'n Hoaſen noa;<lb/>
+				Dunn ſtürt eam groad in d' Moit¹) oll Kreih,<lb/>
+				De dreew mit ſien bei'n Köeuh noa d' Wei.<lb/>
+				„Kam Ihn'n nicht,“ frog dean'n Dokter Wehr,<lb/>
+				„Soeb'n ein Haſe in die Qner<lb/>
+				„Joa,“ ſä oll Kreih', „eb'n, düfſ' Minut,<lb/>
+				He leep ganz ſlank ſien'n Weg groadut.<lb/>
+				„Ob er voll Schweiß, ſah'n Sie woll nicht?<lb/>
+				„Vull Sweeit,“ ſunn Kreih, „nä! Doch, mi dücht,<lb/>
+				Wenn he ſick nich mehr Tied bald nimmt,<lb/>
+				Kann t weſen, deatt he noch to kümmt.<lb/>
+				¹) kam ihm entgegen.<lb/>
+		</body>
+	</text>
+</TEI>
