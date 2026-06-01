@@ -38,8 +38,8 @@ No warrantees whatsoever. All data provided here was created with automated meth
 
 ## Contents of this repository
 
-- [`pdf/`](pdf) gzipped PDFs containing the source texts (scanned, content pages only)
-- [`img/`](img) page scans extracted from PDFs
+- [`pdf/`](pdf) PDFs containing the source texts (scanned, content pages only)
+- [`img/`](img) page scans extracted from PDFs, front matter and end matter dropped
 - [`txt/`](txt) Transkribus OCR, plain text (except for severe OCR artifacts ["ghost text"] of Keller 1872, no OCR post-correction)
 - [`tei/`](tei) TEI/XML version of plain text, with page scans linked
 - [`upos/`](upos) automated annotation for universal parts of speech in two columns, `FORM`, `UPOS` (predicted part of speech) 

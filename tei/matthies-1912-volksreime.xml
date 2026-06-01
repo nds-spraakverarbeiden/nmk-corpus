@@ -1,0 +1,1774 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="id_matthies-1912-volksreime" xml:lang="nds">
+	<teiHeader>
+	    <fileDesc>
+	      <titleStmt>
+	        <title fldid="title">Altm&#228;rkische Volksreime</title>
+	        <author fldid="author">Heinrich Matthies (Hg)</author>
+	        <respStmt>
+	          <resp n="transcription" fldid="transcription">Kraken 6.0.3, catmus-print-fondue-large</resp>
+	          <resp n="revision" fldid="revision">n/a</resp>
+	          <resp n="normalization" fldid="normalization">n/a</resp>
+	          <resp n="tagging" fldid="tagging">Christian Chiarcos, University of Augsburg, Germany</resp>
+	        </respStmt>
+	        <!--funder fldid="funder"></funder-->
+	      </titleStmt>
+	      <sourceDesc>
+	        <biblStruct>
+	          <monogr> 
+	            <author fldid="monauthor">Heinrich Matthies (Hg.)</author>
+	            <title fldid="montitle">Altm&#228;rkische Volksreime</title>
+	            <edition fldid="monedition"/>
+	            <imprint>
+	              <publisher fldid="monpublisher">Selbstverlag</publisher>
+	              <pubPlace fldid="monplace">Stendal</pubPlace>
+	              <date fldid="mondate">1912</date>
+	            </imprint>
+	          </monogr>
+	        </biblStruct>
+	      </sourceDesc>
+	    </fileDesc>
+	    <profileDesc> 
+	      <particDesc> 
+	        <listPerson> 
+	          <person id="heinrich-matthies">
+	            <name fldid="personname">Heinrich Matthies</name>
+	            <birth fldid="birth" when="1867">
+	              <placeName fldid="birthplace" geo="52.574166666667 11.06388888888962">Neuferschau bei Kl&#246;tze in der Altmark</placeName>
+	              <date fldid="birthdate">24/06/1867</date>
+	            </birth>
+	            <!--death when="nach 1918">
+	              <placeName>Stendal?</placeName>
+	            </death-->
+	            <langKnowledge>
+	              <langKnown n="first" tag="deu"/>
+	              <langKnown n="native" tag="nds"/>
+	            </langKnowledge>
+	            <sex fldid="sex" type="m"/>
+	            <age fldid="age">45</age>
+	            <occupation fldid="personoccupation">Lehrer</occupation>
+	            <residence fldid="personresidence">Stendal</residence>
+	            <nationality fldid="nationality" key="DE"/>
+	          </person>
+	        </listPerson>
+	      </particDesc>
+	      <langUsage>
+	        <language fldid="textlang" ident="nds" dir="ltr"/>
+	      </langUsage>
+	      <textDesc>
+	        <channel fldid="textchannel" mode="written"/>
+	        <domain fldid="textdomain">poems</domain>
+	      </textDesc>
+	    </profileDesc>
+	    <encodingDesc>
+	      <projectDesc id="NMK">
+	        <title fldid="Nordm&#228;rkisch-Mittelpommersches Korpus (NMK)"/>
+	        <leader fldid="projectleader">Christian Chiarcos</leader>
+	        <desc fldid="projectdesc">Aufbau eines Korpus zur Dokumentation des Nordm&#228;rkischen sowie des nah verwandten Mittelpommerschen in Sachsen-Anhalt, Brandenburg, Vorpommern und dem heutigen Polen.
+	        Chiarcos, C. (2026). Towards the Morphological Annotation of North Markian (Low German). In Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026) (pp. 11699&#8211;11714). European Language Resources Association (ELRA). https://doi.org/10.63317/54xnswqy73gs.
+	        Der vorliegende Text wurde nachtr&#228;glich erg&#228;nzt und ist nicht in die Entwicklung von POS Tagger und Lemmatisierer eingegangen.
+	        </desc>
+	      </projectDesc>
+	      <editorialDecl fldid="editorialdecl">
+	        Automatische OCR des Textteiles mit oberfl&#228;chlicher manueller Pr&#252;fung, Korrektur und Tilgung nicht-niederdeutscher Bestandteile. Automatisiertes POS Tagging. Der Herausgeber kommt aus der s&#252;dlichen Peripherie des sog. Hans-Jochen-Winkels, der als sprachliches Sondergebiet innerhalb des Nordm&#228;rkischen gilt, von unserem Tagger aber schlecht und dem Lemmatisierer momentan gar nicht abgebildet wird. Insofern ist die Annotationsqualit&#228;t auf diesem Text eher schlecht.
+	        Da der Herausgeber hier Volksreime aus der gesamten Altmark berichtet und Material von Dritten einbezieht, weicht er einerseits in Teilen  von seiner sonstigen Orthographie ab und behandelt auch nicht-nordm&#228;rkische Mundarten, insbesondere Ostf&#228;lisches. F&#252;r die Belange des Korpus wurde nicht-niederdeutscher Text getilgt und ist lediglich als XML-Kommentare bewahrt.
+	      </editorialDecl>
+	    </encodingDesc>
+	  </teiHeader>
+	
+	<text>
+		<body>
+				<pb facs="../img/matthies-1912-volksreime/0001.png"/>
+				<!--<lb/>
+				Altmärkische<lb/>
+				Volksreime.<lb/>
+				Herausgegeben<lb/>
+				von<lb/>
+				H. MATTHIES,<lb/>
+				Lehrer.<lb/>
+				STENDAL.<lb/>
+				Im Selbstverlage des Verfassers.<lb/>
+				1912.<lb/>
+				--><lb/>
+				<pb facs="../img/matthies-1912-volksreime/0002.png"/>
+				<!--<lb/>
+				Volksreime sind wie die Volkslieder Kinder der Volksmuse.<lb/>
+				Aber während das Volkslied mehr den Schmerz zum Ausdruck<lb/>
+				bringt, gibt der Volksreim dem Scherze Raum, der sich oft zur<lb/>
+				tollsten Ausgelassenheit steigert. Man darf darum wohl vermuten,<lb/>
+				dass die Väter des ersten durch Leben und Wirken abgeklärte<lb/>
+				Erdenpilger waren, der Volksreim dagegen aus dem Munde kraft¬<lb/>
+				strotzender, jugendfroher Menschen quoll.<lb/>
+				Wie nach dem Inhalt, so unterscheiden sich Volkslied und<lb/>
+				Volksreim auch in ihrer Form. Das Volkslied schreitet wie ein<lb/>
+				Kind im Sonntagskleide im Gewande der hochdeutschen Sprache<lb/>
+				einher, der Volksreim dagegen verrät schon durch das Plattdeutsch<lb/>
+				den Erdgeruch seiner heimischen Scholle.<lb/>
+				Wenn ich es unternehme, hier einige unserer altmärkischen<lb/>
+				Volksreime anzuführen, so geschieht es, um diese lustigen Gesellen<lb/>
+				aus der Väter Zeit, an die sich gewiss so manche liebe Er¬<lb/>
+				innerung unseres Volksstammes geknüpft hat, der Vergessenheit zu<lb/>
+				entreissen, andererseits aber auch, um zu weiterem Suchen und<lb/>
+				Sammeln nach ihnen anzuregen. Denn leider bewahrheitet sich<lb/>
+				auch hier wie in vielen anderen Beziehungen des Dichters Wort:<lb/>
+				,Das Alte stürzt.<lb/>
+				Die mir zur Verfügung stehenden Reime ordnen sich von<lb/>
+				selbst unter vier Gruppen, in Wiegenreime, Spielreime, Festreime<lb/>
+				und Neckreime.<lb/>
+				\<lb/>
+				I. WIEGENREIME.<lb/>
+				,Aus der Jugendzeit<lb/>
+				klingt ein Lied mir immerdar" —<lb/>
+				—,Das Lied, das meine Mutter<lb/>
+				sang.<lb/>
+				Doch, wie lange wird man noch Wie gen lieder singen?<lb/>
+				W a gen lieder wäre schon heute der passendere Titel. Hat man<lb/>
+				doch der alten, trauten Säuglingsruhestatt, in welcher Geschlecht<lb/>
+				nach Geschlecht gross geschaukelt wurde, mehr und mehr den Laut¬<lb/>
+				pass gegeben. Der heutige Erdenbürger muss bereits mit den ersten<lb/>
+				Tagen seines Daseins an die, Freizügigkeit" gewöhnt werden.<lb/>
+				Wie geräuschlos schlummerte dagegen in früherer Zeit ein<lb/>
+				junges Leben dem geistigen Erwachen entgegen. Und wenn sich<lb/>
+				--><lb/>
+				<pb facs="../img/matthies-1912-volksreime/0003.png"/>
+				<!--<lb/>
+				wirklich einmal unter den dicken Federballen in undefinierbaren<lb/>
+				Lauten ein physisches Leben verriet, gleich erklangen von oben her<lb/>
+				Gegentöne, und die Grun (d)zlaute verstummten.<lb/>
+				Zwar war es nicht immer das Lied, ,das die Mutter sangé,<lb/>
+				sondern infolge eiliger Arbeit übernahmen oftmals Sänger, die<lb/>
+				"schon Menschen gewesen oder erst solche werden wollten", die<lb/>
+				Beschwichtigungsrollen.<lb/>
+				Da sangen der Grossvater oder die Grossmutter das liebe<lb/>
+				\<lb/>
+				--><lb/>
+				1) Bählämmchen leep in 't Holt.<lb/>
+				socht sick watt, deatt 't frät'n wollt:<lb/>
+				stott sick an eein Strükecken,<lb/>
+				dä' sou wecih sin Bükecken;<lb/>
+				sü deatt Lämmchen: Bäh, bäh.<lb/>
+				(Neuferchau.) 1)<lb/>
+				\<lb/>
+				2a) Huller, de Buller,<lb/>
+				watt rasselt in 't Stroh?<lb/>
+				Doa joih’n de Josjänschen<lb/>
+				un hebb’n Keene Schoh.<lb/>
+				De Schoster hätt Learrer.<lb/>
+				keen'n Leesten doato.<lb/>
+				kann er nich moak’n<lb/>
+				de Jäns keene Schoh.<lb/>
+				(Hüselitz.)<lb/>
+				\<lb/>
+				b) Huse, Brunnhuse,<lb/>
+				watt rasselt in 't Strouh?<lb/>
+				deatt doun de leiwe Gösken.<lb/>
+				de hebb’n Keein Schouh.<lb/>
+				De Schoster heatt Learrer.<lb/>
+				keein Leest’n doato.<lb/>
+				Drüm goahn de levce Gösken<lb/>
+				un hebb’n keemn Schouh.<lb/>
+				(Fahrendorf.)<lb/>
+				\<lb/>
+				3a) Kuckuck, wo bist du ?<lb/>
+				Im 'n Brombeasselbusch.<lb/>
+				doa sinq ick, doa fleit ick.<lb/>
+				doa here ick mien Lust.<lb/>
+				(Neuferchau.)<lb/>
+				\<lb/>
+				b) Kiwitt,<lb/>
+				wo bliew ich ?<lb/>
+				In 'n Brombeasselbusch,<lb/>
+				doa sing ick, doa fleit ick.<lb/>
+				doa heic ick mien Lust.<lb/>
+				(Neuferchau.)<lb/>
+				\<lb/>
+				<!--<lb/>
+				1) Der eingeklammerte Name gibt den Fundort des Reimes an. — Die<lb/>
+				Schreibweise entspricht der Sprechweise des betreffenden Ortes.<lb/>
+				--><lb/>
+				<pb facs="../img/matthies-1912-volksreime/0004.png"/>
+				<!-- Altmärkische Volksreime. --><lb/>
+				4) Buhködäuk’n voan Halberstadt,<lb/>
+				komm un bring uns' Heinzchen watt!<lb/>
+				Watt schall ick eam denn breng’n?<lb/>
+				n Paar Rosenschoh mit Ring’n.<lb/>
+				'n Paar Rosenschoh mit Gold besloa’n.<lb/>
+				doa schall he upp hendanzen goahn,<lb/>
+				doa schall he scheun upp springen.<lb/>
+				(Neuferchau.)<lb/>
+				\<lb/>
+				5) Buhköäuk'n von Bremen,<lb/>
+				loat uns' Klein Heinzchen betähm’n! 1)<lb/>
+				Lettst du uns' Klein Heinzchen betahm’n jo nech,<lb/>
+				denn bist du Buhköäuk’n von Bremen joa nich.<lb/>
+				(Neuferchau.)<lb/>
+				\<lb/>
+				6) Buhkök'n von Hall'.<lb/>
+				wer steiht voar unsen Stall?<lb/>
+				Doa steiht een' bunte, fette Kauh,<lb/>
+				un de kricht uns' klein Heinerken tau.<lb/>
+				(Fahrendorf.)<lb/>
+				\<lb/>
+				7) Nu kumm moal her, min Miesekatt,<lb/>
+				Du hest so lang kenn Frät'n heatt;<lb/>
+				nu kumm moal her un fritt däi satt.<lb/>
+				dit lewe, lewe Miesekatt.<lb/>
+				(Erxleben.)<lb/>
+				\<lb/>
+				8) Wie', wie' Weiteken,<lb/>
+				ick weeg’n klein Keiteken;<lb/>
+				wie’, wie watt,<lb/>
+				ick weeg 'n Klein Katt.<lb/>
+				(Ristedt.)<lb/>
+				\<lb/>
+				9) Wie, wie Woater,<lb/>
+				veeg’n Klein’n Koater;<lb/>
+				weeg’n Klein Saldoatenkind,<lb/>
+				weeg sou lang deatt Voarer kümmt.<lb/>
+				(Ristedt.)<lb/>
+				\<lb/>
+				10) Wu, wu, Wäderken,<lb/>
+				ick weeg uns' Klein Käterken,<lb/>
+				ick weeg em sou sanft un still.<lb/>
+				deatt he bald schlöppt sanft in.<lb/>
+				(Fahrendorf.)<lb/>
+				\<lb/>
+				11) Wie’, wie' Woater,<lb/>
+				weeg' dean 'n klein'n Koater,<lb/>
+				wveeg' de klein Mietzekatt,<lb/>
+				kumm un bring uns’ Heinzchen watt.<lb/>
+				(Leetze.)<lb/>
+				\<lb/>
+				<!-- 1) zufrieden. --><lb/>
+				<pb facs="../img/matthies-1912-volksreime/0005.png"/>
+				<!-- Altmärkische Volksreime. --><lb/>
+				12) Heidja, popeidja,<lb/>
+				schloa' Kükoaken doud!<lb/>
+				Watt will 'n w' doaut moak’n?<lb/>
+				Ett is noch nich grout.<lb/>
+				Will’n Fearrern affplück’n<lb/>
+				un 'n Bettk’n voan moak’n,<lb/>
+				doa schall uns' klein Kindchen<lb/>
+				recht week upp schloap’n.<lb/>
+				(Fahrendorf.)<lb/>
+				\<lb/>
+				<!--<lb/>
+				Die Sänger wussten, dass des Kindchens erste Freunde die<lb/>
+				Tiere sind, und darum riefen sie die bekanntesten und frömmsten<lb/>
+				unter ihnen herbei.<lb/>
+				Weniger gutartige zitierte der in seinem Spiel gestörte und<lb/>
+				an die Wiege gebannte, rauhbeinige Bruder, wenn er sang:<lb/>
+				--><lb/>
+				13) Wie’, Weä’, Woat'r,<lb/>
+				Schult’n eah oll Koater;<lb/>
+				bi, bä, bittchen Broud,<lb/>
+				Schult’n eah oll Katt is doud.<lb/>
+				Wennhä wea’d s’ begroab’n?<lb/>
+				Freeidag orr’r Sönnoab’nd,<lb/>
+				hinner Schult’n Kloab’n.<lb/>
+				(Neuferchau.)<lb/>
+				\<lb/>
+				<!-- Für gleichfalls zweifelhaften Inhalts erachte ich: --><lb/>
+				14) Wie’, wie', ick weege dick;<lb/>
+				weast du grötter, denn schloa’ ick dick!<lb/>
+				Nu du noch klein bist,<lb/>
+				weeg ick dick un dou dick nist.<lb/>
+				(Gieseritz.)<lb/>
+				\<lb/>
+				15) Bimmel de bammel,<lb/>
+				de Köster voan Tangeln,<lb/>
+				de Prester voan Oahl’n!)<lb/>
+				wea’d’n uns' Klein Heinzchen weghoal’n.<lb/>
+				(Leetze.)<lb/>
+				\<lb/>
+				<!-- II. SPIELREIME.<lb/>
+				\<lb/>
+				Es liegt ein tiefer Sinn<lb/>
+				im kind’schen Spiel.<lb/>
+				Schon in den ersten Lebensjahren scheiden sich bei Knaben<lb/>
+				und Mädchen die Interessen. In den Freundeskreis des Mädchens<lb/>
+				tritt die Puppe. Bei dem Knaben gesellt sich zu Kuh, Lamm,<lb/>
+				Kuckuck, Kiebitz und Katze das Pferd, und dieses nimmt hinfort<lb/>
+				die wichtigste Stelle bei ihm ein.<lb/>
+				Der kleine Gernegross fühlt sich am glücklichsten, wenn er<lb/>
+				Kutscher und Reiter spielen kann. Mit Vergnügen schwingt er<lb/>
+				dann die Peitsche, und seine Freude erreicht den Höhepunkt, wenn<lb/>
+				\<lb/>
+				1) Ahlum.<lb/>
+				--><lb/>
+				<pb facs="../img/matthies-1912-volksreime/0006.png"/>
+				<!--<lb/>
+				er die Knie des Vaters besteigen darf und dessen Gesang lauschen<lb/>
+				kann:<lb/>
+				--><lb/>
+				1) Zuckel, guckel Ross!<lb/>
+				Schult'n eah oll Foss,<lb/>
+				Schult'n eah oll Soadelpeard<lb/>
+				is joa nich moal ’n Doaler wert.<lb/>
+				(Neuferchau.)<lb/>
+				\<lb/>
+				2) Hott, hott, hott, noah Möähl'n!<lb/>
+				Uns' Heinzchen sitt upp deatt swa’te Föc̈hl’n;<lb/>
+				upp Schult'n eah oll stummelstertige Koh.<lb/>
+				Hü, juch! Doa ried’n s’ beid’n ümmer noach Möähl’n hento.<lb/>
+				Hotte hü! Hotte hü! (Neuferchau.)<lb/>
+				\<lb/>
+				3) Hopp, hopp, hopp noah Möll’n!<lb/>
+				De Prester ritt upp’t Föll’n.<lb/>
+				de Köster upp de bunte Koh:<lb/>
+				hopp, hopp, hopp noah Möll’n to! (Erxleben.)<lb/>
+				\<lb/>
+				4) Huller, de Buller,<lb/>
+				de Woag’n löppt weg!<lb/>
+				Päar hebb’n sick verdrunk’n.<lb/>
+				O, watt weent de Rieterknecht.<lb/>
+				o, watt flookt de Junker!<lb/>
+				(Fahrendorf.)<lb/>
+				\<lb/>
+				<!--<lb/>
+				Nach und nach treten natürlich die väterlichen Knie als Reit¬<lb/>
+				tier zurück, und nun avanziert der Reiter auf den Rücken oder<lb/>
+				die Schultern des Vaters; oder er sprengt mit dem Steckenpferd<lb/>
+				durch Hof, Flur und Hain. Hier gibt ihm zur jungen Frühlings¬<lb/>
+				zeit der treibende Saft der Bäume und Sträucher Veranlassung zur<lb/>
+				Anfertigung von Fopen, Flöten und Schalmeien.<lb/>
+				Sollen diese Blasinstrumente gelingen, so gehört dazu ein<lb/>
+				gutes Wort. Der angehende Orgelbauer singt also, indem er mit<lb/>
+				der Messerschale den saftigen Weiden-, Pappel- oder Kastanientrieb<lb/>
+				bearbeitet:<lb/>
+				--><lb/>
+				5) Klopp Wied’n aff,<lb/>
+				klopp Wied’n aff,<lb/>
+				klopp du dean’n Bock<lb/>
+				dean’n Büdel aff!<lb/>
+				(Neuferchau.)<lb/>
+				\<lb/>
+				6) Klopp, klopp Stoak’n,<lb/>
+				vill’n Fleit moak’n.<lb/>
+				All' Wied’n goahn aff.<lb/>
+				un du geihst ouk aff.<lb/>
+				(Fahrendorf.)<lb/>
+				\<lb/>
+				7) Fop'n, Fop’n, Bastjoahn,<lb/>
+				loat de Fop affgoahn;<lb/>
+				loat se nich verded’bn,<lb/>
+				loat se 'n Fop wea’dn!<lb/>
+				(Lindstedterhorst.)<lb/>
+				<pb facs="../img/matthies-1912-volksreime/0007.png"/>
+				12) Heidja, popeidja,<lb/>
+				schloa' Kükoaken doud!<lb/>
+				Watt will 'n w0' doaut moak’n?<lb/>
+				Ett is noch nich grout.<lb/>
+				Will’n Fearrern affplück’n<lb/>
+				un 'n Bettk’n voan moak’n,<lb/>
+				doa schall uns' klein Kindchen<lb/>
+				recht week upp schloap’n.<lb/>
+				(Fahrendorf.)<lb/>
+				\<lb/>
+				<!--<lb/>
+				Die Sänger wussten, dass des Kindchens erste Freunde die<lb/>
+				Tiere sind, und darum riefen sie die bekanntesten und frömmsten<lb/>
+				unter ihnen herbei.<lb/>
+				Weniger gutartige zitierte der in seinem Spiel gestörte und<lb/>
+				an die Wiege gebannte, rauhbeinige Bruder, wenn er sang:<lb/>
+				--><lb/>
+				13) Wie’, Weä’, Woat'r,<lb/>
+				Schult'n eah oll Koater;<lb/>
+				bi, bä, bittchen Broud,<lb/>
+				Schult’n eah oll Katt is doud.<lb/>
+				Wennhä wea’d s’ begroab’n?<lb/>
+				Freeidag orr’r Sönnoab'nd,<lb/>
+				hinner Schult’n Kloab’n.<lb/>
+				(Neuferchau.)<lb/>
+				\<lb/>
+				<!--<lb/>
+				Für gleichfalls zweifelhaften Inhalts erachte ich:<lb/>
+				--><lb/>
+				14) Wie’, avie’, ick weege dick;<lb/>
+				weast du grötter, denn schloa’ ick dick!<lb/>
+				Nu du noch Klein bist,<lb/>
+				weeg ick dick un dou dick nist.<lb/>
+				(Gieseritz.)<lb/>
+				\<lb/>
+				15) Bimmel de bammel,<lb/>
+				de Köster voan Tangeln,<lb/>
+				de Prester voan Oahl’n 1)<lb/>
+				wea d’n uns' Klein Heinzchen weghoal’n.<lb/>
+				(Leetze.)<lb/>
+				\<lb/>
+				<!--<lb/>
+				I. SPIELREIME.<lb/>
+				\<lb/>
+				Es liegt ein tiefer Sinn<lb/>
+				im kind’schen Spiel.<lb/>
+				Schon in den ersten Lebensiahren scheiden sich bei Knaben<lb/>
+				und Mädchen die Interessen. In den Freundeskreis des Mädchens<lb/>
+				tritt die Puppe. Bei dem Knaben gesellt sich zu Kuh, Lamm,<lb/>
+				Kuckuck, Kiebitz und Katze das Pferd, und dieses nimmt hinfort<lb/>
+				die wichtigste Stelle bei ihm ein.<lb/>
+				Der kleine Gernegross fühlt sich am glücklichsten, wenn er<lb/>
+				Kutscher und Reiter spielen kann. Mit Vergnügen schwingt er<lb/>
+				dann die Peitsche, und seine Freude erreicht den Höhepunkt, wenn<lb/>
+				\<lb/>
+				1) Ahlum.<lb/>
+				--><lb/>
+				<pb facs="../img/matthies-1912-volksreime/0008.png"/>
+				<!-- er die Knie des Vaters besteigen darf und dessen Gesang lauschen<lb/>
+				kann:<lb/>
+				--><lb/>
+				1) Zuckel, zuckel Ross!<lb/>
+				Schult’n eah oll Foss,<lb/>
+				Schult'n eah oll Soadelpeard<lb/>
+				is joa nich moal 'n Doaler wert.<lb/>
+				(Neuferchau.)<lb/>
+				\<lb/>
+				2) Hott, hott, hott, noah Möühl’n!<lb/>
+				Uns' Heinzchen sitt upp deatt swaite Föähl’n;<lb/>
+				upp Schult’n eah oll stummelstertige Koh.<lb/>
+				Hü, juch! Doa ried’n s’ beid’n ümmer noach Möähl’n hento.<lb/>
+				Hotte hü! Hotte hü!<lb/>
+				(Erxleben.)<lb/>
+				\<lb/>
+				3) Hopp, hopp, hopp noah Möll’n!<lb/>
+				De Prester ritt upp’t Föll’n,<lb/>
+				de Köster upp de bunte Koh:<lb/>
+				hopp, hopp, hopp noah Möll’n to?<lb/>
+				(Erxleben.)<lb/>
+				\<lb/>
+				4) Huller, de Buller,<lb/>
+				de Woag’n löppt weg!<lb/>
+				Püar hebb’n sick verdrunk’n.<lb/>
+				O, watt weent de Rieterknecht,<lb/>
+				o, vatt flookt de Junker!<lb/>
+				(Fahrendorf.)<lb/>
+				\<lb/>
+				<!-- Nach und nach treten natürlich die väterlichen Knie als Reit¬<lb/>
+				tier zurück, und nun avanziert der Reiter auf den Rücken oder<lb/>
+				die Schultern des Vaters; oder er sprengt mit dem Steckenpferd<lb/>
+				durch Hof, Flur und Hain. Hier gibt ihm zur jungen Frühlings¬<lb/>
+				zeit der treibende Saft der Bäume und Sträucher Veranlassung zur<lb/>
+				Anfertigung von Fopen, Flöten und Schalmeien.<lb/>
+				Sollen diese Blasinstrumente gelingen, so gehört dazu ein<lb/>
+				gutes Wort. Der angehende Orgelbauer singt also, indem er mit<lb/>
+				der Messerschale den saftigen Weiden-, Pappel- oder Kastanientrieb<lb/>
+				bearbeitet:<lb/>
+				\<lb/>
+				--><lb/>
+				5) Klopp Wied’n aff,<lb/>
+				klopp Wied’n aff,<lb/>
+				klopp du dean’n Bock<lb/>
+				dean’n Büdel aff!<lb/>
+				(Neuferchau.)<lb/>
+				\<lb/>
+				6) Klopp, klopp Stoak’n,<lb/>
+				will’n Fleit moak’n.<lb/>
+				All’ Wied’n goahn aff.<lb/>
+				un du geihst ouk aff.<lb/>
+				(Fahrendorf.)<lb/>
+				\<lb/>
+				7) Fop'n, Fop'n, Bastjoahn,<lb/>
+				loat de Fop affgoahn;<lb/>
+				loat se nich verded’bn,<lb/>
+				loat se 'n Fop wvea’dn!<lb/>
+				(Lindstedterhorst.)<lb/>
+				<pb facs="../img/matthies-1912-volksreime/0009.png"/>
+				8) Fop, Fop, Bastjoahn,<lb/>
+				loat de Koh in 't Gras joahn,<lb/>
+				loat s’ nich ioiet joahn,<lb/>
+				loat s’ bald iea’koam’n.<lb/>
+				(Gr. Rossau.)<lb/>
+				\<lb/>
+				9) Zipp, zapp Zieger,<lb/>
+				Mänge upp 'n Diger.<lb/>
+				Katt leep voan Bea’g herun;<lb/>
+				as se iearrer runner kamm,<lb/>
+				ging’n ahl de Wied’n aff.<lb/>
+				(Siedenlangenbeck.)<lb/>
+				\<lb/>
+				10) Klopp, Klopp, Bullerjoahn,<lb/>
+				load' de Sunn unnerjoah’n:<lb/>
+				load' se wearrer schien'n<lb/>
+				hinner Jenthin.<lb/>
+				Enn' bittchen neicher<lb/>
+				doa liet 'n grönen Jeeiger.<lb/>
+				Enn bette aff<lb/>
+				doa liet 'n Sack vull Kaff.<lb/>
+				Piff, paff, aff!<lb/>
+				(Hüselitz.)<lb/>
+				\<lb/>
+				<!-- Der Anblick des Regenbogens veranlasst Knaben und Mäd¬<lb/>
+				chen zu dem Gebet:<lb/>
+				--><lb/>
+				11) Regenboag’n, reg’n mi nich natt.<lb/>
+				reg’n ahl bösen Kinner natt!<lb/>
+				(Neuferchau.)<lb/>
+				\<lb/>
+				12) Reg’nbag’n, moak mäe nich natt,<lb/>
+				moak aanner Lüh' ohr Kinner natt;<lb/>
+				de sitt’n upp’t Dack, de ät’n watt,<lb/>
+				un güwven mäi nich moal’n Heappk’n aff.<lb/>
+				(Erxleben.)<lb/>
+				\<lb/>
+				<!--<lb/>
+				Gleich egoistisch ist der Wunsch, welchen sie dem ihnen auf<lb/>
+				das Kleid geflogenen Marienkäferchen mit auf den Weg geben:<lb/>
+				--><lb/>
+				13) Herrgottsvoggel, fleeg noah 'n Himmel,<lb/>
+				breng mi 'n ganzen Koarv voll Kringeln!<lb/>
+				(Neuferchau.)<lb/>
+				\<lb/>
+				<!--<lb/>
+				Von der Schnecke verlangen sie:<lb/>
+				--><lb/>
+				14) Sneckhus, du Peckhus,<lb/>
+				stek din veer, fief Höärn rut!<lb/>
+				Un wenn du dett nich do'n wist,<lb/>
+				denn schmiet ick di in 'n Jroab’n.<lb/>
+				denn frät’n di de Roab’n;<lb/>
+				de Roab’n nich alleen,<lb/>
+				de Höhner krieg’n de Been.<lb/>
+				(Gardelegen.)<lb/>
+				<!-- \<lb/>
+				*) Die mit einem “ versehenen Reime wurden mir gütigst von Herrn<lb/>
+				Professor Dr. Kupka zur Verfügung gestellt.<lb/>
+				--><lb/>
+				<pb facs="../img/matthies-1912-volksreime/0010.png"/>
+				<!--<lb/>
+				Der Storch, der Liebling der Kleinen, wird begrüsst mit:<lb/>
+				--><lb/>
+				15a) Hannotter, Notter, Langbeein,<lb/>
+				steaht upp Schult’n Schoar’steein!<lb/>
+				(Neuferchau.)<lb/>
+				\<lb/>
+				b) Storch, Storch, Langbeen,<lb/>
+				steaht upp 'n grot'n Sandsteen.<lb/>
+				hätt roi Strümp' an,<lb/>
+				freut sick wie 'n Eaddelmann.<lb/>
+				(Hüselitz.)<lb/>
+				\<lb/>
+				c) Hannotter, Hannotter.<lb/>
+				du Langbeen,<lb/>
+				steahst upp 'n houhen Sandsteen.<lb/>
+				Wennä wudd du wearrerkoam’n?<lb/>
+				Wenn de Rogg’n riep is<lb/>
+				un de Pogge piep is.<lb/>
+				(Wallstawe.)<lb/>
+				\<lb/>
+				d) Hannotter, Hannotter, Langebeen,<lb/>
+				steiht upp Schult’n Sandsteen.<lb/>
+				Wo heast du diene Kinner loat'n?<lb/>
+				Hew ck in 'n houhen Himmel schloat’n.<lb/>
+				Wennhä wuddst denn werrer hoal’n?<lb/>
+				Eanner Joahr ù̈m dö Tied,<lb/>
+				wenn de Roggen riep is,<lb/>
+				un de Pogge piep is,<lb/>
+				venn de Woag' to Felle geiht<lb/>
+				un de Ploug stille steiht.<lb/>
+				(Fahrendorf.)<lb/>
+				\<lb/>
+				16) Hannotter<lb/>
+				— Botter<lb/>
+				föern Dreeier dree Pund<lb/>
+				un deatt is nich gesund.<lb/>
+				(Ristedt.)<lb/>
+				\<lb/>
+				<!--<lb/>
+				Hier und da hört man auch<lb/>
+				--><lb/>
+				Storch, Storch, gorer,<lb/>
+				bring mi 'n Klein’n Brorer!<lb/>
+				\<lb/>
+				<!-- oder<lb/>
+				--><lb/>
+				Storch, Storch, bester,<lb/>
+				bring mi 'ne Kleine Swvester!<lb/>
+				\<lb/>
+				<!--<lb/>
+				Doch dürfen wir diese Reime jedenfalls als Ubersetzungen der gleich¬<lb/>
+				lautenden hochdeutschen ansprechen. Lag doch in unserer Altmark<lb/>
+				bis vor kurzem die Notwendigkeit der Kundgebung dieses Wunsches<lb/>
+				nicht vor, da unsere Väter das heute übliche Zweikindersystem noch<lb/>
+				nicht kannten.<lb/>
+				Eine nicht unbedeutende Rolle fällt im Spiel des Kindes den<lb/>
+				Abzählreimen zu. Ihr Zweck ist, die Person des Häschers oder<lb/>
+				Suchers zu bestimmen. Dies könnte zwar auch durch eine beliebige<lb/>
+				--><lb/>
+				<pb facs="../img/matthies-1912-volksreime/0011.png"/>
+				<!--<lb/>
+				Zahlenreihe erfolgen. Doch ist das nicht so interessant, nicht so<lb/>
+				reich an Uberraschungen und sichert nicht genügend den Abzäh¬<lb/>
+				lenden — der immer der Beherrscher der Spieler ist —; denn die<lb/>
+				altmärkische Jugend gefällt sich mehr in der Rolle des fliehenden<lb/>
+				Wildes als in der des erfolglosen Jägers.<lb/>
+				Interessant ist nun der Stoff, dem die Abzählreime entnommen<lb/>
+				sind. Neben Völker bewegenden Ereignissen, naturwissenschaftlich<lb/>
+				unumstösslich feststehenden Erfahrungen, geographisch nicht be¬<lb/>
+				streitbaren Tatsachen werden kindlich naive Wahrheiten in ihnen<lb/>
+				ausgedrückt.<lb/>
+				Doch lassen wir die in Rede stehenden für sich selbst zeugen:<lb/>
+				--><lb/>
+				17) Eein, tieei, dree, veer, fief, söss, söäb’n,<lb/>
+				acht, näg’n, tein, elb’n, twölf, drüttein.<lb/>
+				viertein, feafftein, sösstein, soäb’ntein,<lb/>
+				achttein, näg’ntein, twintig.<lb/>
+				De Franzosen reisten noah Danzig;<lb/>
+				Danzig fängt an to brennen.<lb/>
+				O, watt können de Franzosen rönnen.<lb/>
+				Oahn Strümp un oahn Schoh<lb/>
+				rönnen se noah Frankreich to.<lb/>
+				Kümmt 'n wild Swien,<lb/>
+				bitt dean’n Hauptmann in de Beein;<lb/>
+				o, watt künn he schreein.<lb/>
+				(Miesterhorst.) <!-- * --><lb/>
+				\<lb/>
+				18) Eene, beene, witten Band,<lb/>
+				wist du mit noah Engeland?<lb/>
+				Engeland is zugeschlossen,<lb/>
+				Schlüssel is entzwei gebrochen.<lb/>
+				Vier Pferde vor dem Wagen;<lb/>
+				Häcksel, Bäcksel, du sollst jagen.<lb/>
+				Veer Kaninchen backen Broud,<lb/>
+				sloa’n dean’n Düwel in n Nacken doud.<lb/>
+				(Kusey.)<lb/>
+				\<lb/>
+				19) Een, twee, dree, veer, fief, söss, söäb’n.<lb/>
+				Koarl, de kümmt voan Höhnerwieb'n.<lb/>
+				Wittentramm un Swat’ntramm.<lb/>
+				Dorp und Verchau lig’n tosamm’n.<lb/>
+				(Siedenlangenbeck.) <!-- * --><lb/>
+				\<lb/>
+				20) Zipp, zapp, run,<lb/>
+				Botter geaht to Grun(d).<lb/>
+				Eier in de Pann,<lb/>
+				zipp, zapp, zan.<lb/>
+				(Siedenlangenbeck.) <!-- * --><lb/>
+				<pb facs="../img/matthies-1912-volksreime/0012.png"/>
+				21) Zipp, zapp, zunn,<lb/>
+				Botter in de Tunn'.<lb/>
+				Eier in de Pann'.<lb/>
+				Wecker dütt nich maq,<lb/>
+				schert sick doavan.<lb/>
+				(Fahrendorf.)<lb/>
+				\<lb/>
+				22) Zipp, zapp, zieger,<lb/>
+				mitt'n upp de Diessel 1)<lb/>
+				satt 'n Hex mit dree Kinner.<lb/>
+				Deann ersten gaw se Speck un Broud;<lb/>
+				deann tueeiten gaw se Wost un Broud;<lb/>
+				deann drütten schlog' s' mit 'n Diessel doud.<lb/>
+				Aff, aff, aff.<lb/>
+				(Fahrendorf.)<lb/>
+				\<lb/>
+				23) A,B, C,<lb/>
+				Koater leep in’n Sneei,<lb/>
+				as 'r werrer ruter kamm,<lb/>
+				har'r witte Hosen an.<lb/>
+				(Erxleben.)<lb/>
+				\<lb/>
+				24) Eene, deene, detzel,<lb/>
+				wer backt Pretzel?<lb/>
+				Wer backt Kok’n?<lb/>
+				De mütt sök’n!<lb/>
+				\<lb/>
+				25) Een, twee, dree, veer, fief, söss, söäb’n;<lb/>
+				unse Mutter, de koakt Röb’n;<lb/>
+				unse Mutter, de koakt Speck.<lb/>
+				Wecke deatt nich mag,<lb/>
+				de scheärt sick weq!<lb/>
+				(Letzlingen.) <!-- * --><lb/>
+				\<lb/>
+				26) Een, twee, dree, veer, fief, söss, söäb’n.<lb/>
+				Upp de Stroate Nummer söäb’n<lb/>
+				steaht 'n Hus,<lb/>
+				piept ne Mus.<lb/>
+				Icke hupse, du müsst rut.<lb/>
+				(Letzlingen.) <!-- * --><lb/>
+				\<lb/>
+				27) Eene, deene Tintenfatt,<lb/>
+				joah noah d’ School un ler' dick watt.<lb/>
+				Wenn du dick watt ler't hest,<lb/>
+				komm to mick un segg mick deatt.<lb/>
+				(Letzlingen.) <!-- * --><lb/>
+				\<lb/>
+				28) Eene, deene Tintenfatt.<lb/>
+				goah tou Schoul<lb/>
+				un ler' dick watt.<lb/>
+				Wenn du watt geler’t heast,<lb/>
+				stick de Fearrer in de Task. 2)<lb/>
+				<!-- \<lb/>
+				1) Wagendeichsel.<lb/>
+				2) Tasche.<lb/>
+				--><lb/>
+				<pb facs="../img/matthies-1912-volksreime/0013.png"/>
+				Buer, bind' deann Pudel an.<lb/>
+				Deatt he mick nich biet’n Kann.<lb/>
+				bitt he mick, verkloag ick dick.<lb/>
+				Hunnert Doaler kost't et dick.<lb/>
+				(Fahrendorf.)<lb/>
+				\<lb/>
+				29) I joa, upp 'n Roas'n.<lb/>
+				doa weer 'n Hoas’n;<lb/>
+				dean’n woll ick scheet'n,<lb/>
+				un kunn 'n nich dräp’n.<lb/>
+				(Letzlingen.) <!-- * --><lb/>
+				\<lb/>
+				30) Pinkepank,<lb/>
+				de Smedd is krank.<lb/>
+				Wo sall he woah’n,<lb/>
+				un'n orrer boab’n?<lb/>
+				(Gr. Rossau.)<lb/>
+				\<lb/>
+				31) Märtin, Märtin, Vögelken.<lb/>
+				met dien joldne Flögelken.<lb/>
+				Fleeg doch ovvern Wieb’n.<lb/>
+				Morgen is Märtin.<lb/>
+				Märtin is 'n joi'n Mann,<lb/>
+				de uns all' watt jeben kann.<lb/>
+				Hi, ha, hu, weg bist du!<lb/>
+				(Westinsel.)<lb/>
+				\<lb/>
+				32) Guswieler, koamt to Hus!<lb/>
+				Wäi derwen nich.<lb/>
+				Worüm dänn nich?<lb/>
+				Oll Wulf!<lb/>
+				Wo is ean de ?<lb/>
+				Hinner 'n Busch.<lb/>
+				Watt moakt r doa?<lb/>
+				Moakt Metzer scharp.<lb/>
+				Watt will 'r doamet?<lb/>
+				Gusweler n Hals affsnieden.<lb/>
+				Wo lang?<lb/>
+				As d’ Bank.<lb/>
+				Wo rot?<lb/>
+				As Blot.<lb/>
+				Wo hoch?<lb/>
+				As d’ Himmel hoch.<lb/>
+				Guswieler, koamst swinn to Hus.<lb/>
+				(Erxleben.)<lb/>
+				\<lb/>
+				33) Mien Kinner, mien Kinner.<lb/>
+				koamt all noah Hus!<lb/>
+				We derb’n man nich!<lb/>
+				Woriïm denn nich?<lb/>
+				(Erxleben.)<lb/>
+				De Wulf sitt hinner n Dornbusch.<lb/>
+				Watt moakt he doa?<lb/>
+				Moakt Metzer scharp.<lb/>
+				<pb facs="../img/matthies-1912-volksreime/0014.png"/>
+				Watt will he mit 't Metzer?<lb/>
+				Blom’n schmie’n.<lb/>
+				Watt will he mit d’ Blom’n?<lb/>
+				Kranz moak’n.<lb/>
+				Watt zoill he mit 'n Kranz?<lb/>
+				Upphang’n.<lb/>
+				Wöcker wüll he upphang’n?<lb/>
+				Uns Kinner.<lb/>
+				Kinner, mien Kinner, koamt all noah Hus!<lb/>
+				(Fahrendorf.)<lb/>
+				\<lb/>
+				<!-- Ein besonders beliebtes Spiel der Mädchen war neben dem<lb/>
+				Schnappen (-->Snappken<!--) der Marmelsteine der Ringel-Rosenkranz,<lb/>
+				wobei folgender Gesang ertönte:--><lb/>
+				\<lb/>
+				34) Ringel, Ringel Rosenkranz.<lb/>
+				Mädchendanz.<lb/>
+				Sett't ju upp de Wiese,<lb/>
+				spinnt de feine Siede,<lb/>
+				as 'n Hoar,<lb/>
+				as 'n Snor.<lb/>
+				Jungfer Lieschen sett di doal!<lb/>
+				Kickerikiki!<lb/>
+				(Kusey.)<lb/>
+				\<lb/>
+				35) Ringel, Ringel, Rosenkranz,<lb/>
+				Kättkenswanz.<lb/>
+				Kättken sitt upp Wieg (Weide).<lb/>
+				spinnt de roi Sieg (Seide).<lb/>
+				Klein Nôt, grot Nöt,<lb/>
+				Kikerikiki!<lb/>
+				(Erxleben.)<lb/>
+				\<lb/>
+				36) Ringel, Ringel, Rosenkranz,<lb/>
+				Mädchendanz.<lb/>
+				Kädd’l hangt upp 't Füer;<lb/>
+				Jung’ns sünd to düer.<lb/>
+				(Fahrendorf)<lb/>
+				<!--<lb/>
+				\<lb/>
+				Hiermit ist meine Sammlung von Abzählreimen erschöpft.<lb/>
+				Sie ist immerhin ganz stattlich, und doch wäre es vermessen,<lb/>
+				sie für vollständig zu erachten. — Von den übrigen Spielen,<lb/>
+				deren es noch eine grosse Menge in unserer lieben Altmark gab<lb/>
+				und gibt, und die gewissenhaft mit der Jahreszeit kommen und<lb/>
+				gehen, sind mir Reime nicht bekannt geworden. Vielleicht stellen<lb/>
+				sie zu hohe Anforderungen an Schärfe der Augen und Ohren,<lb/>
+				Geschicklichkeit der Hände und Gewandtheit des ganzen Körpers<lb/>
+				und lassen deshalb das Fabulieren des Geistes nicht zu. --><lb/>
+				<pb facs="../img/matthies-1912-volksreime/0015.png"/>
+				<!--<lb/>
+				III. FESTREIME.<lb/>
+				Saure Wochen,<lb/>
+				frohe Feste!<lb/>
+				Das Leben unserer altmärkischen Väter unterstrich allerdings<lb/>
+				besonders die erste Hälfte dieser Goetheschen Losung. Zur Er¬<lb/>
+				füllung der zweiten Forderung fehlte ihnen vor lauter Arbeit die<lb/>
+				Zeit und bei ihrem nüchternen Wesen auch das Verständnis. An¬<lb/>
+				ders verhielt es sich bei der Jugend. Steht sie doch im Vollgefühl<lb/>
+				leiblicher und seelischer Spannkraft. Und so heischte sie mit Nach¬<lb/>
+				druck ihre Feste.<lb/>
+				Ein Suchen und Sinnen nach solchen war nicht erforderlich.<lb/>
+				Sie lagen vor in den aus der Jugendzeit unseres deutschen Volkes<lb/>
+				stammenden Naturfesten. Christliche Sendboten hatten einst christ¬<lb/>
+				liche Feiertage auf diese Feste gelegt; und vährend nun das Alter<lb/>
+				jene festlich beging, vertrat die Jugend mehr die Naturanschauung<lb/>
+				des grauen Germanentums.<lb/>
+				Gehen wir an der Hand des kirchlichen Jahres einmal den<lb/>
+				Jugendfesten nach. Da fiel als erstes in die Zeit zwischen den<lb/>
+				ersten Advent und Weilmachten das Erscheinen des Burklaas. Zu<lb/>
+				seiner Begrüssung sang man:<lb/>
+				--><lb/>
+				1) Swart Broud,<lb/>
+				swart Snut,<lb/>
+				back’n Bearn<lb/>
+				mag d’ Burkloas gearn. <!-- * --><lb/>
+				\<lb/>
+				2) Kloasbuer<lb/>
+				stickt d’ Näs' in 't Suer,<lb/>
+				spring ick odwer d’ Hecken,<lb/>
+				kann he mi nich recken.<lb/>
+				(Fahrendorf.)<lb/>
+				\<lb/>
+				3) Wenn d’ Burkloas kümmt,<lb/>
+				denn loop ick nich;<lb/>
+				denn spring ick ower d’ Hecken,<lb/>
+				denn kann he meei nich recken.<lb/>
+				Denn nehm ick n Steen<lb/>
+				un schmiet'n an 'n Been.<lb/>
+				O, watt kann de Burklaas schreein.<lb/>
+				(Nahrstedt.) <!-- * --><lb/>
+				\<lb/>
+				<!--<lb/>
+				Am Abend vor Aschermittwoch erfolgte das "-->Fastoab’ndstüp’n<!--".<lb/>
+				Da zogen sämtliche junge Burschen des Dorfes von Haus zu Haus<lb/>
+				und stäupten mit Birkenruten die weiblichen Bewohner, ihnen tisch¬<lb/>
+				hohen Flachs und armlange Würste wünschend, welcher Wunsch<lb/>
+				freilich nicht ohne Gegenwunsch auslief:--><lb/>
+				\<lb/>
+				4) Tein Eier, tein Eier<lb/>
+				in unse Kiep'!<lb/>
+				Denn werd’n je selig.<lb/>
+				un we werd’n riek.<lb/>
+				<pb facs="../img/matthies-1912-volksreime/0016.png"/>
+				Un wenn je uns de tein Eier nich jeb’n.<lb/>
+				Denn sall uns’ bunt Höühnk'n<lb/>
+				ju Höhner nich trât’n.<lb/>
+				(Schönfeld.)<lb/>
+				\<lb/>
+				<!--<lb/>
+				Ob bei dem Oster- und Johannesfeuer Reime laut wurden.<lb/>
+				habe ich nicht ermitteln können.<lb/>
+				Recht fleissig sprudelte der Musenborn vor und am Pfingstfeste.<lb/>
+				Die Freude über die Nähe des Höhepunktes in der Natur<lb/>
+				künden folgende Reime:<lb/>
+				--><lb/>
+				5) Ingsten, Pingsten,<lb/>
+				doa spring’n de Jung’ns as Hingst'n,<lb/>
+				doa spring’n de Dirns as Köh.<lb/>
+				denn werd’n s’ gewiss nich mõ?<lb/>
+				(Nahrstedt.)<lb/>
+				\<lb/>
+				6) Wenn 't Pingst'n is, venn 't Pingst'n is,<lb/>
+				denn slacht uns' Voarer 'n Bock,<lb/>
+				denn danzt uns' Mutter, denn danzt uns' Mutter,<lb/>
+				denn wackelt eah de Rock;<lb/>
+				denn danz’n de Deerns mit rou’e Röck,<lb/>
+				un de Jung’ns, de spring’n as Hoawerböck.<lb/>
+				(Neuferchau.)<lb/>
+				\<lb/>
+				<!--<lb/>
+				Polizeiliche Massnahmen, gepaart mit dem heute herrschenden<lb/>
+				Drange, alles Charakteristische zu verwischen, haben der Lust und<lb/>
+				dem Glanz, welche das Pfingstfest früher umstrahlten, leider ein<lb/>
+				Ende bereitet.<lb/>
+				Der --> "Pingstkerl", "Maikerl", "Fistemeyer", ,Pfitzmeier",<lb/>
+				"Fischermeyer"<!--, der Träger all dieser Freude, lebt nur noch in der<lb/>
+				Erinnerung weniger. Und wer heute einen von den ihnen geltenden<lb/>
+				Reimen aufspürt, kann von Glück sagen.<lb/>
+				Ich habe in meiner Jugend das zweifelhafte Vergnügen erlebt,<lb/>
+				den, Maikerl" meines Heimatortes mit zu Grabe zu singen. Doch<lb/>
+				damit der freundliche Leser weiss, was der Verlust einer solchen<lb/>
+				Person bedeutet, will ich ihm das Leben und Wirken derselben zu<lb/>
+				schildern versuchen.<lb/>
+				Die Nacht vor Pfingsten war für uns Kinder nicht weniger<lb/>
+				geheimnisvoll wie der Weihnachtsheiligabend. Nur, dass wir da<lb/>
+				nicht ins Bett gesteckt wurden, sondern uns mit Einbruch der<lb/>
+				Dunkelheit in den Wald begaben. Allerdings nicht auf kürzestem<lb/>
+				Wege. Lag unser Ziel im Süden des Dorfes, so gingen wir sicher<lb/>
+				nach dem Norden. Denn der Zweck unseres Auszuges war: frische,<lb/>
+				junge Maien zu holen. Und bei diesem Gange verzichteten wir<lb/>
+				gern aut die Begleitung ihres Besitzers.<lb/>
+				Hatten wir unsere schwankende Last glücklich daheim, so<lb/>
+				gings in eine Scheune, und von hier aus zog am andern Morgen<lb/>
+				nach geheimnisvollem nächtlichen Flüstern und emsigem Treiben --><lb/>
+				<pb facs="../img/matthies-1912-volksreime/0017.png"/>
+				<!-- der Maikerl als Personifikation des Frühlings durchs Dorf, begleitet<lb/>
+				von der gesamten männlichen Jugend.<lb/>
+				Freilich. das muss zu unserer Schande gesagt werden, dachten<lb/>
+				wir in diesem Augenblick weniger an Sinn und Bedeutung dieser<lb/>
+				altgermanischen Sitte, unsere Gedanken hingen mehr den Eiern und<lb/>
+				Würsten nach, mit denen wir unsere Körbe und Heugabeln zu<lb/>
+				füllen gedachten. Und damit diese Gaben recht zahlreich eingingen,<lb/>
+				begleiteten den Zug zwei Schreckgestalten, -->"Hunnenbrössel“<!-- genannt.<lb/>
+				\<lb/>
+				Ja, wer zur Bekleidung dieser Würde auserlesen war, der<lb/>
+				konnte sich getrost als den Liebling seiner Altersgenossen bezeichnen.<lb/>
+				Er stieg dadurch selbst bei seiner Mutter so im Ansehen, dass diese<lb/>
+				ihm schon Wochen vorher ein bis auf die Knöchel fallendes Hemd<lb/>
+				anfertigte, das er als Zeichen seiner Würde, natürlich nach aussen,<lb/>
+				bei dem Umzug zu tragen hatte.<lb/>
+				Zu dieser Ausrüstung kam für den Kopf ein Papierhelm mit<lb/>
+				hohem Federbusch, für das Gesicht eine grauenerweckende Larve<lb/>
+				und für die Hand ein langer Holzsäbel.<lb/>
+				Kein Wunder, wenn beim Erscheinen solcher Gestalten die<lb/>
+				Kinderchen unter das Bett und die Hausfrauen in den Hühnerstall<lb/>
+				und auf den Räucherboden flüchteten.<lb/>
+				--><lb/>
+				<pb facs="../img/matthies-1912-volksreime/0018.png"/>
+				<!--<lb/>
+				Dazu tat auch der Gesang noch das seinige. Wir sangen<lb/>
+				ausschliesslich, O. heiliger Geist, kehr bei uns ein" oder, Der Mai<lb/>
+				ist gekommen". Doch konnte es wohl geschehen, dass dieser schöne<lb/>
+				Auftakt einen disharmonischen Nachklang bekam.<lb/>
+				War nämlich unser Besuch in einem Hause ergebnislos ver¬<lb/>
+				laufen, so stimmten wir an:<lb/>
+				--><lb/>
+				Witt'n Twearn, swart’n Thvearn.<lb/>
+				deatt oll Wiew, deatt gift nich gearn.<lb/>
+				\<lb/>
+				<!--<lb/>
+				Vorsichtshalber verfielen wir jedoch in diese Kundgebung erst.<lb/>
+				wenn das Gehöft weit genug hinter uns lag. Dafür erklang unser<lb/>
+				Lied dann aber auch um so lauter.<lb/>
+				Früher sang man in meinem Heimatorte wie anderswo:<lb/>
+				--><lb/>
+				7a) Gud’n Dag, Frau Mutter,<lb/>
+				Glück ins Haus, Unglück heraus!<lb/>
+				Wir wünschen einen guten Tag.<lb/>
+				He, he, Jungfernflas.<lb/>
+				Flas im Felde;<lb/>
+				da steht Melde.<lb/>
+				da steht Bitterkrut.<lb/>
+				da steht unser Hut.<lb/>
+				Was ist denn da wohl drinnen ?<lb/>
+				Der Hahn un die Hennen.<lb/>
+				De Hoahn, de hackt de Botter aff,<lb/>
+				de Deerns waschen de Schöttel aff.<lb/>
+				Jerohü!<lb/>
+				Gewt uns 'n heilgen Mai!<lb/>
+				Gewt uns 'n paar Schock Ei!<lb/>
+				Gewt uns 'ne heilge Messe!<lb/>
+				Gewt uns 'n paar Schock Küse!<lb/>
+				Geivt uns 'n heilgen witt’n Teller!<lb/>
+				Gewt uns Melk upp uns’n Teller!<lb/>
+				Is de Melk söt,<lb/>
+				is de lüttge Moagd höt:<lb/>
+				is de Melk suer,<lb/>
+				is de Groutmaogd n' Hur.<lb/>
+				(Neuferchau.)<lb/>
+				\<lb/>
+				b) Gud’n Dag, Frau Mutter.<lb/>
+				Glück ins Haus!<lb/>
+				Unglück heraus!<lb/>
+				He juch, Flachs im Felde!<lb/>
+				Da steht Melde,<lb/>
+				da steht Bitterkraut.<lb/>
+				Was ist denn da wohl drinnen?<lb/>
+				Der Hahn und die Hennen.<lb/>
+				<pb facs="../img/matthies-1912-volksreime/0019.png"/>
+				Der Hahn, der hackt de Butter aff;<lb/>
+				de Deerns vaschen de Schötteln aff.<lb/>
+				Jero hüh!<lb/>
+				Umse allgememn,<lb/>
+				gewt uns 'n Paar Schock Eier!<lb/>
+				Unse allgemein,<lb/>
+				gewt uns Melk upp unsen Teller!<lb/>
+				Is de Melk söt,<lb/>
+				is de lüttge Moagd höt;<lb/>
+				is de Melk suer.<lb/>
+				is de Groutmoagd 'n Hur'!<lb/>
+				(Köckte, Kr. Gardelegen.)<lb/>
+				\<lb/>
+				c) Gud’n Dag, Frau Mutter,<lb/>
+				Glück in t Hus!<lb/>
+				Unglück mütt tumm Fenster rut!<lb/>
+				Bringt rut söss Eier orrer 'n Stück Speck!<lb/>
+				Süss goah’n we nich vearr weg.<lb/>
+				Houch in dee Höst’n,<lb/>
+				Doa hang’n de lange Wöst’n.<lb/>
+				De lang’n geit uns,<lb/>
+				de koart’n load’t hang’n!<lb/>
+				Eanner't Joahr um düsse Tied.<lb/>
+				siind de koart'n ouk all riep.<lb/>
+				\<lb/>
+				<!-- Nach Empfang der Gaben erklangs:<lb/>
+				Sie haben uns was 2u Ehren gegeben,<lb/>
+				der liebe Gott lässt Freude leben,<lb/>
+				Freude leben immerdar.<lb/>
+				Wir wünschen Euch ein fröhliches Pfingstjahr.<lb/>
+				(Drebenstedt.)<lb/>
+				--><lb/>
+				d) Gud’n Dag ins Haus!<lb/>
+				Glück ins Haus!<lb/>
+				Unglück geh zum Schornstein hinaus!<lb/>
+				Halio Schock Eier,<lb/>
+				orrer n halw Schock Dreier.<lb/>
+				orrer 'n halw Sie' Speck!<lb/>
+				Houch in de Höcht,<lb/>
+				doa hang’n de lange Wöst.<lb/>
+				Gewt uns de lang’n,<lb/>
+				loat't de koart’n hang’n!<lb/>
+				Eanner Joahr üm düsse Tied<lb/>
+				sïnd de koart’n ouk all riep.<lb/>
+				Hallelujah!<lb/>
+				De Klümp' sünd goar.<lb/>
+				<pb facs="../img/matthies-1912-volksreime/0020.png"/>
+				Doa weern wöck bi,<lb/>
+				de weern nich goar,<lb/>
+				de gew’n we een mit Kell'<lb/>
+				vöär 'n Oars,<lb/>
+				Amen!<lb/>
+				(Seeben.)<lb/>
+				\<lb/>
+				e) Dean’n Fistemeyer, dean’n breng’n we ju;<lb/>
+				jeb’n je uns de fule Eier,<lb/>
+				smiet'n ive s’ ju vöer d’ Föt entivei,<lb/>
+				jeb’n je uns de jore Eier,<lb/>
+				de stäk’n we in dean’n Fistemeyer.<lb/>
+				Houch in de Föst,<lb/>
+				doa hang’n de lange Wost.<lb/>
+				Eannert Joahr um düsse Tied.<lb/>
+				denn sünd de koart’n uck all riep!<lb/>
+				(Helmstedt.)<lb/>
+				\<lb/>
+				f) Es tanzt der Königsknabe mit Pfitzmeyer her,<lb/>
+				Pfitzmeyer her.<lb/>
+				Een half Schock frische Eier, fule Eier smitt doch man’n<lb/>
+				Pfitzmeyer her.<lb/>
+				Da oben in de Höcht,<lb/>
+				doa hang’n de lang’n Wöst.<lb/>
+				Geb’n je uns de langen,<lb/>
+				loat't de koart’n hangen<lb/>
+				bett upp't eanner Joahr,<lb/>
+				denn voill’n w' de koart'n noahhoal’n.<lb/>
+				Ro, ro, hierher,<lb/>
+				hier geeiht de Weg her.<lb/>
+				Loat uns nich to lang’n stoahn,<lb/>
+				we mütt'n bittk’n wierer goahn.<lb/>
+				(Siestedt.)<lb/>
+				\<lb/>
+				g) Hier breng’n wäi ju dän’n bunt'n Jung’n,<lb/>
+				de is mett Berkenbast bebund’n.<lb/>
+				Eier, Stück 'n Dreier,<lb/>
+				orrer 'n Stück Speck!<lb/>
+				süss joi’n wäi gliek wverrer woeg.<lb/>
+				Geb’n je uns de joi Eier,<lb/>
+				schloa’n wäi uns in d’ Pann entuei,<lb/>
+				geb’n je uns de ful Eier,<lb/>
+				schmiet'n wäi s' ju vor d’ Föt' entwet.<lb/>
+				Hoch in de Höchten,<lb/>
+				doar hang’n de lange Wörsten;<lb/>
+				güot uns de lang’n,<lb/>
+				de kott'n loat hang’n.<lb/>
+				Eannert Joahr um düss Tied<lb/>
+				wviell’n wväi uns de kott’n noahhoal’n.<lb/>
+				(Schönwalde.)<lb/>
+				<pb facs="../img/matthies-1912-volksreime/0021.png"/>
+				<!--<lb/>
+				Auch die Mädchen hatten ihr Fest. Sie schmückten zwei<lb/>
+				ihrer Genossinnen mit Blumen und langen Bändern zu Maibräuten.<lb/>
+				Diese trugen an der Spitze der Schar einen gleichfalls geschmückten<lb/>
+				Korb. Dazu sang man:<lb/>
+				--><lb/>
+				h) Maienbrut.<lb/>
+				hallututut!<lb/>
+				Un dütt is ut.<lb/>
+				un dütt is unse Maienbrut.<lb/>
+				Gewt eah watt,<lb/>
+				denn heatt se watt,<lb/>
+				denn heatt se 't ganz Joahr watt.<lb/>
+				Bomm in de Höcht,<lb/>
+				doa hang’n de lang’n Wöst.<lb/>
+				Gewt uns de lang’n,<lb/>
+				un loat't de koarten hang’n!<lb/>
+				Bett upp deatt Joahr.<lb/>
+				bett in deatt Joahr,<lb/>
+				denn will’n w' de koart'n noahhoal’n.<lb/>
+				Klopp’n, Klopp’n Ringelk’n;<lb/>
+				doa danzen de lewen Kinnerken.<lb/>
+				Eein Ei, tweei Ei.<lb/>
+				drütt Ei is 't Pingstet.<lb/>
+				Tein Eier, tein Eier schall jerer uns geb’n,<lb/>
+				suïss schall uns' bunt Höähnchen<lb/>
+				ju Höhner nich trät'n!<lb/>
+				(Neuferchau.)<lb/>
+				\<lb/>
+				i) Hall lut un tut.<lb/>
+				un dütt is gut,<lb/>
+				un dütt is unse Maienbrut.<lb/>
+				Bomm in de Föst,<lb/>
+				doa hang’n de lange Wöst<lb/>
+				bett upp deatt Joahr,<lb/>
+				bett in deatt Joahr,<lb/>
+				denn will’n w' de koart’n noahhoal’n.<lb/>
+				Klopp’n Klopp’n Ringeken,<lb/>
+				doa danzen de lewen Kindeken.<lb/>
+				Eein Ei, tueei Ei,<lb/>
+				it drütt Ei is 't Pingstei,<lb/>
+				Pingstei is ouk n Ei;<lb/>
+				Pingstei heä!<lb/>
+				(Kusey.)<lb/>
+				\<lb/>
+				k) Pingsteier! Schock Eier!<lb/>
+				Geit uns keene ful’n Eier!<lb/>
+				Bob’n in de Höcht.<lb/>
+				doa hang’n lange Wöst.<lb/>
+				<pb facs="../img/matthies-1912-volksreime/0022.png"/>
+				Geit uns de lang’n.<lb/>
+				un loat't de kort'n hang’n.<lb/>
+				Eanndert Joahr um düsse Tied<lb/>
+				vill’n w' de kort'n noahhoal’n.<lb/>
+				Halututut! Halututut!<lb/>
+				Datt is unse Maienbrut.<lb/>
+				Geb’n je unse Maienbrut nist.<lb/>
+				hebb’n je 't janze Joahr nist!<lb/>
+				Een Ei, tivee Ei,<lb/>
+				datt drütte is datt Pingstei.<lb/>
+				Mit tein Eier un n Stück Speck<lb/>
+				goahn wn ganz un goar mit weg.<lb/>
+				(Letzlingen.)<lb/>
+				\<lb/>
+				<!--<lb/>
+				Die bei unserm Umzuge erhaltenen Eier, Würste und Speck<lb/>
+				verzehrten wir an den folgenden Sonntagen. Dazu labten wir<lb/>
+				unsere Gaumen an Honigbroten mit Grog. Man denke, in der<lb/>
+				Junihitze Grog! Zur Abwechslung wurde auch noch zu einer<lb/>
+				quietschenden Harmonika das Tanzbein geschwungen. Glückliche<lb/>
+				altmärkische Jugend, wo bist du geblieben?<lb/>
+				Am 10. November gabs und gibts auch heute noch das Martins¬<lb/>
+				singen. Dieses zielte besonders auf die Erleichterung der Nuss¬<lb/>
+				körbe und "-->Broat’chenbüdel<!--" ab.<lb/>
+				Da klangs durch die grauen Novembernebel:<lb/>
+				--><lb/>
+				\<lb/>
+				8) Märt'ns, Märt'ns Vögelken<lb/>
+				mit dien vergold’n Snäbelken.<lb/>
+				Gewt uns watt' un loat't uns goah’n<lb/>
+				bett vor Noawers Döar!<lb/>
+				Noaivers Döar is nich wiet.<lb/>
+				Appeln un Büern sünd all riep,<lb/>
+				Plum'n un Nött smneck’n<lb/>
+				ouk all gout.<lb/>
+				Loat't uns nich to lang’n stoahn.<lb/>
+				we mütt’n hüt noch wierer goahn!<lb/>
+				(Neuferchau.)<lb/>
+				\<lb/>
+				9) Märtens, Märtens Vögelken,<lb/>
+				mit dien vergolden Flöggelken.<lb/>
+				fleeg sou viet bett öäwverviet!<lb/>
+				Moarg’n is de Machttied;!)<lb/>
+				schlacht't de Buer 'n fett Schicien.<lb/>
+				Kümmt de Riese Goliath.<lb/>
+				stickt deatt all in sien’n Sack.<lb/>
+				Marie, Marie, moak upp de Döar.<lb/>
+				doa stoahn 'n poar arme Kinner röar:<lb/>
+				<!-- \<lb/>
+				1) Marktzeit. --><lb/>
+				<pb facs="../img/matthies-1912-volksreime/0023.png"/>
+				Gewt jüm watt un loat't jüm goah’n,<lb/>
+				deatt se hiït noch ioierer koam'n,<lb/>
+				bett vöar Noawers Döar.<lb/>
+				Doa giit 't Appeln un Bäarn.<lb/>
+				Nött schmecken ouk all gout,<lb/>
+				geit uns matt in 'n Strouhhout.<lb/>
+				(Fahrendorf.)<lb/>
+				\<lb/>
+				<!--<lb/>
+				Die Treibjagd gibt Gelegenheit zu einem Umzuge mit einem<lb/>
+				Fuchse, wobei es wieder einmal auf Eier abgesehen ist:<lb/>
+				--><lb/>
+				10) Tweei Eier, tweei Eier in unse Kiep!<lb/>
+				Denn wead’n je selig un we wead’n riek.<lb/>
+				Wenn je uns de tweei Eier nich jeben,<lb/>
+				denn sall ju uns' Foss all de Höhner megnehmen!<lb/>
+				(Hemstedt.)<lb/>
+				\<lb/>
+				<!--<lb/>
+				Einer, der lieber feiert, isst und trinkt als arbeitet, bricht im<lb/>
+				Hinblick auf den gar zu fernen Sonntag aus:<lb/>
+				--><lb/>
+				11) Ach, du lewe lüttge Deern,<lb/>
+				ick woll, deatt moarg’n Sonndag weer.<lb/>
+				Denn woll 'ck in Krögers Keller Krup’n<lb/>
+				un mi dick un dun sup'n.<lb/>
+				(Siedenlangenbeck.)<lb/>
+				\<lb/>
+				12) Si, se, Bitterbier,<lb/>
+				(Siedenlangenbeck.)"<lb/>
+				woll, dett morgen Sonntag voir.<lb/>
+				Woll’n dean'n Kröger in’n Keller krup'n.<lb/>
+				woll’n em all dutt Bier utsup'n.<lb/>
+				Weann häi keem un ioll uns sloa’n.<lb/>
+				woll’n wäi segg’n, mäi han't nich doan;<lb/>
+				dätt ha' Krögers Mudder doan.<lb/>
+				(Erxleben)<lb/>
+				\<lb/>
+				<!--<lb/>
+				Von den Familienfesten war es besonders die Hochzeit, die be¬<lb/>
+				sungen wurde:<lb/>
+				--><lb/>
+				13) Mietzekättken, wo witt du denn hen?<lb/>
+				Oäwer dean’n Beag noah 't Bruthus hen.<lb/>
+				Doa schlacht’n se 'n Schwien.<lb/>
+				doa drink’n se Wien,<lb/>
+				doa schall uns' Ella’n ehr Hochtied sien.<lb/>
+				(Gieseritz.)<lb/>
+				\<lb/>
+				<!--<lb/>
+				Sie war aber auch diese Mühe wert, dauerte eine echt alt¬<lb/>
+				märkische Bauernhochzeit in früheren Jahren doch eine volle Woche.<lb/>
+				Darum können wir auch den Groll dessen wohl verstehen, der<lb/>
+				nicht zu einem solchen Feste eingeladen war:<lb/>
+				--><lb/>
+				14) Kalin, Kalin, heatt Hochtied doan.<lb/>
+				heatt meei nich nöeugt, heatt deei nich nöeugt.<lb/>
+				heatt ahl Hun un Katt’n nöeugt.<lb/>
+				Kumm Hermann, we beii' will’n doahin goahn.<lb/>
+				will’n in Kalin eah’n Keller krup’n<lb/>
+				un uns dick un dun sup’n.<lb/>
+				(Miesterhorst.) <!-- * --><lb/>
+				<pb facs="../img/matthies-1912-volksreime/0024.png"/>
+				<!--<lb/>
+				Auch auf des, Lebens letztem Gange" begleitete der Volks¬<lb/>
+				reim den Menschen. So sang man im westlichen Teile unserer<lb/>
+				Altmark:<lb/>
+				--><lb/>
+				15) Weck eein is doud?<lb/>
+				Spoarbrout is doud.<lb/>
+				Wenn vead sien Liek begroab’n?<lb/>
+				Oäwvermoarg’n oabend.<lb/>
+				Wo is sien Seel? Wo is sien Seelz<lb/>
+				Unmernegs mit d’ Roab’n.<lb/>
+				\<lb/>
+				<!--<lb/>
+				Diese Worte erinnern uns an den bei unseren Altvordern<lb/>
+				herrschenden Glauben, dass die Verstorbenen von Raben nach dem<lb/>
+				am Rande des Drömlings belegenen, "-->Nobiskrog<!--" (Neuferchau¬<lb/>
+				Seelenau) getragen würden.<lb/>
+				Es mag sein, dass manchem Leser die angeführten Feste und<lb/>
+				ihre Reime stark naturalistisch, ja materialistisch erscheinen, und dass<lb/>
+				er darum aus moralischen Gründen ihre Beseitigung nur gutheissen<lb/>
+				wird; aber sie besitzen trotzdem auch hohen historischen Wert.<lb/>
+				Und darum sollte man nicht nur Kommissionen für Na tu r denk¬<lb/>
+				malpflege, sondern auch solche für derartige Kul tur denkmäler<lb/>
+				einrichten.<lb/>
+				\<lb/>
+				IV. NECKREIME.<lb/>
+				\<lb/>
+				Was sich neckt, das liebt sich.<lb/>
+				Wenn dies Wort immer zutrifft, dann muss, nach der Anzahl<lb/>
+				der Neckreime zu schliessen, in unserer Altmark viel Liebe walten.<lb/>
+				Doch will mirs scheinen, als wenn hier und da auch ein Pröbchen<lb/>
+				Bosheit der Vater der Neckreime geworden sei.<lb/>
+				Ursache zu Neckereien gaben Namen. Beruf, Wohnort, Eigen¬<lb/>
+				schaften, Alter und Besitztum.<lb/>
+				Von den Zunamen mussten besonders die auch in unserer<lb/>
+				lieben Heimat nicht seltenen Schulz und Müller herhalten.<lb/>
+				Den Trägern des ersten Namens widmete man folgenden<lb/>
+				Singsang:<lb/>
+				--><lb/>
+				\<lb/>
+				1) Schulte, Bulte.<lb/>
+				Fleine Kröte,<lb/>
+				sitt upp 't Dack<lb/>
+				un plückt sick Nöte.<lb/>
+				Segg ick: Schmiet meei moal eetn raff!<lb/>
+				Schmitt s' meet 'n Steein raff.<lb/>
+				Steein will ck 'n Mucker gewen.<lb/>
+				Mucker sall meei Stroh for gewen.<lb/>
+				Stroh will ck de Muhkoh gewen.<lb/>
+				Muhkoh sall meei Melk for gewen.<lb/>
+				Melk will 'ck de Mieskatt gewen.<lb/>
+				<pb facs="../img/matthies-1912-volksreime/0025.png"/>
+				Mieskatt sall meei Müs fangen.<lb/>
+				Müs will 'ck deatt Fell afftrecken.<lb/>
+				Fell will 'ck 'n Schoster gewen.<lb/>
+				Schoster sall meei Schoh for moaken.<lb/>
+				(Miesterhorst.) <!-- * --><lb/>
+				\<lb/>
+				2) Schult<lb/>
+				satt upp n Beesenbult.<lb/>
+				de Bult fung an to brennen,<lb/>
+				o. watt wusst de Schult to rönnen!<lb/>
+				(Fahrendorf.)<lb/>
+				\<lb/>
+				<!-- Die Müller wurden beehrt mit: --><lb/>
+				3) Möller, Kadöller,<lb/>
+				fritt 't Fleesch voan 'n Teller.<lb/>
+				Knoak’n lett he stoahn.<lb/>
+				seaggt: Koater heatt 't doan.<lb/>
+				(Neuferchau.)<lb/>
+				\<lb/>
+				4) Möller, Möller Moahler.<lb/>
+				Deerns krieg’n Doaler,<lb/>
+				Jung’ns krieg’n Kaleschenwoag’n,<lb/>
+				könn s' all Doag noah Dann'feld joag’n.<lb/>
+				(Letzlingen.) <!-- * --><lb/>
+				\<lb/>
+				<!-- Auf Vornamen beziehen sich: --><lb/>
+				5) Fritze, Stiefelitze.<lb/>
+				dien Voggel is doud.<lb/>
+				lie't unner d’ Bank<lb/>
+				un fritt keein Broud.<lb/>
+				(Neuferchau.)<lb/>
+				\<lb/>
+				6) Heinrich, du wacker Jung',<lb/>
+				heast mien Piep Tobak<lb/>
+				nich fund’n?<lb/>
+				Nimmst du mi noch eein'n weg.<lb/>
+				Sloa' ick di de Beein'n weg!<lb/>
+				(Neuferchau.)<lb/>
+				\<lb/>
+				7) Otto, Botto, Roawennest,<lb/>
+				bist in unsen Joar’n west,<lb/>
+				hest uns ahl de Appeln stoahl’n,<lb/>
+				töie, di sall de Kuckuck hoal’n!<lb/>
+				(Gardelegen.) <!-- * --><lb/>
+				\<lb/>
+				8a) Hans sitt upp 'n Schoarsteen,<lb/>
+				flickt sien Schoh,<lb/>
+				kümmt 'n hübsch Deern<lb/>
+				un kickt eam watt to.<lb/>
+				Hans, nimm se nich!<lb/>
+				Hans, nimm se nich!<lb/>
+				Se heatt 'ne kaputtige Hos'.<lb/>
+				Deatt schoad’t joa nich,<lb/>
+				deatt schoad’t joa nich,<lb/>
+				de vead bald wearrer heeil.<lb/>
+				(Letzlingen.)<!-- * --><lb/>
+				<pb facs="../img/matthies-1912-volksreime/0026.png"/>
+				b) Hans seet in’n Schoarnsteen<lb/>
+				un flickt sick sien' Schouh,<lb/>
+				dunn kamm 'n wackres Mäk’n<lb/>
+				un keek em flietig tou.<lb/>
+				Hans, venn du freen vudd.<lb/>
+				kannst du freen mick;<lb/>
+				ick hew 'n blank’n Doaler,<lb/>
+				deann will ick gew’n dick.<lb/>
+				Hans, nimm se nich!<lb/>
+				Hans, nimm se nich!<lb/>
+				Se heatt joa 'n loahm'n Fout!<lb/>
+				Deatt schoad’t joa nich,<lb/>
+				deatt schoad’t joa nich.<lb/>
+				deatt wea’d joa all werr' gout!<lb/>
+				(Fahrendorf.)<lb/>
+				\<lb/>
+				9) Hans, Hans Leäwerwost,<lb/>
+				lewt denn diene Ollsch noch?<lb/>
+				O joa, se lewt noch.<lb/>
+				sitt upp 't Tau un wewt noch,<lb/>
+				sitt upp 'n Tun un plückt sick Plum’n.<lb/>
+				Segg ick: Giw meei moal eein aff!<lb/>
+				Giwt s’ meein Stock un 'n Steein.<lb/>
+				Stock un Steein will 'ck Voarern gew'n.<lb/>
+				Voarer sall meei 'n Doaler gew’n.<lb/>
+				'n Doaler woill 'ck de Mieskatt gew'n.<lb/>
+				Mieskatt sall meei Müs' fang’n.<lb/>
+				Müs' will 'ck boab’n in 'n Rauk henhang’n.<lb/>
+				(Miesterhorst.)<lb/>
+				\<lb/>
+				10) Hans, Hans, Heuer,<lb/>
+				de Kuckuck sitt in d’ Röeuhr. 1)<lb/>
+				fritt de Botter van deatt Broud:<lb/>
+				schloa' mi doch deann Kuckuck doud!<lb/>
+				(Fahrendorf.)<lb/>
+				\<lb/>
+				11) Hans, Hans, Langeschwanz.<lb/>
+				kümmt de Trepp deörchgedanzt.<lb/>
+				(Fahrendorf.)<lb/>
+				\<lb/>
+				12a) 't Jehann, spann an.<lb/>
+				twee Katt’n voran.<lb/>
+				twee Hun'n vörupp,<lb/>
+				noah dean Buttberg rupp!<lb/>
+				(Gr. Rossau.)<lb/>
+				\<lb/>
+				b) Johann,<lb/>
+				spann an,<lb/>
+				twee Katt'n voran,<lb/>
+				twee Müs' vorupp,<lb/>
+				Johann, sloa' drupp!<lb/>
+				(Erxleben.)<lb/>
+				<!--<lb/>
+				\<lb/>
+				1) Ofenröhre. --><lb/>
+				<pb facs="../img/matthies-1912-volksreime/0027.png"/>
+				13) Hanswost, wost noch Wost?<lb/>
+				In d’ Röhr steaht noch Wost,<lb/>
+				wenn noch Wost wost.<lb/>
+				(Gr Rossau.)<lb/>
+				\<lb/>
+				14) De dünn Dietrich drog dean'n dick'n Dietrich<lb/>
+				dearch dean’n dick'n dïnn’n Dreck, dunn<lb/>
+				dankt de dick Dietrich dean'n dünn’n Dietrich.<lb/>
+				deatt de dunn Dietrich dean’n dick’n Dietrich<lb/>
+				dearch dean'n dick’n dünn’n Dreck drog.<lb/>
+				(Hüselitz.)<lb/>
+				\<lb/>
+				15) Anna Kawanna.<lb/>
+				sett 't Pöttken upp 't Füer.<lb/>
+				koake Bohn’n.<lb/>
+				deatt Brond is to düer.<lb/>
+				(Kreis Gardelegen.)<lb/>
+				\<lb/>
+				16a) Kalin, Kalöän.<lb/>
+				too sünd de Hö̈ähn?<lb/>
+				Se sitt'n upp 't Dack<lb/>
+				un smöäuk’n Tobak.<lb/>
+				(Siedenlangenbeck.) <!-- * --><lb/>
+				\<lb/>
+				b) Kalin, Kalöän,<lb/>
+				wo sünd de Höähn?<lb/>
+				Upp 'n Höhnerböd’n.<lb/>
+				doa roop'n s’ ümmer:<lb/>
+				Kalin, Kalöän!<lb/>
+				(Gr. Rossau.)<lb/>
+				\<lb/>
+				<!--<lb/>
+				Ganz besonders haben den Schalk im Nacken die Neckreime,<lb/>
+				die den Berufsarten gelten. Da heisst es vom Böttcher:<lb/>
+				--><lb/>
+				17) Böttcher, Böttcher, bumm, bumm, bumm,<lb/>
+				iimmer um deatt Fatt herum,<lb/>
+				timmer in dean’n Trummeltakt.<lb/>
+				wenn de Rand ouk böeugt un knackt.<lb/>
+				Lustig is de Böttchersmann,<lb/>
+				wenn he lustig trummeln kann.<lb/>
+				(Gardelegen.)<!-- * --><lb/>
+				\<lb/>
+				18) Böttcher, jue fule Grete<lb/>
+				seet upp eenen Bom un nähte.<lb/>
+				feel heraff,<lb/>
+				un deatt linke Been was aff.<lb/>
+				(Gardelegen.)<!-- * --><lb/>
+				\<lb/>
+				19) Böttcher, Böttcher bumm, bumm, bumm,<lb/>
+				sleiit sien Frau de Titten Krumm.<lb/>
+				moakt eahr werrer hölt’n an,<lb/>
+				deatt deatt Kind werr’r nutschen kann.<lb/>
+				(Erxleben.)<lb/>
+				<pb facs="../img/matthies-1912-volksreime/0028.png"/>
+				<!--<lb/>
+				Mit dem letzten Reim hat viel Ahnlichkeit der, den man in<lb/>
+				Nahrstedt dem Kuhhirten widmet:<lb/>
+				--><lb/>
+				20) Kohherr, Kohherr, klipp, klipp, klappt;<lb/>
+				schnidd de Köh de Titt'n aff.<lb/>
+				Dett de Dirn melk’n kann.<lb/>
+				sett't he werrer hölt’n an.<lb/>
+				\<lb/>
+				<!-- Den Küster neckt man in folgender Weise: --><lb/>
+				21) Bimbam Bälamm,<lb/>
+				Köster heett sick upphangt.<lb/>
+				Will’n eam bei' Been affschnied’n,<lb/>
+				schall nich mehr noah Bimbam stieg’n.<lb/>
+				(Drebenstedt.)<lb/>
+				\<lb/>
+				22) Bumbam beier,<lb/>
+				Köster mag keein Eier.<lb/>
+				Watt mag he denn?<lb/>
+				Speck in d’ Pann'.<lb/>
+				Tzü deann oll’n Leckermann.<lb/>
+				(Fahrendorf.)<lb/>
+				\<lb/>
+				<!-- Von dem Schneider verlangt man: --><lb/>
+				23) Schnierer, Schnierer, wupp, wupp, wupp.<lb/>
+				sett mi doch 'n Flicken upp!<lb/>
+				Hier hört een, doa hört een.<lb/>
+				hin’n vöer’n Oars hort ouk noch een.<lb/>
+				(Diesdorf.)<lb/>
+				\<lb/>
+				<!-- Holz- und Felddiebe haben jedenfalls folgende Reime zu<lb/>
+				Verfassern:<lb/>
+				--><lb/>
+				24) Hack, hack, hack Holt!<lb/>
+				Föster is in 't Holt.<lb/>
+				kümmt he nich balle rut.<lb/>
+				hoal ick 'n mit n Knüppel rut.<lb/>
+				(Kr. Gardelegen.) <!-- * --><lb/>
+				\<lb/>
+				25) De Pannemann kümmt<lb/>
+				un haut mäi upp deatt Schullerblatt;<lb/>
+				o weh, o weh, wo bullert deatt.<lb/>
+				(Gr. Rossau.)<lb/>
+				\<lb/>
+				26) Plück, plück Erftpoahl’n;<lb/>
+				voenn de Pannmann kümmt,<lb/>
+				schleit heei deei upp 't Schullerblatt,<lb/>
+				weh, o weh, Schullerblatt!<lb/>
+				Pannmann, Rumm!<lb/>
+				Pannmann, kumm!<lb/>
+				Ick hew mien Sack all lange vull.<lb/>
+				(Hüselitz.)<lb/>
+				<pb facs="../img/matthies-1912-volksreime/0029.png"/>
+				<!-- Etwas anzüglich klingt der den Müller betreffende Reim:<lb/>
+				--><lb/>
+				27) Möller, Möller, Moahler.<lb/>
+				Möller heatt 'n Doaler,<lb/>
+				mitt 'n Schäpel föer 'n Viert:<lb/>
+				Möller is 'n Diert.<lb/>
+				\<lb/>
+				<!-- Von den Reimen, die sich auf den Wohnort beziehen, ist<lb/>
+				am bekanntesten der, mit dem die Insassen der sieben altmärki¬<lb/>
+				schen Städte geneckt wurden: --><lb/>
+				28) De Stendaler drinken gern Wien.<lb/>
+				de Gardeleger wullen Junker sien.<lb/>
+				de Tangermünder hebben den Mot.<lb/>
+				de Soltwedler hebben dat Got,<lb/>
+				de Seehuser datt sind Ebenthür.<lb/>
+				de Werbener geben den Weiten dür.<lb/>
+				de Osterburger wollten sick räken<lb/>
+				un däten den Bullen for den Bären stäken.<lb/>
+				\<lb/>
+				<!-- Von Jeggau singt man in der Umgegend;<lb/>
+				29) In Jeggaut gibts Kalopp, Kalopp,<lb/>
+				die ganze Woch' Kartoffelsupp'.<lb/>
+				Sonntags gibts nur eimal Fleisch.<lb/>
+				Knochen ist das allermeist.<lb/>
+				\<lb/>
+				Die Bewohner Neulingens neckt man: --><lb/>
+				30) In Neilingen<lb/>
+				gift klein Stullen un grot Seilingen.<lb/>
+				\<lb/>
+				<!--<lb/>
+				Die breite Sprechweise der Bewohner von Gladigau ahmt man<lb/>
+				nach in --><lb/>
+				31) Keeis' un Braud<lb/>
+				is Gloagausch Maud.<lb/>
+				(Gr. Rossau.)<lb/>
+				\<lb/>
+				<!--<lb/>
+				Von Binde heisst es:<lb/>
+				--><lb/>
+				32) In Bind’n<lb/>
+				is nist to find’n<lb/>
+				as een drög Tack'n;<lb/>
+				doa mütt’n ahl Bindsch Buern voan back’n.<lb/>
+				(Gr Rossau.)<lb/>
+				\<lb/>
+				<!-- Heute trifft dieser Reim ebenso wenig zu wie die nachstehenden: --><lb/>
+				33) In Tangeln<lb/>
+				is Mangel,<lb/>
+				1s Kummer un Nout,<lb/>
+				doa louben sick de Müs<lb/>
+				in 't Broutschapp doud.<lb/>
+				(Drebenstedt.)<lb/>
+				<pb facs="../img/matthies-1912-volksreime/0030.png"/>
+				34) In Oahl’n 1)<lb/>
+				is nist to hoal’n.<lb/>
+				un in Stöck’n 2)<lb/>
+				is nist to bröck’n.<lb/>
+				(Drebenstedt.)<lb/>
+				\<lb/>
+				35) In Loss’, 3)<lb/>
+				doa is de Buer n Oss'.<lb/>
+				\<lb/>
+				<!--<lb/>
+				Des Mannes Unfähigkeit zum Reiten wird verspottet in:<lb/>
+				--><lb/>
+				36) Een Mann woll ried’n<lb/>
+				un har keen Peärd;<lb/>
+				oll Frau nimmt 'n Zickenbock,<lb/>
+				sett't dean'n ollen Mann dogrupp<lb/>
+				un leet’n ried’n.<lb/>
+				\<lb/>
+				Oll Mann woll ried’n<lb/>
+				un har keen'n Tom:<lb/>
+				oll Frau nimmt Strump’nband.<lb/>
+				giwt 'n oll’n Mann in d' Hand<lb/>
+				und leet'n ried’n.<lb/>
+				\<lb/>
+				Oll Mann woll ried’n<lb/>
+				un har keen’n Soadel:<lb/>
+				oll Frau nimmt 'n Unnerrock.<lb/>
+				sett't 'n oll’n Mann doarupp<lb/>
+				un leet’n ried’n.<lb/>
+				(Nahrstedt.)<lb/>
+				\<lb/>
+				<!-- Nicht minder reizt die Spottlust die Unfähigkeit zum Tanzen.<lb/>
+				Darum sucht der Gatte auf Abhilfe: --><lb/>
+				37) Wenn miene Ollsch nich danzen kann.<lb/>
+				denn hett se 'n loahm'n Been:<lb/>
+				denn treckt se lange Stöwel an.<lb/>
+				denn is dett nich to sehn.<lb/>
+				(Nahrstedt.) <!-- * --><lb/>
+				\<lb/>
+				<!-- Ist dies Mittel nicht anwendbar, dann muss ein anderes helfen:--><lb/>
+				38) Wenn miene Ollsch nich danzen kann.<lb/>
+				denn wett ick, watt ick do,<lb/>
+				denn stük ick se in 'n Hoabersack<lb/>
+				un bind’n boab’n to.<lb/>
+				(Westinsel.) <!-- * --><lb/>
+				\<lb/>
+				<!-- Der kleine Gernegross wird getröstet mit: --><lb/>
+				39) Töw' man, du weast ouk noch gröter<lb/>
+				ebensou got as Noawers Köter,<lb/>
+				de voas veern Joahr noch so klien,<lb/>
+				hüt is he 'n Hund, de mütt sou sien.<lb/>
+				(Neuferchau.)<lb/>
+				\<lb/>
+				<!-- 1) Ahlum. 2) Stöckheim.<lb/>
+				3) Losse.<lb/>
+				--><lb/>
+				<pb facs="../img/matthies-1912-volksreime/0031.png"/>
+				<!--<lb/>
+				Eltern, die sich bei der Erziehung ihrer Kinder widersprechen.<lb/>
+				schreibt das Volk ins Album:<lb/>
+				--><lb/>
+				40) Lirum, lirum. Leäbelsteäl,<lb/>
+				Voarer seaggt, ick ät to vöäl.<lb/>
+				Mutter seaggt, ick ät nich nog.<lb/>
+				Voarer sitt bi 't Beer in’n Krog.<lb/>
+				(Siedenlangenbeck.)<!-- * --><lb/>
+				\<lb/>
+				<!--<lb/>
+				Eine Antwort auf die sehr verbreitete Neugierde gibt folgen¬<lb/>
+				der Reim:<lb/>
+				--><lb/>
+				41) Klein Jung, wo kümmst denn hear?<lb/>
+				Van Tippentappenteär.<lb/>
+				Watt hest denn in dien Kiep?<lb/>
+				Eierbatz un Schiet.<lb/>
+				(Gr. Rossau.)<lb/>
+				\<lb/>
+				<!-- Dass selbst Tiere beneckt werden, zeigen: --><lb/>
+				42) Wenn Schult'n Hund 'n Köter weer<lb/>
+				un denn bittschen gröter weer<lb/>
+				un denn 'n bittschen bunt.<lb/>
+				denn weerd' n schön'n Hund.<lb/>
+				(Gr. Rossau.)<lb/>
+				\<lb/>
+				43) Butzel de Batzel.<lb/>
+				schloa 't Kükecken doud!<lb/>
+				Loat't man noch leben,<lb/>
+				datt wead woll noch grout.<lb/>
+				(Querstedt.)<lb/>
+				\<lb/>
+				44) Bealämmken Bock,<lb/>
+				verköäub mi dien’n Rock!<lb/>
+				Wo schall ick denn mien'n Rock verleern.<lb/>
+				denn, muïtt ick joa in'n Winter freern.<lb/>
+				(Diesdorf.)<lb/>
+				\<lb/>
+				45) Buck. Buck. Böäker.<lb/>
+				stött sick in sien’n Höäker.<lb/>
+				(Gr. Rossau.)<lb/>
+				\<lb/>
+				<!-- An Bötformeln, welche auch als Neckereien aufzufassen sind.<lb/>
+				kann ich verzeichnen: --><lb/>
+				46a) Böt, böt, böt:<lb/>
+				Katt hett vier Föt,<lb/>
+				Katt hett 'n langen Stea'tt,<lb/>
+				deatt bald werr’r better wea’d.<lb/>
+				(Erxleben.)<lb/>
+				\<lb/>
+				b) Böt, böt, böt;<lb/>
+				Kreih heatt tweei Föt.<lb/>
+				Heister heatt 'n langen Stert.<lb/>
+				bett 't wearrer böter wea’d.<lb/>
+				(Buch.)<!-- * --><lb/>
+				<pb facs="../img/matthies-1912-volksreime/0032.png"/>
+				b) Böt, böt, böt.<lb/>
+				Hoas' heatt veer Föt.<lb/>
+				Kreih heatt man tweei.<lb/>
+				moarg’n deat't nich mehr weeih.<lb/>
+				(Neuferchau.)<lb/>
+				\<lb/>
+				<!-- Als Aussenseiter, dessen Unterbringung nicht leicht fällt, kann<lb/>
+				folgende Kinderpredigt gelten: --><lb/>
+				47) Mien' Doam'n, miene Herrn.<lb/>
+				Appeln sünd keen Bäern.<lb/>
+				Büern sünd keen Appeln;<lb/>
+				de Wost hätt tivee Zappeln. 1)<lb/>
+				tivee Zappeln hätt de Wost.<lb/>
+				de Buer, de lidd Döst.<lb/>
+				Döst lidd de Buer;<lb/>
+				deatt Leb’n mead em suer,<lb/>
+				suer wead em deatt Leb’n.<lb/>
+				De Wienstock hätt tivee Reb’n.<lb/>
+				twvee Reb’n hätt de Wienstock.<lb/>
+				Een Kaliw is keen Zickenbock.<lb/>
+				een Zickenbock is keen Kalne.<lb/>
+				Mien Predigt is halwc.<lb/>
+				halw is mien Predigt.<lb/>
+				Mien Buk is learrig.<lb/>
+				learrig is mien Buk.<lb/>
+				De Müte hängt in 'n Rouk.<lb/>
+				in 'n Rouk hängt de Mütz.<lb/>
+				Mien Brorer, de hitt Fritz.<lb/>
+				Fritz hitt mien Brorer.<lb/>
+				Deatt Suvien is keen Luder,<lb/>
+				cen Luder is keen Sunen.<lb/>
+				De Lus hätt söss Been.<lb/>
+				söss Been hätt de Los.<lb/>
+				Mien Predigt is ut.<lb/>
+				(Hüselitz.)<lb/>
+				\<lb/>
+				<!-- Hiermit ist mein Volksreimschatz erschöpft. Ich könnte mich<lb/>
+				verabschieden, wie es so oft bei den Kindern nach dem Spiel ge¬<lb/>
+				schieht mit den Worten: --><lb/>
+				48a) Ick goah noah Hus,<lb/>
+				broa' mi 'n Mus,<lb/>
+				smiet s' oäwer 't Dack.<lb/>
+				fang s' in 'n Sack.<lb/>
+				sett s' upp 'n Disch,<lb/>
+				denn wead s' 'n Fisch.<lb/>
+				(Neuferchau.)<lb/>
+				\<lb/>
+				<!-- 1) Zipfel.--><lb/>
+				<pb facs="../img/matthies-1912-volksreime/0033.png"/>
+				b) Ick goah noah Hus.<lb/>
+				koak mick 'n Mus,<lb/>
+				schmiet s' öäwer 't Dack.<lb/>
+				fang s' in 'n. Sack,<lb/>
+				legg s' in d’ Röenhr.<lb/>
+				vôr de Döür,<lb/>
+				hang s’ upp 'n Tun.<lb/>
+				wead se brun.<lb/>
+				legg' s' upp 'n Disch.<lb/>
+				wvead s' 'n Fisch,<lb/>
+				legg s' in 'n. Keller<lb/>
+				vead s' 'n Heller,<lb/>
+				koam dree Päar,<lb/>
+				moak’n s’ moar,<lb/>
+				legg s’ in d’ Supp<lb/>
+				un ät s' upp.<lb/>
+				(Fahrendorf.)<lb/>
+				\<lb/>
+				<!--<lb/>
+				Ich will aber zum Schluss doch noch dem Wunsche Ausdruck<lb/>
+				geben, dass es mir gelungen sein möge, durch die hier angeführten<lb/>
+				Volksreime den freundlichen Leser überzeugt zu haben, dass die<lb/>
+				Mühe, die ich durch die Niederschrift und er durch das Lesen ge¬<lb/>
+				habt, wohlbelohnt ist.<lb/>
+				Und darum wiederhole ich die schon eingangs erfolgte Bitte:<lb/>
+				Alle Mann an Bord zur Rettung dieser lustigen Ge¬<lb/>
+				sellen aus der Väter Zeit!<lb/>
+				Und ist der schäumende Most erst vollends eingebracht, dann<lb/>
+				möge man auch gehen an die nicht minder dankbare Sammlung<lb/>
+				des Erfahrungsextraktes, das sind die Sprichwörter unserer lieben<lb/>
+				Altmark.<lb/>
+				\<lb/>
+				Druck von Otto Fuhrmann in Stendal. --><lb/>
+		</body>
+	</text>
+</TEI>
